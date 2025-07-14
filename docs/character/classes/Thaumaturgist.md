@@ -20,11 +20,11 @@ Bonus Skills  | Thaumaturgy
 
 Level | Special Ability
 ----- | ---------------
-1     | 1st Color
+1     | 1st Coven
 2     | Cauldron
-3     | 2nd Color
+3     | 2nd Coven
 4     | 
-5     | 3rd Color
+5     | 3rd Coven
 6     | 
 7     | etc...
 8     | 
@@ -42,24 +42,44 @@ Level | Special Ability
 20    | 
 
 
-## Colors
+## Covens
+
+A "coven" is a circle of trust. It can be a formal organization, but it can just as well be a network of associates sharing knowledge and power.
+
+In game terms, you gain a new coven according to the level chart. In-character, you must prove adherence to an ethos, and only then will the secrets be shared with you. Your use of those secrets is forever bound to your promise to uphold that ethos.
 
 
 
-### Red (Blood)
+### Coven of Blood
+*Blood is life. Blood is essence. Blood is power.*
 
-Level     | Power
+Rank      | Power
 ----------|------
 0         | Let Blood
 1         | Transfusion
-2         | Blood Boil
-3         | 
-4
-5
+1         | Blood Boil
+2         | Puppeteer
+2         | Blood Bond
 
 Let Blood: you harness the power of freshly-spilled blood. Uses:
 - Let your own blood to gain power
 - Spill enemy's blood to do stuff to them
+
+Transfusion: transfer HP from one body to another. Heal or harm.
+
+Blood Boil: hurt enemy, cause rage and improve strength.
+
+Puppeteer: control another body.
+
+Blood Bond: link two creatures by blood. Various uses:
+- Split damage between you
+- Share beneficial (and harmful) spells
+- Communicate over distance
+
+
+### Coven of Souls
+*The Soul is magic, and magic is the Soul.*
+
 
 
 
@@ -84,3 +104,35 @@ Winter's Grasp: at-will, swift; you absorb energy from the environment, causing 
 - cold aoe
 - direct damage touch
 - cover surfaces with frost
+
+
+
+### Purple (Anti-magic)
+
+Level | Power
+------|------
+0     | Absorb Magic
+1     | 
+2     | 
+3     | 
+4     | 
+5     | Antimagic Zone
+6     | 
+7     | 
+8     | 
+9     | 
+
+
+
+## Cauldron
+
+Witches brew. It's what they do.
+
+
+Every day, you can brew X potions.
+
+
+### Potions
+- Potion of Healing: heals for medium damage.
+- Potion of Resistance: grants resistance to a damage type.
+- Potion of 

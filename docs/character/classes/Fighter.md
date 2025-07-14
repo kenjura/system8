@@ -1,10 +1,7 @@
 ---
 # Display h2 to h5 headings
-toc_min_heading_level: 2
-toc_max_heading_level: 5
 ---
 
-# Fighter
 ![Fighter](</img/character/classes/fighter.jpg>)
 
 
@@ -41,9 +38,9 @@ Level | Special Ability
 20    | 
 
 
-# Abilities
+## Abilities
 
-## Combat Style
+### Combat Style
 Choose:
 - Assault
 - Protection
@@ -55,7 +52,7 @@ Choose:
 You gain the 1st ability of the style right away. On your next level up, you gain the next ability, etc, until all are gained.
 
 
-### Assault
+#### Assault
 Level | Maneuver
 ------|---------
 1     | Charge
@@ -70,7 +67,7 @@ Level | Maneuver
 - Overpower: recharge 33%, std; normal melee attack, but the enemy is not allowed to use parry or block.
 - Execute: recharge 33%, std, enemy must be below 50% health; normal attack +100% damage.
 
-### Protection
+#### Protection
 Level | Benefit
 ------|--------
 1     | Defensive Stance
@@ -87,7 +84,7 @@ Level | Benefit
 - I Am Your Shield: allies within your melee reach can use you as cover. When doing so, 50% of damage they take from area effects is suffered by you instead of them, and there is a 50% chance any attack targeted directly at them hits you instead.
 
 
-### Ranged
+#### Ranged
 Level | Benefit
 ------|--------
 1     | Swift Aim
@@ -106,7 +103,7 @@ Level | Benefit
   - Hand Shot: your attack causes disadvantage to attacks made with a certain hand (Con ends)
 
 
-### Warlord
+#### Warlord
 Level | Benefit
 ------|--------
 1     | Battle Shout
@@ -121,7 +118,7 @@ Level | Benefit
 - Focused Fire: Coordinated Strike but a burst affecting up to 5 allies.
 
 
-### Skirmisher
+#### Skirmisher
 Level | Benefit
 ------|--------
 1     | Spring Attack
@@ -129,15 +126,15 @@ Level | Benefit
 
 
 
-## Action Surge
+### Action Surge
 Once per short rest, you can take an extra round's worth of actions on your turn.
 
 
-## Second Wind
+### Second Wind
 Once per short rest, you can spend a swift action to heal yourself for medium damage.
 
 
-## Weapon Expertise
+### Weapon Expertise
 
 
 
@@ -147,99 +144,10 @@ Once per short rest, you can spend a swift action to heal yourself for medium da
 
 
 
+## Paths
 
-
-# Paths
-
-## Eldritch Knight
-Attribute         | Value
-------------------|-----
-Skill Proficiency | Arcana
-Mana              | 1 per level
-
-Level | Special Ability
------ | ---------------
-1     | 1st Rune
-2     | Mage Armor
-3     | (utility)
-4     | 2nd Rune
-5     | Orbs
-6     | (utility)
-7     | 3rd Rune
-
-
-
-
-## Runes
-
-As an Eldritch Knight, you engrave magical runes on your weapon, armor, and shield in order to wield magic in the midst of combat.
-
-When you gain a rune, you gain all powers of appropriate rank within that rune.
-
-### Force
-Level | Effect
-------|-------
-1     | Shield
-3     | Forceful Strike (push)
-5     | Force Binding (enemy can't move)
-7     | Force Lance
-9     | Wall of Force
-
-### Fire
-Level | Effect
-------|-------
-1     | Flaming Sword (mana augment bonus fire damage +ots)
-3     | Burning Hands, basically
-5     | Fireball, after a fashion
-7     | Wall of Fire
-9     | Incinerate (uber single target dps?)
-
-### Frost
-Level | Effect
-------|-------
-1     | Chill Blade
-3     | Frost Barrier
-5     | Frost Nova
-7     | Wall of Ice
-9     | Freeze
-
-
-## Other Runes
-- Fire
-- Lightning
-- Frost
-- Air
-- Earth
-- Water
-- Shadows (invis, mirror image, phantom strike)
-- Portals?
-- Anti-magic (dispel, spell deflection)
-- Advanced:
-  - Time
-  - Antimagic
-  - Gravity
-  - Prismatic
-
-
-## Mage Armor
-
-Gain a chosen energy resist:
-- Rank 1: fire, frost, lightning
-- Rank 2: force, necrotic, radiant, etc
-
-## Orbs
-
-Whenever you spend a mana point on a rune, you gain an orb of the same type that lasts 3 rounds.
-- Fire/frost/lightning orbs shoot beams, and can be expended to absorb fire/frost/lightning damage affecting you or an ally
-- etc
-
-
-
-
-## Utility
-
-
-### Brainstorming
-- Blink
-- Invisibility
-- Mirror Image?
+* [Eldritch Knight](../paths/Eldritch%20Knight.md)
+* Ranger
+* Paladin
+* Death Knight
+* Barbarian
