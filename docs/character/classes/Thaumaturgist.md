@@ -20,7 +20,7 @@ Bonus Skills  | Thaumaturgy
 
 Level | Special Ability
 ----- | ---------------
-1     | 1st Coven
+1     | 1st Color, Hedgecraft
 2     | Cauldron
 3     | 2nd Coven
 4     | 
@@ -41,12 +41,20 @@ Level | Special Ability
 19    | 
 20    | 
 
+## Hedgecraft
+
+There is power in all things: claws of the tiger, eye of the newt, blossom of the lily. And Thaumaturgists know how to harness the power inherent in all natural things. Sometimes, yes, this involves a cauldron, but there really are many more ways of working this ancient magic.
+
+
+
 
 ## Covens
 
 A "coven" is a circle of trust. It can be a formal organization, but it can just as well be a network of associates sharing knowledge and power.
 
 In game terms, you gain a new coven according to the level chart. In-character, you must prove adherence to an ethos, and only then will the secrets be shared with you. Your use of those secrets is forever bound to your promise to uphold that ethos.
+
+
 
 
 
