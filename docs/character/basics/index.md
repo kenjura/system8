@@ -68,3 +68,45 @@ At level 2, 6, 10, 14, 18, you may choose to:
 - Gain proficiency in a new skill
 - Gain expertise in a proficient skill
 - Gain mastery in an expert skill (level 10+ only)
+
+
+
+## Level Chart
+
+
+Level  | Rank | Skills | Foundation | ASIs | What's New?
+-------|------|--------|-------|------|------------
+1      | 1    | 4      | 0     | 0    | Everything
+2      | 1    | 5      | 0     | 0    | Skill
+3      | 1    | 5      | 0     | 0    | 
+4      | 1    | 5      | 0     | 2    | ASI
+5      | 2    | 5      | 0     | 2    | Rank
+6      | 2    | 6      | 0     | 2    | Skill
+7      | 2    | 6      | 0     | 2    | 
+8      | 2    | 6      | 0     | 4    | ASI
+9      | 3    | 6      | 0     | 4    | Rank
+10     | 3    | 7      | 0     | 4    | Skill
+11     | 3    | 7      | 0     | 4    | 
+12     | 3    | 7      | 0     | 6    | ASI
+13     | 4    | 7      | 0     | 6    | Rank
+14     | 4    | 8      | 0     | 6    | Skill
+15     | 4    | 8      | 0     | 6    | 
+16     | 4    | 8      | 0     | 8    | ASI
+17     | 5    | 8      | 0     | 8    | Rank
+18     | 5    | 9      | 0     | 8    | Skill
+19     | 5    | 9      | 0     | 8    | 
+20     | 5    | 9      | 0     | 10   | ASI
+
+
+
+## Inspiration
+
+Where could it come from?
+- Gods
+- Vows / forbidden magic / crossing moral lines
+- Equipmentqwwwwwwwwwwwwwwwwww
+
+Pick 3
+- Tap 1, make your case
+- Get your reward
+- Pay the price (some sort of meaningful consequence)

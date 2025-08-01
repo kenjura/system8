@@ -7,7 +7,7 @@ Welcome to character creation!
 How to build a character:
 - In no particular order...
   - Choose a [Class](./classes)
-  - Configure your [Ancestry](./ancestry/)
+  - Configure your [Foundation](./foundation/)
   - etc...
 
 

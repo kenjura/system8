@@ -30,7 +30,7 @@ Classes and their paths
   * Shaman
   * Shifter
   * Channeler
-* [Invoker](./Invoker.md)
+* [Invoker](./Invoker.mdx)
   * Bladebound
   * Summoner
 * [Thaumaturgist](./Thaumaturgist)
