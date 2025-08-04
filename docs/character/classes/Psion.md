@@ -37,59 +37,59 @@ What you can do with Focus:
 ### Psychometabolism
 
 
-- [Metamorphosis](/powers/psion/metamorphosis): Change your physical form--its capabilities, size, and appearance.
-- [Fission](/powers/psion/fission): Split into two or more copies of yourself, each with a portion of your power.
+- [Metamorphosis](/powers/psion/metamorphosis.md): Change your physical form--its capabilities, size, and appearance.
+- [Fission](/powers/psion/fission.md): Split into two or more copies of yourself, each with a portion of your power.
 
 ### Psychoportation
-- [Portal](/powers/psion/portal)
-- [Time Warp](/powers/psion/time-warp) (time hop, etc)
-- [Warp Bubble](/powers/psion/warp-bubble)
+- [Portal](/powers/psion/portal.md)
+- [Time Warp](/powers/psion/time-warp.md) (time hop, etc.md)
+- [Warp Bubble](/powers/psion/warp-bubble.md)
 
-Example ([Portal](/powers/psion/portal)):
-- At-will, swift, concentration; you create two portals, both within line of sight and effect. Each is linked to the other. Whatever passes through one comes out the other, with momentum intact (relative to the portal). The portals are large enough for a projectile, a Tiny creature, or a Small creature using Acrobatics.
+Example ([Portal](/powers/psion/portal.md)):
+- At-will, swift, concentration; you create two portals, both within line of sight and effect. Each is linked to the other. Whatever passes through one comes out the other, with momentum intact (relative to the portal.md). The portals are large enough for a projectile, a Tiny creature, or a Small creature using Acrobatics.
   - Increase range for more focus
   - Increase portal size for more focus
-  - Talent: use a portal as a shield (uses Parry rules)
+  - Talent: use a portal as a shield (uses Parry rules.md)
 
 ### Psychokinesis
-- [Pyrokinesis](/powers/psion/pyrokinesis)
-- [Cryokinesis](/powers/psion/cryokinesis)
-- [Electrokinesis](/powers/psion/electrokinesis)
-- [Telekinesis](/powers/psion/telekinesis)
-- [Gravity](/powers/psion/gravity)
+- [Pyrokinesis](/powers/psion/pyrokinesis.md)
+- [Cryokinesis](/powers/psion/cryokinesis.md)
+- [Electrokinesis](/powers/psion/electrokinesis.md)
+- [Telekinesis](/powers/psion/telekinesis.md)
+- [Gravity](/powers/psion/gravity.md)
 
 
-Example ([Electrokinesis](/powers/psion/electrokinesis)):
-- You can create a charge that inflicts heavy (touch) or medium (ranged)
+Example ([Electrokinesis](/powers/psion/electrokinesis.md)):
+- You can create a charge that inflicts heavy (touch.md) or medium (ranged.md)
 - 1 Focus each: chain, stun, static charge
 
 
 ### Metacreativity
 
-- [Astral Construct](/powers/psion/astral-construct)
-- [Hard Light](/powers/psion/hard-light)
-- [Object Repair](/powers/psion/object-repair)
-- [Astral Seed](/powers/psion/astral-seed) (create dreams, copies of yourself, demiplanes, etc, in the Astral)
-- [Catapsi](/powers/psion/catapsi)
+- [Astral Construct](/character/powers/psion/astral-construct.md)
+- [Hard Light](/character/powers/psion/hard-light.md)
+- [Object Repair](/character/powers/psion/object-repair.md)
+- [Astral Seed](/character/powers/psion/astral-seed.md) (create dreams, copies of yourself, demiplanes, etc, in the Astral)
+- [Catapsi](/character/powers/psion/catapsi.md)
 
-Example ([Hard Light](/powers/psion/hard-light)):
+Example ([Hard Light](/character/powers/psion/hard-light.md)):
 - At-will, swift, ranged, conc; creates a a simple object made of hard light, such as a shielding bubble, a defensive wall, or an animated melee weapon.
   - Focus: more complex objects, animated objects, objects that wield their own hard light powers, etc
 
 ### Clairsentience
 
-- [Extra-Sensory Perception](/powers/psion/extra-sensory-perception) (remote viewing)
-- [Prognostication](/powers/psion/prognostication)
-- [Sensitivity to Psychic Impressions](/powers/psion/sensitivity-to-psychic-impressions)
-- [Object Reading](/powers/psion/object-reading)
-- [Probability Analysis](/powers/psion/probability-analysis)
+- [Extra-Sensory Perception](/character/powers/psion/extra-sensory-perception.md) (remote viewing)
+- [Prognostication](/character/powers/psion/prognostication.md)
+- [Sensitivity to Psychic Impressions](/character/powers/psion/sensitivity-to-psychic-impressions.md)
+- [Object Reading](/character/powers/psion/object-reading.md)
+- [Probability Analysis](/character/powers/psion/probability-analysis.md)
 
 ### Telepathy
 
-- [Mind Reading/Probing/Memory Alteration](/powers/psion/mind-reading-probing-memory-alteration)
-- [Psychic Assault](/powers/psion/psychic-assault)
-- [Mind Control](/powers/psion/mind-control)
-- [Empathy](/powers/psion/empathy)
+- [Mind Reading/Probing/Memory Alteration](/character/powers/psion/mind-reading-probing-memory-alteration.md)
+- [Psychic Assault](/character/powers/psion/psychic-assault.md)
+- [Mind Control](/character/powers/psion/mind-control.md)
+- [Empathy](/character/powers/psion/empathy.md)
 - TBD (schism, personality parasite, mind swap)
 
 
@@ -104,57 +104,57 @@ Example ([Hard Light](/powers/psion/hard-light)):
 
 Rank | Talent              | Description
 -----|---------------------|------------
-1    | [Iron Fist](/character/feats/psion/iron-fist)           | 1 Focus; unarmed strike inflicts heavy lethal damage or dual-wield medium damage.
-1    | [Thick Skin](/character/feats/psion/thick-skin)          | 1 Focus; gain DR equal to your proficiency bonus.
-1    | [Synaethesia](/character/feats/psion/synaethesia)         | TBD
-1    | [Adaptation](/character/feats/psion/adaptation)          | 1 Focus; adapt to heat, cold, pressure, or other extreme environments. (0 Focus for natural environments, 1 for extreme)
-1    | [Camouflage](/character/feats/psion/camouflage)          | 1 Focus; gain partial concealment. TBD
-2    | [Phase Shift](/character/feats/psion/phase-shift)         | 2 Focus; change your body to liquid or gas, and back again. 
+1    | [Iron Fist](/character/feats/psion/iron-fist.md)           | 1 Focus; unarmed strike inflicts heavy lethal damage or dual-wield medium damage.
+1    | [Thick Skin](/character/feats/psion/thick-skin.md)          | 1 Focus; gain DR equal to your proficiency bonus.
+1    | [Synaethesia](/character/feats/psion/synaethesia.md)         | TBD
+1    | [Adaptation](/character/feats/psion/adaptation.md)          | 1 Focus; adapt to heat, cold, pressure, or other extreme environments. (0 Focus for natural environments, 1 for extreme)
+1    | [Camouflage](/character/feats/psion/camouflage.md)          | 1 Focus; gain partial concealment. TBD
+2    | [Phase Shift](/character/feats/psion/phase-shift.md)         | 2 Focus; change your body to liquid or gas, and back again. 
 
 
 ### Psychoportation
 
 Rank | Talent              | Description
 -----|---------------------|------------
-1    | [Speed of Thought](/character/feats/psion/speed-of-thought)    | At-will, move, 1 Focus; move near instantly in a straight line by compressing the space in between for a nanosecond. Expend Focus to use as a reaction.
-1    | [Phase Shift](/character/feats/psion/phase-shift-incorporeal)         | Recharge 33%, swift, concentration; you become incorporeal.
-2    | [Levitation](/character/feats/psion/levitation)          | Levitate up to (base move), move horizontally at (base move)
-2    | [Dimension Shift](/character/feats/psion/dimension-shift)     | Recharge 33%, swift, concentration; you shift into the same position in the Ethereal or Shadow plane, or other coterminous plane.
-2    | [Mark/Recall](/character/feats/psion/mark-recall)         | At-will, swift; you mark your place in space and time. Record your position, HP, conditions, etc. Later, you can use recall: Recharge 33%, swift, you rewind time to the Marked position, affecting only you.
-3    | [Flight](/character/feats/psion/flight)              | Fly at (base move), overland is faster
-3    | [Temporal Acceleration](/character/feats/psion/temporal-acceleration) | Free; you immediately take a single action out of the flow of time. (Time Stop rules). One round per encounter per rank above 2.
-4    | [Super Flight](/character/feats/psion/super-flight)        | Fly at the speed of a plane
-5    | [Ultra Flight](/character/feats/psion/ultra-flight)        | Fly at the speed of a rocket
+1    | [Speed of Thought](/character/feats/psion/speed-of-thought.md)    | At-will, move, 1 Focus; move near instantly in a straight line by compressing the space in between for a nanosecond. Expend Focus to use as a reaction.
+1    | [Phase Shift](/character/feats/psion/phase-shift-incorporeal.md)         | Recharge 33%, swift, concentration; you become incorporeal.
+2    | [Levitation](/character/feats/psion/levitation.md)          | Levitate up to (base move), move horizontally at (base move)
+2    | [Dimension Shift](/character/feats/psion/dimension-shift.md)     | Recharge 33%, swift, concentration; you shift into the same position in the Ethereal or Shadow plane, or other coterminous plane.
+2    | [Mark/Recall](/character/feats/psion/mark-recall.md)         | At-will, swift; you mark your place in space and time. Record your position, HP, conditions, etc. Later, you can use recall: Recharge 33%, swift, you rewind time to the Marked position, affecting only you.
+3    | [Flight](/character/feats/psion/flight.md)              | Fly at (base move), overland is faster
+3    | [Temporal Acceleration](/character/feats/psion/temporal-acceleration.md) | Free; you immediately take a single action out of the flow of time. (Time Stop rules). One round per encounter per rank above 2.
+4    | [Super Flight](/character/feats/psion/super-flight.md)        | Fly at the speed of a plane
+5    | [Ultra Flight](/character/feats/psion/ultra-flight.md)        | Fly at the speed of a rocket
 
 
 ### Psychokinesis
 
 Rank | Talent              | Description
 -----|---------------------|------------
-1    | [Momentum Control](/character/feats/psion/momentum-control)    | Arrest a charge or cancel falling damage, gain a kinetic charge.
+1    | [Momentum Control](/character/feats/psion/momentum-control.md)    | Arrest a charge or cancel falling damage, gain a kinetic charge.
 
 
 ### Metacreativity
 
 Rank | Talent              | Description
 -----|---------------------|------------
-1    | [Metaphysical Weapon](/character/feats/psion/metaphysical-weapon) | At-will, swift; create an astral construct in the form of a weapon with which you are proficient. At higher ranks, enhance it.
-2    | [Tower of Iron Will](/character/feats/psion/tower-of-iron-will)  | Nearby allies' mental defenses are enhanced.
-3    | [Incarnate](/character/feats/psion/incarnate)           | Create a semi-sentient "minion" out of a Power you know (see details, lol)
+1    | [Metaphysical Weapon](/character/feats/psion/metaphysical-weapon.md) | At-will, swift; create an astral construct in the form of a weapon with which you are proficient. At higher ranks, enhance it.
+2    | [Tower of Iron Will](/character/feats/psion/tower-of-iron-will.md)  | Nearby allies' mental defenses are enhanced.
+3    | [Incarnate](/character/feats/psion/incarnate.md)           | Create a semi-sentient "minion" out of a Power you know (see details, lol)
 
 
 ### Clairsentience
 
 Rank | Talent              | Description
 -----|---------------------|------------
-1    | [Combat Precognition](/character/feats/psion/combat-precognition) | Gain +Wis to AC, more Dodge attempts
-1    | [Blindsense](/character/feats/psion/blindsense)          | You have it
-2    | [X-Ray Vision](/character/feats/psion/x-ray-vision)        | See through concealment, cover, and some walls
-3    | [Blindsight](/character/feats/psion/blindsight)          | Got it
+1    | [Combat Precognition](/character/feats/psion/combat-precognition.md) | Gain +Wis to AC, more Dodge attempts
+1    | [Blindsense](/character/feats/psion/blindsense.md)          | You have it
+2    | [X-Ray Vision](/character/feats/psion/x-ray-vision.md)        | See through concealment, cover, and some walls
+3    | [Blindsight](/character/feats/psion/blindsight.md)          | Got it
 
 
 ### Telepathy
 
 Rank | Talent              | Description
 -----|---------------------|------------
-1    | [Empathic Feedback](/character/feats/psion/empathic-feedback)   | When enemies strike you for damage, they feel your pain, suffering equal psychic damage to what you suffered.
+1    | [Empathic Feedback](/character/feats/psion/empathic-feedback.md)   | When enemies strike you for damage, they feel your pain, suffering equal psychic damage to what you suffered.
