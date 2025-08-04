@@ -37,59 +37,59 @@ What you can do with Focus:
 ### Psychometabolism
 
 
-- Metamorphosis: Change your physical form--its capabilities, size, and appearance.
-- Fission: Split into two or more copies of yourself, each with a portion of your power.
+- [Metamorphosis](/powers/psion/metamorphosis): Change your physical form--its capabilities, size, and appearance.
+- [Fission](/powers/psion/fission): Split into two or more copies of yourself, each with a portion of your power.
 
 ### Psychoportation
-- Portal
-- Time Warp (time hop, etc)
-- Warp Bubble
+- [Portal](/powers/psion/portal)
+- [Time Warp](/powers/psion/time-warp) (time hop, etc)
+- [Warp Bubble](/powers/psion/warp-bubble)
 
-Example (Portal):
+Example ([Portal](/powers/psion/portal)):
 - At-will, swift, concentration; you create two portals, both within line of sight and effect. Each is linked to the other. Whatever passes through one comes out the other, with momentum intact (relative to the portal). The portals are large enough for a projectile, a Tiny creature, or a Small creature using Acrobatics.
   - Increase range for more focus
   - Increase portal size for more focus
   - Talent: use a portal as a shield (uses Parry rules)
 
 ### Psychokinesis
-- Pyrokinesis
-- Cryokinesis
-- Electrokinesis
-- Telekinesis
-- Gravity
+- [Pyrokinesis](/powers/psion/pyrokinesis)
+- [Cryokinesis](/powers/psion/cryokinesis)
+- [Electrokinesis](/powers/psion/electrokinesis)
+- [Telekinesis](/powers/psion/telekinesis)
+- [Gravity](/powers/psion/gravity)
 
 
-Example (Electrokinesis):
+Example ([Electrokinesis](/powers/psion/electrokinesis)):
 - You can create a charge that inflicts heavy (touch) or medium (ranged)
 - 1 Focus each: chain, stun, static charge
 
 
 ### Metacreativity
 
-- Astral Construct
-- Hard Light
-- Object Repair
-- Astral Seed (create dreams, copies of yourself, demiplanes, etc, in the Astral)
-- Catapsi
+- [Astral Construct](/powers/psion/astral-construct)
+- [Hard Light](/powers/psion/hard-light)
+- [Object Repair](/powers/psion/object-repair)
+- [Astral Seed](/powers/psion/astral-seed) (create dreams, copies of yourself, demiplanes, etc, in the Astral)
+- [Catapsi](/powers/psion/catapsi)
 
-Example (Hard Light):
+Example ([Hard Light](/powers/psion/hard-light)):
 - At-will, swift, ranged, conc; creates a a simple object made of hard light, such as a shielding bubble, a defensive wall, or an animated melee weapon.
   - Focus: more complex objects, animated objects, objects that wield their own hard light powers, etc
 
 ### Clairsentience
 
-- Extra-Sensory Perception (remote viewing)
-- Prognostication
-- Sensitivity to Psychic Impressions
-- Object Reading
-- Probability Analysis
+- [Extra-Sensory Perception](/powers/psion/extra-sensory-perception) (remote viewing)
+- [Prognostication](/powers/psion/prognostication)
+- [Sensitivity to Psychic Impressions](/powers/psion/sensitivity-to-psychic-impressions)
+- [Object Reading](/powers/psion/object-reading)
+- [Probability Analysis](/powers/psion/probability-analysis)
 
 ### Telepathy
 
-- Mind Reading/Probing/Memory Alteration
-- Psychic Assault
-- Mind Control
-- Empathy
+- [Mind Reading/Probing/Memory Alteration](/powers/psion/mind-reading-probing-memory-alteration)
+- [Psychic Assault](/powers/psion/psychic-assault)
+- [Mind Control](/powers/psion/mind-control)
+- [Empathy](/powers/psion/empathy)
 - TBD (schism, personality parasite, mind swap)
 
 
