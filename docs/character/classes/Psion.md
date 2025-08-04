@@ -37,29 +37,29 @@ What you can do with Focus:
 ### Psychometabolism
 
 
-- [Metamorphosis](/powers/psion/metamorphosis.md): Change your physical form--its capabilities, size, and appearance.
-- [Fission](/powers/psion/fission.md): Split into two or more copies of yourself, each with a portion of your power.
+- [Metamorphosis](/character/powers/psion/metamorphosis.md): Change your physical form--its capabilities, size, and appearance.
+- [Fission](/character/powers/psion/fission.md): Split into two or more copies of yourself, each with a portion of your power.
 
 ### Psychoportation
-- [Portal](/powers/psion/portal.md)
-- [Time Warp](/powers/psion/time-warp.md) (time hop, etc.md)
-- [Warp Bubble](/powers/psion/warp-bubble.md)
+- [Portal](/character/powers/psion/portal.md)
+- [Time Warp](/character/powers/psion/time-warp.md) (time hop, etc.md)
+- [Warp Bubble](/character/powers/psion/warp-bubble.md)
 
-Example ([Portal](/powers/psion/portal.md)):
+Example ([Portal](/character/powers/psion/portal.md)):
 - At-will, swift, concentration; you create two portals, both within line of sight and effect. Each is linked to the other. Whatever passes through one comes out the other, with momentum intact (relative to the portal.md). The portals are large enough for a projectile, a Tiny creature, or a Small creature using Acrobatics.
   - Increase range for more focus
   - Increase portal size for more focus
   - Talent: use a portal as a shield (uses Parry rules.md)
 
 ### Psychokinesis
-- [Pyrokinesis](/powers/psion/pyrokinesis.md)
-- [Cryokinesis](/powers/psion/cryokinesis.md)
-- [Electrokinesis](/powers/psion/electrokinesis.md)
-- [Telekinesis](/powers/psion/telekinesis.md)
-- [Gravity](/powers/psion/gravity.md)
+- [Pyrokinesis](/character/powers/psion/pyrokinesis.md)
+- [Cryokinesis](/character/powers/psion/cryokinesis.md)
+- [Electrokinesis](/character/powers/psion/electrokinesis.md)
+- [Telekinesis](/character/powers/psion/telekinesis.md)
+- [Gravity](/character/powers/psion/gravity.md)
 
 
-Example ([Electrokinesis](/powers/psion/electrokinesis.md)):
+Example ([Electrokinesis](/character/powers/psion/electrokinesis.md)):
 - You can create a charge that inflicts heavy (touch.md) or medium (ranged.md)
 - 1 Focus each: chain, stun, static charge
 
