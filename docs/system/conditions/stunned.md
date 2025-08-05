@@ -1,0 +1,1 @@
+Stunned: you cannot take actions, including reactions. You lose your Dex bonus to AC. Automatically fail Str and Dex saves.

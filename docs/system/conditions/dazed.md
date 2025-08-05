@@ -1,0 +1,1 @@
+Dazed: you can't take actions. You can still take reactions, roll saves, etc. Your AC is unaffected.

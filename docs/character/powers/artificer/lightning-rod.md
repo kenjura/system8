@@ -7,7 +7,7 @@ type: Invention
 You become a conduit for electrical energy, drawing power from storms, friction, and the bioelectric fields of living creatures.
 
 Uses:
-- Spark: at-will; as a swift action, you build up static charge in your body. As a standard action (which can be in a later round), you discharge this energy as a melee touch attack or ranged attack (close), inflicting heavy electrical damage plus [stunned](/system/conditions/stunned.md) (Con ends).
+- Spark: at-will; as a swift action, you build up static charge in your body. As a standard action (which can be in a later round), you discharge this energy as a melee touch attack or ranged attack (close), inflicting heavy electrical damage plus [stunned](../../../system/conditions/stunned.md) (Con ends).
 - Static Field: at-will, swift, concentration; electrical energy crackles around you in a protective aura. Any creature that starts their turn adjacent to you or attacks you in melee suffers light electrical damage. Additionally, you gain resistance to electrical damage.
 - Chain Lightning: recharge 33%, std, ranged; you unleash a bolt of lightning that arcs between targets. Primary target suffers heavy electrical damage, then the lightning jumps to the nearest enemy within close range of the primary target, dealing medium damage, then to the nearest enemy within close range of that target, dealing light damage.
 

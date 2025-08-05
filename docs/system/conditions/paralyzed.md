@@ -1,0 +1,1 @@
+Paralyzed: you cannot take actions, and automatically fail Str/Dex saves. You collapse into a heap, unable to stand or support yourself. Your AC is reduced from 10 + Dex + armor bonus to 0 + armor bonus. Damaging attacks against you are automatic critical hits (where applicable).
