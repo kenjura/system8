@@ -59,12 +59,13 @@ Choose one of these abilities for each odd level.
 | Green Thumb      | Your touch makes plants grow, flowers bloom, and animals burst with vitality. Nature happily aids you.                                                                                                                  |
 | [Death Touch](</character/powers/thaumaturgist/Death Touch.md>)      | Your touch drains vitality, and can kill weak things. Into corpses, you can confer an inverse vitality, animating the dead.                                                                                             |
 | ???              | Your touch can animate objects to do as they were designed to do (brooms can sweep, swords can fight, etc).                                                                                                             |
+| Ecstasy          | Your touch is...pretty nice, actually. |
 
 #### Eye
 | Name           | Description                                                                                                       |
 | -------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Malocchio      | Curse and hex with just eye contact                                                                               |
-| Arcane Sight   | See the colors of magic                                                                                           |
+| Weavesight     | See the colors of magic                                                                                           |
 | Hypnotic Gaze  | Lock eyes with someone and they become docile and suggestible                                                     |
 | Petrify        | Medusa!                                                                                                           |
 | Soulgaze       | When sentient creatures meet your gaze, they cannot help but spill their secrets; careful, it's a two-way street! |
@@ -77,6 +78,7 @@ Choose one of these abilities for each odd level.
 | Witch's Eye    | One eye is a strange color, because it sees into other dimensions/planes                                          |
 | The Blind Eye  | Blind eyes that see in some other way (vital sight, etc), for flavor                                              |
 | Wadjet         | The Eye of Horus                                                                                                  |
+| Ghostwaker     | You see dead people. They're actually pretty much everywhere all the time. They know things and can even help you, if persuaded. |
 
 #### Word
 | Name            | Description                                                                                                          |
@@ -96,17 +98,46 @@ Choose one of these abilities for each odd level.
 | Throw Voice     | Good ol' ventriloquism                                                                                               |
 
 
+### Familiar
+
+| Name            | Description                                                                                                          |
+| --------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Familiar        | You get one                                                                                                          |
+
+To do: more specific familiar types, such as:
+- Cat
+- Bird
+- Snake
+- Disembodied Hand
+
+They're not just regular animals, natch. Think Chester or the three-eyed magpie.
+
+### Supplications
+
+Become one with the Goddess.
+
+| Name            | Description                                                                                                          |
+| --------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Moonlight       | You can call upon moonlight to guide, protect, and heal                                                              |
+| Bubbles         | I don't know why, but the goddess like bubbles                                                                       |
+| Defying Gravity | Who needs a broom? Just fly!                                                                                         |
+| Sympathy        | Hostile spells sometimes consider you friendly; enemy's beneficial spells sometimes affect you                       |
+
+
 
 ### Hedgecraft
 Things you can brew up--surprisingly, not always in a cauldron.
 
 To do:
 - Separate into reusable tools (such as Augur's Bones) and consumables (potions, phylacteries)
+
+
 #### Tools
 Basic tools:
 - Cauldron
 - Athame
 - Grimoire
+- Phylactery
 
 | Rank | Name                       | Description                                                                                                                                                |
 | ---- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -114,8 +145,11 @@ Basic tools:
 | 1    | Hand of Glory              | Mummified hand allows the delivery of touch spells at range via a ghostly hand                                                                             |
 | 1    | Figurine of Wondrous Power | Figurine of pewter, glass, etc is actually a vessel for a living creature (animal, humanoid, etc). Humans and more powerful creatures require higher rank. |
 | 1    | Fan of the Zephyr          | Pocket fan can produce a surprising breeze                                                                                                                 |
+| 1    | Keepsake                   | Craft a sympathetic focus linked to an ally; both of you gain benefits while worn, and you can use it as a phylactery (with consent)                       |
 | 2    | Umbrella of Many Uses      | Parasol can completely block light, is as tough as a shield, can slow your falls, etc                                                                      |
 | 2    | Crystal Ball               | Used for scrying, long-range communication, prognostication                                                                                                |
+| 2    | Dollhouse                  | You can render helpless foes into dolls and store them in your dollhouse. At higher ranks, you can attempt to turn non-helpless foes into dolls with a sympathetic component. |
+| 2    | Tarot Deck                 | Tell people's fortunes; also 1/day grant a daily boon or hex to a willing participant. (Similar to the WoW tarot deck)                                     |
 | 3    | Magic Mirror               | Magic mirror answers questions in rhyme, can be a portal to other planes, can trap people inside, can use to project your consciousness                    |
 | 3    | Hearthstone                | Stone that was once part of larger stone object within a threshold can create portals back to it                                                           |
 | 3    | Broom of Flying            | Broom is a flying mount                                                                                                                                    |
@@ -126,6 +160,7 @@ Basic tools:
 | ---- | ------------ | ------------------------------------------------------------------------------------------- |
 | 1    | Thunderstone | Stone explodes when thrown or subject to heat, causing intense sound that deafens and stuns |
 | 1    | Web          | Glob of sticky goo expands when thrown, encasing foes and sticking them in place            |
+
 #### Defense
 
 | Rank | Name                      | Description                                                                                                                                                                                  |
@@ -134,6 +169,7 @@ Basic tools:
 | 1    | Shield Bangle             | Enchant one or more breakable things (twigs, glass baubles, etc) that you wear; each is a consumable ward that absorbs some of the damage you suffer                                         |
 | 2    | Wood Ward                 | Using a fetish of wood, you repel wooden weapons. Gain resist 50% to damage from any purely wooden weapon. Any other weapon that includes wood has disadvantage to attack rolls against you. |
 | 4    | Ironguard                 | Using a phylactery of iron, you become immune to iron weapons.                                                                                                                               |
+
 #### Utility
 
 | Rank | Name              | Description                                                                                                                                                                                                  |
@@ -153,7 +189,7 @@ Basic tools:
 | 1    | Hearthfire        | Enchanted stone sheds warmth like a fire but with no light or smoke                                                                                                                                          |
 | 1    | Witchfire         | Light a torch or candle with blue flame that doesn't burn, but still lights your way. Those who aren't sympathetically bound to it cannot see its light.                                                     |
 | 2    | Salt of Purity    | Salts, dissolved into food or beverage, un-spoil food and neutralize poison                                                                                                                                  |
-| 2    | Augur's Bones     |                                                                                                                                                                                                              |
+
 #### Control
 
 | Rank | Name                     | Description                                                                                                                                              |
@@ -161,6 +197,7 @@ Basic tools:
 | 1    | Amiable Brew             | Potion, when drunk makes the imbiber highly agreeable, improving their attitude to "helpful" with regard to everyone who isn't a known or active threat. |
 | 1    | Dream Dust               | Sand, when sprinkled in the nose or mouth, causes sudden sleepiness.                                                                                     |
 | 2    | Apple of Deepest Slumber | Enchanted fruit causes imbiber to sleep forever, in perfect stasis, until the spell is dispelled.                                                        |
+
 #### Shaping
 
 | Rank | Name              | Description                                                                                                   |
@@ -169,6 +206,7 @@ Basic tools:
 | 1    | Grease            | Vial of ultra-slippery grease makes an area very hard to walk upon or even stand upright. Can be set on fire. |
 |      |                   |                                                                                                               |
 |      |                   |                                                                                                               |
+
 #### Healing
 | Rank | Name               | Description                                                              |
 | ---- | ------------------ | ------------------------------------------------------------------------ |
@@ -176,7 +214,10 @@ Basic tools:
 | 1    | Salve of Salvation | Healing salve stabilizes mortal wounds; dying subjects are stabilized.   |
 | 2    | Potion of Purging  | Grants an immediate save against all ongoing poison and disease effects. |
 | 3    |                    |                                                                          |
+
 #### Necromancy
+
+
 #### Transmutation
 | Rank | Name     | Description |
 | ---- | -------- | ----------- |
