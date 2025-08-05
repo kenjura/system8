@@ -6,6 +6,8 @@
 - 8.2: Reboot in 2024 with 6e fixins'
 - 8.3: 2025 re-reboot with less feats (docusaurus)
 
+(also consider 5.3, 5.4, and 5eA)
+
 
 Possible branch:
 - Start with 8.3
