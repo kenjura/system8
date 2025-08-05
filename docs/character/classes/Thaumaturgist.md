@@ -53,11 +53,11 @@ Choose one of these abilities for each odd level.
 
 | Name             | Description                                                                                                                                                                                                             |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Blood Bond       | If you come into physical contact with an enemy's blood is exposed (they've taken more than 0 damage), you can cause them harm or debilitation, and even try to control them. You can use this to heal as well as harm. |
-| Fingers of Frost | You can draw energy from the environment, making the air cold, or even forming objects from frost or ice. You can use the cold to harm, or use the frozen objects for various purposes.                                 |
+| [Blood Bond](</character/powers/thaumaturgist/Blood Bond.md>)       | If you come into physical contact with an enemy's blood is exposed (they've taken more than 0 damage), you can cause them harm or debilitation, and even try to control them. You can use this to heal as well as harm. |
+| [Fingers of Frost](</character/powers/thaumaturgist/Fingers of Frost.md>) | You can draw energy from the environment, making the air cold, or even forming objects from frost or ice. You can use the cold to harm, or use the frozen objects for various purposes.                                 |
 | Antimagic Touch  | Your touch grounds magical power, nullifying it. You can learn to absorb, transform, or command it.                                                                                                                     |
 | Green Thumb      | Your touch makes plants grow, flowers bloom, and animals burst with vitality. Nature happily aids you.                                                                                                                  |
-| Death Touch      | Your touch drains vitality, and can kill weak things. Into corpses, you can confer an inverse vitality, animating the dead.                                                                                             |
+| [Death Touch](</character/powers/thaumaturgist/Death Touch.md>)      | Your touch drains vitality, and can kill weak things. Into corpses, you can confer an inverse vitality, animating the dead.                                                                                             |
 | ???              | Your touch can animate objects to do as they were designed to do (brooms can sweep, swords can fight, etc).                                                                                                             |
 
 #### Eye
