@@ -44,13 +44,35 @@ article section[data-name="Powers"] {
   background-color: hsl(277.96deg 100% 12.50% / 50%);
 }
 
-article header, article h2 {
+article header {
+  container-type: scroll-state;
   position: sticky;
   top: 0;
   z-index: 1001;
-  line-height: var(--ifm-navbar-height);
 }
 
+article header h1, article header h2 {
+  transition: margin-left 0.3s, left 0.3s, top 0.3s;
+}
+
+@container scroll-state(stuck: top) {
+  h1, h2 {
+    background-color: var(--ifm-navbar-background-color);
+    color: var(--ifm-navbar-link-color);
+    height: var(--ifm-navbar-height);
+    line-height: var(--ifm-navbar-height);
+  }
+  h1 {
+    width: 10rem;
+    margin-left: -10rem;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  h2 {
+  }
+}
 
 
 article table {
