@@ -26,3 +26,15 @@ The cost of magic is determined primarily by what kind of magic it is.
   - It's simply not possible to get anything from an extraplanar entity without giving something in return. If one foolishly attempts to do so, they will find themselves owing a debt to that entity, and failing to specify exact terms prior to accepting power gives the entity all of the power to define them.
   - Thus, the system allows for debts of power to entities when magic is used unwisely, as well as a system of "equal exchange" where power can be granted with immediate satisfaction of payment, if the terms are agreed to.
   - A particularly nefarious option for the most immoral invokers is to use Soul Magic. All of the debts one might owe, all the costs one might pay--they are incurred to the very soul, inescapable--unless that soul isn't yours. Through powerful and evil magicks, invokers can gain the souls of others--in part or whole--and trade against *those souls* rather than their own. A bylaw of the laws of mortality means that mortals can take possession of another mortal's soul unwillingly, something immortals cannot do.
+
+
+## Secondary Abilities
+
+Each class has a unique secondary ability type to complement primary powers while reinforcing that class' unique identity.
+
+- Arcanist: ?
+- Elementalist: wild shape
+- Invoker: corruption (feats, basically)
+- Psion: talents (also feats)
+- Thaumaturgist: hedgecraft (craftable tools and consumables)
+- Theurgist: ?
