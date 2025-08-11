@@ -53,7 +53,40 @@ Casting is hard. But it's easier with a focus!
 
 ## Forma
 
-Flavor text.
+You are able to cast spells by evoking the power of ancient symbols, power words, and arcane formulae. While helpful, these are but aids to master the mental control needed to to envison *formae*, which form the basis of spells.
+
+*Formae* (the plural) each describe a fundamental magical effect, such as opening a portal, or creating light, or transforming an object's shape. To do more complex things, it is possible (through even greater mental effort) to combine multiple *formae* at the same time. A spell comprised of a single *forma* is described as one of the "First Order", whereas one comprised of multiple is "Second Order". "Third Order" does not describe three *formae*, but instead describes a combination of multiple forma, at least one of which is Second-Order. One can imagine Fifth Order spells as quite complex indeed.
+
++ You do not use an Energy mechanic to cast spells. Rather, you roll skill checks, the DC of which is based on the difficulty of the *formae* and *adjectivae* involved; failure on these checks can cause negative consequences.
++ By default, when casting spells, you use *mnemonics*, which are mental aids in the form of geometric symbols, arcane words, gestures, etc. These are not themselves the components of magic, but rather devices that aid in the construction of *formae* in your mind. It is nearly impossible to learn *formae* without them, although it is possible to cast a well-known spell without them, if necessary. When deprived of your mnemonics, you suffer a penalty to the spellcasting check: -5 if deprived of your voice and -5 if deprived of your ability to gesture.
+
+
+Name           | Translation | Description
+---------------|-------------|------------
+[Lux](#)       | Light       | Creates light
+[Impello](#)   | Force       | Move matter with kinetic force
+[Parma](#)     | Shield      | Block the motion of energy and matter
+[Aperio](#)    | Open        | Opens doors, containers, etc
+[Ordo](#)      | Order       | Mend damaged objects, organize sets of things, etc
+[Purgo](#)     | Purge       | Separates impurities from the whole
+[Voce](#)      | Voice       | Creates sound
+[Vide](#)      | See         | Grants sight, physical or metaphysical
+[Ignis](#)     | Fire        | Creates fire or heat
+[Appareo](#)   | Appear      | Teleport yourself
+[Porta](#)     | Portal      | Create portals within or beyond your dimension
+[Velo](#)      | Veil        | Create illusions which hide creatures or objects from sight
+[Formo](#)     | Transform   | Change the shape of an object or creature
+[Glacies](#)    | Ice        | Creates cold or ice, freezes objects or surfaces
+[Tenebrae](#)   | Darkness   | Creates areas of magical darkness, obscures vision
+[Volare](#)     | Fly        | Grants the ability to levitate or fly for a short duration
+[Curare](#)     | Heal       | Restores health or cures minor ailments
+[Animare](#)    | Animate    | Animates objects or creates temporary magical constructs
+[Tempus](#)     | Time       | Alters the flow of time briefly (slow, haste, etc)
+[Mens](#)       | Mind       | Reads thoughts, communicates telepathically, or influences emotions
+[Terra](#)      | Earth      | Manipulates earth, stone, or minerals
+[Aqua](#)       | Water      | Controls or creates water, manipulates liquids
+[Ventus](#)     | Wind       | Generates gusts of wind, manipulates air currents
+[Umbra](#)      | Shadow     | Manipulates shadows, creates shadowy illusions
 
 
 ### Lux (Light)
