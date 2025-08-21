@@ -86,9 +86,8 @@ Example ([Hard Light](/character/powers/psion/hard-light.md)):
 
 ### Telepathy
 
-- [Mind Reading/Probing/Memory Alteration](/character/powers/psion/mind-reading-probing-memory-alteration.md)
+- [Mindlink](/character/powers/psion/mindlink.md)
 - [Psychic Assault](/character/powers/psion/psychic-assault.md)
-- [Mind Control](/character/powers/psion/mind-control.md)
 - [Empathy](/character/powers/psion/empathy.md)
 - TBD (schism, personality parasite, mind swap)
 

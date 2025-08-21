@@ -119,17 +119,22 @@ Become one with the Goddess.
 | Name            | Description                                                                                                          |
 | --------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Moonlight       | You can call upon moonlight to guide, protect, and heal                                                              |
-| Bubbles         | I don't know why, but the goddess like bubbles                                                                       |
+| Bubbles         | I don't know why, but the goddess likes bubbles                                                                       |
 | Defying Gravity | Who needs a broom? Just fly!                                                                                         |
 | Sympathy        | Hostile spells sometimes consider you friendly; enemy's beneficial spells sometimes affect you                       |
 
 
 
-### Hedgecraft
+
+
+## Hedgecraft
 Things you can brew up--surprisingly, not always in a cauldron.
 
 To do:
 - Separate into reusable tools (such as Augur's Bones) and consumables (potions, phylacteries)
+
+Rules for potions:
+- You can make 1 cauldron of potions per rank each day, providing each ally with 1 potion of that type
 
 
 #### Tools

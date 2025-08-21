@@ -120,6 +120,39 @@ Level | Power
 8     | 
 9     | Wall of Stone
 
+### Animal
+- bloodlust
+- roar
+- primal rage
+- warg
+- summon animal
+
+
+### Plants
+
+- entangle
+- briar web
+- wall of thorns
+- lifebloom
+- regrowth
+- tree shape
+
+### Death
+
+Rank | Power
+-----|------
+1    | Spore Infestation: your damaging spells and natural attacks cause a disease, which spreads from the initial target each round.
+1    | Blight: necrotic damage
+2    | Deathblossom: beautiful, deadly plant siphons life energy and heals allies
+2    | reactive defense ability
+3    | Spore Form: you're a cloud of spores
+3    | Sporelings: animate the dead with spores
+
+
+### Fire
+### Water
+### Spirit
+
 
 ## Dual Attunement
 You can attune to two elements at a time. You need not attune to both with a single use of Elemental Attunement--you could, for example, attune to one element, and wait until some contigency to decide on another element.
@@ -149,3 +182,12 @@ Elemental Lord | Take on an elemental form
 Blight lord    | Deathy
 Channeler      | Control the battlefield with large elemental manifestations
 Flower Something | Create many blossoms on battlefield that can damage enemies, protect allies, control enemies, etc
+
+
+
+
+
+## Feats
+
+- Quick Wild Shape: wild shape as a swift action
+- Beast Magic: cast Animal spells while in wild shape
