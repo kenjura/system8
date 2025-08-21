@@ -42,6 +42,136 @@ Level | Special Ability
 20    | 
 
 
+
+## Spells
+
+### Blood
+
+Rank | Power
+-----|------
+0    | 
+1    | Transfusion
+
+
+
+### Frost
+
+Rank | Power         | Description
+-----|---------------|------------
+0    |               |
+1    | Frost Barrier | Icy armor absorbs damage
+1    | Frost Lance?  | Bolt of frost harms and slows enemies
+2    | Howling Winds | Frigid winds carrying snow and ice conceal you and harm enemies
+2    | Wall of Ice   | Wall of ice blocks line of sight and effect, can be broken through
+3    | Frost Bomb    | Slow-moving bomb causes intense cold damage when it goes off
+3    | Freeze        | Freeze enemy in a block of ice (or yourself)
+4    | Relentless Winter | Bigger howling winds
+4    | Fury of Frost | Cone of cold damages and freezes enemies
+
+Also:
+- Sleet Storm
+
+Feats:
+- Icewalker: walk on water by freezing it
+- Frost resistance
+
+
+### Anti-Magic
+
+Rank | Power         | Description
+-----|---------------|------------
+0    |               |
+1    | Absorb Magic  | Absorb energy from a touched spell, weakening or dispelling it
+2    | ?             | Disable a single spell so caster or item can't use it
+
+
+### Flora
+
+Rank | Power         | Description
+-----|---------------|------------
+0    |               |
+1    | Entangle      | Vines and roots immobilize target
+1    | 
+2    | Wall of Thorns | Wall obstructs, also grabs nearby targets
+2    | 
+
+
+### Undeath
+
+Rank | Power         | Description
+-----|---------------|------------
+0    | Kiss of Death | Touch delivers necrotic damage which can give you temp HP or enhance your attacks
+1    | Reanimate     | Corpse rises as a simple undead under your control
+1    | Death Coil    | Cause necrotic damage, or heal an undead creature
+2    | Necrosis      | Undead appendage grows from subject, using its abilities as you direct
+2    | Corpse Explosion | Corpse or undead creature explodes, potentially exploding other targets
+3    | Grudge        | Inflict necrotic damage to a subject based on how much they have harmed you
+
+
+Rituals:
+- Create Undead
+
+
+### Transmutation
+
+Rank | Power          | Description
+-----|----------------|------------
+0    | Fwip           | Objects launch at enemies63
+1    | Animate Object | Object becomes animated and acts as you direct
+1    | Shrink/Grow    | Creature becomes larger or smaller
+2    | Animorph       | Creature becomes an animal
+2    | ?              | 
+3    | Doll           | Creature becomes an inanimate doll (reversible)
+
+
+
+
+
+#### Ritual
+- Create Phylactery
+- Evoke Flame
+- Death and Rebirth (rk2)
+- Create Hearthstone (rk3)
+- Create Greater Phylactery (rk3)
+
+#### Rank 0
+- Infection
+
+#### Rank 1
+- Transfusion
+
+#### Rank 2
+- Blood Bolt
+- Pestilence
+- Ring of Fire
+
+#### Rank 3
+- Hemophilia
+- Ironguard
+
+#### Rank 4
+- Frozen Blood
+
+
+### Mysticism
+
+#### Rank 0
+- Witchfire
+
+#### Rank 1
+- Mindfire
+- Pain Suppression
+
+#### Rank 2
+- Veil
+- Mystic Eyes
+
+
+### Black MAgic
+
+
+
+
 ## Felicity
 
 Felicity is the ability of a witch to attune her body to the natural flow of magic. Thus attuned, her very body becomes her instrument of magic. Her touch channels energy, her eye peers into the divine, and her words are laced with power.
