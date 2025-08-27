@@ -45,18 +45,18 @@ Level | Special Ability
 
 ## Spells
 
-Besides the below schools, you may learn spells from the Air, Frost, and Plants schools of the [Elementalist](./Elementalist.md).
+Besides the below schools, you may learn spells from the Air, Frost, and Plants schools of the [Elementalist](./elementalist.md).
 
 
 ### Blood
 Rank | Power          | Description
 -----|----------------|------------
 0    | [Blood Boil](../powers/thaumaturgist/Blood%20Boil.md)     |
-1    | [Transfusion](../powers/thaumaturgist/Transfusion.md)    |
+1    | [Transfusion](../powers/thaumaturgist/transfusion.md)    |
 2    | [Blood Bond](../powers/thaumaturgist/Blood%20Bond.md)     | Share your strength with allies, or steal strength from enemies
 2    | [Blood Bending](../powers/thaumaturgist/Blood%20Bending.md) | Control a creature's movements
 3    | [Frozen Blood](../powers/thaumaturgist/Frozen%20Blood.md)   | Your blood doesn't flow; damage doesn't affect you while active (but still must be healed)
-3    | [Exsanguinate](../powers/thaumaturgist/Exsanguinate.md)   | Drain all the blood from a creature
+3    | [Exsanguinate](../powers/thaumaturgist/exsanguinate.md)   | Drain all the blood from a creature
 
 Ideas:
 - Let Blood: take damage, add it to your spells
@@ -91,11 +91,11 @@ Rank | Power         | Description
 
 Rank | Power          | Description
 -----|----------------|------------
-0    | [Soulgaze](../powers/thaumaturgist/Soulgaze.md)       | Lock eyes with target and learn their secrets--but they learn yours, too
+0    | [Soulgaze](../powers/thaumaturgist/soulgaze.md)       | Lock eyes with target and learn their secrets--but they learn yours, too
 1    | [Absorb Magic](../powers/thaumaturgist/Absorb%20Magic.md)   | Absorb energy from a touched spell, weakening or dispelling it
 1    | [Drain Soul](../powers/thaumaturgist/Drain%20Soul.md)     | Enervate enemy and gain a soul gem, which can grant you access to their identity and abilities
-2    | [Negation](../powers/thaumaturgist/Negation.md)       | Disable a single spell or magic item so it can't be used
-2    | [Commandeer Spell](<../powers/thaumaturgist/Commandeer Spell.md>) | Take control of a spell, changing it as you please
+2    | [Negation](../powers/thaumaturgist/negation.md)       | Disable a single spell or magic item so it can't be used
+2    | [Commandeer Spell](<../powers/thaumaturgist/commandeer-spell.md>) | Take control of a spell, changing it as you please
 2    | Possession     | Detach your soul from your body, and insert it into a creature, object, or corpse. In a creature or mundane object, you can "ride along" and passively observe, or attempt to whisper suggestions. In a magic item, you can manifest the item's powers. In a corpse, you can animate it as an undead.
 3    | Soul Sunder    | Separate creature's soul from their body (a la Dr Strange). Doesn't kill them, but their body becomes helpless (and vulnerable to Possession).
 3    | Antimagic Zone | Area nullifies magic
@@ -115,14 +115,14 @@ Soul Gem uses:
 Rank | Power              | Description
 -----|--------------------|------------
 0    | [Kiss of Death](../powers/thaumaturgist/Kiss%20of%20Death.md)      | Touch delivers necrotic damage which can give you temp HP or enhance your attacks
-1    | [Reanimate](../powers/thaumaturgist/Reanimate.md)          | Corpse rises as a simple undead under your control
+1    | [Reanimate](../powers/thaumaturgist/reanimate.md)          | Corpse rises as a simple undead under your control
 1    | [Touch of the Grave](../powers/thaumaturgist/Touch%20of%20the%20Grave.md) | Use the touch of various undead creatures to drain strength, constitution, etc
-1    | [Death Pact](<../powers/thaumaturgist/Death Pact.md>) | 
+1    | [Death Pact](<../powers/thaumaturgist/death-pact.md>) | 
 2    | [Hasten Death](../powers/thaumaturgist/Hasten%20Death.md)       | Causes any ongoing harmful effect to "tick" multiple times instantly
-2    | [Necrosis](../powers/thaumaturgist/Necrosis.md)           | Undead appendage grows from subject, using its abilities as you direct
+2    | [Necrosis](../powers/thaumaturgist/necrosis.md)           | Undead appendage grows from subject, using its abilities as you direct
 2    | [Corpse Explosion](../powers/thaumaturgist/Corpse%20Explosion.md)   | Corpse or undead creature explodes, potentially exploding other targets
 3    | [Finger of Death](../powers/thaumaturgist/Finger%20of%20Death.md)    | Instant death
-3    | [Defile](../powers/thaumaturgist/Defile.md) | Drain all vitality from an area; use that vitality for various purposes.
+3    | [Defile](../powers/thaumaturgist/defile.md) | Drain all vitality from an area; use that vitality for various purposes.
 
 
 ### Transmutation

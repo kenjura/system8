@@ -5,7 +5,7 @@ school: Death
 rank: 0
 ---
 
-Kiss of Death is a [Thaumaturgist](/character/classes/Thaumaturgist.md) ability which allows you to drain vitality with a touch.
+Kiss of Death is a [Thaumaturgist](/character/classes/thaumaturgist.md) ability which allows you to drain vitality with a touch.
 
 ## Abilities
 

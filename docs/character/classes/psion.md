@@ -55,12 +55,12 @@ Rank | Talent             | Description
 2    | [Metamorphosis][PM7] | Change your physical form--its capabilities, size, and appearance.
 3    | [Fission][PM8]     | Split into two or more copies of yourself, each with a portion of your power.
 
-[PM1]: /character/feats/psion/iron-fist.md
-[PM2]: /character/feats/psion/thick-skin.md
-[PM3]: /character/feats/psion/synaethesia.md
-[PM4]: /character/feats/psion/adaptation.md
-[PM5]: /character/feats/psion/camouflage.md
-[PM6]: /character/feats/psion/phase-shift.md
+[PM1]: /character/powers/psion/iron-body.md
+[PM2]: /character/powers/psion/thick-skin.md
+[PM3]: /character/powers/psion/synaethesia.md
+[PM4]: /character/powers/psion/adaptation.md
+[PM5]: /character/powers/psion/camouflage.md
+[PM6]: /character/powers/psion/phase-shift.md
 [PM7]: #
 [PM8]: #
 
@@ -87,15 +87,15 @@ Example ([Portal][Portal]):
   - Increase portal size for more focus
   - Talent: use a portal as a shield (uses Parry rules.md)
 
-[SpeedOfThought]: /character/feats/psion/Speed of Thought.md
-[PhaseShiftIncorporeal]: /character/feats/psion/phase-shift-incorporeal.md
-[Levitation]: /character/feats/psion/levitation.md
-[DimensionShift]: /character/feats/psion/dimension-shift.md
-[MarkRecall]: /character/feats/psion/mark-recall.md
-[Flight]: /character/feats/psion/flight.md
-[TemporalAcceleration]: /character/feats/psion/temporal-acceleration.md
-[SuperFlight]: /character/feats/psion/super-flight.md
-[UltraFlight]: /character/feats/psion/ultra-flight.md
+[SpeedOfThought]: /character/powers/psion/speed-of-thought.md
+[PhaseShiftIncorporeal]: /character/powers/psion/phase-shift-incorporeal.md
+[Levitation]: /character/powers/psion/levitation.md
+[DimensionShift]: /character/powers/psion/dimension-shift.md
+[MarkRecall]: /character/powers/psion/mark-recall.md
+[Flight]: /character/powers/psion/flight.md
+[TemporalAcceleration]: /character/powers/psion/temporal-acceleration.md
+[SuperFlight]: /character/powers/psion/super-flight.md
+[UltraFlight]: /character/powers/psion/ultra-flight.md
 
 ### Psychokinesis
 
@@ -115,7 +115,7 @@ Example ([Electrokinesis][Electrokinesis]):
 - 1 Focus each: chain, stun, static charge
 
 
-[MomentumControl]: /character/feats/psion/momentum-control.md
+[MomentumControl]: /character/powers/psion/momentum-control.md
 
 ### Metacreativity
 
@@ -137,9 +137,9 @@ Example ([Hard Light][HardLight]):
   - Focus: more complex objects, animated objects, objects that wield their own hard light powers, etc
 
 
-[MetaphysicalWeapon]: /character/feats/psion/metaphysical-weapon.md
-[TowerOfIronWill]: /character/feats/psion/tower-of-iron-will.md
-[Incarnate]: /character/feats/psion/incarnate.md
+[MetaphysicalWeapon]: /character/powers/psion/metaphysical-weapon.md
+[TowerOfIronWill]: /character/powers/psion/tower-of-iron-will.md
+[Incarnate]: /character/powers/psion/incarnate.md
 
 ### Clairsentience
 
@@ -156,10 +156,10 @@ Rank | Talent                                    | Description
 - [Object Reading][ObjectReading]
 - [Probability Analysis][ProbabilityAnalysis]
 
-[CombatPrecognition]: /character/feats/psion/combat-precognition.md
-[Blindsense]: /character/feats/psion/blindsense.md
-[XRayVision]: /character/feats/psion/x-ray-vision.md
-[Blindsight]: /character/feats/psion/blindsight.md
+[CombatPrecognition]: /character/powers/psion/combat-precognition.md
+[Blindsense]: /character/powers/psion/blindsense.md
+[XRayVision]: /character/powers/psion/x-ray-vision.md
+[Blindsight]: /character/powers/psion/blindsight.md
 
 ### Telepathy
 

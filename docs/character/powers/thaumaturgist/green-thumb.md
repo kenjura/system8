@@ -1,4 +1,4 @@
-Green Thumb is a [Thaumaturgist](/character/classes/Thaumaturgist.md) ability which allows you to harmonize with and control plant life.
+Green Thumb is a [Thaumaturgist](/character/classes/thaumaturgist.md) ability which allows you to harmonize with and control plant life.
 
 ## Abilities
 

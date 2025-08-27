@@ -4,7 +4,7 @@ name: Transform Object
 school: Transmutation
 rank: 1
 type: Utility
-brief: Change properties of an object: size, hardness, form, etc
+brief: Change properties of an object--size, hardness, form, etc
 ---
 
 At-will, std, ranged, concentration, 1 Mana; medium-sized (or smaller) object is modified in one way that you choose:

@@ -5,35 +5,35 @@ sidebar_position: 1
 
 Classes and their paths
 
-* [Fighter](./Fighter.md)
+* [Fighter](./fighter.md)
   * Eldritch Knight
   * Paladin
   * Death Knight
   * Barbarian
   * Ranger
   * Arcane Archer
-* [Rogue](./Rogue.md)
+* [Rogue](./rogue.md)
   * Bard
   * Assassin
   * Swashbuckler?
   * Shadowdancer
   * Spellthief
-* [Arcanist](./Arcanist.md)
+* [Arcanist](./arcanist.md)
   * Wizard
   * Sorcerer
-* [Theurgist](./Theurgist.md)
+* [Theurgist](./theurgist.md)
   * Priest
   * Seeker
   * (specialty)
-* [Elementalist](./Elementalist.md)
+* [Elementalist](./elementalist.md)
   * Elemental Lord
   * Shaman
   * Shifter
   * Channeler
-* [Invoker](./Invoker.md)
+* [Invoker](./invoker.md)
   * Bladebound
   * Summoner
-* [Thaumaturgist](./Thaumaturgist)
+* [Thaumaturgist](./thaumaturgist)
   * Witch
   * Blood Knight
   * Necromancer
