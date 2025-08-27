@@ -73,7 +73,7 @@ article header h1, article header h2 {
   h2 {
   }
 }
-
+/* 
 article table td {
   vertical-align: top;;
 }
@@ -93,7 +93,6 @@ article table:not(.foo) th {
   text-align: left;
 }
 article table:not(.foo) tr {
-  /* background-color: rgba(0, 29, 19); */
 }
 article table:not(.foo) tr:nth-child(2n) {
   background-color: unset;
@@ -101,4 +100,4 @@ article table:not(.foo) tr:nth-child(2n) {
 article table:not(.foo) td,
 article table:not(.foo) th {
   border: none;
-}
+} */

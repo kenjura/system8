@@ -13,34 +13,74 @@ Weapon Prof.  | 2 martial (bonus feat grants all)
 Armor Prof.   | Light (bonus feat grants all)
 Saving Throws | Str, Con
 
+Level | Talents | Special Ability
+----- | ------- | ---------------
+1     | 1       | Warrior's Path
+2     | 2       | 
+3     | 3       | Warrior's Path
+4     | 4       | 
+5     | 5       | Warrior's Path
+6     | 6       | 
+7     | 7       | etc
+8     | 8       | 
+9     | 9       | 
+10    | 10      | 
+11    | 11      | 
+12    | 12      | 
+13    | 13      | 
+14    | 14      | 
+15    | 15      | 
+16    | 16      | 
+17    | 17      | 
+18    | 18      | 
+19    | 19      | 
+20    | 20      | 
 
-Level | Special Ability
------ | ---------------
-1     | Combat Style
-2     | Action Surge
-3     | Second Wind
-4     | Weapon Expertise
-5     | Combat Style
-6     | tbd
-7     | 
-8     | 
-9     | 
-10    | 
-11    | 
-12    | 
-13    | 
-14    | 
-15    | 
-16    | 
-17    | 
-18    | 
-19    | 
-20    | 
 
 
-## Abilities
 
-### Combat Style
+
+## Talents
+
+### Action
+- [Action Surge](#): Once per short rest, you can take an extra round's worth of actions on your turn.
+- [Second Wind](#): Once per short rest, you can spend a swift action to heal yourself for medium damage.
+
+
+### Feats
+- Slam
+- Power Attack
+- Cleave
+- etc...
+
+
+### Paladin
+- Fancy Horse
+- Fancy Sword
+- Aura
+- etc
+
+### Ranger
+- Ranger stuff
+
+
+
+
+## Warrior's Path
+
+### Paladin
+
+#### Rank 1
+- [Smite](#): asdf
+- [Aura](#): adsjfkjs
+
+#### Rank 2
+- [Fancy Horse](#): asdlkjaksdlf
+- [Fancy Shield/Armor](#): asdlkjaksdlf
+
+
+
+## Combat Style (old)
 Choose:
 - Assault
 - Protection
@@ -123,19 +163,6 @@ Level | Benefit
 ------|--------
 1     | Spring Attack
 2     | 
-
-
-
-### Action Surge
-Once per short rest, you can take an extra round's worth of actions on your turn.
-
-
-### Second Wind
-Once per short rest, you can spend a swift action to heal yourself for medium damage.
-
-
-### Weapon Expertise
-
 
 
 

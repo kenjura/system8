@@ -45,83 +45,85 @@ Level | Special Ability
 
 ## Spells
 
+Besides the below schools, you may learn spells from the Air, Frost, and Plants schools of the [Elementalist](./Elementalist.md).
+
+
 ### Blood
+Rank | Power          | Description
+-----|----------------|------------
+0    | [Blood Boil](../powers/thaumaturgist/Blood%20Boil.md)     |
+1    | [Transfusion](../powers/thaumaturgist/Transfusion.md)    |
+2    | [Blood Bond](../powers/thaumaturgist/Blood%20Bond.md)     | Share your strength with allies, or steal strength from enemies
+2    | [Blood Bending](../powers/thaumaturgist/Blood%20Bending.md) | Control a creature's movements
+3    | [Frozen Blood](../powers/thaumaturgist/Frozen%20Blood.md)   | Your blood doesn't flow; damage doesn't affect you while active (but still must be healed)
+3    | [Exsanguinate](../powers/thaumaturgist/Exsanguinate.md)   | Drain all the blood from a creature
 
-Rank | Power
------|------
-0    | 
-1    | Transfusion
-
-
-
-### Frost
-
-Rank | Power         | Description
------|---------------|------------
-0    |               |
-1    | Frost Barrier | Icy armor absorbs damage
-1    | Frost Lance?  | Bolt of frost harms and slows enemies
-2    | Howling Winds | Frigid winds carrying snow and ice conceal you and harm enemies
-2    | Wall of Ice   | Wall of ice blocks line of sight and effect, can be broken through
-3    | Frost Bomb    | Slow-moving bomb causes intense cold damage when it goes off
-3    | Freeze        | Freeze enemy in a block of ice (or yourself)
-4    | Relentless Winter | Bigger howling winds
-4    | Fury of Frost | Cone of cold damages and freezes enemies
-
-Also:
-- Sleet Storm
-
-Feats:
-- Icewalker: walk on water by freezing it
-- Frost resistance
-
-
-### Anti-Magic
+### Illusion
 
 Rank | Power         | Description
 -----|---------------|------------
-0    |               |
-1    | Absorb Magic  | Absorb energy from a touched spell, weakening or dispelling it
-2    | ?             | Disable a single spell so caster or item can't use it
+0    | Phantom Sound | 
+1    | Figment       | Create an illusory creature or object
+1    | Glamour       | Change your appearance
+1    | Mystic Eyes   | See through others' illusions
+2    | Veil          | Invisibility
+2    | Mirror Image  | 
+2    | Hallucination | Total illusory control of an area--create walls, multiple creatures/objects, etc
+3    | Simulacrum    | Create an image of a creature that is real enough to affect the world, cast spells, etc
+3    | Phantom Zone  | Send a creature into an illusory domain you control (similar to 3e Maze spell)
 
 
-### Flora
-
-Rank | Power         | Description
------|---------------|------------
-0    |               |
-1    | Entangle      | Vines and roots immobilize target
-1    | 
-2    | Wall of Thorns | Wall obstructs, also grabs nearby targets
-2    | 
 
 
-### Undeath
 
-Rank | Power         | Description
------|---------------|------------
-0    | Kiss of Death | Touch delivers necrotic damage which can give you temp HP or enhance your attacks
-1    | Reanimate     | Corpse rises as a simple undead under your control
-1    | Death Coil    | Cause necrotic damage, or heal an undead creature
-2    | Necrosis      | Undead appendage grows from subject, using its abilities as you direct
-2    | Corpse Explosion | Corpse or undead creature explodes, potentially exploding other targets
-3    | Grudge        | Inflict necrotic damage to a subject based on how much they have harmed you
+### Soul
+
+Rank | Power          | Description
+-----|----------------|------------
+0    | Soulgaze       | Lock eyes with target and learn their secrets--but they learn yours, too
+1    | Absorb Magic   | Absorb energy from a touched spell, weakening or dispelling it
+1    | Drain Soul     | Enervate enemy (1 negative level) and gain a soul gem, which can grant you access to their identity and abilities
+2    | Negation       | Disable a single spell or magic item so it can't be used
+2    | Soul Prison    | Curse a living target; if they die while cursed, you trap their soul in a gem.
+2    | Possession     | Detach your soul from your body, and insert it into a creature, object, or corpse. In a creature or mundane object, you can "ride along" and passively observe, or attempt to whisper suggestions. In a magic item, you can manifest the item's powers. In a corpse, you can animate it as an undead.
+3    | Soul Sunder    | Separate creature's soul from their body (a la Dr Strange). Doesn't kill them, but their body becomes helpless (and vulnerable to Possession).
+3    | Antimagic Zone | Area nullifies magic
 
 
-Rituals:
-- Create Undead
+Soul Gem uses:
+- Use as a phylactery
+- Gain one chosen magical ability of the target
+- Speak with subject's voice
+- Attempt to fool magic keyed to the target
+- Reaction, expends the gem; redirects a targeted magical effect onto the creature rather than you.
+
+
+
+### Death
+
+Rank | Power              | Description
+-----|--------------------|------------
+0    | [Kiss of Death](../powers/thaumaturgist/Kiss%20of%20Death.md)      | Touch delivers necrotic damage which can give you temp HP or enhance your attacks
+1    | [Reanimate](../powers/thaumaturgist/Reanimate.md)          | Corpse rises as a simple undead under your control
+1    | [Touch of the Grave](../powers/thaumaturgist/Touch%20of%20the%20Grave.md) | Use the touch of various undead creatures to drain strength, constitution, etc
+1    | [Death Pact](<../powers/thaumaturgist/Death Pact.md>) | 
+2    | [Hasten Death](../powers/thaumaturgist/Hasten%20Death.md)       | Causes any ongoing harmful effect to "tick" multiple times instantly
+2    | [Necrosis](../powers/thaumaturgist/Necrosis.md)           | Undead appendage grows from subject, using its abilities as you direct
+2    | [Corpse Explosion](../powers/thaumaturgist/Corpse%20Explosion.md)   | Corpse or undead creature explodes, potentially exploding other targets
+3    | [Finger of Death](../powers/thaumaturgist/Finger%20of%20Death.md)    | Instant death
+3    | [Defile](../powers/thaumaturgist/Defile.md) | Drain all vitality from an area; use that vitality for various purposes.
 
 
 ### Transmutation
 
-Rank | Power          | Description
------|----------------|------------
-0    | Fwip           | Objects launch at enemies63
-1    | Animate Object | Object becomes animated and acts as you direct
-1    | Shrink/Grow    | Creature becomes larger or smaller
-2    | Animorph       | Creature becomes an animal
-2    | ?              | 
-3    | Doll           | Creature becomes an inanimate doll (reversible)
+Rank | Power             | Description
+-----|-------------------|------------
+0    | [Magic Missile](../powers/thaumaturgist/Magic%20Missile.md)     | Telekinetically control an objet
+1    | [Animate Object](../powers/thaumaturgist/Animate%20Object.md)    | Object becomes animated and acts as you direct
+1    | Transform Object  | Change properties of an object: size, hardness, form, etc
+2    | Doll              | Creature becomes an inanimate object (reversible)
+2    | ?                 | 
+3    | Ironguard         | You become impervious to metal weapons
 
 
 
@@ -134,124 +136,49 @@ Rank | Power          | Description
 - Create Hearthstone (rk3)
 - Create Greater Phylactery (rk3)
 
-#### Rank 0
-- Infection
-
-#### Rank 1
-- Transfusion
-
-#### Rank 2
-- Blood Bolt
-- Pestilence
-- Ring of Fire
-
-#### Rank 3
-- Hemophilia
-- Ironguard
-
-#### Rank 4
-- Frozen Blood
-
-
-### Mysticism
-
-#### Rank 0
-- Witchfire
-
-#### Rank 1
-- Mindfire
-- Pain Suppression
-
-#### Rank 2
-- Veil
-- Mystic Eyes
-
-
-### Black MAgic
 
 
 
 
-## Felicity
 
+## Talents 
+
+
+### Felicity
 Felicity is the ability of a witch to attune her body to the natural flow of magic. Thus attuned, her very body becomes her instrument of magic. Her touch channels energy, her eye peers into the divine, and her words are laced with power.
 
 Choose one of these abilities for each odd level.
 
+- Mystic Eye: one of your eyes is a weird color or otherwise has a strange appearance. That eye can see the magical aura of invisible and ethereal creatures.
+- Sympathy: Hostile spells sometimes consider you friendly; enemy's beneficial spells sometimes affect you
+- Beast Tongue: You can speak to animals, and they are compelled by your speech; you are able to persuade them to serve you
+- Foresight: You sometimes see things before they happen. You can react to any harmful action in combat, provided you beat its DC with a Perception check. On success, this ability goes on cooldown (recharge 33%).
+- Grudge: When a creature harms you, you can "remember" the harm done, and add it to your own attack against them within 3 rounds. Doesn't stack
 
-#### Touch
+### Blood
+- [Blood Bank](#): Whenever you heal for any reason, you may exceed your max HP, gaining the excess as temporary Hit Points, which expire at the end of the encounter.
+- [Blood Debt](#): When you are missing Hit Points, you can add your HP debt to the damage of any attack or spell you inflict, to a maximum of 100% of the attack's original damage. This does not change your current HP.
 
-| Name             | Description                                                                                                                                                                                                             |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Blood Bond](</character/powers/thaumaturgist/Blood Bond.md>)       | If you come into physical contact with an enemy's blood is exposed (they've taken more than 0 damage), you can cause them harm or debilitation, and even try to control them. You can use this to heal as well as harm. |
-| [Fingers of Frost](</character/powers/thaumaturgist/Fingers of Frost.md>) | You can draw energy from the environment, making the air cold, or even forming objects from frost or ice. You can use the cold to harm, or use the frozen objects for various purposes.                                 |
-| Antimagic Touch  | Your touch grounds magical power, nullifying it. You can learn to absorb, transform, or command it.                                                                                                                     |
-| Green Thumb      | Your touch makes plants grow, flowers bloom, and animals burst with vitality. Nature happily aids you.                                                                                                                  |
-| [Death Touch](</character/powers/thaumaturgist/Death Touch.md>)      | Your touch drains vitality, and can kill weak things. Into corpses, you can confer an inverse vitality, animating the dead.                                                                                             |
-| ???              | Your touch can animate objects to do as they were designed to do (brooms can sweep, swords can fight, etc).                                                                                                             |
-| Ecstasy          | Your touch is...pretty nice, actually. |
+### Illusion
 
-#### Eye
-| Name           | Description                                                                                                       |
-| -------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Malocchio      | Curse and hex with just eye contact                                                                               |
-| Weavesight     | See the colors of magic                                                                                           |
-| Hypnotic Gaze  | Lock eyes with someone and they become docile and suggestible                                                     |
-| Petrify        | Medusa!                                                                                                           |
-| Soulgaze       | When sentient creatures meet your gaze, they cannot help but spill their secrets; careful, it's a two-way street! |
-| Foresight      | You see into the future, gaining advantages to defense, and can burn Mana to gain reactions                       |
-| True Sight     | See through illusions, invisibility, etc                                                                          |
-| Maddening Gaze | For the Cthulhu-inclined                                                                                          |
-| Aura Sight     | Diagnose maladies physical, mental, and spiritual                                                                 |
-| Farseer        | Move your sight to remote locales while you concentrate                                                           |
-| Odin's Eye     | Replace an eye to gain great arcane secrets!                                                                      |
-| Witch's Eye    | One eye is a strange color, because it sees into other dimensions/planes                                          |
-| The Blind Eye  | Blind eyes that see in some other way (vital sight, etc), for flavor                                              |
-| Wadjet         | The Eye of Horus                                                                                                  |
-| Ghostwaker     | You see dead people. They're actually pretty much everywhere all the time. They know things and can even help you, if persuaded. |
 
-#### Word
-| Name            | Description                                                                                                          |
-| --------------- | -------------------------------------------------------------------------------------------------------------------- |
-| True Name       | Control any magical being with it                                                                                    |
-| Command         | Single-word commands must be obeyed                                                                                  |
-| Honmoon         | Music that creates warding barriers                                                                                  |
-| Curse           | Curses! The more they rhyme, the better they work                                                                    |
-| Beast Tongue    | You can speak to animals, and they are compelled by your speech; you are able to persuade them to serve you          |
-| Windtalker      | Your words carry far, riding along and shaping the winds. You can breathe gusts and sing cyclones.                   |
-| Song of Steel   | Your voice causes metal to reverberate and respond. You can disarm weapons or even sunder armor, shatter bonds, etc. |
-| Anti-Sound      | Your voice nullifies sound, arointing speech and verbal spellcasting, countering sonic effects.                      |
-| Roar            | Your voice is a terrifying roar, causing enemies to flee in panic                                                    |
-| Dragon's Breath | Breathe fire!                                                                                                        |
-| Howling Winds   | Breathe frost!                                                                                                       |
-| Soothing Song   | Your voice soothes and calms emotions, de-escalating violence and pushing all who hear it toward peace               |
-| Throw Voice     | Good ol' ventriloquism                                                                                               |
+### Death
 
+
+### Soul
+
+### Necromancy
+- Create Undead
+- Pocket Monstrosity
+- Graft
+- Necrogenesis
 
 ### Familiar
 
-| Name            | Description                                                                                                          |
-| --------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Familiar        | You get one                                                                                                          |
+- Familiar
+- Improved Familiar
+- Other Stuff
 
-To do: more specific familiar types, such as:
-- Cat
-- Bird
-- Snake
-- Disembodied Hand
-
-They're not just regular animals, natch. Think Chester or the three-eyed magpie.
-
-### Supplications
-
-Become one with the Goddess.
-
-| Name            | Description                                                                                                          |
-| --------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Moonlight       | You can call upon moonlight to guide, protect, and heal                                                              |
-| Bubbles         | I don't know why, but the goddess likes bubbles                                                                       |
-| Defying Gravity | Who needs a broom? Just fly!                                                                                         |
-| Sympathy        | Hostile spells sometimes consider you friendly; enemy's beneficial spells sometimes affect you                       |
 
 
 
@@ -273,90 +200,6 @@ Basic tools:
 - Athame
 - Grimoire
 - Phylactery
-
-| Rank | Name                       | Description                                                                                                                                                |
-| ---- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | Augur's Bones              | Bones that help you determine the near future (i.e. Augury)                                                                                                |
-| 1    | Hand of Glory              | Mummified hand allows the delivery of touch spells at range via a ghostly hand                                                                             |
-| 1    | Figurine of Wondrous Power | Figurine of pewter, glass, etc is actually a vessel for a living creature (animal, humanoid, etc). Humans and more powerful creatures require higher rank. |
-| 1    | Fan of the Zephyr          | Pocket fan can produce a surprising breeze                                                                                                                 |
-| 1    | Keepsake                   | Craft a sympathetic focus linked to an ally; both of you gain benefits while worn, and you can use it as a phylactery (with consent)                       |
-| 2    | Umbrella of Many Uses      | Parasol can completely block light, is as tough as a shield, can slow your falls, etc                                                                      |
-| 2    | Crystal Ball               | Used for scrying, long-range communication, prognostication                                                                                                |
-| 2    | Dollhouse                  | You can render helpless foes into dolls and store them in your dollhouse. At higher ranks, you can attempt to turn non-helpless foes into dolls with a sympathetic component. |
-| 2    | Tarot Deck                 | Tell people's fortunes; also 1/day grant a daily boon or hex to a willing participant. (Similar to the WoW tarot deck)                                     |
-| 3    | Magic Mirror               | Magic mirror answers questions in rhyme, can be a portal to other planes, can trap people inside, can use to project your consciousness                    |
-| 3    | Hearthstone                | Stone that was once part of larger stone object within a threshold can create portals back to it                                                           |
-| 3    | Broom of Flying            | Broom is a flying mount                                                                                                                                    |
-|      |                            |                                                                                                                                                            |
-
-#### Debilitation
-| Rank | Name         | Description                                                                                 |
-| ---- | ------------ | ------------------------------------------------------------------------------------------- |
-| 1    | Thunderstone | Stone explodes when thrown or subject to heat, causing intense sound that deafens and stuns |
-| 1    | Web          | Glob of sticky goo expands when thrown, encasing foes and sticking them in place            |
-
-#### Defense
-
-| Rank | Name                      | Description                                                                                                                                                                                  |
-| ---- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | Potion of Warmth/Coolness | Potion provides protection from cold/hot extremes, resist cold/fire damage by X%                                                                                                             |
-| 1    | Shield Bangle             | Enchant one or more breakable things (twigs, glass baubles, etc) that you wear; each is a consumable ward that absorbs some of the damage you suffer                                         |
-| 2    | Wood Ward                 | Using a fetish of wood, you repel wooden weapons. Gain resist 50% to damage from any purely wooden weapon. Any other weapon that includes wood has disadvantage to attack rolls against you. |
-| 4    | Ironguard                 | Using a phylactery of iron, you become immune to iron weapons.                                                                                                                               |
-
-#### Utility
-
-| Rank | Name              | Description                                                                                                                                                                                                  |
-| ---- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1    | Alarm             | A bell, whistle, or other noisemaker is enchanted to warn you when a perimeter is violated.                                                                                                                  |
-| 1    | Dust of Detection | Blow dust of various colors which outlines magical auras. The colors describe the type of magic and its effects.                                                                                             |
-| 1    | TBD               | Salt, when sprinkled into food or drink, turns its color and odor foul if the food is spoiled or poisoned                                                                                                    |
-| 1    | Locator Spell     | Using a phylactery, you can tell the bearing toward the host object or creature while you concentrate.                                                                                                       |
-| 2    | Arcane Lock       | Magically secure a portal or container; alternatively, magically unlock one.                                                                                                                                 |
-| 2    | Arcane Concealer  | Paste, smeared upon an object, renders it invisible to scrying.                                                                                                                                              |
-| 1    | TBD               | Salt, when sprinkled into food or drink, turns its color and odor foul if the food is spoiled or poisoned                                                                                                    |
-| 1    | Idol of Disguise  | Phylactery that, when worn, causes onlookers to view you as the person to whom the sympathetic component belongs. Type and size must match.                                                                  |
-| 2    | Glitterdust       | Dust lights up a room, sticks to invisible creatures, etc                                                                                                                                                    |
-| 1    | Speaking Stone    | Linked stones help you communicate over distance                                                                                                                                                             |
-| 1    | TBD               | Using a sympathetic component, you can understand the language spoken by a creature                                                                                                                          |
-| 1    | Magical Ink       | Write a message in magical ink, then speak the words and it disappears, or takes alternate form (your choice). More words can reveal it, or it can be tied to blood. Can use for drawings, not just letters. |
-| 1    | Hearthfire        | Enchanted stone sheds warmth like a fire but with no light or smoke                                                                                                                                          |
-| 1    | Witchfire         | Light a torch or candle with blue flame that doesn't burn, but still lights your way. Those who aren't sympathetically bound to it cannot see its light.                                                     |
-| 2    | Salt of Purity    | Salts, dissolved into food or beverage, un-spoil food and neutralize poison                                                                                                                                  |
-
-#### Control
-
-| Rank | Name                     | Description                                                                                                                                              |
-| ---- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | Amiable Brew             | Potion, when drunk makes the imbiber highly agreeable, improving their attitude to "helpful" with regard to everyone who isn't a known or active threat. |
-| 1    | Dream Dust               | Sand, when sprinkled in the nose or mouth, causes sudden sleepiness.                                                                                     |
-| 2    | Apple of Deepest Slumber | Enchanted fruit causes imbiber to sleep forever, in perfect stasis, until the spell is dispelled.                                                        |
-
-#### Shaping
-
-| Rank | Name              | Description                                                                                                   |
-| ---- | ----------------- | ------------------------------------------------------------------------------------------------------------- |
-| 1    | Circle of Warding | Simple magical ward blocks magical effects including wholly magical creatures, but not physical matter        |
-| 1    | Grease            | Vial of ultra-slippery grease makes an area very hard to walk upon or even stand upright. Can be set on fire. |
-|      |                   |                                                                                                               |
-|      |                   |                                                                                                               |
-
-#### Healing
-| Rank | Name               | Description                                                              |
-| ---- | ------------------ | ------------------------------------------------------------------------ |
-| 1    | Potion of Healing  | Heals for medium damage.                                                 |
-| 1    | Salve of Salvation | Healing salve stabilizes mortal wounds; dying subjects are stabilized.   |
-| 2    | Potion of Purging  | Grants an immediate save against all ongoing poison and disease effects. |
-| 3    |                    |                                                                          |
-
-#### Necromancy
-
-
-#### Transmutation
-| Rank | Name     | Description |
-| ---- | -------- | ----------- |
-| 2    | Animorph |             |
 
 
 

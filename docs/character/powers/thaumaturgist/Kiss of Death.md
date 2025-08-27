@@ -1,4 +1,11 @@
-Death Touch is a [Thaumaturgist](/character/classes/Thaumaturgist.md) ability which allows you to drain vitality with a touch.
+---
+class: Thaumaturgist
+name: Kiss of Death
+school: Death
+rank: 0
+---
+
+Kiss of Death is a [Thaumaturgist](/character/classes/Thaumaturgist.md) ability which allows you to drain vitality with a touch.
 
 ## Abilities
 
@@ -11,12 +18,12 @@ At-will, as a standard action, you can touch a creature, inflicting heavy necrot
 ### Rank 2
 - Withering Touch
   - At-will, std, touch; inflicts heavy necrotic damage plus ability damage equal to your proficiency bonus + casting ability score bonus (Con halves both; ability damage is Str, Dex, or Con, your choice).
-- Your Death Touch temp HP can be transferred to an ally by touch within 3 rounds as a swift action.
-- Your Death Touch mana drains 2 per touch.
+- Your Kiss of Death temp HP can be transferred to an ally by touch within 3 rounds as a swift action.
+- Your Kiss of Death mana drains 2 per touch.
 
 ### Rank 3
-- Your Death Touch temp HP can be healing instead.
-- Your Death Touch mana drains 3 per touch.
+- Your Kiss of Death temp HP can be healing instead.
+- Your Kiss of Death mana drains 3 per touch.
 
 
 
