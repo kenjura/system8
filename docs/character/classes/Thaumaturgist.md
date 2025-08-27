@@ -58,6 +58,17 @@ Rank | Power          | Description
 3    | [Frozen Blood](../powers/thaumaturgist/Frozen%20Blood.md)   | Your blood doesn't flow; damage doesn't affect you while active (but still must be healed)
 3    | [Exsanguinate](../powers/thaumaturgist/Exsanguinate.md)   | Drain all the blood from a creature
 
+Ideas:
+- Let Blood: take damage, add it to your spells
+- Bloodborne: infect subject with a bloodborne pathogen:
+  - Hemophilia (slashing/piercing causes ongoing damage)
+  - Sickle-cell (debilitating pain)
+  - Anemia (causes exhaustion)
+  - Should Blood Boil be rolled into this?
+- Burning Blood: dripped blood becomes a burning square
+- Ring of Fire
+- Blood Nova (target can be friendly or enemy, but only harms others)
+
 ### Illusion
 
 Rank | Power         | Description
@@ -80,11 +91,11 @@ Rank | Power         | Description
 
 Rank | Power          | Description
 -----|----------------|------------
-0    | Soulgaze       | Lock eyes with target and learn their secrets--but they learn yours, too
-1    | Absorb Magic   | Absorb energy from a touched spell, weakening or dispelling it
-1    | Drain Soul     | Enervate enemy (1 negative level) and gain a soul gem, which can grant you access to their identity and abilities
-2    | Negation       | Disable a single spell or magic item so it can't be used
-2    | Soul Prison    | Curse a living target; if they die while cursed, you trap their soul in a gem.
+0    | [Soulgaze](../powers/thaumaturgist/Soulgaze.md)       | Lock eyes with target and learn their secrets--but they learn yours, too
+1    | [Absorb Magic](../powers/thaumaturgist/Absorb%20Magic.md)   | Absorb energy from a touched spell, weakening or dispelling it
+1    | [Drain Soul](../powers/thaumaturgist/Drain%20Soul.md)     | Enervate enemy and gain a soul gem, which can grant you access to their identity and abilities
+2    | [Negation](../powers/thaumaturgist/Negation.md)       | Disable a single spell or magic item so it can't be used
+2    | [Commandeer Spell](<../powers/thaumaturgist/Commandeer Spell.md>) | Take control of a spell, changing it as you please
 2    | Possession     | Detach your soul from your body, and insert it into a creature, object, or corpse. In a creature or mundane object, you can "ride along" and passively observe, or attempt to whisper suggestions. In a magic item, you can manifest the item's powers. In a corpse, you can animate it as an undead.
 3    | Soul Sunder    | Separate creature's soul from their body (a la Dr Strange). Doesn't kill them, but their body becomes helpless (and vulnerable to Possession).
 3    | Antimagic Zone | Area nullifies magic
@@ -120,16 +131,18 @@ Rank | Power             | Description
 -----|-------------------|------------
 0    | [Magic Missile](../powers/thaumaturgist/Magic%20Missile.md)     | Telekinetically control an objet
 1    | [Animate Object](../powers/thaumaturgist/Animate%20Object.md)    | Object becomes animated and acts as you direct
-1    | Transform Object  | Change properties of an object: size, hardness, form, etc
-2    | Doll              | Creature becomes an inanimate object (reversible)
-2    | ?                 | 
-3    | Ironguard         | You become impervious to metal weapons
+1    | [Transform Object](../powers/thaumaturgist/Transform%20Object.md)  | Change properties of an object: size, hardness, form, etc
+2    | [Doll]              | Creature becomes an inanimate object (reversible)
+2    | ?                   | 
+3    | [Ironguard]         | You become impervious to metal weapons
+
+Ideas:
+- Transubstantiate: change one material into another
 
 
 
 
-
-#### Ritual
+### Ritual
 - Create Phylactery
 - Evoke Flame
 - Death and Rebirth (rk2)
@@ -166,6 +179,8 @@ Choose one of these abilities for each odd level.
 
 
 ### Soul
+- [Spellsteal](#): Upgrades Negation such that you gain access to the negated spell while the effect is active.
+- [Soul Prison](#): You can create special Soul Gems to house the soul shards of Drain Soul. If a creature dies while you possess their soul shard in such a gem, you trap their soul in the gem.
 
 ### Necromancy
 - Create Undead
