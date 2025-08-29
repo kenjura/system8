@@ -145,32 +145,28 @@ Example ([Hard Light][HardLight]):
 
 Rank | Talent                                    | Description
 -----|-------------------------------------------|------------
-1    | [Combat Precognition][CombatPrecognition] | Gain +Wis to AC, more Dodge attempts
-1    | [Blindsense][Blindsense]                  | You have it
-2    | [X-Ray Vision][XRayVision]                | See through concealment, cover, and some walls
-3    | [Blindsight][Blindsight]                  | Got it
+0    | [Probability Analysis][CS0] | Calculate the probability of an event.
+1    | [Precognition][CS1]       | See things before they happen, gaining defensive advantages
+1    | [Extra-Sensory Perception][CS2] | Perceive things spookily, at a distance
+1    | [Object Reading][CS3]           | Learn facts about an object.
+1    | [Sensitivity to Psychic Impressions][CS4] | Perceive the most recent important event in your vicinity.
 
-- [Extra-Sensory Perception][ESP] (remote viewing)
-- [Prognostication][Prognostication]
-- [Sensitivity to Psychic Impressions][Sensitivity]
-- [Object Reading][ObjectReading]
-- [Probability Analysis][ProbabilityAnalysis]
 
-[CombatPrecognition]: /character/powers/psion/combat-precognition.md
-[Blindsense]: /character/powers/psion/blindsense.md
-[XRayVision]: /character/powers/psion/x-ray-vision.md
-[Blindsight]: /character/powers/psion/blindsight.md
+[C01]: /character/powers/psion/probability-analysis.md
+[CS1]: /character/powers/psion/precognition.md
+[CS2]: /character/powers/psion/extra-sensory-perception.md
+[CS3]: /character/powers/psion/object-reading.md
+[CS4]: /character/powers/psion/sensitivity-to-psychic-impressions.md
 
 ### Telepathy
 
-Rank | Talent                                | Description
------|---------------------------------------|------------
-0    | [Mindlink][TP1]                       | Telepathically communicate with other minds.
-1    | [Psychic Assault][TP2]                | Cause psychic damage and debilitation.
-1    | [Empathy][TP3]                        | Sense emotions, cause them in others.
-2    | []
-
-- TBD (schism, personality parasite, mind swap)
+Rank | Talent                         | Description
+-----|--------------------------------|------------
+0    | [Mindlink][TP1]                | Telepathically communicate with other minds.
+1    | [Psychic Assault][TP2]         | Cause psychic damage and debilitation.
+1    | [Empathy][TP3]                 | Sense emotions, cause them in others.
+2    | [Schism][TP4]                  | Create a shard of your mind, in your own head, or others (personality parasite, mind swap)
+2    | [Mind Control][TP5]            | Control another creature's actions.
 
 Feats:
 - [Empathic Feedback](#): When enemies strike you for damage, they feel your pain, suffering equal psychic damage to what you suffered.

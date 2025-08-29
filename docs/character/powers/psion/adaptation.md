@@ -1,6 +1,7 @@
 ---
 class: Psion
 name: Adaptation
+title: Adaptation
 school: Biometabolism
 rank: 1
 type: Enhancement

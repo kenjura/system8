@@ -1,3 +1,13 @@
+---
+class: Psion
+name: Psychic Assault
+title: Psychic Assault
+school: Telepathy
+rank: 1
+type: Assault
+brief: Cause psychic damage and debilitation.
+---
+
 # Psychic Assault
 
 You can harm the minds of creatures with telepathic force.

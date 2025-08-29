@@ -1,3 +1,13 @@
+---
+class: Psion
+name: Mindlink
+title: Mindlink
+school: Telepathy
+rank: 1
+type: Assault
+brief: Telepathically communicate with other minds.
+---
+
 # Mindlink
 
 The telepathic ability to link your mind to another's, allowing to read their thoughts, plant suggestions, etc.
