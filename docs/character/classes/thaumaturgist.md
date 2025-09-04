@@ -156,17 +156,25 @@ Ideas:
 
 ## Talents 
 
+Choose one of these abilities for each level.
+
+### Anti-Mage
+
+Talent        | Description
+------------- | -----------
+[Defensive Absorption](#) | You can use Absorb Magic as a reaction.
+
 
 ### Felicity
 Felicity is the ability of a witch to attune her body to the natural flow of magic. Thus attuned, her very body becomes her instrument of magic. Her touch channels energy, her eye peers into the divine, and her words are laced with power.
 
-Choose one of these abilities for each odd level.
-
-- Mystic Eye: one of your eyes is a weird color or otherwise has a strange appearance. That eye can see the magical aura of invisible and ethereal creatures.
-- Sympathy: Hostile spells sometimes consider you friendly; enemy's beneficial spells sometimes affect you
-- Beast Tongue: You can speak to animals, and they are compelled by your speech; you are able to persuade them to serve you
-- Foresight: You sometimes see things before they happen. You can react to any harmful action in combat, provided you beat its DC with a Perception check. On success, this ability goes on cooldown (recharge 33%).
-- Grudge: When a creature harms you, you can "remember" the harm done, and add it to your own attack against them within 3 rounds. Doesn't stack
+Talent        | Description
+------------- | -----------
+[Mystic Eye](#)   | One of your eyes is a weird color or otherwise has a strange appearance. That eye can see the magical aura of invisible and ethereal creatures.
+[Sympathy](#)    | Hostile spells sometimes consider you friendly; enemy's beneficial spells sometimes affect you.
+[Beast Tongue](#) | You can speak to animals, and they are compelled by your speech; you are able to persuade them to serve you.
+[Foresight](#)    | You sometimes see things before they happen. You can react to any harmful action in combat, provided you beat its DC with a Perception check. On success, this ability goes on cooldown (recharge 33%).
+[Grudge](#)       | When a creature harms you, you can "remember" the harm done, and add it to your own attack against them within 3 rounds. Doesn't stack.
 
 ### Blood
 - [Blood Bank](#): Whenever you heal for any reason, you may exceed your max HP, gaining the excess as temporary Hit Points, which expire at the end of the encounter.
@@ -183,12 +191,22 @@ Choose one of these abilities for each odd level.
 - [Soul Prison](#): You can create special Soul Gems to house the soul shards of Drain Soul. If a creature dies while you possess their soul shard in such a gem, you trap their soul in the gem.
 
 ### Necromancy
-- Create Undead
-- Pocket Monstrosity
-- Graft
-- Necrogenesis
+
+Talent        | Description
+------------- | -----------
+[Create Undead](#) | Using a corpse and components of non-trivial cost, you can make permanent undead servants.
+[Pocket Monstrosity](#) | You can store your undead as figurines, gems, or other small items that keep them in stasis until needed.
+[Graft](#) | You can imbue yourself with undead qualities.
+[Necrogenesis](#) | You can create novel undead of your own devising.
+
+
 
 ### Familiar
+Talent        | Description
+------------- | -----------
+[Familiar](#) | Gain the service of a familiar
+[Improved Familiar](#) | Your familiar can be of an unusual type
+
 
 - Familiar
 - Improved Familiar

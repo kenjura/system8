@@ -29,6 +29,14 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+.table-of-contents__link--active {
+  background-color: var(--ifm-color-primary);
+  color: black;
+  border-radius: 3px;
+  padding: 0.5rem 1rem;
+  position: relative;
+  left: -1rem;
+}
 
 article section {
   /* background-color: hsl(160, 0%, 25%); */

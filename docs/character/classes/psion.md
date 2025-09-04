@@ -80,6 +80,7 @@ Rank | Talent                                        | Description
 - [Portal][Portal]
 - [Time Warp][TimeWarp] (time hop, etc.md)
 - [Warp Bubble][WarpBubble]
+- Space warping as a means of dissolving molecular bonds
 
 Example ([Portal][Portal]):
 - At-will, swift, concentration; you create two portals, both within line of sight and effect. Each is linked to the other. Whatever passes through one comes out the other, with momentum intact (relative to the portal.md). The portals are large enough for a projectile, a Tiny creature, or a Small creature using Acrobatics.
@@ -101,45 +102,47 @@ Example ([Portal][Portal]):
 
 Rank | Talent                              | Description
 -----|-------------------------------------|------------
-1    | [Momentum Control][MomentumControl] | Arrest a charge or cancel falling damage, gain a kinetic charge.
+1    | [Telekinesis][PK2]                  | Spookily move things at a distance.
+1    | [Pyrokinesis][PK3]                  | Manipulate thermal energy.
+1    | [Electrokinesis][PK4]               | Manipulate electromagnetic energy.
+2    | [Gravity][PK5]                      | Manipulate the force of gravity.
 
-
-- [Pyrokinesis][Pyrokinesis]
 - [Cryokinesis][Cryokinesis]
-- [Electrokinesis][Electrokinesis]
-- [Telekinesis][Telekinesis]
-- [Gravity][Gravity]
-
-Example ([Electrokinesis][Electrokinesis]):
-- You can create a charge that inflicts heavy (touch.md) or medium (ranged.md)
-- 1 Focus each: chain, stun, static charge
+- Something involving chemical bonds
 
 
-[MomentumControl]: /character/powers/psion/momentum-control.md
+[PK2]: /characters/powers/psion/telekinesis.md
+[PK2]: /characters/powers/psion/pyrokinesis.md
+[PK3]: /characters/powers/psion/electrokinesis.md
+
+Feats:
+- [Momentum Control](#): Special use of telekinesis to arrest a charge or cancel falling damage, gaining kinetic charge.
+- [Shield of Force](#): Use telekinesis to deflect attacks.
+
 
 ### Metacreativity
 
 Rank | Talent                                    | Description
 -----|-------------------------------------------|------------
-1    | [Metaphysical Weapon][MetaphysicalWeapon] | At-will, swift; create an astral construct in the form of a weapon with which you are proficient. At higher ranks, enhance it.
-2    | [Tower of Iron Will][TowerOfIronWill]     | Nearby allies' mental defenses are enhanced.
-3    | [Incarnate][Incarnate]                    | Create a semi-sentient "minion" out of a Power you know (see details, lol)
+1    | [Astral Construct][MC1]    | Create an astral construct in the form a minion.
+1    | [Metaphysical Weapon][MC2] | Create an astral construct in the form of a weapon with which you are proficient.
+1    | [Photokinesis][MC3]        | Create or modify light.
+1    | [Hard Light][MC4]          | Create a massless, gravity-defying material that behaves like a solid.
+2    | [Tower of Iron Will][MC3]     | Nearby allies' mental defenses are enhanced.
+2    
+3    | [Incarnate][MC4]                    | Create a semi-sentient "minion" out of a Power you know (see details, lol)
 
+Ideas:
+- [Object Repair](#)
+- [Astral Seed](#) (create dreams, copies of yourself, demiplanes, etc, in the Astral)
+- Dream
 
-- [Astral Construct][AstralConstruct]
-- [Hard Light][HardLight]
-- [Object Repair][ObjectRepair]
-- [Astral Seed][AstralSeed] (create dreams, copies of yourself, demiplanes, etc, in the Astral)
-- [Catapsi][Catapsi]
-
-Example ([Hard Light][HardLight]):
-- At-will, swift, ranged, conc; creates a a simple object made of hard light, such as a shielding bubble, a defensive wall, or an animated melee weapon.
-  - Focus: more complex objects, animated objects, objects that wield their own hard light powers, etc
-
-
-[MetaphysicalWeapon]: /character/powers/psion/metaphysical-weapon.md
-[TowerOfIronWill]: /character/powers/psion/tower-of-iron-will.md
-[Incarnate]: /character/powers/psion/incarnate.md
+[MC1]: /character/powers/psion/astral-construct.md
+[MC2]: /character/powers/psion/metaphysical-weapon.md
+[MC3]: /character/powers/psion/photokinesis.md
+[MC4]: /character/powers/psion/hard-light.md
+[MC5]: /character/powers/psion/tower-of-iron-will.md
+[MC6]: /character/powers/psion/incarnate.md
 
 ### Clairsentience
 
@@ -167,30 +170,15 @@ Rank | Talent                         | Description
 1    | [Empathy][TP3]                 | Sense emotions, cause them in others.
 2    | [Schism][TP4]                  | Create a shard of your mind, in your own head, or others (personality parasite, mind swap)
 2    | [Mind Control][TP5]            | Control another creature's actions.
+2    | [Catapsi][TP6]                 | Psychic noise interferes with concentration and spellcasting.
 
 Feats:
 - [Empathic Feedback](#): When enemies strike you for damage, they feel your pain, suffering equal psychic damage to what you suffered.
 
+[TP1]: /character/powers/psion/mindlink.md
+[TP2]: /character/powers/psion/psychic-assault.md
+[TP3]: /character/powers/psion/empathy.md
+[TP4]: /character/powers/psion/schism.md
+[TP5]: /character/powers/psion/mind-control.md
+[TP6]: /character/powers/psion/catapsi.md
 
-[Fission]: /character/powers/psion/fission.md
-[Portal]: /character/powers/psion/portal.md
-[TimeWarp]: /character/powers/psion/time-warp.md
-[WarpBubble]: /character/powers/psion/warp-bubble.md
-[Pyrokinesis]: /character/powers/psion/pyrokinesis.md
-[Cryokinesis]: /character/powers/psion/cryokinesis.md
-[Electrokinesis]: /character/powers/psion/electrokinesis.md
-[Telekinesis]: /character/powers/psion/telekinesis.md
-[Gravity]: /character/powers/psion/gravity.md
-[AstralConstruct]: /character/powers/psion/astral-construct.md
-[HardLight]: /character/powers/psion/hard-light.md
-[ObjectRepair]: /character/powers/psion/object-repair.md
-[AstralSeed]: /character/powers/psion/astral-seed.md
-[Catapsi]: /character/powers/psion/catapsi.md
-[ESP]: /character/powers/psion/extra-sensory-perception.md
-[Prognostication]: /character/powers/psion/prognostication.md
-[Sensitivity]: /character/powers/psion/sensitivity-to-psychic-impressions.md
-[ObjectReading]: /character/powers/psion/object-reading.md
-[ProbabilityAnalysis]: /character/powers/psion/probability-analysis.md
-[Mindlink]: /character/powers/psion/mindlink.md
-[PsychicAssault]: /character/powers/psion/psychic-assault.md
-[Empathy]: /character/powers/psion/empathy.md
