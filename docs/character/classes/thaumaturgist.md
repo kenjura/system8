@@ -133,7 +133,7 @@ Rank | Power             | Description
 1    | [Animate Object](../powers/thaumaturgist/animate-object.md)    | Object becomes animated and acts as you direct
 1    | [Transform Object](../powers/thaumaturgist/transform-object.md)  | Change properties of an object: size, hardness, form, etc
 2    | [Doll]              | Creature becomes an inanimate object (reversible)
-2    | ?                   | 
+2    | [Wall of Polymorph](#) | Anything that crosses wall gets polymorphed (e.g. incoming missiles become bubbles)
 3    | [Ironguard]         | You become impervious to metal weapons
 
 Ideas:

@@ -51,7 +51,7 @@ article section[data-name="Talents"] {
 article section[data-name="Powers"] {
   background-color: hsl(277.96deg 100% 12.50% / 50%);
 }
-
+/*
 article header {
   container-type: scroll-state;
   position: sticky;
@@ -61,6 +61,23 @@ article header {
 
 article header h1, article header h2 {
   transition: margin-left 0.3s, left 0.3s, top 0.3s;
+}
+
+article h2 {
+    position: sticky;
+  top: 56px;
+  background: #1b1b1d;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid white;
+
+}
+
+article h3 {
+    position: sticky;
+  top: 96px;
+  background: #1b1b1d;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid white;
 }
 
 @container scroll-state(stuck: top) {
@@ -79,9 +96,16 @@ article header h1, article header h2 {
     white-space: nowrap;
   }
   h2 {
+    top: 56px;
   }
 }
-/* 
+
+
+*/
+
+ 
+/*possible table style 1*/
+/*
 article table td {
   vertical-align: top;;
 }
@@ -108,4 +132,25 @@ article table:not(.foo) tr:nth-child(2n) {
 article table:not(.foo) td,
 article table:not(.foo) th {
   border: none;
-} */
+} 
+*/
+
+
+/* possible table style 2 */
+td {
+  border-left-color: transparent;
+  vertical-align: top;
+  border-right-color: transparent;
+  border-color: transparent;
+}
+@layer docusaurus.infima {
+  table tr:nth-child(2n) {
+    background-color: rgba(255,255,255,0.033);
+  }
+}
+thead, thead tr, thead th {
+  background-color: transparent !important;
+  border-width: 0;
+  border-bottom-width: 1px;
+  text-align: left;
+}
