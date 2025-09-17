@@ -156,7 +156,9 @@ Summon a cloud of sprites:
 - Flame
 - Frost
 - Healing?
+- Stripping?
 - etc
+
 
 
 ## Infernal
@@ -246,3 +248,48 @@ At-will, swift, concentration; you immolate yourself, such that enemies who stri
 Corruption:
 - You can make the greater fire resistance permanent, but your skin is permanently demonic (strange color, inhuman texture, markings, etc).
 
+
+
+## Shadow
+
+### Darkness
+Create darkness.
+
+Ideas:
+- Wall of Shadows
+- Void Zone
+- Armor of Darkness?
+
+### Demi
+Recharge 33%, std, ranged; subject suffers necrotic damage sufficient to reduce their Hit Points to half of maximum (if currently higher). They are allowed a Con save for half damage.
+
+Empowered:
+- For one soul shard, the damage is sufficient to reduce the target to 1 HP instead.
+- For one soul shard, convert to a circle 2.
+
+### Drain Soul
+At-will, std, ranged; subject suffers medium necrotic damage, and you gain a soul shard.
+
+Ideas:
+- AoE?
+- Trap the Soul
+
+
+### Shadow Form
+At-will, swift, sustained; you obscure your features, becoming a silhouette of darkness. If you are in darkness, you become invisible, even to darkvision.
+
+Empowered:
+- For one soul shard, you can become an incorporeal shadow for 5 rounds.
+- For one soul shard, you can discorporate into a pool of darkness for 1 round as a reaction (recharge 33%).
+
+
+### Shadow Walk
+Shadowstep, shadow walk, etc
+
+
+### Star of the Void
+At-will, std, 1 soul shard; you conjure a mote of pure void, which annihilates everything it touches. Each round, as a standard action, you can command it to attack a single target within range, causing heavy disintegration damage if it hits. When you wish to end the spell, you must spend a standard action and defeat the spell's DC with a Charisma save. On failure, it does not go away, and if you fail by 10 or more, it attacks whoever it pleases. Each time the star strikes for damage, its DC increases by 1.
+
+Enhancement ideas:
+- Use it defensively
+- AoE's (line attacks)
