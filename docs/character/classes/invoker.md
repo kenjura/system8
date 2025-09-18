@@ -36,11 +36,32 @@ Level | Special Ability
 19    |
 20    |
 
-- 1 Pact per level
-- 1 Talent per level
+
+## Abilities
+
+### Soul Shards
+Soul Shards are a unit of measuring Anima, or the essence contained within souls. One soul shard does not equal one human soul--its a far smaller quantity, and in any case, not all souls have the same amount of Anima. The Shard is a useful atomic unit, the smallest significant portion of Anima that can be put to use.
+
+You can acquire Soul Shards in several ways:
+- Your own soul is worth (5 + Cha) x level soul shards. You can spend from your own soul freely, but if you ever possess less than half of your own total, you are vulnerable to control by extraplanar entities, and at 0, you are helpless to resist them.
+- You can drain soul shards from other creatures with various Invoker powers.
+- Each time you convince an individual with a soul to sin, you gain an amount of shards commensurate with the intensity of the sin (1 for a minor venial sin, 5 for a clear mortal sin, more possible in extreme cases).
+
+You can spend Soul Shards in several ways:
+- Most powers can be empowered by spending shards, as specified in the power's description.
+- There are some general uses for shards (TBD)
+
+
+### Corruption
+Certain temporary abilities from your powers that cost soul shards can become permanent, not requiring them, although it comes at a cost, twisting your mortal form into one more suited to your increasingly extraplanar nature.
+
+TBD
+
 
 
 ## Powers
+
+You gain one power per level.
 
 
 
@@ -67,7 +88,7 @@ Rank | Power                    | Description
 [MA]: /character/powers/invoker/the-airborne.md
 [MM]: /character/powers/invoker/the-master.md
 
-### Astral
+### Celestial
 
 Category         | Power                                                          | Description                                                                                                                      |
 -----------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------
@@ -79,145 +100,52 @@ Category         | Power                                                        
 - Silver Sword (Astral Weapon?)
 - Stuff with crystals
 
+- Light of Lunia
+
+
+### Fey
+
+Rank | Power             | Description
+-----|-------------------|------------
+1    | [Color Spray](#color-spray)      | Spray colors on creatures or terrain
+1    | [Curse of Tongues](#curse-of-tongues) | Interfere with creature's ability to communicate
+1    | [Fey Step](#fey-step)            | Teleport short distances, create doorways, or travel to the Feywild
+1    | [Glamour](#glamour)              | Change appearance, become invisible, or disguise allies
+1    | [Magic Fingers](#magic-fingers)  | Ranged legerdemain, cause sensations with a touch
+1    | [Siren Song](#siren-song)        | Use your voice for magical effects like countersong, fascination, or suggestion
+1    | [Summon Sprites](#summon-sprites)| Summon a cloud of magical sprites with various effects
+
 
 
 ### Infernal
 
-
-| Category         | Power                       | Description                                                                                                                      |
-|------------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| **Assault**      | [Immolation](#)             | Set creatures and objects on fire. Can also set yourself on fire if resistant or immune, causing damage to nearby enemies.       |
-| **Assault**      | [Demon Seed](#)             | Demon grows within creature, causing internal damage, then exploding out of them and becoming an ally in battle.                 |
-| **Control**      | [Temptation](#)             | Tempt enemies to join your cause with grants of power.                                                                           |
-| **Debilitation** | [Curse of Agony](#)         | Pain debilitates your enemies.                                                                                                   |
-| **Defense**      | [Fiendish Endurance][IFE]   | Gain resistance to poison and disease.                                                                                           |
-| **Defense**      | [Hellish Rebuke][IHR]       | Automatically retaliate with fire damage when hit.                                                                               |
-| **Enhancement**  | [Devil Trigger][IDT]        | Become a half-fiend for a while.                                                                                                 |
-| **Mobility**     | [Infernal Wings][IIW]       | Sprout wings for gliding, slow fall, and at higher ranks, flight.                                                                |
-| **Shaping**      | [Sigil of Flame](#)         | Demonic sigil summons pure hellfire to harm enemies.                                                                             |
-| **Utility**      | [Mana Burn](#)              | Set fire to spells, dispelling them and causing fire damage to those nearby.                                                     |
-
-[IFE]: /character/feats/invoker/fiendish-endurance.md
-[IHR]: /character/feats/invoker/hellish-rebuke.md
-[IDT]: /character/feats/invoker/devil-trigger.md
-[IIW]: /character/feats/invoker/infernal-wings.md
-
-
-### Fey
-| Category         | Power                    | Description                                                                                                   |
-|------------------|--------------------------|---------------------------------------------------------------------------------------------------------------|
-| **Mobility**     | [Fey Step](#)            | Teleport via the faery realm. Slight chance to pick up some random magic effects en route.                    |
-| **Enhancement**  | [Glamour][FG]            | Enhance Cha-based skills, change appearance.                                                                  |
-| **Summoning**    | [Summon Sprite][FSS]     | Summon tiny sprites that can do a few things (cause damage, manipulate objects, create minor illusions).      |
-| **Control**      | [Enchanted Voice][FEV]   | Charm or calm creatures with your words.                                                                      |
-| **Defense**      | [Veil][FV]               | Blur your appearance, making it harder to hit you; at higher rank, become invisible.                         |
-| **Debilitation** | [Revelry][FR]            | Inspire emotions leading to irresponsible merrymaking or inspiring revelry.                                   |
-| **Utility**      | [Magic Fingers](#)       | Manipulate things at a distance (legerdemain, snatch, strip, etc).                                            |
-| **Debilitation** | [Curse of Tongues](#)    | Target cannot speak intelligibly, hindering spellcasting.                                                     |
-| **Shaping**      | [Color Spray](#)         | Paint creatures and the environment with magical colors with many effects.                                    |
-
-[FFS]: /character/feats/invoker/fey-step.md
-[FG]: /character/feats/invoker/glamour.md
-[FSS]: /character/feats/invoker/summon-sprite.md
-[FEV]: /character/feats/invoker/enchanted-voice.md
-[FV]: /character/feats/invoker/veil.md
-[FR]: /character/feats/invoker/revelry.md
-
-
-### Shadow
-| Category         | Power                    | Description                                                                                   |
-|------------------|--------------------------|-----------------------------------------------------------------------------------------------|
-| **Mobility**     | [Shadow Jump][SSJ]       | Teleport from shadow to shadow                                                                |
-| **Defense**      | [Dissolution][SD]        | Recharge 33%, reaction or free; you become incorporeal shadows for 1 round.                   |
-| **Defense**      | [Cloak of Shadows][SCD]  | Resist magic, shake off debilitations                                                         |
-| **Summoning**    | [Shadow Double][SSD]     | Conjure a shadow double who can manifest your powers, distract enemies, etc                   |
-| **Mobility**     | [Shadow Walk][SSW]       | Phase in and out of the Shadow Plane                                                          |
-| **Shaping**      | [Darkness](#)            | Makes things...dark                                                                           |
-| **Utility**      | [Shadowstuff](#)         | Make things out of shadow                                                                     |
-| **Assault**      | [Star of the Void](#)    | Mote of annihilation can destroy any foe, but is dangerous to wield                           |
-| **Debilitation** | [Call of the Void](#)    | Inflict fear, madness, or despair upon foes                                                   |
-| **Debilitation** | [Corruption](#)          | Enemies' abilities gradually become weaker                                                    |
-
-[SSJ]: /character/feats/invoker/shadow-jump.md
-[SD]: /character/feats/invoker/dissolution.md
-[SCS]: /character/feats/invoker/cloak-of-shadows.md
-[SSD]: /character/feats/invoker/shadow-double.md
-[SSW]: /character/feats/invoker/shadow-walk.md
-
----
-
-Goals:
-- Achieve the feel of "channeling the power of the Outer Planes"
-- Achieve the concept of "pacting with planar entities", complete with noticeable power advantages and debt
-- Invocation is the "easy path"--no study, no special genetics, just power on demand, for a terrible price
-- Pure caster, melee hybrid, summoner--it doesn't change anything WRT the cost. Power is power, and debt is debt
-- The primary way to pay debt is Anima
-
-
-### Ethereal
 Rank | Power               | Description
 -----|---------------------|------------
-1    | [Phase Hand](#)     | Phase your hand (or other extremity) through a physical barrier.
-1    | [Ethereal Wind](#)  | Create "wind" amongst the ether, which is the conduit for magical energy. You can "blow out" spells, or establish a headwind against which they have difficulty propagating.
-2    | [Ethereal Jaunt](#) | Briefly enter the ethereal plane, exiting at the end of your turn.
-2    | [Banishment](#)     | Banish a foe to the ethereal plane for a spell.
-3    | []
-
-- Etheric Armor: ward of ethereal energy
-- Animate Object
-- Possession
-- Spiritwalking
-
-## Talents
-
-### Astral
-Rank | Talent               | Description
------|----------------------|------------
-
-
-
-### Fey
-Rank | Talent               | Description
------|----------------------|------------
-
-
-
-### Infernal
-Rank | Talent               | Description
------|----------------------|------------
-1    | [Flame-spawned][IFS] | Resist fire 50%.                                                                                                                 |
-
-[IFS]: /character/feats/invoker/flame-spawned.md
+1    | [Wreathed in Flames](#wreathed-in-flames) | You resist fire, and radiate it
+1    | [Immolate](#immolate) | Set enemies on fire
+1    | [Curse of Agony](#curse-of-agony) | Debilitate enemies with pain
+1    | [Infernal Wings](#infernal-wings) | Slow fall, glide, double jump even fly
+1    | [Devil's Eye](#devils-eye) | See the unseen, blast enemies with cool eye lasers
+1    | [Demonic Sigil](#demonic-sigil) | Inscribe a sigil on the ground, producing various effects
+1    | [Mana Burn](#mana-burn) | "Burn" an enemy's magical ability, rendering it useless
+1    | [Scourge of Seduction](#scourge-of-seduction) | Summon a whip that causes pain or submission
 
 
 ### Shadow
-Rank | Talent               | Description
+
+Rank | Power                | Description
 -----|----------------------|------------
-1    | [Armor of Darkness][SAD] | Gain AC and concealment in darkness                                                           |
-1    | [Devilsight][SD]         | See in the dark                                                                               |
+1    | [Call of the Void](#call-of-the-void) | Inflict fear, madness, or despair upon foes                            
+1    | [Darkness](#darkness)           | Create an area of magical darkness
+1    | [Demi](#demi)                   | Reduce a target's HP to half (or 1 with empowerment)
+1    | [Drain Soul](#drain-soul)       | Deal necrotic damage and gain a soul shard
+1    | [Shadow Form](#shadow-form)     | Become a silhouette of darkness, invisible in darkness
+1    | [Shadow Walk](#shadow-walk)     | Teleport or move through shadows
+1    | [Star of the Void](#star-of-the-void) | Summon a mote of void that disintegrates targets
 
-[SAD]: /character/feats/invoker/armor-of-darkness.md
-[SD]: /character/feats/invoker/devilsight.md
+### Ideas
 
-
-### Bladebound
-Rank | Talent               | Description
------|----------------------|------------
-1    | [Fusion](#)          | Bind an outsider into a weapon to enhance it.
-
-- Sigils
-- Metamorphosis
-- Prize
-- Armiger
-
-
-### Summoner
-
-
-
-# Ideas
-
-## Faceted Powers
+#### Faceted Powers
 Powers that do essentially the same thing but are flavored based on your favored pact.
 
 Short-range Teleport:
@@ -235,3 +163,183 @@ Eldritch Blast:
 - Jubilation
 - Corruption? or just Shadow Bolt
 
+
+
+
+
+## Power Descriptions
+
+### Fey
+
+#### Color Spray
+Spray colors on creatures or terrain. TBD
+
+#### Curse of Tongues
+Interfere with creature's ability to communicate. TBD
+
+#### Fey Step
+Recharge 33%, move; you teleport to a location within 6 squares that you can see. 
+- For 1 soul shard, you can extend the range to visual.
+- For 1 soul shard, you can create a doorway that remains open while you concentrate, allowing two-way teleportation, to a maximum duration of 3 rounds.
+- At rank 2, for 2 soul shards, you can create a doorway that does not lead to another doorway in the same plane, but rather into the Feywild (or back out of it, if already inside)
+
+#### Glamour
+At-will, swift, sustained; you change your physical appearance however you please (same size and type, i.e. humanoid, but other factors can change at will). If you optimize your appearance for a specific purpose, such as seduction or intimidation, this effect grants advantage to skill checks toward that purpose.
+- For 1 soul shard, you can become invisible, remaining so as long as you concentrate, do not move more than half speed, and neither inflict nor suffer damage.
+- For 1 soul shard, you can glamour yourself and allies within a burst 2.
+
+#### Magic Fingers
+Ranged legerdemain, cause sensations with a touch, etc
+
+
+#### Siren Song
+Your voice carries magical power, which can be used to:
+- Countersong
+- Fascinate
+- Suggest
+etc...
+
+TBD
+
+#### Summon Sprites
+Summon a cloud of sprites:
+- Flame
+- Frost
+- Healing?
+- etc
+
+
+### Infernal
+
+#### Curse of Agony
+At-will, std, ranged; subject is immobilized and unable to take actions (Con ends).
+
+Empowered:
+- For one soul shard, you can cause a wave of pain to all enemies within a burst 2.
+- For one soul shard, you can rend the subject's body, causing medium ongoing internal damage while the effect persists.
+
+
+#### Demon Claw
+At-will, swift, sustained; your hand or hands transform, growing fearsome claws. You gain a claw attack (Str or Dex-based, heavy slashing damage). You gain your Charisma bonus to grapple checks with said claws.
+
+When your claws are active, you can conjure fire from them:
+- At-will, std, ranged; you throw a fireball that inflicts heavy fire damage
+- For 1 soul shard, you can add an Immolate effect to each successful melee attack for the next 3 rounds
+
+Corruption:
+- You can make this effect permanent, but your claws never recede.
+
+
+
+#### Demonic Sigil
+Recharge 33%, std, ranged, circle 2; you burn a sigil into the ground, which glows with fel energy. Its form and purpose varies based on your choice of sigil:
+
+Free:
+- Magic Circle: barrier cannot be crossed by the bodies of extraplanar beings, nor by their powers. As a standard action, they can attempt to force their way to the other side by passing a Charisma save against your DC.
+
+1 soul shard:
+- Sigil of Flame: enemies in the area suffer medium fire damage on turn start. Allies gain advantage to damage rolls with fire damage effects.
+- Sigil of Protection: all damage suffered by allies within the area is split evenly between all creatures within the sigil.
+- Sigil of Teleportation: creates two linked sigils. Allies stepping in one are teleported to the other (max once/rd per creature).
+
+Ideas:
+- Anti-magic / Stun
+- Trap (Chains)
+- Blood
+
+#### Devil's Eye
+At-will, swift, concentration; you activate a form of vision where you can see the auras of living or magically-animated creatures (even in total darkness). You can tell from the aura if the creature is natural, undead, magically animated (e.g. construct or elemental), or extraplanar (and which planar alignment).
+
+Empowered:
+- At-will, std, line 3, 1 soul shard; from your eyes, a blast of fel energy surges forth, burning enemies for heavy fire damage.
+
+Corruption:
+- You can make this effect permanent, gaining the vision effect at all times, and gaining the ability to use eye lasers on a recharge 33%. But your eyes always glow with visible fel energy, marking your demonic power plainly.
+
+
+#### Immolate
+At-will, std, ranged; subject bursts into flames, suffering medium fire damage, plus the same ongoing (Dex ends).
+
+Empowered:
+- For one soul shard, you can cause all enemies in a burst 2 to be immolated.
+- For one soul shard, you can cause an ongoing Immolate effect to cause 3 rounds' worth of damage instantly.
+
+
+#### Infernal Wings
+At-will, free or reaction to falling; you sprout infernal wings, allowing you to glide 5 squares horizontally for each 1 square you fall, and negating falling damage. Your jump distance is doubled in height and length.
+
+Empowered:
+- For one soul shard, you gain a levitate speed equal to your walking speed for 5 rounds. At rank 2, this becomes a fly speed. At rank 3, the speed doubles.
+
+Corruption:
+- You can make Infernal Wings permanent. This costs nothing, but the wings no longer emerge as needed--they are always present.
+
+#### Mana Burn
+At-will, std, ranged; you attempt to dispel any ongoing spell effect by igniting the mana contained within it. If the effect is upon a creature or object, they suffer medium fire damage. Roll your casting skill vs the power's DC (with a -5 penalty per rank above your own if the effect is higher rank than you). On success, the effect ends.
+- For one soul shard, you can attempt to dispel all spells currently active on a single target, or one spell effect on each target within a burst 2.
+
+Recharge 33%, std, ranged; you attack the magical essence of a creature. If they have generic magical essence, such as Mana or spell slots, you attack those, removing 1d3 of them (1d4+1 at rank 2, 1d6+2 at rank 3, etc), with a Charisma save for half, causing medium fire damage per point removed. You can also target a specific magical ability that does not cost such points (such as an encounter, recharge, or at-will power), causing medium fire damage, and if they fail the save, they lose the ability to use that power for a number of round equal to the die roll previously mentioned.
+- For one soul shard, you can maximize the die roll of mana or rounds.
+
+#### Scourge of Seduction
+At-will, swift, sustained as long as you hold it; you summon a whip, which can be used as a weapon (extended reach, Dex-based, medium slashing damage) which causes pain (on successful damage, subject is immobilized and unable to take actions for 1 round if they fail a Con save). Additional uses:
+- At-will, swift, 3 square reach; subject is grappled by the whip, and unable to move further away unless they defeat you in a Strength contest, disarming you, or if they escape the grapple.
+- At-will, std, 3 square reach, 1 soul shard; subject is stung by the whip (0 damage, but you must still hit), and ensorceled with fel energies. They are compelled to serve you as a faithful minion (Cha ends).
+
+#### Wreathed in Flames
+You gain Resist 50% (fire).
+- For 1 soul shard, as an immediate action, you gain increase this to 100% resistance for 5 rounds.
+
+At-will, swift, concentration; you immolate yourself, such that enemies who strike you with a natural weapon suffer heavy fire damage each time they do, and enemies within 1 square of you suffer medium fire damage on turn start.
+- If your fire resistance is 100% for any reason, the radiant damage is heavy, not medium, and has a radius of 2 squares.
+
+Corruption:
+- You can make the greater fire resistance permanent, but your skin is permanently demonic (strange color, inhuman texture, markings, etc).
+
+
+### Shadow
+
+#### Call of the Void
+Inflict fear, madness, or despair upon foes                               
+
+#### Darkness
+Create darkness.
+
+Ideas:
+- Wall of Shadows
+- Void Zone
+- Armor of Darkness?
+
+#### Demi
+Recharge 33%, std, ranged; subject suffers necrotic damage sufficient to reduce their Hit Points to half of maximum (if currently higher). They are allowed a Con save for half damage.
+
+Empowered:
+- For one soul shard, the damage is sufficient to reduce the target to 1 HP instead.
+- For one soul shard, convert to a circle 2.
+
+#### Drain Soul
+At-will, std, ranged; subject suffers medium necrotic damage, and you gain a soul shard.
+
+Ideas:
+- AoE?
+- Trap the Soul
+
+
+#### Shadow Form
+At-will, swift, sustained; you obscure your features, becoming a silhouette of darkness. If you are in darkness, you become invisible, even to darkvision.
+
+Empowered:
+- For one soul shard, you can become an incorporeal shadow for 5 rounds.
+- For one soul shard, you can discorporate into a pool of darkness for 1 round as a reaction (recharge 33%).
+
+
+#### Shadow Walk
+Shadowstep, shadow walk, etc
+
+
+#### Star of the Void
+At-will, std, 1 soul shard; you conjure a mote of pure void, which annihilates everything it touches. Each round, as a standard action, you can command it to attack a single target within range, causing heavy disintegration damage if it hits. When you wish to end the spell, you must spend a standard action and defeat the spell's DC with a Charisma save. On failure, it does not go away, and if you fail by 10 or more, it attacks whoever it pleases. Each time the star strikes for damage, its DC increases by 1.
+
+Enhancement ideas:
+- Use it defensively
+- AoE's (line attacks)
