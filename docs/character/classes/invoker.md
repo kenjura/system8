@@ -169,6 +169,19 @@ Eldritch Blast:
 
 ## Power Descriptions
 
+### Astral
+
+#### Hard Light
+At-will, swift, concentration; you form light into a crystalline structure of your own design, that you wield with your hand or hands. You can form weapons, shields, handheld tools, etc. They work as well as their mundane counterparts.
+
+For 1 soul shard, you can make an oversized, supercharged weapon that inflicts heavy damage plus additional benefits based on design:
+- Bludgeoning: each hit causes a push 2 plus knockdown (Str negates).
+- Slashing: you can attack all enemies in a cone 2 with a single melee attack.
+- Piercing: your attacks are a line 5x1.
+
+For 1 soul shard, you can create a wall up to 10 feet wide and tall per rank. You must maintain contact with it to sustain it, as it is stationary with respect to the ground. The wall blocks all movement and line of effect, but is transparent.
+
+
 ### Fey
 
 #### Color Spray

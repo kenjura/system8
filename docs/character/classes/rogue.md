@@ -75,7 +75,6 @@ Examples:
 - [Pain Absorption](#): at-will, 1 soul shard, reaction to suffering damage; exercising an ancient technique passed from assassin to assassin, you harness the pain of a strike, and convert it into deadly power. Half of the damage of the attack is negated. Furthermore, record the amount that was negated; you can add that amount to a weapon attack within the next 3 rounds.
 - Oath of Murder
 - [Void Strike](#): 1 soul shard, swift; you whisper words of Shadow magic, imbuing your melee weapon with the power of the Void. Your next successful melee attack also dispels one magical effect on the subject, if the attack roll exceeds that effect's DC.
-- [Soul Sacrifice](#): 1 soul shard, immediate; you 
 
 
 ### Shadowdancer
