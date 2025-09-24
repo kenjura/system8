@@ -8,7 +8,7 @@ type: Enhancement
 brief: Adapt your body to heat, cold, pressure, or other extreme environments.
 ---
 
-At-will, swift, requires Focus, 1 mana; you modify your body, such that you are inured to extreme environments that might otherwise be harmful.
+At-will, swift, requires Focus; you modify your body, such that you are inured to extreme environments that might otherwise be harmful.
 
 When you activate this ability, choose one of the benefits below. You can also change which one is active as a swift action.
 - You are resistant to heat, gaining Resist 50% (fire damage). In temperatures up to the extreme edge of survivability for your species, you are comfortable. For humans, about 140°F or 60°C.
@@ -19,3 +19,5 @@ When you activate this ability, choose one of the benefits below. You can also c
 - You are resistant to acid, gaining Resist 50% (acid damage).
 
 If you expend Focus, you can become immune to one energy type for 1 round.
+
+You can "slot" multiple Focus points to gain multiple benefits simultaneously.

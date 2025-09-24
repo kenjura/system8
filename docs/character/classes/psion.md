@@ -32,6 +32,8 @@ Most Psionic abilities require Focus. Some expend Focus, meaning the state ends.
 
 If you lose consciousness or enter the Dying state, you lose Focus.
 
+At higher levels, your ability to focus increases beyond normal human capacity. Each time your proficiency bonus or rank increases (level 5, 9, 13, and 17), you gain +1 to your maximum Focus. You are always considered "Focused" if your current Focus is above 0, and "expending Focus" reduces it by 1 instead of automatically ending it.
+
 
 ### Mind Over Body
 While you are in a state of Focus, your physical abilities are augmented by your mental ones.
@@ -111,9 +113,9 @@ Rank | Talent                              | Description
 - Something involving chemical bonds
 
 
-[PK2]: /characters/powers/psion/telekinesis.md
-[PK2]: /characters/powers/psion/pyrokinesis.md
-[PK3]: /characters/powers/psion/electrokinesis.md
+[PK2]: /character/powers/psion/telekinesis.md
+[PK2]: /character/powers/psion/pyrokinesis.md
+[PK3]: /character/powers/psion/electrokinesis.md
 
 Feats:
 - [Momentum Control](#): Special use of telekinesis to arrest a charge or cancel falling damage, gaining kinetic charge.
@@ -136,6 +138,7 @@ Ideas:
 - [Object Repair](#)
 - [Astral Seed](#) (create dreams, copies of yourself, demiplanes, etc, in the Astral)
 - Dream
+- Astral Bastion
 
 [MC1]: /character/powers/psion/astral-construct.md
 [MC2]: /character/powers/psion/metaphysical-weapon.md
@@ -165,9 +168,11 @@ Rank | Talent                                    | Description
 
 Rank | Talent                         | Description
 -----|--------------------------------|------------
-0    | [Mindlink][TP1]                | Telepathically communicate with other minds.
+1    | [Mindlink][TP1]                | Telepathically communicate with other minds.
 1    | [Psychic Assault][TP2]         | Cause psychic damage and debilitation.
 1    | [Empathy][TP3]                 | Sense emotions, cause them in others.
+1    | [Mind Reading][TMR]            | Read people's thoughts
+2    | [Inception][TI]                | Plant ideas in others' heads
 2    | [Schism][TP4]                  | Create a shard of your mind, in your own head, or others (personality parasite, mind swap)
 2    | [Mind Control][TP5]            | Control another creature's actions.
 2    | [Catapsi][TP6]                 | Psychic noise interferes with concentration and spellcasting.
@@ -178,7 +183,24 @@ Feats:
 [TP1]: /character/powers/psion/mindlink.md
 [TP2]: /character/powers/psion/psychic-assault.md
 [TP3]: /character/powers/psion/empathy.md
+[TPM]: /character/powers/psion/mind-reading.md
+[TI]: /character/powers/psion/inception.md
 [TP4]: /character/powers/psion/schism.md
 [TP5]: /character/powers/psion/mind-control.md
 [TP6]: /character/powers/psion/catapsi.md
 
+
+
+## Talents
+
+### Psychic Warrior
+
+Talent | Description
+-------|------------
+[Fistweaving](#) | When you land a successful melee attack, you gain 1 Focus (max 1 per std action).
+
+### Assorted
+
+Talent | Description
+-------|------------
+[Perfect Manifestation] | When you achieve critical success on a power that requires a roll, it does not expend Focus.
