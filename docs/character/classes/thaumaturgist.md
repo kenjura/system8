@@ -150,225 +150,28 @@ Ideas:
 - Create Greater Phylactery (rk3)
 
 
+## Spells that need porting
+- Grudge
+- Foresight
+- Mystic Eyes
+- Spellsteal
 
 
+## Hedgecraft
 
+You learn one of these recipes per level, crafting one of the item in question to use in your thaumaturgical rituals.
 
-## Talents 
-
-Choose one of these abilities for each level.
-
-### Anti-Mage
-
-Talent        | Description
-------------- | -----------
-[Defensive Absorption](#) | You can use Absorb Magic as a reaction.
-
-
-### Felicity
-Felicity is the ability of a witch to attune her body to the natural flow of magic. Thus attuned, her very body becomes her instrument of magic. Her touch channels energy, her eye peers into the divine, and her words are laced with power.
-
-Talent        | Description
-------------- | -----------
-[Mystic Eye](#)   | One of your eyes is a weird color or otherwise has a strange appearance. That eye can see the magical aura of invisible and ethereal creatures.
-[Sympathy](#)    | Hostile spells sometimes consider you friendly; enemy's beneficial spells sometimes affect you.
-[Beast Tongue](#) | You can speak to animals, and they are compelled by your speech; you are able to persuade them to serve you.
-[Foresight](#)    | You sometimes see things before they happen. You can react to any harmful action in combat, provided you beat its DC with a Perception check. On success, this ability goes on cooldown (recharge 33%).
-[Grudge](#)       | When a creature harms you, you can "remember" the harm done, and add it to your own attack against them within 3 rounds. Doesn't stack.
-
-### Blood
-- [Blood Bank](#): Whenever you heal for any reason, you may exceed your max HP, gaining the excess as temporary Hit Points, which expire at the end of the encounter.
-- [Blood Debt](#): When you are missing Hit Points, you can add your HP debt to the damage of any attack or spell you inflict, to a maximum of 100% of the attack's original damage. This does not change your current HP.
-
-### Illusion
-
-
-### Death
-
-
-### Soul
-- [Spellsteal](#): Upgrades Negation such that you gain access to the negated spell while the effect is active.
-- [Soul Prison](#): You can create special Soul Gems to house the soul shards of Drain Soul. If a creature dies while you possess their soul shard in such a gem, you trap their soul in the gem.
-
-### Necromancy
-
-Talent        | Description
-------------- | -----------
+Tool          | Description
+--------------|------------
+[Name TBD](#) | Allows you to use Absorb Magic as a reaction.
+[Name TBD](#) | Special phylactery that allows you to treat an enemy's magic as your own
+[Talisman of Vitality](#) | Whenever you heal for any reason, you may exceed your max HP, gaining the excess as temporary Hit Points, which expire at the end of the encounter.
+[Talisman of Blood](#) | When you are missing Hit Points, you can add your HP debt to the damage of any attack or spell you inflict, to a maximum of 100% of the attack's original damage. This does not change your current HP.
+[Deathball](#) | Craftable vessel allowing you to store an undead minion in stasis until needed.
+[Soul Prison](#) | You can create special Soul Gems to house the soul shards of Drain Soul. If a creature dies while you possess their soul shard in such a gem, you trap their soul in the gem.
 [Create Undead](#) | Using a corpse and components of non-trivial cost, you can make permanent undead servants.
-[Pocket Monstrosity](#) | You can store your undead as figurines, gems, or other small items that keep them in stasis until needed.
-[Graft](#) | You can imbue yourself with undead qualities.
-[Necrogenesis](#) | You can create novel undead of your own devising.
+[Familiar](#) | Construct or minor animal becomes a magical servant.
 
 
 
-### Familiar
-Talent        | Description
-------------- | -----------
-[Familiar](#) | Gain the service of a familiar
-[Improved Familiar](#) | Your familiar can be of an unusual type
 
-
-- Familiar
-- Improved Familiar
-- Other Stuff
-
-
-
-
-
-
-## Hedgecraft
-Things you can brew up--surprisingly, not always in a cauldron.
-
-To do:
-- Separate into reusable tools (such as Augur's Bones) and consumables (potions, phylacteries)
-
-Rules for potions:
-- You can make 1 cauldron of potions per rank each day, providing each ally with 1 potion of that type
-
-
-#### Tools
-Basic tools:
-- Cauldron
-- Athame
-- Grimoire
-- Phylactery
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# UNOFFICIAL OLD CRAP
-## Hedgecraft
-
-There is power in all things: claws of the tiger, eye of the newt, blossom of the lily. And Thaumaturgists know how to harness the power inherent in all natural things. Sometimes, yes, this involves a cauldron, but there really are many more ways of working this ancient magic.
-
-
-
-
-## Covens
-
-A "coven" is a circle of trust. It can be a formal organization, but it can just as well be a network of associates sharing knowledge and power.
-
-In game terms, you gain a new coven according to the level chart. In-character, you must prove adherence to an ethos, and only then will the secrets be shared with you. Your use of those secrets is forever bound to your promise to uphold that ethos.
-
-
-
-
-
-### Coven of Blood
-*Blood is life. Blood is essence. Blood is power.*
-
-Rank      | Power
-----------|------
-0         | Let Blood
-1         | Transfusion
-1         | Blood Boil
-2         | Puppeteer
-2         | Blood Bond
-
-Let Blood: you harness the power of freshly-spilled blood. Uses:
-- Let your own blood to gain power
-- Spill enemy's blood to do stuff to them
-
-Transfusion: transfer HP from one body to another. Heal or harm.
-
-Blood Boil: hurt enemy, cause rage and improve strength.
-
-Puppeteer: control another body.
-
-Blood Bond: link two creatures by blood. Various uses:
-- Split damage between you
-- Share beneficial (and harmful) spells
-- Communicate over distance
-
-
-### Coven of Souls
-*The Soul is magic, and magic is the Soul.*
-
-
-
-
-### White (Winter)
-
-Level | Power
-------|------
-0     | Winter's Grasp
-1     | Frozen Heart
-2     | Frost Barrier
-3     | Frost Nova
-4     | Thin Air
-5     | Howling Winds
-6     |
-7     | Wall of Ice
-8     | Frozen Blood
-9     | Frost Bomb
-
-
-Winter's Grasp: at-will, swift; you absorb energy from the environment, causing one of the following effects:
-- create ice dagger/lance
-- cold aoe
-- direct damage touch
-- cover surfaces with frost
-
-
-
-### Purple (Anti-magic)
-
-Level | Power
-------|------
-0     | Absorb Magic
-1     | 
-2     | 
-3     | 
-4     | 
-5     | Antimagic Zone
-6     | 
-7     | 
-8     | 
-9     | 
-
-
-
-## Cauldron
-
-Witches brew. It's what they do.
-
-
-Every day, you can brew X potions.
-
-
-### Potions
-- Potion of Healing: heals for medium damage.
-- Potion of Resistance: grants resistance to a damage type.
-- Potion of 
-
-
-
-
-# Dev Notes
-
-Witch magic should be:
-- Abjuration
-- Divination
-- Enchantment
-- Illusion
-- Necromancy
-- Transmutation
-
-And that's it. And all of it should be thaumaturgical. Thus:
-- No "charm person". Rather, love potions, pheromones, etc
-- No Power Word: Shield. Rather, a shield bracelet, a potion of barkskin, etc
-- You don't just make a broom animated by saying words--you imbue it with your blood, your essence.
