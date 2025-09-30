@@ -1,3 +1,0 @@
-# Pain
-
-Inflict debilitating agony.

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kenjura.github.io/system8/blog</id>
+    <title>System 8 Blog</title>
+    <updated>2025-07-04T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kenjura.github.io/system8/blog"/>
+    <subtitle>System 8 Blog</subtitle>
+    <icon>https://kenjura.github.io/system8/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New System, Who Dis?]]></title>
+        <id>https://kenjura.github.io/system8/blog/new-system-who-dis</id>
+        <link href="https://kenjura.github.io/system8/blog/new-system-who-dis"/>
+        <updated>2025-07-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New year, new system! Or was it phase of the moon?]]></summary>
+        <content type="html"><![CDATA[<p>New year, new system! Or was it phase of the moon?</p>
+<p>This is the latest and greatest Bertball system. What shall we call it? Who the hell knows? But it's:</p>
+<ul>
+<li>Mostly compatible with D&amp;D 5e and the thing they refuse to call 6e</li>
+<li>Free of Hasbro IP</li>
+<li>Class-based</li>
+</ul>]]></content>
+        <author>
+            <name>Andrew London</name>
+        </author>
+        <category label="system" term="system"/>
+    </entry>
+</feed>

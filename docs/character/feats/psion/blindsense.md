@@ -1,3 +1,0 @@
-# Blindsense
-
-You have it

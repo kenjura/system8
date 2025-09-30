@@ -1,3 +1,0 @@
-# Warp Bubble
-
-Warp Bubble

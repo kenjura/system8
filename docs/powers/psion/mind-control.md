@@ -1,3 +1,0 @@
-# Mind Control
-
-Mind Control

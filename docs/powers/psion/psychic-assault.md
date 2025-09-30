@@ -1,3 +1,0 @@
-# Psychic Assault
-
-Psychic Assault

@@ -1,3 +1,0 @@
-# Prognostication
-
-Prognostication

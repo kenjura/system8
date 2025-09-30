@@ -1,3 +1,0 @@
-# Pyrokinesis
-
-Pyrokinesis

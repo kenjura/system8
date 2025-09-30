@@ -1,3 +1,0 @@
-# Astral Construct
-
-Astral Construct

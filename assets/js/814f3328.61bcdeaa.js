@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_5_e=self.webpackChunk_5_e||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"New System, Who Dis?","permalink":"/system8/blog/new-system-who-dis","unlisted":false,"date":"2025-07-04T00:00:00.000Z"}]}')}}]);

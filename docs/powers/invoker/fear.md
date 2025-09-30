@@ -1,3 +1,0 @@
-# Fear
-
-Simple, but effective.

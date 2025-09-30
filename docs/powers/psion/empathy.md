@@ -1,3 +1,0 @@
-# Empathy
-
-Empathy

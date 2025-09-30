@@ -1,3 +1,0 @@
-# Probability Analysis
-
-Probability Analysis

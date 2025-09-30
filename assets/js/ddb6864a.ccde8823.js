@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_5_e=self.webpackChunk_5_e||[]).push([[5344],{4075:e=>{e.exports=JSON.parse('{"authors":[{"name":"Andrew London","title":"Lord of Butts","page":{"permalink":"/system8/blog/authors/kenjura"},"socials":{"github":"https://github.com/kenjura"},"imageURL":"https://bertball-images.s3.amazonaws.com/bertball.jpg","key":"kenjura","count":1}]}')}}]);
