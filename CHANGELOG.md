@@ -1,16 +1,38 @@
-# Retroactive versioning
+# 8.3.2 (2025-12-04)
+- rebooted Mana into class-specific mechanics (Focus, Vitae, etc)
+- Added legacy version 8.0 content to output (CHANGELOG, Feats, Gear, Legacy, Powers, Skills, WIP, Wounds)
+- Added character content: basics, classes (Arcanist, Artificer, Elementalist, Fighter, Invoker, Psion, Rogue, Thaumaturgist, Theurgist, Monk), equipment (Weapons, Alchemy, Armor, Blacksmithing, Enchanting, Inscription)
+- Added talents for Invoker and Psion classes
+- Added foundation content (Foundation, Tiefling)
+- Added paths (Eldritch Knight, Paladin)
+- Added extensive powers for Artificer, Invoker, Psion, and Thaumaturgist
+- Added skills content
+- Added system conditions (chilled, dazed, feebleminded, frail, meek, paralyzed, rooted, stunned, weakened)
+- Added minions system rules
+- Added class images and public assets (character sheet template, CSS, JS utilities)
+- Imported many changes from Dropbox era
+- removed docusaurus stuff
 
 
-- 8.0: 5e rules from 2017
-- 8.1: wiki.purplecat.games (classless)
-- 8.2: Reboot in 2024 with 6e fixins'
-- 8.3: 2025 re-reboot with less feats (docusaurus)
+# 8.3.1
+- fleshed out witch, psion, elementalist
+- prod deploy script
+- added Artificer
+- table css updates
 
-(also consider 5.3, 5.4, and 5eA)
+
+# 8.3
+- Pretty much rewrote all classes
+- Less feats
+
+# 8.2
+- Reboot in 2024 with 6e fixins'
+
+# 8.1
+- Classless system once deployed to wiki.purplecat.games
+
+# 8.0
+- The system once called "5e Advanced"
 
 
-Possible branch:
-- Start with 8.3
-- Classless
-- Abilities like Fighting Styles become something like Feats (Proficiencies? Skills?)
-- Abilities such as EK runes become Powers
+
