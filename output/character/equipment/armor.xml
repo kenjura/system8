@@ -1,0 +1,170 @@
+<article><name>armor</name>
+<contents># Armor
+
+# Base Armor
+Armor Type | Armor Class     | Base Cost | Other
+-----------|-----------------|-----------|------
+None       | 10 + Dex        | 0         |
+Light      | 10 + prof + Dex | tbd       |
+Heavy      | 10 + prof + Str | tbd       | Fortification, Stealth disadvantage
+
+- &#34;Prof&#34; is your proficiency bonus, if proficient in that armor type
+- Fortification means that a confirmation roll is required to inflict critical hits against you. Example:
+  - You are proficient with heavy armor and have an AC of 10 + prof (+3) + Str (+3), or 16.
+  - Enemy attacks you, rolling a natural 20, hitting automatically with a critical hit.
+  - Since you have Fortification, the enemy must roll another attack. 
+    - If that attack misses your AC, the original hit still succeeds, but is *not* a critical hit.
+    - If the confirmation attack hits your AC, the critical hit succeeds, inflicting critical damage.
+
+
+
+# Exceptional Quality
+Quality     | Effect     | Level | Cost
+------------|------------|-------|-----
+Poor        | -1 AC      | 0     | tbd
+Fine        | +1 AC      | 4     | tbd
+Superior    | +2 AC      | 8     | tbd
+Exceptional | +3 AC      | 12    | tbd
+Masterwork  | +4 AC      | 16    | tbd
+Legendary   | +5 AC      | 20    | tbd
+
+
+
+# Exceptional Materials
+Normal armor is made of materials ideal for ordinary use cases, costing a reasonable amount. For example:
+- Light armor typically uses dense cloth, leather, hide, fur, and/or bone.
+- Heavy armor typically uses iron and steel, bonded to a heavy base of dense cloth and/or leather.
+
+There are other materials that can be used, which have their own advantages and disadvantages.
+
+TBD
+
+
+# Magical Enhancements
+
+- Glamered
+- Silenced
+- Invisibility
+- Etherealness
+- Summonable
+- Invulnerability
+- Energy Resist
+</contents>
+<bodyHtml>&lt;h1&gt;Armor&lt;/h1&gt;
+&lt;h1&gt;Base Armor&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Armor Type&lt;/th&gt;
+&lt;th&gt;Armor Class&lt;/th&gt;
+&lt;th&gt;Base Cost&lt;/th&gt;
+&lt;th&gt;Other&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;10 + Dex&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Light&lt;/td&gt;
+&lt;td&gt;10 + prof + Dex&lt;/td&gt;
+&lt;td&gt;tbd&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Heavy&lt;/td&gt;
+&lt;td&gt;10 + prof + Str&lt;/td&gt;
+&lt;td&gt;tbd&lt;/td&gt;
+&lt;td&gt;Fortification, Stealth disadvantage&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;quot;Prof&amp;quot; is your proficiency bonus, if proficient in that armor type&lt;/li&gt;
+&lt;li&gt;Fortification means that a confirmation roll is required to inflict critical hits against you. Example:
+&lt;ul&gt;
+&lt;li&gt;You are proficient with heavy armor and have an AC of 10 + prof (+3) + Str (+3), or 16.&lt;/li&gt;
+&lt;li&gt;Enemy attacks you, rolling a natural 20, hitting automatically with a critical hit.&lt;/li&gt;
+&lt;li&gt;Since you have Fortification, the enemy must roll another attack.
+&lt;ul&gt;
+&lt;li&gt;If that attack misses your AC, the original hit still succeeds, but is &lt;em&gt;not&lt;/em&gt; a critical hit.&lt;/li&gt;
+&lt;li&gt;If the confirmation attack hits your AC, the critical hit succeeds, inflicting critical damage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Exceptional Quality&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Quality&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Cost&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Poor&lt;/td&gt;
+&lt;td&gt;-1 AC&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;tbd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fine&lt;/td&gt;
+&lt;td&gt;+1 AC&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;tbd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Superior&lt;/td&gt;
+&lt;td&gt;+2 AC&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;tbd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exceptional&lt;/td&gt;
+&lt;td&gt;+3 AC&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;tbd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Masterwork&lt;/td&gt;
+&lt;td&gt;+4 AC&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;tbd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Legendary&lt;/td&gt;
+&lt;td&gt;+5 AC&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;tbd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Exceptional Materials&lt;/h1&gt;
+&lt;p&gt;Normal armor is made of materials ideal for ordinary use cases, costing a reasonable amount. For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Light armor typically uses dense cloth, leather, hide, fur, and/or bone.&lt;/li&gt;
+&lt;li&gt;Heavy armor typically uses iron and steel, bonded to a heavy base of dense cloth and/or leather.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are other materials that can be used, which have their own advantages and disadvantages.&lt;/p&gt;
+&lt;p&gt;TBD&lt;/p&gt;
+&lt;h1&gt;Magical Enhancements&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Glamered&lt;/li&gt;
+&lt;li&gt;Silenced&lt;/li&gt;
+&lt;li&gt;Invisibility&lt;/li&gt;
+&lt;li&gt;Etherealness&lt;/li&gt;
+&lt;li&gt;Summonable&lt;/li&gt;
+&lt;li&gt;Invulnerability&lt;/li&gt;
+&lt;li&gt;Energy Resist&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

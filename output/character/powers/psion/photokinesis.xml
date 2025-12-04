@@ -1,0 +1,27 @@
+<article><name>photokinesis</name>
+<contents>---
+class: Psion
+name: Photokinesis
+title: Photokinesis
+school: Metacreativity
+rank: 1
+type: Assault and Utility
+brief: Create an astral construct in the form of a weapon with which you are proficient.
+---
+
+Create or modify light. You can bend light, make lasers, etc. Higher rank, use higher frequencies such as x-ray and gamma radiation.
+</contents>
+<bodyHtml>
+&lt;p&gt;Create or modify light. You can bend light, make lasers, etc. Higher rank, use higher frequencies such as x-ray and gamma radiation.&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <class>Psion</class>
+  <name>Photokinesis</name>
+  <title>Photokinesis</title>
+  <school>Metacreativity</school>
+  <rank>1</rank>
+  <type>Assault and Utility</type>
+  <brief>Create an astral construct in the form of a weapon with which you are proficient.</brief>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

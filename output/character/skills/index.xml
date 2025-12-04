@@ -1,0 +1,270 @@
+<article><name>index</name>
+<contents>---
+sidebar_label: Skills
+sidebar_position: 1
+---
+
+# How skills work
+
+If you're untrained, you can roll the skill check for anything an untrained person would find challenging but possible. For example:
+- Climbing a wall with ample handholds (Athletics)
+- Walking across a 4 inch beam without falled (Acrobatics)
+- Remaining unseen and unheard while hiding in a closet (Stealth)
+
+Anything that absolutely requires training is simply not possible if untrained. For example:
+- Dispel Magic (Spellcraft)
+- Perform Surgery (Medicine)
+- Play a Musical Instrument (Perform)
+
+When you gain proficiency, you gain your Proficiency Bonus to all checks with the skill, as well as specific abilities specified in the skill description. Also, uses requiring proficiency become attainable.
+
+When you gain expertise, you can &#34;take 10&#34; on the skill, meaning that anything you could reasonably accomplish with a roll of 10 does not require a roll and does not have a failure chance.
+
+When you gain mastery, you gain advantage to all skill checks.
+
+
+# List of Skills
+
+
+## Strength
+
+### Athletics
+Proficient:
+- Charge
+- Sprint
+
+Expertise:
+- Leaping Attack
+
+
+## Dexterity
+
+### Acrobatics
+Proficient:
+- Evasion
+
+Expertise:
+- Tumble
+
+Mastery:
+- Extended Reach
+
+
+### Sleight of Hand
+Proficient:
+- Pick pocket
+
+Expertise:
+
+
+### Stealth
+Proficient:
+- Sneak Attack
+
+Expertise:
+- Vanish
+
+
+
+## Constitution
+
+### Fortitude
+
+
+## Intelligence
+
+### Security
+Proficient:
+- Pick lock
+- Disarm trap
+
+Expertise:
+
+### Spellcraft
+Proficient:
+- Detect Magic
+- Dispel Magic
+
+Expertise:
+- Identify
+- Counterspell
+
+
+
+## Wisdom
+
+### Concentration
+Untrained:
+- Cast a concentration spell and maintain it
+
+Proficient:
+- Maintain concentration when interrupted
+
+Expertise:
+- More than once concentration?
+
+### Perception
+Proficient:
+- Awareness (act in surprise rounds, wake up quickly)
+
+Expertise:
+- Blindsense
+
+Mastery:
+- Blindsight
+
+
+### Insight
+Proficient:
+- Detect Lies
+
+Expertise:
+- Detect Alignment
+
+
+### Medicine
+Proficient:
+- Stabilize
+- Long-term Care
+
+Expertise:
+- First Aid (bandage: short-rest cooldown heal)
+- Purge (cure disease/poison)
+
+## Charisma
+
+</contents>
+<bodyHtml>
+&lt;h1&gt;How skills work&lt;/h1&gt;
+&lt;p&gt;If you're untrained, you can roll the skill check for anything an untrained person would find challenging but possible. For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Climbing a wall with ample handholds (Athletics)&lt;/li&gt;
+&lt;li&gt;Walking across a 4 inch beam without falled (Acrobatics)&lt;/li&gt;
+&lt;li&gt;Remaining unseen and unheard while hiding in a closet (Stealth)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Anything that absolutely requires training is simply not possible if untrained. For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dispel Magic (Spellcraft)&lt;/li&gt;
+&lt;li&gt;Perform Surgery (Medicine)&lt;/li&gt;
+&lt;li&gt;Play a Musical Instrument (Perform)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When you gain proficiency, you gain your Proficiency Bonus to all checks with the skill, as well as specific abilities specified in the skill description. Also, uses requiring proficiency become attainable.&lt;/p&gt;
+&lt;p&gt;When you gain expertise, you can &amp;quot;take 10&amp;quot; on the skill, meaning that anything you could reasonably accomplish with a roll of 10 does not require a roll and does not have a failure chance.&lt;/p&gt;
+&lt;p&gt;When you gain mastery, you gain advantage to all skill checks.&lt;/p&gt;
+&lt;h1&gt;List of Skills&lt;/h1&gt;
+&lt;h2&gt;Strength&lt;/h2&gt;
+&lt;h3&gt;Athletics&lt;/h3&gt;
+&lt;p&gt;Proficient:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Charge&lt;/li&gt;
+&lt;li&gt;Sprint&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Expertise:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Leaping Attack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Dexterity&lt;/h2&gt;
+&lt;h3&gt;Acrobatics&lt;/h3&gt;
+&lt;p&gt;Proficient:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Evasion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Expertise:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tumble&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mastery:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Extended Reach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sleight of Hand&lt;/h3&gt;
+&lt;p&gt;Proficient:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pick pocket&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Expertise:&lt;/p&gt;
+&lt;h3&gt;Stealth&lt;/h3&gt;
+&lt;p&gt;Proficient:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sneak Attack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Expertise:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vanish&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Constitution&lt;/h2&gt;
+&lt;h3&gt;Fortitude&lt;/h3&gt;
+&lt;h2&gt;Intelligence&lt;/h2&gt;
+&lt;h3&gt;Security&lt;/h3&gt;
+&lt;p&gt;Proficient:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pick lock&lt;/li&gt;
+&lt;li&gt;Disarm trap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Expertise:&lt;/p&gt;
+&lt;h3&gt;Spellcraft&lt;/h3&gt;
+&lt;p&gt;Proficient:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Detect Magic&lt;/li&gt;
+&lt;li&gt;Dispel Magic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Expertise:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify&lt;/li&gt;
+&lt;li&gt;Counterspell&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Wisdom&lt;/h2&gt;
+&lt;h3&gt;Concentration&lt;/h3&gt;
+&lt;p&gt;Untrained:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cast a concentration spell and maintain it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Proficient:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maintain concentration when interrupted&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Expertise:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;More than once concentration?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Perception&lt;/h3&gt;
+&lt;p&gt;Proficient:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Awareness (act in surprise rounds, wake up quickly)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Expertise:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blindsense&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mastery:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blindsight&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Insight&lt;/h3&gt;
+&lt;p&gt;Proficient:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Detect Lies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Expertise:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Detect Alignment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Medicine&lt;/h3&gt;
+&lt;p&gt;Proficient:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stabilize&lt;/li&gt;
+&lt;li&gt;Long-term Care&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Expertise:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First Aid (bandage: short-rest cooldown heal)&lt;/li&gt;
+&lt;li&gt;Purge (cure disease/poison)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Charisma&lt;/h2&gt;
+</bodyHtml>
+<metadata>
+  <sidebar_label>Skills</sidebar_label>
+  <sidebar_position>1</sidebar_position>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

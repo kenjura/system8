@@ -1,0 +1,22 @@
+<article><name>infernal-wings</name>
+<contents>---
+pact: infernal
+name: Infernal Wings
+description: Sprout wings for gliding, slow fall, etc
+---
+
+# Infernal Wings
+
+Sprout wings for gliding, slow fall, etc
+</contents>
+<bodyHtml>
+&lt;h1&gt;Infernal Wings&lt;/h1&gt;
+&lt;p&gt;Sprout wings for gliding, slow fall, etc&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <pact>infernal</pact>
+  <name>Infernal Wings</name>
+  <description>Sprout wings for gliding, slow fall, etc</description>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

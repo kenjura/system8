@@ -1,0 +1,56 @@
+<article><name>blacksmithing</name>
+<contents>- Special Materials
+- Customizations
+- Magical Enhancements
+
+
+
+# Magical Enhancements
+
+
+## Flamebrand
+
+Rank | Cost | Effect
+-----|------|-------
+1    |      | Weapon inflicts light fire damage on turn start. Recharge 33%, can cause 50% bonus fire damage plus medium ots.
+2    |      | Recharge effect bursts in a 2 square radius.
+3    |      | OTS is medium, and recharge effect is 100% base damage.
+
+</contents>
+<bodyHtml>&lt;ul&gt;
+&lt;li&gt;Special Materials&lt;/li&gt;
+&lt;li&gt;Customizations&lt;/li&gt;
+&lt;li&gt;Magical Enhancements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Magical Enhancements&lt;/h1&gt;
+&lt;h2&gt;Flamebrand&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Cost&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Weapon inflicts light fire damage on turn start. Recharge 33%, can cause 50% bonus fire damage plus medium ots.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Recharge effect bursts in a 2 square radius.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;OTS is medium, and recharge effect is 100% base damage.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

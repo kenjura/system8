@@ -1,0 +1,19 @@
+<article><name>portal</name>
+<contents># Portal
+
+At-will, swift, concentration; you create two portals, both within line of sight and effect. Each is linked to the other. Whatever passes through one comes out the other, with momentum intact (relative to the portal). The portals are large enough for a projectile, a Tiny creature, or a Small creature using Acrobatics.
+- Increase range for more focus
+- Increase portal size for more focus
+- Talent: use a portal as a shield (uses Parry rules)
+</contents>
+<bodyHtml>&lt;h1&gt;Portal&lt;/h1&gt;
+&lt;p&gt;At-will, swift, concentration; you create two portals, both within line of sight and effect. Each is linked to the other. Whatever passes through one comes out the other, with momentum intact (relative to the portal). The portals are large enough for a projectile, a Tiny creature, or a Small creature using Acrobatics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Increase range for more focus&lt;/li&gt;
+&lt;li&gt;Increase portal size for more focus&lt;/li&gt;
+&lt;li&gt;Talent: use a portal as a shield (uses Parry rules)&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

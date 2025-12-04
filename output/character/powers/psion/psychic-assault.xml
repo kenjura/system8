@@ -1,0 +1,61 @@
+<article><name>psychic-assault</name>
+<contents>---
+class: Psion
+name: Psychic Assault
+title: Psychic Assault
+school: Telepathy
+rank: 1
+type: Assault
+brief: Cause psychic damage and debilitation.
+compact: At-will, std, ranged; heavy psychic damage (Wis half), plus disadvantage to the next Int, Wis, or Cha roll made by the subject. Overload to cause frightened (Wis ends), silence (Wis negates each rd; 2 focus), confusion (Wis negates each rd; 2 focus), or one failed death save per turn (Con negates; 3 focus)
+---
+
+# Psychic Assault
+
+You can harm the minds of creatures with telepathic force.
+
+# Mind Thrust
+At-will, std, ranged; heavy psychic damage (Wis half), plus disadvantage to the next Int, Wis, or Cha roll made by the subject.
+
+- By expending Focus, you can use this in a cone 5 per rank.
+- By expending Focus and concentrating, you can sustain this effect on a single target, causing the damage to repeat each round and the disadvantage to apply to all rolls to the chosen ability score.
+
+# Overload
+At-will, std, ranged, expends Focus; you fire a targeted blast of neural energy at the subject's mind, pinpointing a specific area of the brain to cause a desired effect. Choose one:
+- Amygdala: at-will, std, ranged, concentration; subject loses the ability distinguish between threats real and imagined, and cannot filter their emotions from their mind. They suffer the *frightened* condition (Wis ends).
+- Broca: at-will, std, ranged, concentration; subject's language ability is overloaded, leading them to be unable to form meaningful words. They are unable to use verbal components for spells or say anything intelligible, regardless of the language capacity of whoever is listening to them. Wis negates each round.
+- Hippocampus: at-will, std, ranged, concentration, expends 2 Focus; subject's memory system  causing them to suffer extreme confusion and amnesia. Each round, they cannot choose their actions if they fail a Wisdom check, but rather they are determined randomly (see *Confusion*).
+- Thalamus: at-will, std, ranged, concentration, expends 2 Focus; subject sensory averloads, and they see, hear, and feel an overwhelming number of sensations of impossible intensity, all at once. They suffer the *blind*, *deaf*, and *wracked* conditions (Wis ends each).
+- Medulla: at-will, std, ranged, concentration, expends 3 Focus; subject's autonomic systems fail--they stop breathing, their heart stops beating, and their motor control ceases. Each round, if the subject fails their Con save, they enter the *incapacitated* state. If they were already in that state, they instead enter the *unconscious* state. If they were already in that state, they instead enter the *dying* state. If they are already dying, they automatically fail their death save on your turn, without a Con save.
+</contents>
+<bodyHtml>
+&lt;h1&gt;Psychic Assault&lt;/h1&gt;
+&lt;p&gt;You can harm the minds of creatures with telepathic force.&lt;/p&gt;
+&lt;h1&gt;Mind Thrust&lt;/h1&gt;
+&lt;p&gt;At-will, std, ranged; heavy psychic damage (Wis half), plus disadvantage to the next Int, Wis, or Cha roll made by the subject.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;By expending Focus, you can use this in a cone 5 per rank.&lt;/li&gt;
+&lt;li&gt;By expending Focus and concentrating, you can sustain this effect on a single target, causing the damage to repeat each round and the disadvantage to apply to all rolls to the chosen ability score.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Overload&lt;/h1&gt;
+&lt;p&gt;At-will, std, ranged, expends Focus; you fire a targeted blast of neural energy at the subject's mind, pinpointing a specific area of the brain to cause a desired effect. Choose one:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Amygdala: at-will, std, ranged, concentration; subject loses the ability distinguish between threats real and imagined, and cannot filter their emotions from their mind. They suffer the &lt;em&gt;frightened&lt;/em&gt; condition (Wis ends).&lt;/li&gt;
+&lt;li&gt;Broca: at-will, std, ranged, concentration; subject's language ability is overloaded, leading them to be unable to form meaningful words. They are unable to use verbal components for spells or say anything intelligible, regardless of the language capacity of whoever is listening to them. Wis negates each round.&lt;/li&gt;
+&lt;li&gt;Hippocampus: at-will, std, ranged, concentration, expends 2 Focus; subject's memory system  causing them to suffer extreme confusion and amnesia. Each round, they cannot choose their actions if they fail a Wisdom check, but rather they are determined randomly (see &lt;em&gt;Confusion&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;Thalamus: at-will, std, ranged, concentration, expends 2 Focus; subject sensory averloads, and they see, hear, and feel an overwhelming number of sensations of impossible intensity, all at once. They suffer the &lt;em&gt;blind&lt;/em&gt;, &lt;em&gt;deaf&lt;/em&gt;, and &lt;em&gt;wracked&lt;/em&gt; conditions (Wis ends each).&lt;/li&gt;
+&lt;li&gt;Medulla: at-will, std, ranged, concentration, expends 3 Focus; subject's autonomic systems fail--they stop breathing, their heart stops beating, and their motor control ceases. Each round, if the subject fails their Con save, they enter the &lt;em&gt;incapacitated&lt;/em&gt; state. If they were already in that state, they instead enter the &lt;em&gt;unconscious&lt;/em&gt; state. If they were already in that state, they instead enter the &lt;em&gt;dying&lt;/em&gt; state. If they are already dying, they automatically fail their death save on your turn, without a Con save.&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata>
+  <class>Psion</class>
+  <name>Psychic Assault</name>
+  <title>Psychic Assault</title>
+  <school>Telepathy</school>
+  <rank>1</rank>
+  <type>Assault</type>
+  <brief>Cause psychic damage and debilitation.</brief>
+  <compact>At-will, std, ranged; heavy psychic damage (Wis half), plus disadvantage to the next Int, Wis, or Cha roll made by the subject. Overload to cause frightened (Wis ends), silence (Wis negates each rd; 2 focus), confusion (Wis negates each rd; 2 focus), or one failed death save per turn (Con negates; 3 focus)</compact>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

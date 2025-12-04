@@ -1,0 +1,16 @@
+<article><name>Concentration</name>
+<contents>Uses:
+- Determines Mana
+- Keep concentration of spells when damaged or stressed
+- Used in ritual casting
+</contents>
+<bodyHtml>&lt;p&gt;Uses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Determines Mana&lt;/li&gt;
+&lt;li&gt;Keep concentration of spells when damaged or stressed&lt;/li&gt;
+&lt;li&gt;Used in ritual casting&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

@@ -1,0 +1,154 @@
+<article><name>Starting Equipment</name>
+<contents>At level 1, you gain the following equipment:
+* A melee weapon (or weapons) appropriate to your class
+* Armor appropriate for your class
+* A ranged weapon with which you are proficient (non-spellcasters)
+
+
+==Starting Wealth at Higher Levels==
+If you start at a level other than 1, consult the following table for your starting wealth:
+
+Level | Wealth
+------|-------
+2     | 3,000
+3     | 5,500
+4     | 8,000
+5     | 11,000
+6     | 14,000
+7     | 19,000
+8     | 26,000
+9     | 34,000
+10    | 45,000
+11    | 60,000
+12    | 80,000
+13    | 105,000
+14    | 140,000
+15    | 190,000
+16    | 250,000
+17    | 330,000
+18    | 440,000
+19    | 590,000
+20    | 760,000
+
+
+Conversion rates:
+- 1 CR = $1 USD 2022
+- 1 CR = 1 cp
+- 100 CR = 1 sp
+- 1,000 CR = 1 gp
+
+Note:
+- cp, sp, and gp are for system 8
+- they convert 1:1 for mundane purchases (food, livestock, vehicles, etc)
+- magic items generally convert 1000:1, so a 3.5 item costing 35,000 gp actually costs 35,000 cp or 3.5 gp</contents>
+<bodyHtml>&lt;p&gt;At level 1, you gain the following equipment:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A melee weapon (or weapons) appropriate to your class&lt;/li&gt;
+&lt;li&gt;Armor appropriate for your class&lt;/li&gt;
+&lt;li&gt;A ranged weapon with which you are proficient (non-spellcasters)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;==Starting Wealth at Higher Levels==
+If you start at a level other than 1, consult the following table for your starting wealth:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Wealth&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;5,500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;8,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;11,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;14,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;19,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;26,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;34,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;45,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;60,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;80,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;105,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;140,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;190,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;250,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;330,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;440,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;590,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;760,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Conversion rates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 CR = $1 USD 2022&lt;/li&gt;
+&lt;li&gt;1 CR = 1 cp&lt;/li&gt;
+&lt;li&gt;100 CR = 1 sp&lt;/li&gt;
+&lt;li&gt;1,000 CR = 1 gp&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;cp, sp, and gp are for system 8&lt;/li&gt;
+&lt;li&gt;they convert 1:1 for mundane purchases (food, livestock, vehicles, etc)&lt;/li&gt;
+&lt;li&gt;magic items generally convert 1000:1, so a 3.5 item costing 35,000 gp actually costs 35,000 cp or 3.5 gp&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

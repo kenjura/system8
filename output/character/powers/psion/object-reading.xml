@@ -1,0 +1,65 @@
+<article><name>object-reading</name>
+<contents>---
+class: Psion
+name: Object Reading
+title: Object Reading
+school: Clairsentience
+rank: 1
+type: Utility
+brief: Learn facts about an object.
+---
+
+- Action: standard
+- Mana cost: 1
+- Range: ranged
+- Recharge: at-will
+- Target: single target
+- Duration: concentration
+
+You read the psychic impressions encoded within an object that you are holding or touching.
+
+Each round you concentrate, you may learn one of the following facts about the previous owner:
+- Creature type (humanoid, outsider, etc)
+- Age
+- Species or racial identity
+- Sex
+- Presence or absence of magical/psionic ability
+- How they gained or lost the item
+
+You may also move beyond the previous owner to the one before them.
+
+Each time you do this, you must pass a Concentration check, DC 10 + 1 per round spent concentrating. If you fail, the effect ends, and you cannot use Object Reading again on that object until you gain a level of Psion.
+</contents>
+<bodyHtml>
+&lt;ul&gt;
+&lt;li&gt;Action: standard&lt;/li&gt;
+&lt;li&gt;Mana cost: 1&lt;/li&gt;
+&lt;li&gt;Range: ranged&lt;/li&gt;
+&lt;li&gt;Recharge: at-will&lt;/li&gt;
+&lt;li&gt;Target: single target&lt;/li&gt;
+&lt;li&gt;Duration: concentration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You read the psychic impressions encoded within an object that you are holding or touching.&lt;/p&gt;
+&lt;p&gt;Each round you concentrate, you may learn one of the following facts about the previous owner:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creature type (humanoid, outsider, etc)&lt;/li&gt;
+&lt;li&gt;Age&lt;/li&gt;
+&lt;li&gt;Species or racial identity&lt;/li&gt;
+&lt;li&gt;Sex&lt;/li&gt;
+&lt;li&gt;Presence or absence of magical/psionic ability&lt;/li&gt;
+&lt;li&gt;How they gained or lost the item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You may also move beyond the previous owner to the one before them.&lt;/p&gt;
+&lt;p&gt;Each time you do this, you must pass a Concentration check, DC 10 + 1 per round spent concentrating. If you fail, the effect ends, and you cannot use Object Reading again on that object until you gain a level of Psion.&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <class>Psion</class>
+  <name>Object Reading</name>
+  <title>Object Reading</title>
+  <school>Clairsentience</school>
+  <rank>1</rank>
+  <type>Utility</type>
+  <brief>Learn facts about an object.</brief>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

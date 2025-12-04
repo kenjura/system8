@@ -1,0 +1,22 @@
+<article><name>devil-trigger</name>
+<contents>---
+pact: infernal
+name: Devil Trigger
+description: Become a half-fiend for a while
+---
+
+# Devil Trigger
+
+Become a half-fiend for a while
+</contents>
+<bodyHtml>
+&lt;h1&gt;Devil Trigger&lt;/h1&gt;
+&lt;p&gt;Become a half-fiend for a while&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <pact>infernal</pact>
+  <name>Devil Trigger</name>
+  <description>Become a half-fiend for a while</description>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

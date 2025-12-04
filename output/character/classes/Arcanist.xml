@@ -1,0 +1,538 @@
+<article><name>Arcanist</name>
+<contents>---
+# Display h2 to h5 headings
+toc_min_heading_level: 2
+toc_max_heading_level: 5
+---
+
+# Arcanist
+![Arcanist](&lt;/img/character/classes/mage.jpg&gt;)
+
+
+Attribute     | Value
+---------     | -----
+Hit Die       | d6
+HP/level      | 4
+Weapon Prof.  | Simple Weapons, Wand, Staff, Orb
+Armor Prof.   | None
+Saving Throws | Int, Wis
+Bonus Skills  | Arcana
+
+
+Level | Special Ability
+----- | ---------------
+1     | Forma (1st), Spell Focus
+2     | 
+3     | Forma (2nd)
+4     | 
+5     | Forma (3rd)
+6     | 
+7     | 
+8     | 
+9     | 
+10    | 
+11    | 
+12    | 
+13    | 
+14    | 
+15    | 
+16    | 
+17    | 
+18    | 
+19    | 
+20    | 
+
+
+# Spell Focus
+
+Casting is hard. But it's easier with a focus!
+
+- Wands: targeted spells
+- Staves: concentration spells
+- Orb: area spells
+
+
+# Forma
+
+You are able to cast spells by evoking the power of ancient symbols, power words, and arcane formulae. While helpful, these are but aids to master the mental control needed to to envison *formae*, which form the basis of spells.
+
+*Formae* (the plural) each describe a fundamental magical effect, such as opening a portal, or creating light, or transforming an object's shape. To do more complex things, it is possible (through even greater mental effort) to combine multiple *formae* at the same time. A spell comprised of a single *forma* is described as one of the &#34;First Order&#34;, whereas one comprised of multiple is &#34;Second Order&#34;. &#34;Third Order&#34; does not describe three *formae*, but instead describes a combination of multiple forma, at least one of which is Second-Order. One can imagine Fifth Order spells as quite complex indeed.
+
++ You do not use an Energy mechanic to cast spells. Rather, you roll skill checks, the DC of which is based on the difficulty of the *formae* and *adjectivae* involved; failure on these checks can cause negative consequences.
++ By default, when casting spells, you use *mnemonics*, which are mental aids in the form of geometric symbols, arcane words, gestures, etc. These are not themselves the components of magic, but rather devices that aid in the construction of *formae* in your mind. It is nearly impossible to learn *formae* without them, although it is possible to cast a well-known spell without them, if necessary. When deprived of your mnemonics, you suffer a penalty to the spellcasting check: -5 if deprived of your voice and -5 if deprived of your ability to gesture.
+
+
+Name           | Translation | Description
+---------------|-------------|------------
+[Lux](#)       | Light       | Creates light
+[Impello](#)   | Force       | Move matter with kinetic force
+[Parma](#)     | Shield      | Block the motion of energy and matter
+[Aperio](#)    | Open        | Opens doors, containers, etc
+[Ordo](#)      | Order       | Mend damaged objects, organize sets of things, etc
+[Purgo](#)     | Purge       | Separates impurities from the whole
+[Voce](#)      | Voice       | Creates sound
+[Vide](#)      | See         | Grants sight, physical or metaphysical
+[Ignis](#)     | Fire        | Creates fire or heat
+[Appareo](#)   | Appear      | Teleport yourself
+[Porta](#)     | Portal      | Create portals within or beyond your dimension
+[Velo](#)      | Veil        | Create illusions which hide creatures or objects from sight
+[Formo](#)     | Transform   | Change the shape of an object or creature
+[Glacies](#)    | Ice        | Creates cold or ice, freezes objects or surfaces
+[Tenebrae](#)   | Darkness   | Creates areas of magical darkness, obscures vision
+[Volare](#)     | Fly        | Grants the ability to levitate or fly for a short duration
+[Curare](#)     | Heal       | Restores health or cures minor ailments
+[Animare](#)    | Animate    | Animates objects or creates temporary magical constructs
+[Tempus](#)     | Time       | Alters the flow of time briefly (slow, haste, etc)
+[Mens](#)       | Mind       | Reads thoughts, communicates telepathically, or influences emotions
+[Terra](#)      | Earth      | Manipulates earth, stone, or minerals
+[Aqua](#)       | Water      | Controls or creates water, manipulates liquids
+[Ventus](#)     | Wind       | Generates gusts of wind, manipulates air currents
+[Umbra](#)      | Shadow     | Manipulates shadows, creates shadowy illusions
+
+
+## Lux (Light)
+
+Let there be light!
+
+Skill Use | DC | Description
+----------|----|------------
+Fiat Lux  | 10 | Creates an orb of light while you concentrate. Occupies a hand or focus slot.
+Light Orb | 14 | Orb of light can fly as you direct, within line of sight.
+Flashbang | 17 | Creates a sudden burst of light that blinds creatures (Con ends). Disadvantage if lighting was dim before you cast it.
+Searing Light | 20 | Focused light beam causes fire damage.
+
+## Impello (Force)
+
+- Ordo / Ordino (order): mend what is broken; organize what is chaotic
+- Parma / Contego (shield): protect yourself
+- Porta (portal): you know, portals?
+- TBD (passage): opens doors, containers, etc
+- Purgo (purify): removes impurities/dirt/etc
+- Ignis / Ardeo (fire): burns
+- Voce / Loqui (speak): produce a sound your voice is capable of
+- Vide (see): see that which you cannot see
+
+## More
+
+
+### 2nd-Order Uses
+
+2nd Skill  | Spell        | DC | Description
+-----------|--------------|----|------------
+Vide (See) | Hidden Light | 20 | Create light invisible to the eye (infrared), which you then see with the aid of divination. Effectively nightvision.
+Impelle (Force) | Lux Impello | 17 | Creates an orb of focused light, then hurls it at a foe, causing fire damage.
+
+
+
+## Adjectivae
+
+- Inversa (reverse): light to darkness, push to pull, fire to cold, etc
+- Persevero: extend a spell's duration beyond concentration
+- Roboro: intensify a spell's effect
+
+
+
+# Ideas
+Two uses for each base power:
+- Sustained (Fluere): what you can do continuously (concentration). Example: force shield, lux, flames!
+- Burst (Impleo): what you can do when you charge up a round's worth of mana and let it go all at once. Example: magic missile, flashbang, fireball?
+
+More ideas:
+- Enchant into item (imbuo)
+- Contingent cast
+- Soul bind
+- 
+
+
+
+# Paths
+
+## Wizard
+
+## Sorcerer
+
+## Golemwright
+
+## Chronomancer
+
+## Battlemage
+AKA Warden
+
+They get enchantment points to basically create their own magic items. Like Harry Dresden, obv.
+</contents>
+<bodyHtml>
+&lt;h1&gt;Arcanist&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;/img/character/classes/mage.jpg&#34; alt=&#34;Arcanist&#34;&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Attribute&lt;/th&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hit Die&lt;/td&gt;
+&lt;td&gt;d6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HP/level&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Weapon Prof.&lt;/td&gt;
+&lt;td&gt;Simple Weapons, Wand, Staff, Orb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Armor Prof.&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Saving Throws&lt;/td&gt;
+&lt;td&gt;Int, Wis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bonus Skills&lt;/td&gt;
+&lt;td&gt;Arcana&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Special Ability&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Forma (1st), Spell Focus&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Forma (2nd)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Forma (3rd)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Spell Focus&lt;/h1&gt;
+&lt;p&gt;Casting is hard. But it's easier with a focus!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wands: targeted spells&lt;/li&gt;
+&lt;li&gt;Staves: concentration spells&lt;/li&gt;
+&lt;li&gt;Orb: area spells&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Forma&lt;/h1&gt;
+&lt;p&gt;You are able to cast spells by evoking the power of ancient symbols, power words, and arcane formulae. While helpful, these are but aids to master the mental control needed to to envison &lt;em&gt;formae&lt;/em&gt;, which form the basis of spells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Formae&lt;/em&gt; (the plural) each describe a fundamental magical effect, such as opening a portal, or creating light, or transforming an object's shape. To do more complex things, it is possible (through even greater mental effort) to combine multiple &lt;em&gt;formae&lt;/em&gt; at the same time. A spell comprised of a single &lt;em&gt;forma&lt;/em&gt; is described as one of the &amp;quot;First Order&amp;quot;, whereas one comprised of multiple is &amp;quot;Second Order&amp;quot;. &amp;quot;Third Order&amp;quot; does not describe three &lt;em&gt;formae&lt;/em&gt;, but instead describes a combination of multiple forma, at least one of which is Second-Order. One can imagine Fifth Order spells as quite complex indeed.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You do not use an Energy mechanic to cast spells. Rather, you roll skill checks, the DC of which is based on the difficulty of the &lt;em&gt;formae&lt;/em&gt; and &lt;em&gt;adjectivae&lt;/em&gt; involved; failure on these checks can cause negative consequences.&lt;/li&gt;
+&lt;li&gt;By default, when casting spells, you use &lt;em&gt;mnemonics&lt;/em&gt;, which are mental aids in the form of geometric symbols, arcane words, gestures, etc. These are not themselves the components of magic, but rather devices that aid in the construction of &lt;em&gt;formae&lt;/em&gt; in your mind. It is nearly impossible to learn &lt;em&gt;formae&lt;/em&gt; without them, although it is possible to cast a well-known spell without them, if necessary. When deprived of your mnemonics, you suffer a penalty to the spellcasting check: -5 if deprived of your voice and -5 if deprived of your ability to gesture.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Translation&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Lux&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Light&lt;/td&gt;
+&lt;td&gt;Creates light&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Impello&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Force&lt;/td&gt;
+&lt;td&gt;Move matter with kinetic force&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Parma&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Shield&lt;/td&gt;
+&lt;td&gt;Block the motion of energy and matter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Aperio&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Open&lt;/td&gt;
+&lt;td&gt;Opens doors, containers, etc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Ordo&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Order&lt;/td&gt;
+&lt;td&gt;Mend damaged objects, organize sets of things, etc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Purgo&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Purge&lt;/td&gt;
+&lt;td&gt;Separates impurities from the whole&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Voce&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Voice&lt;/td&gt;
+&lt;td&gt;Creates sound&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Vide&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;See&lt;/td&gt;
+&lt;td&gt;Grants sight, physical or metaphysical&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Ignis&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Fire&lt;/td&gt;
+&lt;td&gt;Creates fire or heat&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Appareo&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Appear&lt;/td&gt;
+&lt;td&gt;Teleport yourself&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Porta&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Portal&lt;/td&gt;
+&lt;td&gt;Create portals within or beyond your dimension&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Velo&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Veil&lt;/td&gt;
+&lt;td&gt;Create illusions which hide creatures or objects from sight&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Formo&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Transform&lt;/td&gt;
+&lt;td&gt;Change the shape of an object or creature&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Glacies&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ice&lt;/td&gt;
+&lt;td&gt;Creates cold or ice, freezes objects or surfaces&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Tenebrae&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Darkness&lt;/td&gt;
+&lt;td&gt;Creates areas of magical darkness, obscures vision&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Volare&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Fly&lt;/td&gt;
+&lt;td&gt;Grants the ability to levitate or fly for a short duration&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Curare&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Heal&lt;/td&gt;
+&lt;td&gt;Restores health or cures minor ailments&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Animare&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Animate&lt;/td&gt;
+&lt;td&gt;Animates objects or creates temporary magical constructs&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Tempus&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Time&lt;/td&gt;
+&lt;td&gt;Alters the flow of time briefly (slow, haste, etc)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Mens&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Mind&lt;/td&gt;
+&lt;td&gt;Reads thoughts, communicates telepathically, or influences emotions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Terra&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Earth&lt;/td&gt;
+&lt;td&gt;Manipulates earth, stone, or minerals&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Aqua&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Water&lt;/td&gt;
+&lt;td&gt;Controls or creates water, manipulates liquids&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Ventus&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Wind&lt;/td&gt;
+&lt;td&gt;Generates gusts of wind, manipulates air currents&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Umbra&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Shadow&lt;/td&gt;
+&lt;td&gt;Manipulates shadows, creates shadowy illusions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Lux (Light)&lt;/h2&gt;
+&lt;p&gt;Let there be light!&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Skill Use&lt;/th&gt;
+&lt;th&gt;DC&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Fiat Lux&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;Creates an orb of light while you concentrate. Occupies a hand or focus slot.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Light Orb&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;Orb of light can fly as you direct, within line of sight.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Flashbang&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;Creates a sudden burst of light that blinds creatures (Con ends). Disadvantage if lighting was dim before you cast it.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Searing Light&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;Focused light beam causes fire damage.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Impello (Force)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ordo / Ordino (order): mend what is broken; organize what is chaotic&lt;/li&gt;
+&lt;li&gt;Parma / Contego (shield): protect yourself&lt;/li&gt;
+&lt;li&gt;Porta (portal): you know, portals?&lt;/li&gt;
+&lt;li&gt;TBD (passage): opens doors, containers, etc&lt;/li&gt;
+&lt;li&gt;Purgo (purify): removes impurities/dirt/etc&lt;/li&gt;
+&lt;li&gt;Ignis / Ardeo (fire): burns&lt;/li&gt;
+&lt;li&gt;Voce / Loqui (speak): produce a sound your voice is capable of&lt;/li&gt;
+&lt;li&gt;Vide (see): see that which you cannot see&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;More&lt;/h2&gt;
+&lt;h3&gt;2nd-Order Uses&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;2nd Skill&lt;/th&gt;
+&lt;th&gt;Spell&lt;/th&gt;
+&lt;th&gt;DC&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Vide (See)&lt;/td&gt;
+&lt;td&gt;Hidden Light&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;Create light invisible to the eye (infrared), which you then see with the aid of divination. Effectively nightvision.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Impelle (Force)&lt;/td&gt;
+&lt;td&gt;Lux Impello&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;Creates an orb of focused light, then hurls it at a foe, causing fire damage.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Adjectivae&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Inversa (reverse): light to darkness, push to pull, fire to cold, etc&lt;/li&gt;
+&lt;li&gt;Persevero: extend a spell's duration beyond concentration&lt;/li&gt;
+&lt;li&gt;Roboro: intensify a spell's effect&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Ideas&lt;/h1&gt;
+&lt;p&gt;Two uses for each base power:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sustained (Fluere): what you can do continuously (concentration). Example: force shield, lux, flames!&lt;/li&gt;
+&lt;li&gt;Burst (Impleo): what you can do when you charge up a round's worth of mana and let it go all at once. Example: magic missile, flashbang, fireball?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More ideas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Enchant into item (imbuo)&lt;/li&gt;
+&lt;li&gt;Contingent cast&lt;/li&gt;
+&lt;li&gt;Soul bind&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Paths&lt;/h1&gt;
+&lt;h2&gt;Wizard&lt;/h2&gt;
+&lt;h2&gt;Sorcerer&lt;/h2&gt;
+&lt;h2&gt;Golemwright&lt;/h2&gt;
+&lt;h2&gt;Chronomancer&lt;/h2&gt;
+&lt;h2&gt;Battlemage&lt;/h2&gt;
+&lt;p&gt;AKA Warden&lt;/p&gt;
+&lt;p&gt;They get enchantment points to basically create their own magic items. Like Harry Dresden, obv.&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <toc_min_heading_level>2</toc_min_heading_level>
+  <toc_max_heading_level>5</toc_max_heading_level>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

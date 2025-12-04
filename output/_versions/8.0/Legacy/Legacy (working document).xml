@@ -1,0 +1,220 @@
+<article><name>Legacy (working document)</name>
+<contents># New version, in brief
+
+Everyone gets a bonus feat and a bonus power at level 0. This is useful for establishing legacy abilities. Further abilities must be purchased using feats and powers gained through leveling.
+
+To gain a legacy, you opt in to a chosen legacy's basic state, which is typically level-neutral (any advantages it grants are offset by disadvantages). You can choose to have no legacy. You can have multiple, but only at the DM's discretion.
+
+Some legacies have &#34;negative&#34; powers which impart disadvatanges, but allow you to select more powers in kind. These can be selected at character creation, or when leveling up and selecting new Legacy powers.
+
+Quick example:
+- The Vampire legacy grants:
+  - Ability score bonuses (net positive)
+  - Undead traits (minor negative)
+  - Vulnerability to sunlight and magical thresholds (major negative)
+  - Blood mechanic (net neutral)
+  - Access to a variety of feats and powers
+- The Chosen One legacy grants:
+  - Ability score bonuses (net positive)
+  - A guiding force NPC, magic item, voice in your head, etc (neutral)
+  - Obligations to perform a sacred duty (net negative)
+
+
+
+
+
+# Old, class-based version
+
+All D&amp;D races gone. As is the word &#34;race&#34;.
+
+Each level represents either training or innate ability. I suppose you could say there are two Classes in the game, one representing each.
+
+Levels of training grant 1 Feat, as mentioned.
+
+Innate ability should total 0 at 1st level, but it can do so by balancing useful abilities with disadvantages.
+
+Examples:
+
+# Sylvans
+- (+1 level) gain +2 to two ability scores or +4 to one ability score.
+- (+1 level) gain the ability to Fey Step (recharge 33%, move, ranged, teleport within line of sight)
+- (+1 level) gain the ability to Charm (recharge 33%, std, range; subject is charmed, Cha ends, ends automatically or fails immediately if you or obvious ally is hostile)
+- (+1 level) gain the ability to summon a minor animal to aid you (e.g. rat, owl, fox)
+- (+2 level) gain a powerful animal or plant like form you can shift into for a limited time
+- (-1 level) you physically cannot speak a direct lie. You can exaggerate, or mislead, or use weasel worlds, but direct, factual lies are impossible.
+- (-2 levels) you are obligated to honor any deal, bargain, or promise made, even if it is not in your favor.
+- (-3 levels) you are vulnerable to iron and iron-based weapon attacks. You cannot wield iron weapons or wear iron armor.
+
+# Netherkind
+- (+1 level) gain +2 to two ability scores or +4 to one ability score.
+- (+1 level) Resist (necrotic)
+- (-1 level) Vulnerable (radiant)
+- (+2 levels) Blood Drain: you have a bite attack inflicting 1d4 Con damage. Drained blood can reduce any Con damage you might have, or otherwise grant temporary Con (up to 10 higher than normal).
+- (-2 levels) Blood Addiction: you must feed on blood to survive. Your subjects must be of the same phenotype as you (e.g., in most cases, natural humanoids). You lose 2 points of Con every day simply existing. Food is tasty, but does not slake your blood hunger. You must have the Blood Drain ability in order to feed. If your Con drops below 10, you must pass a Wis save (DC = 10 + amount Con is below normal) every time you have the opportunity to feed, if you do not wish to. If your Con drops 10 points below normal, or below 4, you lose control of your character, as they drop all inhibitions and pursue feeding until max Con is reached.
+- (+2 levels) Regeneration: (requires Blood Drain) At the beginning of each round, even if you are otherwise unable to take actions, you can choose to exchange Con points to remove Wounds. Every 2 Con points removes 1 Wound per level. This automatically stabilizes you if you were unstable, and allows you to re-roll your Con check to determine if you are disabled or merely bloody. If dying, this ability does not restore your ability to act, unless it reduces your Wounds to 0.
+- (-2 levels) Sunlight Vulnerability: Each round you spend in natural sunlight, you suffer 10 Wounds. This occurs if any portion of your body is exposed to the light.
+- (-1 levels) Holy Ward: You cannot cross the threshold of a sanctified place or the home of a mortal without invitation. If you find yourself inside one, you must spend all actions to exit as quickly as possible. If a living creature presents you with a holy symbol in which they possess true faith, you cannot approach closer to them voluntarily.
+
+Other vampire abilities are generally +1 level.
+
+
+
+# The World
+
+Like 3e, this system has an Implied Setting. Effectively, that means it has everything a normal setting has except a map. More specifically:
+- It has &#34;races&#34; (though not the traditional ones), and rules for making your own
+- It has places (interesting towns, dungeons, ruins, etc), but you decided where they are
+- It has a few gods and other powers, and rules for making your own
+- It has a prevailing magic system that explains magic users, powerful beings, etc
+- It has a socioeconomic and political reality that allows for adventurers
+- It has a magic item economy
+- It has a medieval fantasy aesthetic, with a few things from other settings (i.e. artifice, automata), but not full-blown Steampunk (but it can be)
+- Everything in it is portable to other worlds
+
+
+# People
+The words &#34;race&#34;, &#34;races&#34;, and &#34;racial&#34; shall not appear in the work. The section that describes the innate abilities of PCs and NPCs shall be called People, and it will explain all of the People in the setting.
+
+&gt; We have heard of worlds where magic hides, and must be teased out through rigorous study, and purchased dearly from the world's life force. We have seen visages of worlds where magic flows too freely, and is tamed and weaponized, perverted in its purpose, until all life is drained from the world by one means or another. This is not our world.
+&gt; 
+&gt; Our world sits in the balance between Aether and Nether. Above, the Aether stirs, ever creative, blossoming into existence from nothing. In its pure form, it is power, and potential, and all things--but far too potent for mortals. The Aether is the realm of the Divine. But Aether does not last forever. It decays--some say it evolves--but the transition is permanent. Aether becomes Fire, or Earth, or Life. It becomes the air we breathe, the water we drink. It becomes the complex elements that form the biosphere, and the simple energies that make the elements vital. And, at long last, when matter and energy have expired, they decay once more, descending into the Nether, from which they will never return.
+&gt; 
+&gt; The many elements and energies of our world keep it vital and diverse. Minerals, plants, and animals exist in abundance, all aligning with one element or another, or several, or even an ever-changing preference. And so, too, does intelligent and sentient life form its clades and niches. The many peoples of our world all have a favorite element or two, or a guiding energy that unites them. The Sylvans, full of Life, are similar to the many animals and plants of the surface world, but with the advantage of speech, tools, and complex society. The Elementals dwell where pure elemental energies ebb--in the earth's crust, in pools of fire, in deepest ocean, amidst the clouds, etc.
+&gt; 
+&gt; It is even said that, beyond our world, others peoples live similar lives. The Devi are the peoples of Aether, kin to the gods themselves. Below, the Netherkin scrape some sort of existence together in a realm of eternal decay. Some clever folk have even engineered new energies, distinct from those of nature: Artifice makes wonderful toys, and terrible weapons, and even a new sort of people: the Automata. Similarly, not all people agree on how magic ought to be used, and some have used it--intentionally or otherwise--to warp natural people and creatures into something nature never intended: the Divergent.
+&gt; 
+&gt; But people are as people do. No one element or energy is right, and none is wrong. People do good, and bad, and they change their minds. No one sits in judgment. There are godly beings, every one with a story to tell of their exploits, their virtues and vices, but there is no consensus as to who is right and who is wrong, for people believe what they wish to believe. Religions are as numerous as any other invention of people--they are an attempt to understand a Universe which is more complex, beautiful, and awesome than any work of words has ever captured. There is more mystery in the Earth and the Heavens than may ever be explored.
+
+
+Gods:
+- Each ethnic group has a &#34;pantheon&#34; of sorts. Each pantheon is an entirely different approach to religion.
+- Sylvan gods are beings like Wolf, Eagle, Bear, etc, and a more powerful and distant class such as Sky, Moon, and Mother (the world itself). They don't do a lot of judging. The religion believes in constant reincarnation, without a karmic system--after all, natural is self-balancing. Sometimes you're the predator, sometimes you're the prey.
+- Elemental gods are simply the most powerful elemental beings in a given area. There is no separate world in which elementals exist. Elementals are also ageless, and are absorbed into their element when they die (preferably), so there is no afterlife. Sadly, many Elementals are destroyed in order to harvest elemental crystals. This is frowned upon.
+
+
+Humans:
+- More sort of the &#34;mutts&#34; of the world. Some consider themselves &#34;pure&#34;, but the reality is they are the genetic &#34;average&#34; of all the more extreme forms of humanoid out there. Different stories are told of origins--some even prefer that humans arrived from elsewhere, perhaps via lost magicks or technology--a reason for some to pursue such knowledge with zeal and even abandon.
+
+
+# Magic
+
+So Aether becomes elements and energy. More specifically, all those twinkly white things in the sky are explosions of Aether, pure and white, devolving into matter and energy spewed in every direction. Some time ago, perhaps at the direction of gods, this world was woven together from many elements and energies. Other worlds may even exist, somewhere out in the Cosmos.
+
+But what is magic, then? Well, magic is just a continuum of possibility in a Universe where more energies exist than in ours. While thermal and electromagnetic potential exist in both Universes, only in this one does pure Fire, Air, or Life energy bind itself to matter. And thus, said energies can be coaxed apart, and formed into something useful.
+
+The most traditional magicks are probably those of the Sylvan and Elemental peoples, at least before the increase in the complexity of civilization over the last few thousand years. For long eons prior, Sylvans and Elementals practiced traditional arts that could be called &#34;magic&#34;. 
+
+Sylvan &#34;magic&#34; is mainly incorporated into their forms, which can grow and evolve in power as they become more potent. The more esoteric and &#34;magicky&#34; of their arts are those involving the Spirit Realm, a coterminous space (or an extension of existing space that others cannot see). Within the context of ancient Sylvan life, this might not even be considered magic at all--although these days, only a small few practice the ancient ways.
+
+Elemental magic is a bit more obvious, albeit restricted to the spaces and times where the energy abounds. Within nodes of elemental power, Elementals can create many effects in line with the energy they are using. Far away from such sources, they must draw on their own internal energy, which can diminish them quickly.
+
+So is that it? What of robed wizards animating brooms? Broom-riding witches brewing potions in cauldrons?
+
+Well, apart from things that are decidedly *not* spellcasting such as Alchemy, such magic definitely exists, and is the result of careful study and experimentation by many generations of clever practitioners (of varying ethical persuasions).
+
+The mechanisms by which a Sylvan might call upon natural power to change their form, or by which an Elemental might cause Earth to roil or Fire to blaze, were once mysterious. Through study, practitioners have made them less so. Given that all elements and energies have a natural affinity, it becomes possible to create tools to help create overt magical effects.
+
+For instance, a tree is a fairly advanced form of Life energy, so a branch of that tree can be used to manipulate said energy. Staves and wands are a common sight among those who wish to wield the energies of Life. Elementalism is really quite simple: earth is earth, water is water, etc. If one wishes to control fire, one needs some fire to control. Older schools of elementalism deal exclusively with manipulating what already exists in nature, and is at hand. In times past, fire elementalists would not be caught outside without a burning brazier, firebrand, or some such source of their preferred element.
+
+But we mustn't forget that all things come from Aether, which means there exists a primeval source for any desired energy. Perhaps the greatest discovery of the magical arts--certainly the most disruptive--was that the Aether, long known not to have any direct affinity with any known physical object, does in fact have affinity with complex thought-forms: words, symbols, mathematics, geometry, etc. Careful, exhaustive study of the appearance of abstract logic in nature (e.g. hexagons in beehives, crystalline structures in rock, the golden ratio, etc) eventually yielded the unifying theorem: how abstract, otherwise unreal structures that seem only to exist in the mind ultimately link with the Aether above. And so, mages learned to call upon Aether to create their own energies.
+
+(This has been the subject of much criticism)</contents>
+<bodyHtml>&lt;h1&gt;New version, in brief&lt;/h1&gt;
+&lt;p&gt;Everyone gets a bonus feat and a bonus power at level 0. This is useful for establishing legacy abilities. Further abilities must be purchased using feats and powers gained through leveling.&lt;/p&gt;
+&lt;p&gt;To gain a legacy, you opt in to a chosen legacy's basic state, which is typically level-neutral (any advantages it grants are offset by disadvantages). You can choose to have no legacy. You can have multiple, but only at the DM's discretion.&lt;/p&gt;
+&lt;p&gt;Some legacies have &amp;quot;negative&amp;quot; powers which impart disadvatanges, but allow you to select more powers in kind. These can be selected at character creation, or when leveling up and selecting new Legacy powers.&lt;/p&gt;
+&lt;p&gt;Quick example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Vampire legacy grants:
+&lt;ul&gt;
+&lt;li&gt;Ability score bonuses (net positive)&lt;/li&gt;
+&lt;li&gt;Undead traits (minor negative)&lt;/li&gt;
+&lt;li&gt;Vulnerability to sunlight and magical thresholds (major negative)&lt;/li&gt;
+&lt;li&gt;Blood mechanic (net neutral)&lt;/li&gt;
+&lt;li&gt;Access to a variety of feats and powers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The Chosen One legacy grants:
+&lt;ul&gt;
+&lt;li&gt;Ability score bonuses (net positive)&lt;/li&gt;
+&lt;li&gt;A guiding force NPC, magic item, voice in your head, etc (neutral)&lt;/li&gt;
+&lt;li&gt;Obligations to perform a sacred duty (net negative)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Old, class-based version&lt;/h1&gt;
+&lt;p&gt;All D&amp;amp;D races gone. As is the word &amp;quot;race&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Each level represents either training or innate ability. I suppose you could say there are two Classes in the game, one representing each.&lt;/p&gt;
+&lt;p&gt;Levels of training grant 1 Feat, as mentioned.&lt;/p&gt;
+&lt;p&gt;Innate ability should total 0 at 1st level, but it can do so by balancing useful abilities with disadvantages.&lt;/p&gt;
+&lt;p&gt;Examples:&lt;/p&gt;
+&lt;h1&gt;Sylvans&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;(+1 level) gain +2 to two ability scores or +4 to one ability score.&lt;/li&gt;
+&lt;li&gt;(+1 level) gain the ability to Fey Step (recharge 33%, move, ranged, teleport within line of sight)&lt;/li&gt;
+&lt;li&gt;(+1 level) gain the ability to Charm (recharge 33%, std, range; subject is charmed, Cha ends, ends automatically or fails immediately if you or obvious ally is hostile)&lt;/li&gt;
+&lt;li&gt;(+1 level) gain the ability to summon a minor animal to aid you (e.g. rat, owl, fox)&lt;/li&gt;
+&lt;li&gt;(+2 level) gain a powerful animal or plant like form you can shift into for a limited time&lt;/li&gt;
+&lt;li&gt;(-1 level) you physically cannot speak a direct lie. You can exaggerate, or mislead, or use weasel worlds, but direct, factual lies are impossible.&lt;/li&gt;
+&lt;li&gt;(-2 levels) you are obligated to honor any deal, bargain, or promise made, even if it is not in your favor.&lt;/li&gt;
+&lt;li&gt;(-3 levels) you are vulnerable to iron and iron-based weapon attacks. You cannot wield iron weapons or wear iron armor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Netherkind&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;(+1 level) gain +2 to two ability scores or +4 to one ability score.&lt;/li&gt;
+&lt;li&gt;(+1 level) Resist (necrotic)&lt;/li&gt;
+&lt;li&gt;(-1 level) Vulnerable (radiant)&lt;/li&gt;
+&lt;li&gt;(+2 levels) Blood Drain: you have a bite attack inflicting 1d4 Con damage. Drained blood can reduce any Con damage you might have, or otherwise grant temporary Con (up to 10 higher than normal).&lt;/li&gt;
+&lt;li&gt;(-2 levels) Blood Addiction: you must feed on blood to survive. Your subjects must be of the same phenotype as you (e.g., in most cases, natural humanoids). You lose 2 points of Con every day simply existing. Food is tasty, but does not slake your blood hunger. You must have the Blood Drain ability in order to feed. If your Con drops below 10, you must pass a Wis save (DC = 10 + amount Con is below normal) every time you have the opportunity to feed, if you do not wish to. If your Con drops 10 points below normal, or below 4, you lose control of your character, as they drop all inhibitions and pursue feeding until max Con is reached.&lt;/li&gt;
+&lt;li&gt;(+2 levels) Regeneration: (requires Blood Drain) At the beginning of each round, even if you are otherwise unable to take actions, you can choose to exchange Con points to remove Wounds. Every 2 Con points removes 1 Wound per level. This automatically stabilizes you if you were unstable, and allows you to re-roll your Con check to determine if you are disabled or merely bloody. If dying, this ability does not restore your ability to act, unless it reduces your Wounds to 0.&lt;/li&gt;
+&lt;li&gt;(-2 levels) Sunlight Vulnerability: Each round you spend in natural sunlight, you suffer 10 Wounds. This occurs if any portion of your body is exposed to the light.&lt;/li&gt;
+&lt;li&gt;(-1 levels) Holy Ward: You cannot cross the threshold of a sanctified place or the home of a mortal without invitation. If you find yourself inside one, you must spend all actions to exit as quickly as possible. If a living creature presents you with a holy symbol in which they possess true faith, you cannot approach closer to them voluntarily.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Other vampire abilities are generally +1 level.&lt;/p&gt;
+&lt;h1&gt;The World&lt;/h1&gt;
+&lt;p&gt;Like 3e, this system has an Implied Setting. Effectively, that means it has everything a normal setting has except a map. More specifically:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It has &amp;quot;races&amp;quot; (though not the traditional ones), and rules for making your own&lt;/li&gt;
+&lt;li&gt;It has places (interesting towns, dungeons, ruins, etc), but you decided where they are&lt;/li&gt;
+&lt;li&gt;It has a few gods and other powers, and rules for making your own&lt;/li&gt;
+&lt;li&gt;It has a prevailing magic system that explains magic users, powerful beings, etc&lt;/li&gt;
+&lt;li&gt;It has a socioeconomic and political reality that allows for adventurers&lt;/li&gt;
+&lt;li&gt;It has a magic item economy&lt;/li&gt;
+&lt;li&gt;It has a medieval fantasy aesthetic, with a few things from other settings (i.e. artifice, automata), but not full-blown Steampunk (but it can be)&lt;/li&gt;
+&lt;li&gt;Everything in it is portable to other worlds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;People&lt;/h1&gt;
+&lt;p&gt;The words &amp;quot;race&amp;quot;, &amp;quot;races&amp;quot;, and &amp;quot;racial&amp;quot; shall not appear in the work. The section that describes the innate abilities of PCs and NPCs shall be called People, and it will explain all of the People in the setting.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We have heard of worlds where magic hides, and must be teased out through rigorous study, and purchased dearly from the world's life force. We have seen visages of worlds where magic flows too freely, and is tamed and weaponized, perverted in its purpose, until all life is drained from the world by one means or another. This is not our world.&lt;/p&gt;
+&lt;p&gt;Our world sits in the balance between Aether and Nether. Above, the Aether stirs, ever creative, blossoming into existence from nothing. In its pure form, it is power, and potential, and all things--but far too potent for mortals. The Aether is the realm of the Divine. But Aether does not last forever. It decays--some say it evolves--but the transition is permanent. Aether becomes Fire, or Earth, or Life. It becomes the air we breathe, the water we drink. It becomes the complex elements that form the biosphere, and the simple energies that make the elements vital. And, at long last, when matter and energy have expired, they decay once more, descending into the Nether, from which they will never return.&lt;/p&gt;
+&lt;p&gt;The many elements and energies of our world keep it vital and diverse. Minerals, plants, and animals exist in abundance, all aligning with one element or another, or several, or even an ever-changing preference. And so, too, does intelligent and sentient life form its clades and niches. The many peoples of our world all have a favorite element or two, or a guiding energy that unites them. The Sylvans, full of Life, are similar to the many animals and plants of the surface world, but with the advantage of speech, tools, and complex society. The Elementals dwell where pure elemental energies ebb--in the earth's crust, in pools of fire, in deepest ocean, amidst the clouds, etc.&lt;/p&gt;
+&lt;p&gt;It is even said that, beyond our world, others peoples live similar lives. The Devi are the peoples of Aether, kin to the gods themselves. Below, the Netherkin scrape some sort of existence together in a realm of eternal decay. Some clever folk have even engineered new energies, distinct from those of nature: Artifice makes wonderful toys, and terrible weapons, and even a new sort of people: the Automata. Similarly, not all people agree on how magic ought to be used, and some have used it--intentionally or otherwise--to warp natural people and creatures into something nature never intended: the Divergent.&lt;/p&gt;
+&lt;p&gt;But people are as people do. No one element or energy is right, and none is wrong. People do good, and bad, and they change their minds. No one sits in judgment. There are godly beings, every one with a story to tell of their exploits, their virtues and vices, but there is no consensus as to who is right and who is wrong, for people believe what they wish to believe. Religions are as numerous as any other invention of people--they are an attempt to understand a Universe which is more complex, beautiful, and awesome than any work of words has ever captured. There is more mystery in the Earth and the Heavens than may ever be explored.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Gods:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Each ethnic group has a &amp;quot;pantheon&amp;quot; of sorts. Each pantheon is an entirely different approach to religion.&lt;/li&gt;
+&lt;li&gt;Sylvan gods are beings like Wolf, Eagle, Bear, etc, and a more powerful and distant class such as Sky, Moon, and Mother (the world itself). They don't do a lot of judging. The religion believes in constant reincarnation, without a karmic system--after all, natural is self-balancing. Sometimes you're the predator, sometimes you're the prey.&lt;/li&gt;
+&lt;li&gt;Elemental gods are simply the most powerful elemental beings in a given area. There is no separate world in which elementals exist. Elementals are also ageless, and are absorbed into their element when they die (preferably), so there is no afterlife. Sadly, many Elementals are destroyed in order to harvest elemental crystals. This is frowned upon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Humans:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;More sort of the &amp;quot;mutts&amp;quot; of the world. Some consider themselves &amp;quot;pure&amp;quot;, but the reality is they are the genetic &amp;quot;average&amp;quot; of all the more extreme forms of humanoid out there. Different stories are told of origins--some even prefer that humans arrived from elsewhere, perhaps via lost magicks or technology--a reason for some to pursue such knowledge with zeal and even abandon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Magic&lt;/h1&gt;
+&lt;p&gt;So Aether becomes elements and energy. More specifically, all those twinkly white things in the sky are explosions of Aether, pure and white, devolving into matter and energy spewed in every direction. Some time ago, perhaps at the direction of gods, this world was woven together from many elements and energies. Other worlds may even exist, somewhere out in the Cosmos.&lt;/p&gt;
+&lt;p&gt;But what is magic, then? Well, magic is just a continuum of possibility in a Universe where more energies exist than in ours. While thermal and electromagnetic potential exist in both Universes, only in this one does pure Fire, Air, or Life energy bind itself to matter. And thus, said energies can be coaxed apart, and formed into something useful.&lt;/p&gt;
+&lt;p&gt;The most traditional magicks are probably those of the Sylvan and Elemental peoples, at least before the increase in the complexity of civilization over the last few thousand years. For long eons prior, Sylvans and Elementals practiced traditional arts that could be called &amp;quot;magic&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Sylvan &amp;quot;magic&amp;quot; is mainly incorporated into their forms, which can grow and evolve in power as they become more potent. The more esoteric and &amp;quot;magicky&amp;quot; of their arts are those involving the Spirit Realm, a coterminous space (or an extension of existing space that others cannot see). Within the context of ancient Sylvan life, this might not even be considered magic at all--although these days, only a small few practice the ancient ways.&lt;/p&gt;
+&lt;p&gt;Elemental magic is a bit more obvious, albeit restricted to the spaces and times where the energy abounds. Within nodes of elemental power, Elementals can create many effects in line with the energy they are using. Far away from such sources, they must draw on their own internal energy, which can diminish them quickly.&lt;/p&gt;
+&lt;p&gt;So is that it? What of robed wizards animating brooms? Broom-riding witches brewing potions in cauldrons?&lt;/p&gt;
+&lt;p&gt;Well, apart from things that are decidedly &lt;em&gt;not&lt;/em&gt; spellcasting such as Alchemy, such magic definitely exists, and is the result of careful study and experimentation by many generations of clever practitioners (of varying ethical persuasions).&lt;/p&gt;
+&lt;p&gt;The mechanisms by which a Sylvan might call upon natural power to change their form, or by which an Elemental might cause Earth to roil or Fire to blaze, were once mysterious. Through study, practitioners have made them less so. Given that all elements and energies have a natural affinity, it becomes possible to create tools to help create overt magical effects.&lt;/p&gt;
+&lt;p&gt;For instance, a tree is a fairly advanced form of Life energy, so a branch of that tree can be used to manipulate said energy. Staves and wands are a common sight among those who wish to wield the energies of Life. Elementalism is really quite simple: earth is earth, water is water, etc. If one wishes to control fire, one needs some fire to control. Older schools of elementalism deal exclusively with manipulating what already exists in nature, and is at hand. In times past, fire elementalists would not be caught outside without a burning brazier, firebrand, or some such source of their preferred element.&lt;/p&gt;
+&lt;p&gt;But we mustn't forget that all things come from Aether, which means there exists a primeval source for any desired energy. Perhaps the greatest discovery of the magical arts--certainly the most disruptive--was that the Aether, long known not to have any direct affinity with any known physical object, does in fact have affinity with complex thought-forms: words, symbols, mathematics, geometry, etc. Careful, exhaustive study of the appearance of abstract logic in nature (e.g. hexagons in beehives, crystalline structures in rock, the golden ratio, etc) eventually yielded the unifying theorem: how abstract, otherwise unreal structures that seem only to exist in the mind ultimately link with the Aether above. And so, mages learned to call upon Aether to create their own energies.&lt;/p&gt;
+&lt;p&gt;(This has been the subject of much criticism)&lt;/p&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

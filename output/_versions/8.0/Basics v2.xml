@@ -1,0 +1,119 @@
+<article><name>Basics v2</name>
+<contents># New Basics
+
+Rolls:
+- Attack
+- Spellcraft
+- Concentration ?
+
+Saves:
+- Fortitude
+- Reflex
+- Willpower
+
+Defenses:
+- Armor
+- Dodge
+- Parry
+- Block
+
+Other:
+- Initiative
+- Hit Points
+- Mana
+
+
+These numbers are all determined by your class selection, and, secondarily, your ability scores.
+
+Ability scores:
+
+Strength            | Dexterity              | Constitution
+--------------------|------------------------|-------------
++1 weapon damage    | +1/2 to hit            | +1 HP/lev
++1 Parry            | +1/4 crit range        | +1 Fortitude
+                    | +1/2 to Dodge          | +1 Block
+                    | +1/2 to Initiative     |
+
+
+
+Intelligence        | Wisdom                 | Charisma
+--------------------|------------------------|-------------
++1 to Spellcraft    | +1 to Mana             | +1 spell damage
++1/4 crit range     | +1 to Concentration    | +1 Willpower</contents>
+<bodyHtml>&lt;h1&gt;New Basics&lt;/h1&gt;
+&lt;p&gt;Rolls:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Attack&lt;/li&gt;
+&lt;li&gt;Spellcraft&lt;/li&gt;
+&lt;li&gt;Concentration ?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Saves:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fortitude&lt;/li&gt;
+&lt;li&gt;Reflex&lt;/li&gt;
+&lt;li&gt;Willpower&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Defenses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Armor&lt;/li&gt;
+&lt;li&gt;Dodge&lt;/li&gt;
+&lt;li&gt;Parry&lt;/li&gt;
+&lt;li&gt;Block&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Other:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Initiative&lt;/li&gt;
+&lt;li&gt;Hit Points&lt;/li&gt;
+&lt;li&gt;Mana&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These numbers are all determined by your class selection, and, secondarily, your ability scores.&lt;/p&gt;
+&lt;p&gt;Ability scores:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Strength&lt;/th&gt;
+&lt;th&gt;Dexterity&lt;/th&gt;
+&lt;th&gt;Constitution&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;+1 weapon damage&lt;/td&gt;
+&lt;td&gt;+1/2 to hit&lt;/td&gt;
+&lt;td&gt;+1 HP/lev&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;+1 Parry&lt;/td&gt;
+&lt;td&gt;+1/4 crit range&lt;/td&gt;
+&lt;td&gt;+1 Fortitude&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;pre&gt;&lt;code&gt;                | +1/2 to Dodge          | +1 Block
+                | +1/2 to Initiative     |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Intelligence&lt;/th&gt;
+&lt;th&gt;Wisdom&lt;/th&gt;
+&lt;th&gt;Charisma&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;+1 to Spellcraft&lt;/td&gt;
+&lt;td&gt;+1 to Mana&lt;/td&gt;
+&lt;td&gt;+1 spell damage&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;+1/4 crit range&lt;/td&gt;
+&lt;td&gt;+1 to Concentration&lt;/td&gt;
+&lt;td&gt;+1 Willpower&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

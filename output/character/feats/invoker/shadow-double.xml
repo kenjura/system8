@@ -1,0 +1,22 @@
+<article><name>shadow-double</name>
+<contents>---
+pact: shadow
+name: Shadow Double
+description: Conjure a shadow double who can manifest your powers, distract enemies, etc
+---
+
+# Shadow Double
+
+Conjure a shadow double who can manifest your powers, distract enemies, etc
+</contents>
+<bodyHtml>
+&lt;h1&gt;Shadow Double&lt;/h1&gt;
+&lt;p&gt;Conjure a shadow double who can manifest your powers, distract enemies, etc&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <pact>shadow</pact>
+  <name>Shadow Double</name>
+  <description>Conjure a shadow double who can manifest your powers, distract enemies, etc</description>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

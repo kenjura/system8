@@ -1,0 +1,15 @@
+<article><name>Spellcraft</name>
+<contents>Uses:
+- Used to set DCs for spell attacks and to penetrate defenses
+- Used to cast rituals, ad-hoc spells, any instance where the spell is not thoroughly mastered
+- Allows access to metamagic</contents>
+<bodyHtml>&lt;p&gt;Uses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Used to set DCs for spell attacks and to penetrate defenses&lt;/li&gt;
+&lt;li&gt;Used to cast rituals, ad-hoc spells, any instance where the spell is not thoroughly mastered&lt;/li&gt;
+&lt;li&gt;Allows access to metamagic&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

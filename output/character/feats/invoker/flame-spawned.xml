@@ -1,0 +1,22 @@
+<article><name>flame-spawned</name>
+<contents>---
+pact: infernal
+name: Flame-spawned
+description: Resist fire 50%
+---
+
+# Flame-spawned
+
+Resist fire 50%
+</contents>
+<bodyHtml>
+&lt;h1&gt;Flame-spawned&lt;/h1&gt;
+&lt;p&gt;Resist fire 50%&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <pact>infernal</pact>
+  <name>Flame-spawned</name>
+  <description>Resist fire 50%</description>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

@@ -1,0 +1,22 @@
+<article><name>devilsight</name>
+<contents>---
+pact: shadow
+name: Devilsight
+description: See in the dark
+---
+
+# Devilsight
+
+See in the dark
+</contents>
+<bodyHtml>
+&lt;h1&gt;Devilsight&lt;/h1&gt;
+&lt;p&gt;See in the dark&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <pact>shadow</pact>
+  <name>Devilsight</name>
+  <description>See in the dark</description>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

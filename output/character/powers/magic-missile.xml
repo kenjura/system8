@@ -1,0 +1,22 @@
+<article><name>magic-missile</name>
+<contents>---
+school: Evocation
+sphere: Force
+rank: 1
+type: Assault
+brief: At-will, std, ranged; medium force damage.
+---
+
+Magic missile is a cool power.</contents>
+<bodyHtml>
+&lt;p&gt;Magic missile is a cool power.&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <school>Evocation</school>
+  <sphere>Force</sphere>
+  <rank>1</rank>
+  <type>Assault</type>
+  <brief>At-will, std, ranged; medium force damage.</brief>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

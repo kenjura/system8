@@ -1,0 +1,90 @@
+<article><name>menu</name>
+<contents>- [Basics](/system8/character/basics)
+  - [Actions in Combat](/system8/character/basics/actions-in-combat)
+  - [Reserve Hit Points](/system8/characters/basics/reserve-hit-points)
+- [Classes](/system8/character/classes)
+  - [Arcanist](/system8/character/classes/arcanist)
+  - [Artificer](/system8/character/classes/arcanist)
+  - [Elementalist](/system8/character/classes/arcanist)
+  - [Fighter](/system8/character/classes/fighter)
+  - [Invoker](/system8/character/classes/invoker)
+  - [Psion](/system8/character/classes/psion)
+  - [Rogue](/system8/character/classes/rogue)
+  - [Thaumaturgist](/system8/character/classes/thaumaturgist)
+  - [Theurgist](/system8/character/classes/theurgist)
+- [Equipment](/system8/character/classes/equipment)
+  - [Alchemy](/system8/character/equipment/alchemy)
+  - [Armor](/system8/character/equipment/armor)
+  - [Blacksmithing](/system8/character/equipment/blacksmithing)
+  - [Enchanting](/system8/character/equipment/enchanting)
+  - [Weapons](/system8/character/equipment/weapons)
+- [Feats](/system8/character/classes/feats)
+- [Foundation](/system8/character/classes/foundation)
+- [Powers](/system8/character/classes/powers)
+- [Skills](/system8/character/classes/skills)
+- [System](/system8/system)
+  - [Conditions](/system8/system/conditions)
+    - [Chilled](/system8/system/conditions/chilled)
+    - [Dazed](/system8/system/conditions/dazed)
+    - [Feebleminded](/system8/system/conditions/feebleminded)
+    - [Frail](/system8/system/conditions/frail)
+    - [Meek](/system8/system/conditions/meek)
+    - [Paralyzed](/system8/system/conditions/paralyzed)
+    - [Rooted](/system8/system/conditions/rooted)
+    - [Stunned](/system8/system/conditions/stunned)
+    - [Weakened](/system8/system/conditions/weakened)</contents>
+<bodyHtml>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/basics&#34;&gt;Basics&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/basics/actions-in-combat&#34;&gt;Actions in Combat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/characters/basics/reserve-hit-points&#34;&gt;Reserve Hit Points&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes&#34;&gt;Classes&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/arcanist&#34;&gt;Arcanist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/arcanist&#34;&gt;Artificer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/arcanist&#34;&gt;Elementalist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/fighter&#34;&gt;Fighter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/invoker&#34;&gt;Invoker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/psion&#34;&gt;Psion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/rogue&#34;&gt;Rogue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/thaumaturgist&#34;&gt;Thaumaturgist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/theurgist&#34;&gt;Theurgist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/equipment&#34;&gt;Equipment&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/equipment/alchemy&#34;&gt;Alchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/equipment/armor&#34;&gt;Armor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/equipment/blacksmithing&#34;&gt;Blacksmithing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/equipment/enchanting&#34;&gt;Enchanting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/equipment/weapons&#34;&gt;Weapons&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/feats&#34;&gt;Feats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/foundation&#34;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/powers&#34;&gt;Powers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/character/classes/skills&#34;&gt;Skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/system&#34;&gt;System&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/system/conditions&#34;&gt;Conditions&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/system/conditions/chilled&#34;&gt;Chilled&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/system/conditions/dazed&#34;&gt;Dazed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/system/conditions/feebleminded&#34;&gt;Feebleminded&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/system/conditions/frail&#34;&gt;Frail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/system/conditions/meek&#34;&gt;Meek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/system/conditions/paralyzed&#34;&gt;Paralyzed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/system/conditions/rooted&#34;&gt;Rooted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/system/conditions/stunned&#34;&gt;Stunned&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/system8/system/conditions/weakened&#34;&gt;Weakened&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

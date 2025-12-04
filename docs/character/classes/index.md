@@ -3,37 +3,44 @@ sidebar_label: Class List
 sidebar_position: 1
 ---
 
-Classes and their paths
+Class      |   | Readiness
+-----------|---|----------
+[Arcanist](./arcanist) | 🟦🟦 | Conceptualizing
+[Artificer](./artificer) | 🟨🟨🟨 | Early Development
+[Elementalist](./elementalist) | 🟩🟩🟩🟩 | Fairly Developed (beta ready)
+[Fighter](./fighter) | 🟨🟨🟨 | Early Development
+[Invoker](./invoker) | 🟨🟨🟨 | Early Development
+[Psion](./psion) | 🟩🟩🟩🟩 | Fairly Developed (beta ready)
+[Rogue](./rogue) | 🟥 | Not started
+[Thaumaturgist](./thaumaturgist) | 🟩🟩🟩🟩 | Fairly Developed (beta ready)
+[Theurgist](./theurgist) | 🟥 | Not Started
 
-* [Fighter](./Fighter.md)
-  * Eldritch Knight
-  * Paladin
-  * Death Knight
-  * Barbarian
-  * Ranger
-  * Arcane Archer
-* [Rogue](./Rogue.md)
-  * Bard
-  * Assassin
-  * Swashbuckler?
-  * Shadowdancer
-  * Spellthief
-* [Arcanist](./Arcanist.md)
-  * Wizard
-  * Sorcerer
-* [Theurgist](./Theurgist.md)
-  * Priest
-  * Seeker
-  * (specialty)
-* [Elementalist](./Elementalist.md)
-  * Elemental Lord
-  * Shaman
-  * Shifter
-  * Channeler
-* [Invoker](./Invoker.md)
-  * Bladebound
-  * Summoner
-* [Thaumaturgist](./Thaumaturgist)
-  * Witch
-  * Blood Knight
-  * Necromancer
+<!--
+Not Started: ⚪ or ⬜
+
+Planning: 🟦 or 🟪
+
+In Progress: 🟨 or 🟧
+
+Almost Done: 🟩
+
+Complete: 🟢 or 🟩 (for final green)
+
+⬜ White Large Square
+
+⬛ Black Large Square
+
+🟥 Red Square
+
+🟧 Orange Square
+
+🟨 Yellow Square
+
+🟩 Green Square
+
+🟦 Blue Square
+
+🟪 Purple Square
+
+🟫 Brown Square
+-->

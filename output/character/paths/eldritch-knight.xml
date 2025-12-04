@@ -1,0 +1,290 @@
+<article><name>eldritch-knight</name>
+<contents>
+# Eldritch Knight
+Attribute         | Value
+------------------|-----
+Skill Proficiency | Arcana
+Mana              | 1 per level
+
+Level | Special Ability
+----- | ---------------
+1     | 1st Rune
+2     | Mage Armor
+3     | (utility)
+4     | 2nd Rune
+5     | Orbs
+6     | (utility)
+7     | 3rd Rune
+
+
+
+
+# Runes
+
+As an Eldritch Knight, you engrave magical runes on your weapon, armor, and shield in order to wield magic in the midst of combat.
+
+When you gain a rune, you gain all powers of appropriate rank within that rune.
+
+## Force
+Level | Effect
+------|-------
+1     | Shield
+3     | Forceful Strike (push)
+5     | Force Binding (enemy can't move)
+7     | Force Lance
+9     | Wall of Force
+
+## Fire
+Level | Effect
+------|-------
+1     | Flaming Sword (mana augment bonus fire damage +ots)
+3     | Burning Hands, basically
+5     | Fireball, after a fashion
+7     | Wall of Fire
+9     | Incinerate (uber single target dps?)
+
+## Frost
+Level | Effect
+------|-------
+1     | Chill Blade
+3     | Frost Barrier
+5     | Frost Nova
+7     | Wall of Ice
+9     | Freeze
+
+
+# Other Runes
+- Fire
+- Lightning
+- Frost
+- Air
+- Earth
+- Water
+- Shadows (invis, mirror image, phantom strike)
+- Portals?
+- Anti-magic (dispel, spell deflection)
+- Advanced:
+  - Time
+  - Antimagic
+  - Gravity
+  - Prismatic
+
+
+# Mage Armor
+
+Gain a chosen energy resist:
+- Rank 1: fire, frost, lightning
+- Rank 2: force, necrotic, radiant, etc
+
+# Orbs
+
+Whenever you spend a mana point on a rune, you gain an orb of the same type that lasts 3 rounds.
+- Fire/frost/lightning orbs shoot beams, and can be expended to absorb fire/frost/lightning damage affecting you or an ally
+- etc
+
+
+
+
+# Utility
+
+
+## Brainstorming
+- Blink
+- Invisibility
+- Mirror Image?</contents>
+<bodyHtml>&lt;h1&gt;Eldritch Knight&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Attribute&lt;/th&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Skill Proficiency&lt;/td&gt;
+&lt;td&gt;Arcana&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mana&lt;/td&gt;
+&lt;td&gt;1 per level&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Special Ability&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1st Rune&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Mage Armor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;(utility)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2nd Rune&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Orbs&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;(utility)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;3rd Rune&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Runes&lt;/h1&gt;
+&lt;p&gt;As an Eldritch Knight, you engrave magical runes on your weapon, armor, and shield in order to wield magic in the midst of combat.&lt;/p&gt;
+&lt;p&gt;When you gain a rune, you gain all powers of appropriate rank within that rune.&lt;/p&gt;
+&lt;h2&gt;Force&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Shield&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Forceful Strike (push)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Force Binding (enemy can't move)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;Force Lance&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Wall of Force&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Fire&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Flaming Sword (mana augment bonus fire damage +ots)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Burning Hands, basically&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Fireball, after a fashion&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;Wall of Fire&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Incinerate (uber single target dps?)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Frost&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Chill Blade&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Frost Barrier&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Frost Nova&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;Wall of Ice&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Freeze&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Other Runes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Fire&lt;/li&gt;
+&lt;li&gt;Lightning&lt;/li&gt;
+&lt;li&gt;Frost&lt;/li&gt;
+&lt;li&gt;Air&lt;/li&gt;
+&lt;li&gt;Earth&lt;/li&gt;
+&lt;li&gt;Water&lt;/li&gt;
+&lt;li&gt;Shadows (invis, mirror image, phantom strike)&lt;/li&gt;
+&lt;li&gt;Portals?&lt;/li&gt;
+&lt;li&gt;Anti-magic (dispel, spell deflection)&lt;/li&gt;
+&lt;li&gt;Advanced:
+&lt;ul&gt;
+&lt;li&gt;Time&lt;/li&gt;
+&lt;li&gt;Antimagic&lt;/li&gt;
+&lt;li&gt;Gravity&lt;/li&gt;
+&lt;li&gt;Prismatic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Mage Armor&lt;/h1&gt;
+&lt;p&gt;Gain a chosen energy resist:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rank 1: fire, frost, lightning&lt;/li&gt;
+&lt;li&gt;Rank 2: force, necrotic, radiant, etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Orbs&lt;/h1&gt;
+&lt;p&gt;Whenever you spend a mana point on a rune, you gain an orb of the same type that lasts 3 rounds.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fire/frost/lightning orbs shoot beams, and can be expended to absorb fire/frost/lightning damage affecting you or an ally&lt;/li&gt;
+&lt;li&gt;etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Utility&lt;/h1&gt;
+&lt;h2&gt;Brainstorming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Blink&lt;/li&gt;
+&lt;li&gt;Invisibility&lt;/li&gt;
+&lt;li&gt;Mirror Image?&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

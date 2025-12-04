@@ -6,7 +6,7 @@ These are the basics.
 
 
 
-## Ability Scores
+# Ability Scores
 You begin the game with six values (3, 2, 1, 0, 0, 0) to be assigned to the six ability scores however you desire.
 
 Optionally, you can apply -1 to a score to gain +1 to another score (though you cannot increase the 3 to a 4). You may do this twice if you prefer, applying the -1 to a different stat each time.
@@ -14,13 +14,13 @@ Optionally, you can apply -1 to a score to gain +1 to another score (though you 
 Every 4th level (4/8/12/16/20), you gain +1 to two different scores of your choice. You may increase your highest stat with this bonus.
 
 
-## Foundation
+# Foundation
 You begin the game with three [Foundation](../foundation/) abilities.
 
 At levels 3, 7, 11, 15, and 19, you gain another one.
 
 
-## Class and Level
+# Class and Level
 When you gain a level (including 1st), you increase your chosen class by one level.
 
 Yes, multiclassing exists.
@@ -29,7 +29,7 @@ Pretend I explained it all here.
 
 
 
-## Rank
+# Rank
 Depending on your current level, you also have a "rank":
 
 Levels | Rank
@@ -43,7 +43,7 @@ Levels | Rank
 Some abilities hae a required rank to use and/or acquire.
 
 
-### Damage
+## Damage
 Any time you encounter the words "light", "medium", or "heavy" in concert with "damage" (e.g. medium fire damage, light slashing damage), it refers to a standard amount of damage based on your rank, proficiency, and ability scores:
 
 Rank | Light Damage | Medium Damage | Heavy Damage
@@ -60,7 +60,7 @@ The value "x" refers to a modifier containing:
 
 
 
-## Skills
+# Skills
 
 When you start the game, you gain 4 [Skills](../skills/) of your choice, plus any bonus skills that may be granted by your [Class](../classes/) or [Foundation](../foundation/) abilities.
 
@@ -71,35 +71,35 @@ At level 2, 6, 10, 14, 18, you may choose to:
 
 
 
-## Level Chart
+# Level Chart
 
 
 Level  | Rank | Skills | Foundation | ASIs | What's New?
 -------|------|--------|-------|------|------------
 1      | 1    | 4      | 0     | 0    | Everything
 2      | 1    | 5      | 0     | 0    | Skill
-3      | 1    | 5      | 0     | 0    | 
+3      | 1    | 5      | 0     | 0    | Foundation
 4      | 1    | 5      | 0     | 2    | ASI
 5      | 2    | 5      | 0     | 2    | Rank
 6      | 2    | 6      | 0     | 2    | Skill
-7      | 2    | 6      | 0     | 2    | 
+7      | 2    | 6      | 0     | 2    | Foundation
 8      | 2    | 6      | 0     | 4    | ASI
 9      | 3    | 6      | 0     | 4    | Rank
 10     | 3    | 7      | 0     | 4    | Skill
-11     | 3    | 7      | 0     | 4    | 
+11     | 3    | 7      | 0     | 4    | Foundation
 12     | 3    | 7      | 0     | 6    | ASI
 13     | 4    | 7      | 0     | 6    | Rank
 14     | 4    | 8      | 0     | 6    | Skill
-15     | 4    | 8      | 0     | 6    | 
+15     | 4    | 8      | 0     | 6    | Foundation
 16     | 4    | 8      | 0     | 8    | ASI
 17     | 5    | 8      | 0     | 8    | Rank
 18     | 5    | 9      | 0     | 8    | Skill
-19     | 5    | 9      | 0     | 8    | 
+19     | 5    | 9      | 0     | 8    | Foundation
 20     | 5    | 9      | 0     | 10   | ASI
 
 
 
-## Inspiration
+# Inspiration
 
 Where could it come from?
 - Gods

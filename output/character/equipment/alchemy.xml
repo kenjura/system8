@@ -1,0 +1,310 @@
+<article><name>alchemy</name>
+<contents>
+# Potions
+
+## Debilitation
+| Rank | Name         | Description                                                                                 |
+| ---- | ------------ | ------------------------------------------------------------------------------------------- |
+| 1    | Thunderstone | Stone explodes when thrown or subject to heat, causing intense sound that deafens and stuns |
+| 1    | Web          | Glob of sticky goo expands when thrown, encasing foes and sticking them in place            |
+
+## Defense
+
+| Rank | Name                      | Description                                                                                                                                                                                  |
+| ---- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Potion of Warmth/Coolness | Potion provides protection from cold/hot extremes, resist cold/fire damage by X%                                                                                                             |
+| 1    | Shield Bangle             | Enchant one or more breakable things (twigs, glass baubles, etc) that you wear; each is a consumable ward that absorbs some of the damage you suffer                                         |
+| 2    | Wood Ward                 | Using a fetish of wood, you repel wooden weapons. Gain resist 50% to damage from any purely wooden weapon. Any other weapon that includes wood has disadvantage to attack rolls against you. |
+| 4    | Ironguard                 | Using a phylactery of iron, you become immune to iron weapons.                                                                                                                               |
+
+
+## Shaping
+- Bottle of Thin Air: this empty bottle, when unstoppered, sucks in all available air in a 15 foot radius in an instant (technically about 8.7 ms at sea level). Thereafter, the bottle's magic keeps environmental air from collapsing into the void, maintaining the vacuum in the area. The bottle's magic is finite, so the radius decreases by 1 square every 2 rounds (3, 3, 2, 2, 1, 1, 0). If allowed to drain fully, it releases the stored air into the environment, which shatters the bottle and causes a loud clap that might pop your ears. If stoppered before fully draining, the bottle contains the air that was sucked in, and the vacuum maintenance fades quickly, causing a burst of wind that is painful, but probably not as painful as the vacuum was. A stoppered vial will release its stored air when shattered or unstoppered.
+
+
+## Utility
+
+| Rank | Name              | Description                                                                                                                                                                                                  |
+| ---- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | Alarm             | A bell, whistle, or other noisemaker is enchanted to warn you when a perimeter is violated.                                                                                                                  |
+| 1    | Dust of Detection | Blow dust of various colors which outlines magical auras. The colors describe the type of magic and its effects.                                                                                             |
+| 1    | TBD               | Salt, when sprinkled into food or drink, turns its color and odor foul if the food is spoiled or poisoned                                                                                                    |
+| 1    | Locator Spell     | Using a phylactery, you can tell the bearing toward the host object or creature while you concentrate.                                                                                                       |
+| 2    | Arcane Lock       | Magically secure a portal or container; alternatively, magically unlock one.                                                                                                                                 |
+| 2    | Arcane Concealer  | Paste, smeared upon an object, renders it invisible to scrying.                                                                                                                                              |
+| 1    | TBD               | Salt, when sprinkled into food or drink, turns its color and odor foul if the food is spoiled or poisoned                                                                                                    |
+| 1    | Idol of Disguise  | Phylactery that, when worn, causes onlookers to view you as the person to whom the sympathetic component belongs. Type and size must match.                                                                  |
+| 2    | Glitterdust       | Dust lights up a room, sticks to invisible creatures, etc                                                                                                                                                    |
+| 1    | Speaking Stone    | Linked stones help you communicate over distance                                                                                                                                                             |
+| 1    | TBD               | Using a sympathetic component, you can understand the language spoken by a creature                                                                                                                          |
+| 1    | Magical Ink       | Write a message in magical ink, then speak the words and it disappears, or takes alternate form (your choice). More words can reveal it, or it can be tied to blood. Can use for drawings, not just letters. |
+| 1    | Hearthfire        | Enchanted stone sheds warmth like a fire but with no light or smoke                                                                                                                                          |
+| 1    | Witchfire         | Light a torch or candle with blue flame that doesn't burn, but still lights your way. Those who aren't sympathetically bound to it cannot see its light.                                                     |
+| 2    | Salt of Purity    | Salts, dissolved into food or beverage, un-spoil food and neutralize poison                                                                                                                                  |
+
+## Control
+
+| Rank | Name                     | Description                                                                                                                                              |
+| ---- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Amiable Brew             | Potion, when drunk makes the imbiber highly agreeable, improving their attitude to &#34;helpful&#34; with regard to everyone who isn't a known or active threat. |
+| 1    | Dream Dust               | Sand, when sprinkled in the nose or mouth, causes sudden sleepiness.                                                                                     |
+| 2    | Apple of Deepest Slumber | Enchanted fruit causes imbiber to sleep forever, in perfect stasis, until the spell is dispelled.                                                        |
+
+## Shaping
+
+| Rank | Name              | Description                                                                                                   |
+| ---- | ----------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1    | Circle of Warding | Simple magical ward blocks magical effects including wholly magical creatures, but not physical matter        |
+| 1    | Grease            | Vial of ultra-slippery grease makes an area very hard to walk upon or even stand upright. Can be set on fire. |
+|      |                   |                                                                                                               |
+|      |                   |                                                                                                               |
+
+## Healing
+| Rank | Name               | Description                                                              |
+| ---- | ------------------ | ------------------------------------------------------------------------ |
+| 1    | Potion of Healing  | Heals for medium damage.                                                 |
+| 1    | Salve of Salvation | Healing salve stabilizes mortal wounds; dying subjects are stabilized.   |
+| 2    | Potion of Purging  | Grants an immediate save against all ongoing poison and disease effects. |
+| 3    |                    |                                                                          |
+</contents>
+<bodyHtml>&lt;h1&gt;Potions&lt;/h1&gt;
+&lt;h2&gt;Debilitation&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Thunderstone&lt;/td&gt;
+&lt;td&gt;Stone explodes when thrown or subject to heat, causing intense sound that deafens and stuns&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Web&lt;/td&gt;
+&lt;td&gt;Glob of sticky goo expands when thrown, encasing foes and sticking them in place&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Defense&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Potion of Warmth/Coolness&lt;/td&gt;
+&lt;td&gt;Potion provides protection from cold/hot extremes, resist cold/fire damage by X%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Shield Bangle&lt;/td&gt;
+&lt;td&gt;Enchant one or more breakable things (twigs, glass baubles, etc) that you wear; each is a consumable ward that absorbs some of the damage you suffer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Wood Ward&lt;/td&gt;
+&lt;td&gt;Using a fetish of wood, you repel wooden weapons. Gain resist 50% to damage from any purely wooden weapon. Any other weapon that includes wood has disadvantage to attack rolls against you.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Ironguard&lt;/td&gt;
+&lt;td&gt;Using a phylactery of iron, you become immune to iron weapons.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Shaping&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bottle of Thin Air: this empty bottle, when unstoppered, sucks in all available air in a 15 foot radius in an instant (technically about 8.7 ms at sea level). Thereafter, the bottle's magic keeps environmental air from collapsing into the void, maintaining the vacuum in the area. The bottle's magic is finite, so the radius decreases by 1 square every 2 rounds (3, 3, 2, 2, 1, 1, 0). If allowed to drain fully, it releases the stored air into the environment, which shatters the bottle and causes a loud clap that might pop your ears. If stoppered before fully draining, the bottle contains the air that was sucked in, and the vacuum maintenance fades quickly, causing a burst of wind that is painful, but probably not as painful as the vacuum was. A stoppered vial will release its stored air when shattered or unstoppered.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Utility&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Alarm&lt;/td&gt;
+&lt;td&gt;A bell, whistle, or other noisemaker is enchanted to warn you when a perimeter is violated.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Dust of Detection&lt;/td&gt;
+&lt;td&gt;Blow dust of various colors which outlines magical auras. The colors describe the type of magic and its effects.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Salt, when sprinkled into food or drink, turns its color and odor foul if the food is spoiled or poisoned&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Locator Spell&lt;/td&gt;
+&lt;td&gt;Using a phylactery, you can tell the bearing toward the host object or creature while you concentrate.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Arcane Lock&lt;/td&gt;
+&lt;td&gt;Magically secure a portal or container; alternatively, magically unlock one.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Arcane Concealer&lt;/td&gt;
+&lt;td&gt;Paste, smeared upon an object, renders it invisible to scrying.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Salt, when sprinkled into food or drink, turns its color and odor foul if the food is spoiled or poisoned&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Idol of Disguise&lt;/td&gt;
+&lt;td&gt;Phylactery that, when worn, causes onlookers to view you as the person to whom the sympathetic component belongs. Type and size must match.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Glitterdust&lt;/td&gt;
+&lt;td&gt;Dust lights up a room, sticks to invisible creatures, etc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Speaking Stone&lt;/td&gt;
+&lt;td&gt;Linked stones help you communicate over distance&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Using a sympathetic component, you can understand the language spoken by a creature&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Magical Ink&lt;/td&gt;
+&lt;td&gt;Write a message in magical ink, then speak the words and it disappears, or takes alternate form (your choice). More words can reveal it, or it can be tied to blood. Can use for drawings, not just letters.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Hearthfire&lt;/td&gt;
+&lt;td&gt;Enchanted stone sheds warmth like a fire but with no light or smoke&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Witchfire&lt;/td&gt;
+&lt;td&gt;Light a torch or candle with blue flame that doesn't burn, but still lights your way. Those who aren't sympathetically bound to it cannot see its light.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Salt of Purity&lt;/td&gt;
+&lt;td&gt;Salts, dissolved into food or beverage, un-spoil food and neutralize poison&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Control&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Amiable Brew&lt;/td&gt;
+&lt;td&gt;Potion, when drunk makes the imbiber highly agreeable, improving their attitude to &amp;quot;helpful&amp;quot; with regard to everyone who isn't a known or active threat.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Dream Dust&lt;/td&gt;
+&lt;td&gt;Sand, when sprinkled in the nose or mouth, causes sudden sleepiness.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Apple of Deepest Slumber&lt;/td&gt;
+&lt;td&gt;Enchanted fruit causes imbiber to sleep forever, in perfect stasis, until the spell is dispelled.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Shaping&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Circle of Warding&lt;/td&gt;
+&lt;td&gt;Simple magical ward blocks magical effects including wholly magical creatures, but not physical matter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Grease&lt;/td&gt;
+&lt;td&gt;Vial of ultra-slippery grease makes an area very hard to walk upon or even stand upright. Can be set on fire.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Healing&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Potion of Healing&lt;/td&gt;
+&lt;td&gt;Heals for medium damage.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Salve of Salvation&lt;/td&gt;
+&lt;td&gt;Healing salve stabilizes mortal wounds; dying subjects are stabilized.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Potion of Purging&lt;/td&gt;
+&lt;td&gt;Grants an immediate save against all ongoing poison and disease effects.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

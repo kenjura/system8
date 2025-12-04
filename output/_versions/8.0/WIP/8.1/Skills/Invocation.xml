@@ -1,0 +1,19 @@
+<article><name>Invocation</name>
+<contents>Uses:
+-  Detect planar alignment: detects extraplanar creatures, portals, extraplanar magical effects. Determine planar origin of same.
+- Magic circle: creates a magical barrier for containing extraplanar creatures, or protecting yourself from same.
+- Summon outsider: summons an extraplanar creature.
+- Command outsider: subjects an extraplanar creature to your will.
+- Banish outsider: sends an extraplanar creature back to its home plane.</contents>
+<bodyHtml>&lt;p&gt;Uses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Detect planar alignment: detects extraplanar creatures, portals, extraplanar magical effects. Determine planar origin of same.&lt;/li&gt;
+&lt;li&gt;Magic circle: creates a magical barrier for containing extraplanar creatures, or protecting yourself from same.&lt;/li&gt;
+&lt;li&gt;Summon outsider: summons an extraplanar creature.&lt;/li&gt;
+&lt;li&gt;Command outsider: subjects an extraplanar creature to your will.&lt;/li&gt;
+&lt;li&gt;Banish outsider: sends an extraplanar creature back to its home plane.&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

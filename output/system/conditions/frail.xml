@@ -1,0 +1,16 @@
+<article><name>frail</name>
+<contents>In the &#34;Frail&#34; state, a creature's Constitution is severely debilated.
+
+- Their max HP are reduced to 50% of normal.
+- They suffer disadvantage to all Constitution saving throws.
+- Each round the creature takes a standard action, they suffer 1 point of Exhaustion. This is temporary, and is removed if and when the Frail state is removed.</contents>
+<bodyHtml>&lt;p&gt;In the &amp;quot;Frail&amp;quot; state, a creature's Constitution is severely debilated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Their max HP are reduced to 50% of normal.&lt;/li&gt;
+&lt;li&gt;They suffer disadvantage to all Constitution saving throws.&lt;/li&gt;
+&lt;li&gt;Each round the creature takes a standard action, they suffer 1 point of Exhaustion. This is temporary, and is removed if and when the Frail state is removed.&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

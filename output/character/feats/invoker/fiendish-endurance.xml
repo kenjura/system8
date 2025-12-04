@@ -1,0 +1,22 @@
+<article><name>fiendish-endurance</name>
+<contents>---
+pact: infernal
+name: Fiendish Endurance
+description: Gain resistance to poison and disease
+---
+
+# Fiendish Endurance
+
+Gain resistance to poison and disease
+</contents>
+<bodyHtml>
+&lt;h1&gt;Fiendish Endurance&lt;/h1&gt;
+&lt;p&gt;Gain resistance to poison and disease&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <pact>infernal</pact>
+  <name>Fiendish Endurance</name>
+  <description>Gain resistance to poison and disease</description>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

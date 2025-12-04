@@ -1,0 +1,907 @@
+<article><name>Thaumaturgist</name>
+<contents>---
+# Display h2 to h5 headings
+toc_min_heading_level: 2
+toc_max_heading_level: 5
+---
+
+# Thaumaturgist
+![Thaumaturgist](&lt;/img/character/classes/thaumaturgist.jpg&gt;)
+
+
+Attribute     | Value
+---------     | -----
+Hit Die       | d6
+HP/level      | 4
+Weapon Prof.  | Simple
+Armor Prof.   | None
+Saving Throws | Con, Wis
+Bonus Skills  | Thaumaturgy
+
+
+Level | Special Ability
+----- | ---------------
+1     | Spells, Talents, Vitae
+2     |
+3     |
+4     |
+5     |
+6     |
+7     |
+8     |
+9     |
+10    |
+11    |
+12    |
+13    |
+14    |
+15    |
+16    |
+17    |
+18    |
+19    |
+20    |
+
+
+
+# Vitae
+
+Types:
+- Blood
+- Elemental
+- Soul
+
+There are ways of gathering each. The more you have of a given type, the more side effects it causes.
+
+## Blood
+
+Vitae of the Blood is the energy of life. It is not that literal blood has energy, but rather blood is sympathetically linked to the life energy of the being to which it belongs. Blood from a dead creature, or blood that has been separated long enough to cool, bears little to no vital energy.
+
+You can gain Blood Vitae by letting blood--either yours or someone else's. The blood of others becomes symbolically yours by the act of either being offered it (in the case of an ally), or taking it unwilling, such as when attacking a creature.
+
+Blood Vitae has the effect of intensifying your most primeval instincts. A modest amount will energize you, readying you to fight or flee, alerting your senses, etc. A large amount will agonize your hunger, intensify your fear, and send your heart racing as life becomes too much.
+
+
+
+
+# Spells
+
+Besides the below schools, you may learn spells from the Air, Frost, and Plants schools of the [Elementalist](./elementalist).
+
+
+## Blood
+Rank | Power          | Description
+-----|----------------|------------
+0    | [Blood Boil](../powers/thaumaturgist/blood-boil)     |
+1    | [Transfusion](../powers/thaumaturgist/transfusion)    |
+2    | [Blood Bond](../powers/thaumaturgist/blood-bond)     | Share your strength with allies, or steal strength from enemies
+2    | [Blood Bending](../powers/thaumaturgist/blood-bending) | Control a creature's movements
+3    | [Frozen Blood](../powers/thaumaturgist/frozen-blood)   | Your blood doesn't flow; damage doesn't affect you while active (but still must be healed)
+3    | [Exsanguinate](../powers/thaumaturgist/exsanguinate)   | Drain all the blood from a creature
+
+Ideas:
+- Let Blood: take damage, add it to your spells
+- Bloodborne: infect subject with a bloodborne pathogen:
+  - Hemophilia (slashing/piercing causes ongoing damage)
+  - Sickle-cell (debilitating pain)
+  - Anemia (causes exhaustion)
+  - Should Blood Boil be rolled into this?
+- Burning Blood: dripped blood becomes a burning square
+- Ring of Fire
+- Blood Nova (target can be friendly or enemy, but only harms others)
+
+## Illusion
+
+Rank | Power         | Description
+-----|---------------|------------
+0    | Phantom Sound |
+1    | Figment       | Create an illusory creature or object
+1    | Glamour       | Change your appearance
+1    | Mystic Eyes   | See through others' illusions
+2    | Veil          | Invisibility
+2    | Mirror Image  |
+2    | Hallucination | Total illusory control of an area--create walls, multiple creatures/objects, etc
+3    | Simulacrum    | Create an image of a creature that is real enough to affect the world, cast spells, etc
+3    | Phantom Zone  | Send a creature into an illusory domain you control (similar to 3e Maze spell)
+
+
+## Hex
+
+Rank | Power          | Description
+-----|----------------|------------
+0    | [Hex](../powers/thaumaturgist/hex)            | Subject has disadvantage to the next attack, skill check, or save they make; you can specify the ability score to hex.
+1    | [Curse](../powers/thaumaturgist/curse)          | Curse an enemy with weakness, clumsiness, or frailty
+2    | [Malediction](../powers/thaumaturgist/malediction)    | Curse an enemy with vulnerability, lethargy, or distraction
+3    | [Doom](../powers/thaumaturgist/doom)           | Curse an enemy to wither away, harm themselves, or fail at all endeavors
+
+
+## Antimagic
+
+Rank | Power          | Description
+-----|----------------|------------
+1    | [Absorb Magic](../powers/thaumaturgist/absorb-magic)   | Absorb energy from a touched spell, weakening or dispelling it
+2    | [Negation](../powers/thaumaturgist/negation)       | Disable a single spell or magic item so it can't be used
+2    | [Commandeer Spell](../powers/thaumaturgist/commandeer-spell) | Take control of a spell, changing it as you please
+3    | Antimagic Zone | Area nullifies magic
+
+Todo: merge negation and commadeer spell into Spellsteal
+
+
+## Soul
+
+Rank | Power          | Description
+-----|----------------|------------
+0    | [Soulgaze](../powers/thaumaturgist/soulgaze)       | Lock eyes with target and learn their secrets--but they learn yours, too
+1    | [Drain Soul](../powers/thaumaturgist/drain-soul)     | Enervate enemy and gain a soul gem, which can grant you access to their identity and abilities
+2    | Magic Jar      | You detach your soul from your body, which becomes helpless. You can possess creatures and objects, perceiving from their point of view, and attempt to control them from within.
+3    | Demi           | You create an evil clone of the subject.
+
+
+Soul Gem uses:
+- Use as a phylactery
+- Gain one chosen magical ability of the target
+- Speak with subject's voice
+- Attempt to fool magic keyed to the target
+- Reaction, expends the gem; redirects a targeted magical effect onto the creature rather than you.
+
+
+
+## Death
+
+Rank | Power              | Description
+-----|--------------------|------------
+0    | [Kiss of Death](../powers/thaumaturgist/kiss-of-death)      | Touch delivers necrotic damage which can give you temp HP or enhance your attacks
+1    | [Touch of the Grave](../powers/thaumaturgist/touch-of-the-grave) | Use the touch of various undead creatures to drain strength, constitution, etc
+2    | [Hasten Death](../powers/thaumaturgist/hasten-death)       | Causes any ongoing harmful effect to &#34;tick&#34; multiple times instantly
+3    | [Finger of Death](../powers/thaumaturgist/finger-of-death)    | Instant death
+3    | [Defile](../powers/thaumaturgist/defile) | Drain all vitality from an area; use that vitality for various purposes.
+
+## Undeath
+
+Rank | Power              | Description
+-----|--------------------|------------
+1    | [Reanimate](../powers/thaumaturgist/reanimate)          | Corpse rises as a simple undead under your control
+1    | [Death Pact](../powers/thaumaturgist/death-pact) |
+2    | [Necrosis](../powers/thaumaturgist/necrosis)           | Undead appendage grows from subject, using its abilities as you direct
+2    | [Corpse Explosion](../powers/thaumaturgist/corpse-explosion)   | Corpse or undead creature explodes, potentially exploding other targets
+
+Ideas:
+- Rank 3: Create Undead: instantly create a temporary undead minion
+- Walking Dead: you become undead, gaining undead traits and powers, for a while
+- Memento Mori: subject dies and becomes an undead under your control
+
+
+
+
+## Transmutation
+
+Rank | Power             | Description
+-----|-------------------|------------
+0    | [Magic Missile](../powers/thaumaturgist/magic-missile)     | Telekinetically control an objet
+1    | [Animate Object](../powers/thaumaturgist/animate-object)    | Object becomes animated and acts as you direct
+1    | [Transform Object](../powers/thaumaturgist/transform-object)  | Change properties of an object: size, hardness, form, etc
+2    | [Doll]              | Creature becomes an inanimate object (reversible)
+2    | [Wall of Polymorph](#) | Anything that crosses wall gets polymorphed (e.g. incoming missiles become bubbles)
+3    | [Ironguard]         | You become impervious to metal weapons
+3    | [Petrify](#)        | Turn someone to stone (or vice versa)
+
+Ideas:
+- Transubstantiate: change one material into another
+
+
+
+
+## Ritual
+- Create Phylactery
+- Evoke Flame
+- Death and Rebirth (rk2)
+- Create Hearthstone (rk3)
+- Create Greater Phylactery (rk3)
+
+
+# Talents
+
+More to come.
+
+## Felicity
+
+### Clarity
+- [Weavesight](#): You can detect magical auras precisely and accurately on sight, without spending multiple rounds concentration.
+- [Anti-magic Specialist](#): You have advantage to dispel and counterspell checks.
+- [Scan](#): When using *Sense Magic* or *Weavesight*, you can detect which spells a given creature has available, and how many charges/Mana/etc, as a swift action.
+
+### Rapture
+- [Re-Vitae](#): Whenever you spend Vitae, you heal yourself for medium damage per Vitae expended.
+-
+
+### Sympathy
+- [Sympathetic Magic](#): Whenever you encounter a hostile spell that can distinguish between friend and foe, you can roll a proficient Charisma skill check against the DC to convince the spell you are its friend. The result of this check remains true for the duration of that particular instance of the spell.
+- [Spell Stowaway](#): Whenever an enemy within range casts a beneficial spell, you may, as a reaction, manifest a copy of their spell affecting you or an ally.
+- [Vital Shield](#): Whenever you are harmed by a spell, you can expend 1 Vitae to reduce the damage by half, or to gain advantage to the saving throw.
+
+
+### Revelation
+- [Foresight](#): once/day, react to anything
+- [Prognostication](#): at-will, swift, ranged; you predict the target's next action. When they take it, whatever it is, you may spend a reaction to react to it.
+-
+
+### Transference
+- [Manifest Phylactery](#): at-will, swift, requires a sympathetic component; you manifest a temporary phylactery of the target, lasting until a short rest. You can convert this to a permanent phylactery if you conduct the normal ritual immediately after combat.
+- [Spell Channel](#): if you inflict harm with a spell, natural attack, or a weapon you're currently wielding, you can use that as a channel to puncture that opponent's defenses. This can be used to target them with a spell regardless of line of sight or effect at will. If expended, it can grant advantage to one spell or attack roll against them, as well as increasing damage by 50%.
+
+### Verity
+- [Mystic Eyes](#): at will, you can see through glamours, figments, and invisibility spells.
+
+
+### Entropy
+- [Bad Luck](#): Shit happens. It's a well-known axiom of witchcraft. But with careful study and perception, you can learn not to be in front of the fan when it happens. When you roll a d20, and the result is at or below your Entropy rank, you can &#34;store&#34; the result, rolling again. When you have a stored result, you can impose it upon any other PC or NPC whenever they roll a d20, expending it and forcing them to take your result.
+- [Death and Decay](#): All things decay. This is something you've accepted. But you don't have to dive into the grave on purpose. You gain Resist 50% (necrotic), and advantage to saves against death magic and ability damage/drain.
+- [Death Becomes You](#): The undead are the antithesis of the living, and naturally hate, fear, and long to feed upon them. You understand that, and sympathize with them, and, to an extent, they respect that. Mindless undead become indifferent to you unless actively commanded to attack. Your own undead servants gain inspiration once per encounter.
+
+
+## Blood Magic
+Talent          | Description
+--------------|------------
+[Talisman of Vitality](#) | Whenever you heal for any reason, you may exceed your max HP, gaining the excess as temporary Hit Points, which expire at the end of the encounter.
+[Talisman of Blood](#) | When you are missing Hit Points, you can add your HP debt to the damage of any attack or spell you inflict, to a maximum of 100% of the attack's original damage. This does not change your current HP.
+
+## Familiar
+Talent          | Description
+--------------|------------
+[Familiar](#) | Construct or minor animal becomes a magical servant.
+
+## Necromancy
+Talent          | Description
+--------------|------------
+[Create Undead](#) | Using a corpse and components of non-trivial cost, you can make permanent undead servants.
+
+## Hedgecraft
+Tool          | Description
+--------------|------------
+[Deathball](#) | Craftable vessel allowing you to store an undead minion in stasis until needed.
+[Soul Prison](#) | You can create special Soul Gems to house the soul shards of Drain Soul. If a creature dies while you possess their soul shard in such a gem, you trap their soul in the gem.
+
+## Soul
+Tool          | Description
+--------------|------------
+[Reactive Absorb](#) | You can use [Absorb Magic](#) as a reaction against any spell targeting you.
+
+
+# Spells that need porting
+- Grudge
+- Foresight
+- Mystic Eyes
+- Spellsteal
+</contents>
+<bodyHtml>
+&lt;h1&gt;Thaumaturgist&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;/img/character/classes/thaumaturgist.jpg&#34; alt=&#34;Thaumaturgist&#34;&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Attribute&lt;/th&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hit Die&lt;/td&gt;
+&lt;td&gt;d6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HP/level&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Weapon Prof.&lt;/td&gt;
+&lt;td&gt;Simple&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Armor Prof.&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Saving Throws&lt;/td&gt;
+&lt;td&gt;Con, Wis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bonus Skills&lt;/td&gt;
+&lt;td&gt;Thaumaturgy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Special Ability&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Spells, Talents, Vitae&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Vitae&lt;/h1&gt;
+&lt;p&gt;Types:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blood&lt;/li&gt;
+&lt;li&gt;Elemental&lt;/li&gt;
+&lt;li&gt;Soul&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are ways of gathering each. The more you have of a given type, the more side effects it causes.&lt;/p&gt;
+&lt;h2&gt;Blood&lt;/h2&gt;
+&lt;p&gt;Vitae of the Blood is the energy of life. It is not that literal blood has energy, but rather blood is sympathetically linked to the life energy of the being to which it belongs. Blood from a dead creature, or blood that has been separated long enough to cool, bears little to no vital energy.&lt;/p&gt;
+&lt;p&gt;You can gain Blood Vitae by letting blood--either yours or someone else's. The blood of others becomes symbolically yours by the act of either being offered it (in the case of an ally), or taking it unwilling, such as when attacking a creature.&lt;/p&gt;
+&lt;p&gt;Blood Vitae has the effect of intensifying your most primeval instincts. A modest amount will energize you, readying you to fight or flee, alerting your senses, etc. A large amount will agonize your hunger, intensify your fear, and send your heart racing as life becomes too much.&lt;/p&gt;
+&lt;h1&gt;Spells&lt;/h1&gt;
+&lt;p&gt;Besides the below schools, you may learn spells from the Air, Frost, and Plants schools of the &lt;a href=&#34;./elementalist&#34;&gt;Elementalist&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Blood&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Power&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/blood-boil&#34;&gt;Blood Boil&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/transfusion&#34;&gt;Transfusion&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/blood-bond&#34;&gt;Blood Bond&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Share your strength with allies, or steal strength from enemies&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/blood-bending&#34;&gt;Blood Bending&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Control a creature's movements&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/frozen-blood&#34;&gt;Frozen Blood&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Your blood doesn't flow; damage doesn't affect you while active (but still must be healed)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/exsanguinate&#34;&gt;Exsanguinate&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Drain all the blood from a creature&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Ideas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Let Blood: take damage, add it to your spells&lt;/li&gt;
+&lt;li&gt;Bloodborne: infect subject with a bloodborne pathogen:
+&lt;ul&gt;
+&lt;li&gt;Hemophilia (slashing/piercing causes ongoing damage)&lt;/li&gt;
+&lt;li&gt;Sickle-cell (debilitating pain)&lt;/li&gt;
+&lt;li&gt;Anemia (causes exhaustion)&lt;/li&gt;
+&lt;li&gt;Should Blood Boil be rolled into this?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Burning Blood: dripped blood becomes a burning square&lt;/li&gt;
+&lt;li&gt;Ring of Fire&lt;/li&gt;
+&lt;li&gt;Blood Nova (target can be friendly or enemy, but only harms others)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Illusion&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Power&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;Phantom Sound&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Figment&lt;/td&gt;
+&lt;td&gt;Create an illusory creature or object&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Glamour&lt;/td&gt;
+&lt;td&gt;Change your appearance&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Mystic Eyes&lt;/td&gt;
+&lt;td&gt;See through others' illusions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Veil&lt;/td&gt;
+&lt;td&gt;Invisibility&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Mirror Image&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Hallucination&lt;/td&gt;
+&lt;td&gt;Total illusory control of an area--create walls, multiple creatures/objects, etc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Simulacrum&lt;/td&gt;
+&lt;td&gt;Create an image of a creature that is real enough to affect the world, cast spells, etc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Phantom Zone&lt;/td&gt;
+&lt;td&gt;Send a creature into an illusory domain you control (similar to 3e Maze spell)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Hex&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Power&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/hex&#34;&gt;Hex&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Subject has disadvantage to the next attack, skill check, or save they make; you can specify the ability score to hex.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/curse&#34;&gt;Curse&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Curse an enemy with weakness, clumsiness, or frailty&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/malediction&#34;&gt;Malediction&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Curse an enemy with vulnerability, lethargy, or distraction&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/doom&#34;&gt;Doom&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Curse an enemy to wither away, harm themselves, or fail at all endeavors&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Antimagic&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Power&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/absorb-magic&#34;&gt;Absorb Magic&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Absorb energy from a touched spell, weakening or dispelling it&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/negation&#34;&gt;Negation&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Disable a single spell or magic item so it can't be used&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/commandeer-spell&#34;&gt;Commandeer Spell&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Take control of a spell, changing it as you please&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Antimagic Zone&lt;/td&gt;
+&lt;td&gt;Area nullifies magic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Todo: merge negation and commadeer spell into Spellsteal&lt;/p&gt;
+&lt;h2&gt;Soul&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Power&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/soulgaze&#34;&gt;Soulgaze&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Lock eyes with target and learn their secrets--but they learn yours, too&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/drain-soul&#34;&gt;Drain Soul&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Enervate enemy and gain a soul gem, which can grant you access to their identity and abilities&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Magic Jar&lt;/td&gt;
+&lt;td&gt;You detach your soul from your body, which becomes helpless. You can possess creatures and objects, perceiving from their point of view, and attempt to control them from within.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Demi&lt;/td&gt;
+&lt;td&gt;You create an evil clone of the subject.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Soul Gem uses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use as a phylactery&lt;/li&gt;
+&lt;li&gt;Gain one chosen magical ability of the target&lt;/li&gt;
+&lt;li&gt;Speak with subject's voice&lt;/li&gt;
+&lt;li&gt;Attempt to fool magic keyed to the target&lt;/li&gt;
+&lt;li&gt;Reaction, expends the gem; redirects a targeted magical effect onto the creature rather than you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Death&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Power&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/kiss-of-death&#34;&gt;Kiss of Death&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Touch delivers necrotic damage which can give you temp HP or enhance your attacks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/touch-of-the-grave&#34;&gt;Touch of the Grave&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Use the touch of various undead creatures to drain strength, constitution, etc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/hasten-death&#34;&gt;Hasten Death&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Causes any ongoing harmful effect to &amp;quot;tick&amp;quot; multiple times instantly&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/finger-of-death&#34;&gt;Finger of Death&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Instant death&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/defile&#34;&gt;Defile&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Drain all vitality from an area; use that vitality for various purposes.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Undeath&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Power&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/reanimate&#34;&gt;Reanimate&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Corpse rises as a simple undead under your control&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/death-pact&#34;&gt;Death Pact&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/necrosis&#34;&gt;Necrosis&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Undead appendage grows from subject, using its abilities as you direct&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/corpse-explosion&#34;&gt;Corpse Explosion&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Corpse or undead creature explodes, potentially exploding other targets&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Ideas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rank 3: Create Undead: instantly create a temporary undead minion&lt;/li&gt;
+&lt;li&gt;Walking Dead: you become undead, gaining undead traits and powers, for a while&lt;/li&gt;
+&lt;li&gt;Memento Mori: subject dies and becomes an undead under your control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Transmutation&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Power&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/magic-missile&#34;&gt;Magic Missile&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Telekinetically control an objet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/animate-object&#34;&gt;Animate Object&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Object becomes animated and acts as you direct&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../powers/thaumaturgist/transform-object&#34;&gt;Transform Object&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Change properties of an object: size, hardness, form, etc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;[Doll]&lt;/td&gt;
+&lt;td&gt;Creature becomes an inanimate object (reversible)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Wall of Polymorph&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Anything that crosses wall gets polymorphed (e.g. incoming missiles become bubbles)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;[Ironguard]&lt;/td&gt;
+&lt;td&gt;You become impervious to metal weapons&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Petrify&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Turn someone to stone (or vice versa)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Ideas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Transubstantiate: change one material into another&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ritual&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Create Phylactery&lt;/li&gt;
+&lt;li&gt;Evoke Flame&lt;/li&gt;
+&lt;li&gt;Death and Rebirth (rk2)&lt;/li&gt;
+&lt;li&gt;Create Hearthstone (rk3)&lt;/li&gt;
+&lt;li&gt;Create Greater Phylactery (rk3)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Talents&lt;/h1&gt;
+&lt;p&gt;More to come.&lt;/p&gt;
+&lt;h2&gt;Felicity&lt;/h2&gt;
+&lt;h3&gt;Clarity&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Weavesight&lt;/a&gt;: You can detect magical auras precisely and accurately on sight, without spending multiple rounds concentration.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Anti-magic Specialist&lt;/a&gt;: You have advantage to dispel and counterspell checks.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Scan&lt;/a&gt;: When using &lt;em&gt;Sense Magic&lt;/em&gt; or &lt;em&gt;Weavesight&lt;/em&gt;, you can detect which spells a given creature has available, and how many charges/Mana/etc, as a swift action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Rapture&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Re-Vitae&lt;/a&gt;: Whenever you spend Vitae, you heal yourself for medium damage per Vitae expended.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sympathy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Sympathetic Magic&lt;/a&gt;: Whenever you encounter a hostile spell that can distinguish between friend and foe, you can roll a proficient Charisma skill check against the DC to convince the spell you are its friend. The result of this check remains true for the duration of that particular instance of the spell.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Spell Stowaway&lt;/a&gt;: Whenever an enemy within range casts a beneficial spell, you may, as a reaction, manifest a copy of their spell affecting you or an ally.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Vital Shield&lt;/a&gt;: Whenever you are harmed by a spell, you can expend 1 Vitae to reduce the damage by half, or to gain advantage to the saving throw.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Revelation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Foresight&lt;/a&gt;: once/day, react to anything&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Prognostication&lt;/a&gt;: at-will, swift, ranged; you predict the target's next action. When they take it, whatever it is, you may spend a reaction to react to it.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Transference&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Manifest Phylactery&lt;/a&gt;: at-will, swift, requires a sympathetic component; you manifest a temporary phylactery of the target, lasting until a short rest. You can convert this to a permanent phylactery if you conduct the normal ritual immediately after combat.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Spell Channel&lt;/a&gt;: if you inflict harm with a spell, natural attack, or a weapon you're currently wielding, you can use that as a channel to puncture that opponent's defenses. This can be used to target them with a spell regardless of line of sight or effect at will. If expended, it can grant advantage to one spell or attack roll against them, as well as increasing damage by 50%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Verity&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Mystic Eyes&lt;/a&gt;: at will, you can see through glamours, figments, and invisibility spells.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Entropy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Bad Luck&lt;/a&gt;: Shit happens. It's a well-known axiom of witchcraft. But with careful study and perception, you can learn not to be in front of the fan when it happens. When you roll a d20, and the result is at or below your Entropy rank, you can &amp;quot;store&amp;quot; the result, rolling again. When you have a stored result, you can impose it upon any other PC or NPC whenever they roll a d20, expending it and forcing them to take your result.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Death and Decay&lt;/a&gt;: All things decay. This is something you've accepted. But you don't have to dive into the grave on purpose. You gain Resist 50% (necrotic), and advantage to saves against death magic and ability damage/drain.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Death Becomes You&lt;/a&gt;: The undead are the antithesis of the living, and naturally hate, fear, and long to feed upon them. You understand that, and sympathize with them, and, to an extent, they respect that. Mindless undead become indifferent to you unless actively commanded to attack. Your own undead servants gain inspiration once per encounter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Blood Magic&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Talent&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Talisman of Vitality&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Whenever you heal for any reason, you may exceed your max HP, gaining the excess as temporary Hit Points, which expire at the end of the encounter.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Talisman of Blood&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;When you are missing Hit Points, you can add your HP debt to the damage of any attack or spell you inflict, to a maximum of 100% of the attack's original damage. This does not change your current HP.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Familiar&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Talent&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Familiar&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Construct or minor animal becomes a magical servant.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Necromancy&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Talent&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Create Undead&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Using a corpse and components of non-trivial cost, you can make permanent undead servants.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Hedgecraft&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Tool&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Deathball&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Craftable vessel allowing you to store an undead minion in stasis until needed.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Soul Prison&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;You can create special Soul Gems to house the soul shards of Drain Soul. If a creature dies while you possess their soul shard in such a gem, you trap their soul in the gem.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Soul&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Tool&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;Reactive Absorb&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;You can use &lt;a href=&#34;#&#34;&gt;Absorb Magic&lt;/a&gt; as a reaction against any spell targeting you.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Spells that need porting&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Grudge&lt;/li&gt;
+&lt;li&gt;Foresight&lt;/li&gt;
+&lt;li&gt;Mystic Eyes&lt;/li&gt;
+&lt;li&gt;Spellsteal&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata>
+  <toc_min_heading_level>2</toc_min_heading_level>
+  <toc_max_heading_level>5</toc_max_heading_level>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

@@ -42,7 +42,7 @@ Level | Special Ability
 20    | 
 
 
-## Spell Focus
+# Spell Focus
 
 Casting is hard. But it's easier with a focus!
 
@@ -51,7 +51,7 @@ Casting is hard. But it's easier with a focus!
 - Orb: area spells
 
 
-## Forma
+# Forma
 
 You are able to cast spells by evoking the power of ancient symbols, power words, and arcane formulae. While helpful, these are but aids to master the mental control needed to to envison *formae*, which form the basis of spells.
 
@@ -89,7 +89,7 @@ Name           | Translation | Description
 [Umbra](#)      | Shadow     | Manipulates shadows, creates shadowy illusions
 
 
-### Lux (Light)
+## Lux (Light)
 
 Let there be light!
 
@@ -100,7 +100,7 @@ Light Orb | 14 | Orb of light can fly as you direct, within line of sight.
 Flashbang | 17 | Creates a sudden burst of light that blinds creatures (Con ends). Disadvantage if lighting was dim before you cast it.
 Searing Light | 20 | Focused light beam causes fire damage.
 
-### Impello (Force)
+## Impello (Force)
 
 - Ordo / Ordino (order): mend what is broken; organize what is chaotic
 - Parma / Contego (shield): protect yourself
@@ -111,10 +111,10 @@ Searing Light | 20 | Focused light beam causes fire damage.
 - Voce / Loqui (speak): produce a sound your voice is capable of
 - Vide (see): see that which you cannot see
 
-### More
+## More
 
 
-#### 2nd-Order Uses
+### 2nd-Order Uses
 
 2nd Skill  | Spell        | DC | Description
 -----------|--------------|----|------------
@@ -123,7 +123,7 @@ Impelle (Force) | Lux Impello | 17 | Creates an orb of focused light, then hurls
 
 
 
-### Adjectivae
+## Adjectivae
 
 - Inversa (reverse): light to darkness, push to pull, fire to cold, etc
 - Persevero: extend a spell's duration beyond concentration
@@ -131,7 +131,7 @@ Impelle (Force) | Lux Impello | 17 | Creates an orb of focused light, then hurls
 
 
 
-## Ideas
+# Ideas
 Two uses for each base power:
 - Sustained (Fluere): what you can do continuously (concentration). Example: force shield, lux, flames!
 - Burst (Impleo): what you can do when you charge up a round's worth of mana and let it go all at once. Example: magic missile, flashbang, fireball?
@@ -144,17 +144,17 @@ More ideas:
 
 
 
-## Paths
+# Paths
 
-### Wizard
+## Wizard
 
-### Sorcerer
+## Sorcerer
 
-### Golemwright
+## Golemwright
 
-### Chronomancer
+## Chronomancer
 
-### Battlemage
+## Battlemage
 AKA Warden
 
 They get enchantment points to basically create their own magic items. Like Harry Dresden, obv.

@@ -1,0 +1,1116 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combat Precognition</title>
+    <link rel="stylesheet" href="/public/default.css" />
+     <style>
+        @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
+
+body {
+    font-family: "Noto Sans", sans-serif;
+}
+
+a {
+    font-weight: normal;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 300;
+}
+table {
+    border-collapse: collapse;
+}
+td,
+th {
+    text-align: left;
+    vertical-align: top;
+    padding: 5px;
+}
+th {
+    border-bottom: 1px solid #999;
+}
+td:first-of-type {
+    border-left: 1px solid #999;
+}
+td p:first-of-type {
+    margin: 0;
+}
+
+dt {
+    font-weight: bold;
+}
+
+nav#nav-main {
+    a {
+        color: var(--text-color);
+    }
+}
+
+
+/* BEGIN section colors */
+:root{ --sat:66%; --lum:50%; --step:40deg }
+.sectionOuter{
+  --h: calc((200deg + var(--section-index)*var(--step)));
+  --theme: hsl(var(--h) var(--sat) var(--lum));
+  --theme-dark: hsl(var(--h) 100% 25%);
+  --theme-light: hsl(var(--h) 80% 80%);
+}
+.sectionOuter h1,
+.sectionOuter h2,
+.sectionOuter h3,
+.sectionOuter h4,
+.sectionOuter h5,
+.sectionOuter a 
+    { color: var(--theme); }
+/* END section colors */
+
+
+/* BEGIN sticky headers */
+nav#nav-global {
+    z-index: 100;
+}
+article#main-content {
+    h1, h2, h3 {
+        position: sticky;
+        z-index: 90;
+        background-color: var(--bg-color);
+    }
+    h1 {
+        border-bottom: 3px solid var(--theme);
+        height: 3rem;
+        line-height: 3rem;
+        top: var(--global-nav-height);
+
+        &.stuck {
+            /*border-bottom: none;*/
+        }        
+    }
+    h2 {
+        top: calc(var(--global-nav-height) + 3rem);
+        height: 2rem;
+        line-height: 2rem;
+
+        &.stuck {
+            max-height: 0;
+            overflow: hidden;
+            border-bottom: 3px solid var(--theme);
+            border-bottom-color: transparent;
+            background-color: transparent;
+
+        }        
+    }
+    h3 {
+        top: calc(var(--global-nav-height) + 5rem);
+
+        &.stuck {
+            max-height: 0;
+            overflow: hidden;
+            border-bottom: 3px solid var(--theme);
+            border-bottom-color: transparent;
+            background-color: transparent;
+        }        
+    }
+}
+     </style>
+     <script>
+        // Embed search index data
+        window.SEARCH_INDEX = [{"title":"Basics V2","path":"_versions/8.0/Basics v2.html","url":"/_versions/8.0/Basics v2.html","content":"New Basics Rolls: Attack Spellcraft Concentration ? Saves: Fortitude Reflex Willpower Defenses: Armor Dodge Parry Block Other: Initiative Hit Points Mana These numbers are all determined by your class"},{"title":"Basics","path":"_versions/8.0/Basics.html","url":"/_versions/8.0/Basics.html","content":"Basic rules all PCs interact with: Ability Scores At character creation, you start with a 10 in each of the following scores: Strength Dexterity Constitution Intelligence Wisdom Charisma You have 20 p"},{"title":"Changelog","path":"_versions/8.0/CHANGELOG.html","url":"/_versions/8.0/CHANGELOG.html","content":"8.0a1 Initial commit"},{"title":"Feats","path":"_versions/8.0/Feats.html","url":"/_versions/8.0/Feats.html","content":"Every PC gets 1 feat per level, plus a bonus feat at character creation (i.e. level &quot;0&quot;). Each Power Source has its own list of feats you can choose that go well with that power source. All "},{"title":"Future Tech","path":"_versions/8.0/Gear/Future Tech.html","url":"/_versions/8.0/Gear/Future Tech.html","content":"Phones Issued at level 1. Everyone is issued a standard galactic phone. This works similarly to an early 21st century standard flagship phone, with the following differences: The device is extremely r"},{"title":"Starting Equipment","path":"_versions/8.0/Gear/Starting Equipment.html","url":"/_versions/8.0/Gear/Starting Equipment.html","content":"At level 1, you gain the following equipment: A melee weapon (or weapons) appropriate to your class Armor appropriate for your class A ranged weapon with which you are proficient (non-spellcasters) =="},{"title":"Legacy (working Document)","path":"_versions/8.0/Legacy/Legacy (working document).html","url":"/_versions/8.0/Legacy/Legacy (working document).html","content":"New version, in brief Everyone gets a bonus feat and a bonus power at level 0. This is useful for establishing legacy abilities. Further abilities must be purchased using feats and powers gained throu"},{"title":"Legacy","path":"_versions/8.0/Legacy/Legacy.html","url":"/_versions/8.0/Legacy/Legacy.html","content":"Legacy is a system for describing power you were born with, or otherwise come into as a birthright. Rather than proscribing specific &quot;races&quot;--which is considered to be outside the scope of t"},{"title":"Index","path":"_versions/8.0/Legacy/index.html","url":"/_versions/8.0/Legacy/index.html","content":"Legacy is a concept encompassion your physical and spiritual ancestry, your upbringing, any Destiny or Fate mystically appointed to you, magic items bequeathed unto you or in fact stumbled over...quit"},{"title":"Invocation","path":"_versions/8.0/Powers/Invocation.html","url":"/_versions/8.0/Powers/Invocation.html","content":"Invoker Commonly--and quite inaccurately--named &quot;warlocks&quot;, Invokers are magical practitioners who specialize in invoking the powers of Outer Planes, and of the denizens therein. A common mi"},{"title":"Psionics 2","path":"_versions/8.0/Powers/Psionics 2.html","url":"/_versions/8.0/Powers/Psionics 2.html","content":"Flavor text flavor text. Powers Biometabolism Healing Factor 1 | Biometabolism | Camouflage | At-will, swift, conc; gain advantage to Stealth checks, and your identity cannot be determined. 3 | Biomet"},{"title":"Psionics","path":"_versions/8.0/Powers/Psionics.html","url":"/_versions/8.0/Powers/Psionics.html","content":"Psion Each level, choose one psionic power, or a psionic talent. You do not have spell slots or Mana. Instead, you have Focus: Min value: 0 Max value: 1/2 Psion level + Wis Gain by: Meditating during "},{"title":"Witchcraft","path":"_versions/8.0/Powers/Witchcraft.html","url":"/_versions/8.0/Powers/Witchcraft.html","content":"Witch What is a witch? A female spellcaster? Absolutely not. Thaumaturgy is one of the fundamental arts of spellcasting. It is the study and practice of the Law of Sympathy: as above, so below, as wit"},{"title":"Index","path":"_versions/8.0/Powers/index.html","url":"/_versions/8.0/Powers/index.html","content":"Powers are abilities that are supernatural or extraordinary in nature that make you...well, more powerful. Spells are an obvious type of power, but there are others, such as passive or constant effect"},{"title":"Index","path":"_versions/8.0/Skills/index.html","url":"/_versions/8.0/Skills/index.html","content":"Short version of skills: At character creation, you get 12 + (3 x Int) skill points. Each level, you get 4+Int skill points. Max value: 3+level Name stat Acrobatics dex Athletics con Deception cha Dip"},{"title":"Classes","path":"_versions/8.0/WIP/8.1/Classes.html","url":"/_versions/8.0/WIP/8.1/Classes.html","content":"body is undefined for some reason"},{"title":"Mana And Metamagic","path":"_versions/8.0/WIP/8.1/Mana and Metamagic.html","url":"/_versions/8.0/WIP/8.1/Mana and Metamagic.html","content":"Instead of tracking mana for every spell ever, we will design most powers to essential contain their own cantrips and mana-costing effects. These heightened effects, in addition to standard metamagic "},{"title":"Agility","path":"_versions/8.0/WIP/8.1/Skills/Agility.html","url":"/_versions/8.0/WIP/8.1/Skills/Agility.html","content":"Uses: balance tumble reduce falling damage contortion sleight of hand dodging attacks"},{"title":"Arcana","path":"_versions/8.0/WIP/8.1/Skills/Arcana.html","url":"/_versions/8.0/WIP/8.1/Skills/Arcana.html","content":"Uses: Identify arcane symbols, words, objects Use magic items Create magic items"},{"title":"Concentration","path":"_versions/8.0/WIP/8.1/Skills/Concentration.html","url":"/_versions/8.0/WIP/8.1/Skills/Concentration.html","content":"Uses: Determines Mana Keep concentration of spells when damaged or stressed Used in ritual casting"},{"title":"Elementalism","path":"_versions/8.0/WIP/8.1/Skills/Elementalism.html","url":"/_versions/8.0/WIP/8.1/Skills/Elementalism.html","content":"Uses: Elementalist rituals, such as: Speak with animals Commune with nature Warp wood Control weather Tree stride Rebirth Reincarnation"},{"title":"Fortitude","path":"_versions/8.0/WIP/8.1/Skills/Fortitude.html","url":"/_versions/8.0/WIP/8.1/Skills/Fortitude.html","content":"Uses: increases hit points resist physical effects block attacks with a shield endure physical stress"},{"title":"Initiative","path":"_versions/8.0/WIP/8.1/Skills/Initiative.html","url":"/_versions/8.0/WIP/8.1/Skills/Initiative.html","content":"Uses: determines order of action in combat"},{"title":"Investigation","path":"_versions/8.0/WIP/8.1/Skills/Investigation.html","url":"/_versions/8.0/WIP/8.1/Skills/Investigation.html","content":"Uses: Discover clues amidst seemingly mundane evidence Trick someone into revealing information during an interrogation Gain insight into what happened at a given location"},{"title":"Invocation","path":"_versions/8.0/WIP/8.1/Skills/Invocation.html","url":"/_versions/8.0/WIP/8.1/Skills/Invocation.html","content":"Uses: Detect planar alignment: detects extraplanar creatures, portals, extraplanar magical effects. Determine planar origin of same. Magic circle: creates a magical barrier for containing extraplanar "},{"title":"Melee","path":"_versions/8.0/WIP/8.1/Skills/Melee.html","url":"/_versions/8.0/WIP/8.1/Skills/Melee.html","content":"Uses: Melee attacks (armed or unarmed) Parrying melee attacks"},{"title":"Persuasion","path":"_versions/8.0/WIP/8.1/Skills/Persuasion.html","url":"/_versions/8.0/WIP/8.1/Skills/Persuasion.html","content":"Uses: Convince someone to do something, tell you something, etc Convince someone of a lie or fabrication Make someone feel a desired emotion Convince someone to agree to something"},{"title":"Psionics","path":"_versions/8.0/WIP/8.1/Skills/Psionics.html","url":"/_versions/8.0/WIP/8.1/Skills/Psionics.html","content":"Uses: Sense psychic activity Sense psychic impressions Detect / resist psychic intrusion Psionic &quot;rituals&quot;"},{"title":"Ranged","path":"_versions/8.0/WIP/8.1/Skills/Ranged.html","url":"/_versions/8.0/WIP/8.1/Skills/Ranged.html","content":"Uses: Ranged attacks"},{"title":"Spellcraft","path":"_versions/8.0/WIP/8.1/Skills/Spellcraft.html","url":"/_versions/8.0/WIP/8.1/Skills/Spellcraft.html","content":"Uses: Used to set DCs for spell attacks and to penetrate defenses Used to cast rituals, ad-hoc spells, any instance where the spell is not thoroughly mastered Allows access to metamagic"},{"title":"Stealth","path":"_versions/8.0/WIP/8.1/Skills/Stealth.html","url":"/_versions/8.0/WIP/8.1/Skills/Stealth.html","content":"Uses: hiding moving silently"},{"title":"Thaumaturgy","path":"_versions/8.0/WIP/8.1/Skills/Thaumaturgy.html","url":"/_versions/8.0/WIP/8.1/Skills/Thaumaturgy.html","content":"Uses: Create / use phylactery Rituals such as: Command undead death sight Death and Rebirth Feats include: Felicity Chroma"},{"title":"Willpower","path":"_versions/8.0/WIP/8.1/Skills/Willpower.html","url":"/_versions/8.0/WIP/8.1/Skills/Willpower.html","content":"Uses: Resist mental effects Impose will on others Command loyalty of minions Determines damage dealt by magic"},{"title":"Skills","path":"_versions/8.0/WIP/8.1/Skills.html","url":"/_versions/8.0/WIP/8.1/Skills.html","content":"Profiency levels: Level Proficiency bonus Additional benefit untrained no take 20 proficient yes take 10 expert yes once/enc, roll with advantage master yes if roll &lt; 10, add 10 legendary yes roll "},{"title":"8.1","path":"_versions/8.0/WIP/8.1.html","url":"/_versions/8.0/WIP/8.1.html","content":"8.1 Basics Considering a change to basic formulas. Candidates include: 5e style (every check is stat + optional proficiency; may have multiple levels of proficiency) actual classes (hybrids?) Core mag"},{"title":"Wounds","path":"_versions/8.0/Wounds.html","url":"/_versions/8.0/Wounds.html","content":"Wounds are cumulative. If you have 0, and you take 12 damage, you have 12 Wounds. If you take another 10, you have 22 Wounds. Each time you take Wounds, roll Con vs Wounds. If you pass, you are Bloodi"},{"title":"Index","path":"_versions/8.0/index.html","url":"/_versions/8.0/index.html","content":"This is a WIP system for tabletop roleplaying games. It should be recognizable to those familiar with popular games involving dragons and/or dungeons, but has different design goals. It is fundamental"},{"title":"Legends","path":"_versions/8.0/legends.html","url":"/_versions/8.0/legends.html","content":"Legends is a game system based on the d20 rules. Basics"},{"title":"Menu","path":"_versions/8.0/menu.html","url":"/_versions/8.0/menu.html","content":"Home Skills Feats Powers Elementalism Evocation Divinity Invocation Psionics Witchcraft Legacy Gear Money [Starting Equipment](/system8/Gear/Starting\\ Equipment.md) Armor Weapons Magic Items Alchemy B"},{"title":"Actions In Combat","path":"character/basics/Actions in Combat.html","url":"/character/basics/Actions in Combat.html","content":"Things you can do in combat: Attack Dash Disengage Reactions: Dodge (if unencumbered) Parry (if wielding a Str melee weapon) Block (if wielding a shield)"},{"title":"Actions In Combat","path":"character/basics/actions-in-combat.html","url":"/character/basics/actions-in-combat.html","content":"Things you can do in combat: Attack Dash Disengage Reactions: Dodge (if unencumbered) Parry (if wielding a Str melee weapon) Block (if wielding a shield)"},{"title":"Index","path":"character/basics/index.html","url":"/character/basics/index.html","content":"These are the basics. Ability Scores You begin the game with six values (3, 2, 1, 0, 0, 0) to be assigned to the six ability scores however you desire. Optionally, you can apply -1 to a score to gain "},{"title":"Reserve Hit Points","path":"character/basics/reserve-hit-points.html","url":"/character/basics/reserve-hit-points.html","content":"All characters have Reserve Hit Points, which represent the amount of Hit Points you can restore through healing before a Long Rest. For now, Reserve HP = Max HP"},{"title":"Arcanist","path":"character/classes/Arcanist.html","url":"/character/classes/Arcanist.html","content":"Arcanist Attribute Value Hit Die d6 HP/level 4 Weapon Prof. Simple Weapons, Wand, Staff, Orb Armor Prof. None Saving Throws Int, Wis Bonus Skills Arcana Level Special Ability 1 Forma (1st), Spell Focu"},{"title":"Artificer","path":"character/classes/Artificer.html","url":"/character/classes/Artificer.html","content":"Artificer Attribute Value Hit Die d8 HP/level 5 Weapon Prof. Guns, bows, finesse melee weapons, others TBD Armor Prof. Light, medium Saving Throws Dex, Int Level Special Ability 1 1 Invention per odd "},{"title":"Elementalist","path":"character/classes/Elementalist.html","url":"/character/classes/Elementalist.html","content":"Elementalist Attribute Value Hit Die d8 HP/level 5 Weapon Prof. tbd Armor Prof. Light, Medium (natural materials only) Saving Throws Con, Wis Level Special Ability 1 Elemental Attunement, Elemental Bo"},{"title":"Fighter","path":"character/classes/Fighter.html","url":"/character/classes/Fighter.html","content":"Fighter Attribute Value Hit Die d10 HP/level 7 Weapon Prof. 2 martial (bonus feat grants all) Armor Prof. Light (bonus feat grants all) Saving Throws Str, Con Level Talents Special Ability 1 1 2 2 3 3"},{"title":"Invoker","path":"character/classes/Invoker.html","url":"/character/classes/Invoker.html","content":"Invoker Attribute Value Hit Die d6 HP/level 4 Weapon Prof. Simple Weapons, Rod Armor Prof. None Saving Throws Int, Cha Bonus Skills Invocation Level Special Ability 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15"},{"title":"Psion","path":"character/classes/Psion.html","url":"/character/classes/Psion.html","content":"Psion Attribute Value Hit Die d6 HP/level 4 Weapon Prof. None Armor Prof. None Saving Throws Con, Wis Level Special Ability 1 Focus 1 Power per odd level 1 Talent per even level Abilities Focus At-wil"},{"title":"Rogue","path":"character/classes/Rogue.html","url":"/character/classes/Rogue.html","content":"Rogue Attribute Value Hit Die d8 HP/level 4 Weapon Prof. Dex-based martial weapons Armor Prof. Light Saving Throws Dex, Int Level Special Ability 1 Sneak Attack, Maneuvers, Talents 2 3 4 5 6 7 8 9 10 "},{"title":"Thaumaturgist","path":"character/classes/Thaumaturgist.html","url":"/character/classes/Thaumaturgist.html","content":"Thaumaturgist Attribute Value Hit Die d6 HP/level 4 Weapon Prof. Simple Armor Prof. None Saving Throws Con, Wis Bonus Skills Thaumaturgy Level Special Ability 1 Spells, Talents, Vitae 2 3 4 5 6 7 8 9 "},{"title":"Theurgist","path":"character/classes/Theurgist.html","url":"/character/classes/Theurgist.html","content":"asd"},{"title":"Index","path":"character/classes/index.html","url":"/character/classes/index.html","content":"Class Readiness Arcanist 🟦🟦 Conceptualizing Artificer 🟨🟨🟨 Early Development Elementalist 🟩🟩🟩🟩 Fairly Developed (beta ready) Fighter 🟨🟨🟨 Early Development Invoker 🟨🟨🟨 Early Development P"},{"title":"Monk","path":"character/classes/monk.html","url":"/character/classes/monk.html","content":"Monk Attribute Value Hit Die d8 HP/level 5 Weapon Prof. Simple Armor Prof. None Saving Throws Con, Wis Level Special Ability 1 Mind over Body, Talents Abilities Mind Over Body Your physical abilities "},{"title":"Weapons","path":"character/equipment/Weapons.html","url":"/character/equipment/Weapons.html","content":"Weapons Normal (non-magical) weapons are described herein. Simple Melee Weapons All characters have proficiency with simple weapons. Simple weapons inflict one of three damage types (bludgeoning, pier"},{"title":"Alchemy","path":"character/equipment/alchemy.html","url":"/character/equipment/alchemy.html","content":"Potions Debilitation Rank Name Description 1 Thunderstone Stone explodes when thrown or subject to heat, causing intense sound that deafens and stuns 1 Web Glob of sticky goo expands when thrown, enca"},{"title":"Armor","path":"character/equipment/armor.html","url":"/character/equipment/armor.html","content":"Armor Base Armor Armor Type Armor Class Base Cost Other None 10 + Dex 0 Light 10 + prof + Dex tbd Heavy 10 + prof + Str tbd Fortification, Stealth disadvantage &quot;Prof&quot; is your proficiency bon"},{"title":"Blacksmithing","path":"character/equipment/blacksmithing.html","url":"/character/equipment/blacksmithing.html","content":"Special Materials Customizations Magical Enhancements Magical Enhancements Flamebrand Rank Cost Effect 1 Weapon inflicts light fire damage on turn start. Recharge 33%, can cause 50% bonus fire damage "},{"title":"Enchanting","path":"character/equipment/enchanting.html","url":"/character/equipment/enchanting.html","content":"Enchanting is the skill used to create magic items out of ordinary objects. Casting Implements Wizard's Implement Effect: The wizard's implement rewards careful preparation and a keen mind. Gain +20% "},{"title":"Inscription","path":"character/equipment/inscription.html","url":"/character/equipment/inscription.html","content":"Spellbook: bonus to ritual casting Int version shores up the Spellcraft check, has other benefits Wis version shores up the Concentration check, etc"},{"title":"Armor Of Darkness","path":"character/feats/invoker/armor-of-darkness.html","url":"/character/feats/invoker/armor-of-darkness.html","content":"Armor of Darkness Gain AC and concealment in darkness"},{"title":"Cloak Of Shadows","path":"character/feats/invoker/cloak-of-shadows.html","url":"/character/feats/invoker/cloak-of-shadows.html","content":"Cloak of Shadows Resist magic, shake off debilitations"},{"title":"Devil Trigger","path":"character/feats/invoker/devil-trigger.html","url":"/character/feats/invoker/devil-trigger.html","content":"Devil Trigger Become a half-fiend for a while"},{"title":"Devilsight","path":"character/feats/invoker/devilsight.html","url":"/character/feats/invoker/devilsight.html","content":"Devilsight See in the dark"},{"title":"Dissolution","path":"character/feats/invoker/dissolution.html","url":"/character/feats/invoker/dissolution.html","content":"Dissolution Recharge 33%, reaction or free; you become incorporeal shadows for 1 round."},{"title":"Enchanted Voice","path":"character/feats/invoker/enchanted-voice.html","url":"/character/feats/invoker/enchanted-voice.html","content":"Enchanted Voice Charm or calm creatures with your words"},{"title":"Fey Step","path":"character/feats/invoker/fey-step.html","url":"/character/feats/invoker/fey-step.html","content":"Fey Step Teleport via the faery realm. Slight chance to pick up some random magic effects en route."},{"title":"Fiendish Endurance","path":"character/feats/invoker/fiendish-endurance.html","url":"/character/feats/invoker/fiendish-endurance.html","content":"Fiendish Endurance Gain resistance to poison and disease"},{"title":"Flame Spawned","path":"character/feats/invoker/flame-spawned.html","url":"/character/feats/invoker/flame-spawned.html","content":"Flame-spawned Resist fire 50%"},{"title":"Glamour","path":"character/feats/invoker/glamour.html","url":"/character/feats/invoker/glamour.html","content":"Glamour Enhance Cha-based skills, change appearance"},{"title":"Hellish Rebuke","path":"character/feats/invoker/hellish-rebuke.html","url":"/character/feats/invoker/hellish-rebuke.html","content":"Hellish Rebuke Automatically retaliate with fire damage when hit"},{"title":"Infernal Flight","path":"character/feats/invoker/infernal-flight.html","url":"/character/feats/invoker/infernal-flight.html","content":"Infernal Flight Fly speed. Requires Infernal Wings."},{"title":"Infernal Wings","path":"character/feats/invoker/infernal-wings.html","url":"/character/feats/invoker/infernal-wings.html","content":"Infernal Wings Sprout wings for gliding, slow fall, etc"},{"title":"Revelry","path":"character/feats/invoker/revelry.html","url":"/character/feats/invoker/revelry.html","content":"Revelry Inspire emotions leading to irresponsible merrymaking or inspiring revelry"},{"title":"Shadow Double","path":"character/feats/invoker/shadow-double.html","url":"/character/feats/invoker/shadow-double.html","content":"Shadow Double Conjure a shadow double who can manifest your powers, distract enemies, etc"},{"title":"Shadow Jump","path":"character/feats/invoker/shadow-jump.html","url":"/character/feats/invoker/shadow-jump.html","content":"Shadow Jump Teleport from shadow to shadow"},{"title":"Shadow Walk","path":"character/feats/invoker/shadow-walk.html","url":"/character/feats/invoker/shadow-walk.html","content":"Shadow Walk Phase in and out of the Shadow Plane"},{"title":"Summon Sprite","path":"character/feats/invoker/summon-sprite.html","url":"/character/feats/invoker/summon-sprite.html","content":"Summon Sprite Summon tiny sprites that can do a few things (cause damage, manipulate objects, create minor illusions)"},{"title":"Veil","path":"character/feats/invoker/veil.html","url":"/character/feats/invoker/veil.html","content":"Veil Go invisible when not attacking"},{"title":"Adaptation","path":"character/feats/psion/adaptation.html","url":"/character/feats/psion/adaptation.html","content":"Adaptation 1 Focus; adapt to heat, cold, pressure, or other extreme environments. (0 Focus for natural environments, 1 for extreme)"},{"title":"Blindsense","path":"character/feats/psion/blindsense.html","url":"/character/feats/psion/blindsense.html","content":"Blindsense You have it"},{"title":"Blindsight","path":"character/feats/psion/blindsight.html","url":"/character/feats/psion/blindsight.html","content":"Blindsight Got it"},{"title":"Camouflage","path":"character/feats/psion/camouflage.html","url":"/character/feats/psion/camouflage.html","content":"Camouflage 1 Focus; gain partial concealment. TBD"},{"title":"Combat Precognition","path":"character/feats/psion/combat-precognition.html","url":"/character/feats/psion/combat-precognition.html","content":"Combat Precognition Gain +Wis to AC, more Dodge attempts"},{"title":"Dimension Shift","path":"character/feats/psion/dimension-shift.html","url":"/character/feats/psion/dimension-shift.html","content":"Dimension Shift Recharge 33%, swift, concentration; you shift into the same position in the Ethereal or Shadow plane, or other coterminous plane."},{"title":"Empathic Feedback","path":"character/feats/psion/empathic-feedback.html","url":"/character/feats/psion/empathic-feedback.html","content":"Empathic Feedback When enemies strike you for damage, they feel your pain, suffering equal psychic damage to what you suffered."},{"title":"Flight","path":"character/feats/psion/flight.html","url":"/character/feats/psion/flight.html","content":"Flight Fly at (base move), overland is faster"},{"title":"Incarnate","path":"character/feats/psion/incarnate.html","url":"/character/feats/psion/incarnate.html","content":"Incarnate Create a semi-sentient &quot;minion&quot; out of a Power you know (see details, lol)"},{"title":"Iron Fist","path":"character/feats/psion/iron-fist.html","url":"/character/feats/psion/iron-fist.html","content":"Iron Fist 1 Focus; unarmed strike inflicts heavy lethal damage or dual-wield medium damage."},{"title":"Levitation","path":"character/feats/psion/levitation.html","url":"/character/feats/psion/levitation.html","content":"Levitation Levitate up to (base move), move horizontally at (base move)"},{"title":"Mark Recall","path":"character/feats/psion/mark-recall.html","url":"/character/feats/psion/mark-recall.html","content":"Mark/Recall At-will, swift; you mark your place in space and time. Record your position, HP, conditions, etc. Later, you can use recall: Recharge 33%, swift, you rewind time to the Marked position, af"},{"title":"Metaphysical Weapon","path":"character/feats/psion/metaphysical-weapon.html","url":"/character/feats/psion/metaphysical-weapon.html","content":"Metaphysical Weapon At-will, swift; create an astral construct in the form of a weapon with which you are proficient. At higher ranks, enhance it."},{"title":"Momentum Control","path":"character/feats/psion/momentum-control.html","url":"/character/feats/psion/momentum-control.html","content":"Momentum Control Arrest a charge or cancel falling damage, gain a kinetic charge."},{"title":"Phase Shift Incorporeal","path":"character/feats/psion/phase-shift-incorporeal.html","url":"/character/feats/psion/phase-shift-incorporeal.html","content":"Phase Shift (Incorporeal) Recharge 33%, swift, concentration; you become incorporeal."},{"title":"Phase Shift","path":"character/feats/psion/phase-shift.html","url":"/character/feats/psion/phase-shift.html","content":"Phase Shift 2 Focus; change your body to liquid or gas, and back again."},{"title":"Speed Of Thought","path":"character/feats/psion/speed-of-thought.html","url":"/character/feats/psion/speed-of-thought.html","content":"Speed of Thought At-will, move, 1 Focus; move near instantly in a straight line by compressing the space in between for a nanosecond. Expend Focus to use as a reaction."},{"title":"Super Flight","path":"character/feats/psion/super-flight.html","url":"/character/feats/psion/super-flight.html","content":"Super Flight Fly at the speed of a plane"},{"title":"Synaethesia","path":"character/feats/psion/synaethesia.html","url":"/character/feats/psion/synaethesia.html","content":"Synaethesia TBD"},{"title":"Temporal Acceleration","path":"character/feats/psion/temporal-acceleration.html","url":"/character/feats/psion/temporal-acceleration.html","content":"Temporal Acceleration Free; you immediately take a single action out of the flow of time. (Time Stop rules). One round per encounter per rank above 2."},{"title":"Thick Skin","path":"character/feats/psion/thick-skin.html","url":"/character/feats/psion/thick-skin.html","content":"Thick Skin 1 Focus; gain DR equal to your proficiency bonus."},{"title":"Tower Of Iron Will","path":"character/feats/psion/tower-of-iron-will.html","url":"/character/feats/psion/tower-of-iron-will.html","content":"Tower of Iron Will Nearby allies' mental defenses are enhanced."},{"title":"Ultra Flight","path":"character/feats/psion/ultra-flight.html","url":"/character/feats/psion/ultra-flight.html","content":"Ultra Flight Fly at the speed of a rocket"},{"title":"X Ray Vision","path":"character/feats/psion/x-ray-vision.html","url":"/character/feats/psion/x-ray-vision.html","content":"X-Ray Vision See through concealment, cover, and some walls"},{"title":"Foundation","path":"character/foundation/foundation.html","url":"/character/foundation/foundation.html","content":"Foundation is everything that contributed to your character before they started adventuring. It includes a broad array of things, such as: Genetic heritage from birth Cultural and professional skill d"},{"title":"Tiefling","path":"character/foundation/tiefling.html","url":"/character/foundation/tiefling.html","content":"tiefling"},{"title":"Index","path":"character/index.html","url":"/character/index.html","content":"Welcome to character creation! How to build a character: In no particular order... Choose a Class Configure your Foundation etc... How to play a character: Become familiar with the Basics ."},{"title":"Eldritch Knight","path":"character/paths/Eldritch Knight.html","url":"/character/paths/Eldritch Knight.html","content":"Eldritch Knight Attribute Value Skill Proficiency Arcana Mana 1 per level Level Special Ability 1 1st Rune 2 Mage Armor 3 (utility) 4 2nd Rune 5 Orbs 6 (utility) 7 3rd Rune Runes As an Eldritch Knight"},{"title":"Paladin","path":"character/paths/Paladin.html","url":"/character/paths/Paladin.html","content":"Attribute Value Mana 1 per level Level Special Ability 1 Holy Smite, Oathkeeper 2 Sin Sight, Lay on Hands 3 Aura 4 Holy Light 5 6 7 Holy Smite Holy Smite : at-will, std, 1 mana; normal weapon damage p"},{"title":"Eldritch Knight","path":"character/paths/eldritch-knight.html","url":"/character/paths/eldritch-knight.html","content":"Eldritch Knight Attribute Value Skill Proficiency Arcana Mana 1 per level Level Special Ability 1 1st Rune 2 Mage Armor 3 (utility) 4 2nd Rune 5 Orbs 6 (utility) 7 3rd Rune Runes As an Eldritch Knight"},{"title":"Lightning Rod","path":"character/powers/artificer/lightning-rod.html","url":"/character/powers/artificer/lightning-rod.html","content":"You become a conduit for electrical energy, drawing power from storms, friction, and the bioelectric fields of living creatures. Uses: Spark: at-will; as a swift action, you build up static charge in "},{"title":"Color","path":"character/powers/invoker/color.html","url":"/character/powers/invoker/color.html","content":"Color Random colors inflict random effects."},{"title":"Corruption","path":"character/powers/invoker/corruption.html","url":"/character/powers/invoker/corruption.html","content":"Corruption Make enemies' abilities weaker"},{"title":"Darkness","path":"character/powers/invoker/darkness.html","url":"/character/powers/invoker/darkness.html","content":"Darkness Makes things darker (shaping effects: darkness, wall of shadows, void zone)"},{"title":"Fear","path":"character/powers/invoker/fear.html","url":"/character/powers/invoker/fear.html","content":"Fear Simple, but effective."},{"title":"Hellfire","path":"character/powers/invoker/hellfire.html","url":"/character/powers/invoker/hellfire.html","content":"Hellfire Set enemies on fire."},{"title":"Jubilation","path":"character/powers/invoker/jubilation.html","url":"/character/powers/invoker/jubilation.html","content":"Jubilation Lights, sounds, explosions, etc"},{"title":"Madness","path":"character/powers/invoker/madness.html","url":"/character/powers/invoker/madness.html","content":"Madness Go insane and die"},{"title":"Name Tbd","path":"character/powers/invoker/name-tbd.html","url":"/character/powers/invoker/name-tbd.html","content":"Name TBD Many tiny fey do things very quickly (legerdemain, strip, etc)"},{"title":"Pain","path":"character/powers/invoker/pain.html","url":"/character/powers/invoker/pain.html","content":"Pain Inflict debilitating agony."},{"title":"Shadowstuff","path":"character/powers/invoker/shadowstuff.html","url":"/character/powers/invoker/shadowstuff.html","content":"Shadowstuff Create things out of shadows (shadow conjuration, shadow evocation, illusions)"},{"title":"Star Of The Void","path":"character/powers/invoker/star-of-the-void.html","url":"/character/powers/invoker/star-of-the-void.html","content":"Star of the Void Does damage through annihilation"},{"title":"Temptation","path":"character/powers/invoker/temptation.html","url":"/character/powers/invoker/temptation.html","content":"Temptation &quot;Charm&quot; enemies into allies by promising Faustian gifts"},{"title":"The Airborne","path":"character/powers/invoker/the-airborne.html","url":"/character/powers/invoker/the-airborne.html","content":"The Airborne Gain the service of a ?, faerie dragon, or nether drake"},{"title":"The Host","path":"character/powers/invoker/the-host.html","url":"/character/powers/invoker/the-host.html","content":"The Host Gain the service of a ?, Host of Oberon, or ?"},{"title":"The Hunter","path":"character/powers/invoker/the-hunter.html","url":"/character/powers/invoker/the-hunter.html","content":"The Hunter Gain the service of a hellhound, felhunter, or ?"},{"title":"The Master","path":"character/powers/invoker/the-master.html","url":"/character/powers/invoker/the-master.html","content":"The Master Gain the service of a Fallen One, Leprechaun, or Great Old One"},{"title":"The Ride","path":"character/powers/invoker/the-ride.html","url":"/character/powers/invoker/the-ride.html","content":"The Ride Gain the service of a nightmare, unicorn, or dreadsteed"},{"title":"The Seducer","path":"character/powers/invoker/the-seducer.html","url":"/character/powers/invoker/the-seducer.html","content":"The Seducer Gain the service of an succubus, nymph, or ?"},{"title":"The Trickster","path":"character/powers/invoker/the-trickster.html","url":"/character/powers/invoker/the-trickster.html","content":"The Trickster Gain the service of an imp, pixie, or shade"},{"title":"The Unknown","path":"character/powers/invoker/the-unknown.html","url":"/character/powers/invoker/the-unknown.html","content":"The ? Gain the service of ?"},{"title":"The Warrior","path":"character/powers/invoker/the-warrior.html","url":"/character/powers/invoker/the-warrior.html","content":"The Warrior Gain the service of an felguard, centuar, or voidwalker"},{"title":"The Wrecking Ball","path":"character/powers/invoker/the-wrecking-ball.html","url":"/character/powers/invoker/the-wrecking-ball.html","content":"The Wrecking Ball Gain the service of an infernal, ?, or nightshade"},{"title":"Wonder","path":"character/powers/invoker/wonder.html","url":"/character/powers/invoker/wonder.html","content":"Wonder Wild magic does random shit"},{"title":"Magic Missile","path":"character/powers/magic-missile.html","url":"/character/powers/magic-missile.html","content":"Magic missile is a cool power."},{"title":"Adaptation","path":"character/powers/psion/adaptation.html","url":"/character/powers/psion/adaptation.html","content":"At-will, swift, requires Focus; you modify your body, such that you are inured to extreme environments that might otherwise be harmful. When you activate this ability, choose one of the benefits below"},{"title":"Astral Construct","path":"character/powers/psion/astral-construct.html","url":"/character/powers/psion/astral-construct.html","content":"At-will, swift, reserves 1 Focus; create a Medium astral construct (rules TBD). For more mana, make a bigger one."},{"title":"Astral Seed","path":"character/powers/psion/astral-seed.html","url":"/character/powers/psion/astral-seed.html","content":"You create a shard of your own mind within the Astral Plane. Thereafter, the shard can slowly grow a demiplane of your own devising, which you can mentally visit at any time through meditation. At a c"},{"title":"Camouflage","path":"character/powers/psion/camouflage.html","url":"/character/powers/psion/camouflage.html","content":"At-will, swift, reserves 1 Focus; you modify your body, modifying the light, sound, and odors emitted by your body. You can use this for camouflage, gaining a +10 bonus to Stealth checks, by matching "},{"title":"Catapsi","path":"character/powers/psion/catapsi.html","url":"/character/powers/psion/catapsi.html","content":"At-will, swift, reserves 1 Focus; you create an emanation, of a radius you specify between 1 and 5 squares. Within this emanation, intense psychic noise interferes with all thinking minds, drowning ou"},{"title":"Cryokinesis","path":"character/powers/psion/cryokinesis.html","url":"/character/powers/psion/cryokinesis.html","content":"Cryokinesis Cryokinesis"},{"title":"Dimension Shift","path":"character/powers/psion/dimension-shift.html","url":"/character/powers/psion/dimension-shift.html","content":"body is undefined for some reason"},{"title":"Electrokinesis","path":"character/powers/psion/electrokinesis.html","url":"/character/powers/psion/electrokinesis.html","content":"Electrokinesis You control the Electromagnetic Force, allowing you to control electricity and magnetism. Rank 1 Magnetize: at-will, std, concentration; target metal object becomes highly magnetized. A"},{"title":"Empathy","path":"character/powers/psion/empathy.html","url":"/character/powers/psion/empathy.html","content":"Empathy The ability to read and implant emotions in others' minds. Rank 0 / 0 Mana Detect Emotions Rank 1 / 1 Mana Attraction/Repulsion Emotion: Fear Emotion: Rage (remove emotional effect) Rank 2 / 2"},{"title":"Extra Sensory Perception","path":"character/powers/psion/extra-sensory-perception.html","url":"/character/powers/psion/extra-sensory-perception.html","content":"You can extend your senses beyond what is physically possible. You can blindsense in a radius of 1 square per proficiency bonus. At-will, swift, concentration, reserves Focus; you perceive an area tha"},{"title":"Fission","path":"character/powers/psion/fission.html","url":"/character/powers/psion/fission.html","content":"Fission Split into two or more copies of yourself, each with a portion of your power."},{"title":"Flight","path":"character/powers/psion/flight.html","url":"/character/powers/psion/flight.html","content":"body is undefined for some reason"},{"title":"Gravity","path":"character/powers/psion/gravity.html","url":"/character/powers/psion/gravity.html","content":"Gravity Gravity"},{"title":"Hard Light","path":"character/powers/psion/hard-light.html","url":"/character/powers/psion/hard-light.html","content":"Despite the name, &quot;hard light&quot; is not light. It is not made of photons, and its properties do not come from light. Rather, it is a field that can be generated with the application of psionic"},{"title":"Incarnate","path":"character/powers/psion/incarnate.html","url":"/character/powers/psion/incarnate.html","content":"body is undefined for some reason"},{"title":"Inception","path":"character/powers/psion/inception.html","url":"/character/powers/psion/inception.html","content":"Inception You can plant thoughts into other people's minds, which they act on as if they were their own. If you've seen season one of Jessica Jones, you know how dangerous this ability is. But also In"},{"title":"Iron Body","path":"character/powers/psion/iron-body.html","url":"/character/powers/psion/iron-body.html","content":"At-will, swift, requires Focus; you modify your body, focusing energy into parts of it to increase hardness and momentum. While active, you gain the following benefits: Your unarmed strikes inflict he"},{"title":"Iron Fist","path":"character/powers/psion/iron-fist.html","url":"/character/powers/psion/iron-fist.html","content":"While focused, your unarmed attacks inflict heavy lethal bludgeoning damage, and can be used to parry lethal weapons. Additionally, you may apply one Weapon Enhancement of your choice of the same rank"},{"title":"Levitation","path":"character/powers/psion/levitation.html","url":"/character/powers/psion/levitation.html","content":"body is undefined for some reason"},{"title":"Mark Recall","path":"character/powers/psion/mark-recall.html","url":"/character/powers/psion/mark-recall.html","content":"body is undefined for some reason"},{"title":"Metamorphosis","path":"character/powers/psion/metamorphosis.html","url":"/character/powers/psion/metamorphosis.html","content":"TBD"},{"title":"Metaphysical Weapon","path":"character/powers/psion/metaphysical-weapon.html","url":"/character/powers/psion/metaphysical-weapon.html","content":"At-will, swift, requires Focus; you gather psychic energy in the form of a weapon with which you are proficient. While it is made of energy (exact aesthetics are up to you), it has the normal traits f"},{"title":"Mind Control","path":"character/powers/psion/mind-control.html","url":"/character/powers/psion/mind-control.html","content":"Mind Control Despite the name, it's more like Body Control. You replace the subject's consciousness, and have full control of their body. You don't directly gain access to their knowledge and mental a"},{"title":"Mind Reading Probing Memory Alteration","path":"character/powers/psion/mind-reading-probing-memory-alteration.html","url":"/character/powers/psion/mind-reading-probing-memory-alteration.html","content":"Mind Reading/Probing/Memory Alteration Mind Reading/Probing/Memory Alteration"},{"title":"Mind Reading","path":"character/powers/psion/mind-reading.html","url":"/character/powers/psion/mind-reading.html","content":"Mind Reading Detect Minds Detect Minds: at-will, swift, cone 5, concentration, requires Focus; while you concentrate, you sense the presence of minds in the area, regardless of cover or concealment. Y"},{"title":"Mindlink","path":"character/powers/psion/mindlink.html","url":"/character/powers/psion/mindlink.html","content":"Inception Base level: link two minds together so you can telepathically communicate. Advanced uses: share mental abilities (like spells and knowledge), reinforce each others' mental saving throws, com"},{"title":"Object Reading","path":"character/powers/psion/object-reading.html","url":"/character/powers/psion/object-reading.html","content":"Action: standard Mana cost: 1 Range: ranged Recharge: at-will Target: single target Duration: concentration You read the psychic impressions encoded within an object that you are holding or touching. "},{"title":"Object Repair","path":"character/powers/psion/object-repair.html","url":"/character/powers/psion/object-repair.html","content":"Object Repair Object Repair"},{"title":"Phase Shift Incorporeal","path":"character/powers/psion/phase-shift-incorporeal.html","url":"/character/powers/psion/phase-shift-incorporeal.html","content":"body is undefined for some reason"},{"title":"Phase Shift","path":"character/powers/psion/phase-shift.html","url":"/character/powers/psion/phase-shift.html","content":"At-will, swift, concentration, 2 mana; you shift your body out of phase with the Material Plane, and partially into one of the Transitive Planes. You remain visible, but become incorporeal. Physical m"},{"title":"Photokinesis","path":"character/powers/psion/photokinesis.html","url":"/character/powers/psion/photokinesis.html","content":"Create or modify light. You can bend light, make lasers, etc. Higher rank, use higher frequencies such as x-ray and gamma radiation."},{"title":"Portal","path":"character/powers/psion/portal.html","url":"/character/powers/psion/portal.html","content":"Portal At-will, swift, concentration; you create two portals, both within line of sight and effect. Each is linked to the other. Whatever passes through one comes out the other, with momentum intact ("},{"title":"Precognition","path":"character/powers/psion/precognition.html","url":"/character/powers/psion/precognition.html","content":"You sense things before they occur. At-will, reaction to an incoming harmful effect, 1 Mana; you take a single chosen move or swift action which helps you avoid or mitigate the effect. At rank 2, you "},{"title":"Probability Analysis","path":"character/powers/psion/probability-analysis.html","url":"/character/powers/psion/probability-analysis.html","content":"At-will, free; you calculate the exact probability of a specified outcome of a probabilistic event in your immedate context. For instance, during a game of Blackjack, you could calculate the exact odd"},{"title":"Prognostication","path":"character/powers/psion/prognostication.html","url":"/character/powers/psion/prognostication.html","content":"Prognostication Prognostication"},{"title":"Psychic Assault","path":"character/powers/psion/psychic-assault.html","url":"/character/powers/psion/psychic-assault.html","content":"Psychic Assault You can harm the minds of creatures with telepathic force. Mind Thrust At-will, std, ranged; heavy psychic damage (Wis half), plus disadvantage to the next Int, Wis, or Cha roll made b"},{"title":"Pyrokinesis","path":"character/powers/psion/pyrokinesis.html","url":"/character/powers/psion/pyrokinesis.html","content":"Pyrokinesis Pyrokinesis"},{"title":"Schism","path":"character/powers/psion/schism.html","url":"/character/powers/psion/schism.html","content":"Schism You can separate a fraction of your mind, and use it for various purposes. At-will, swift, 2 Mana; you create a shard of your mind. Thereafter, you can use the shard for the following purposes:"},{"title":"Sensitivity To Psychic Impressions","path":"character/powers/psion/sensitivity-to-psychic-impressions.html","url":"/character/powers/psion/sensitivity-to-psychic-impressions.html","content":"Refer to https://www.d20srd.org/srd/psionic/powers/sensitivitytoPsychicImpressions.htm"},{"title":"Speed Of Thought","path":"character/powers/psion/speed-of-thought.html","url":"/character/powers/psion/speed-of-thought.html","content":"At-will, move, requires focus, 1 mana; you compress the space in front of you, then move through it at otherwise normal speed. You can move up to your normal base movement speed in a straight line, bu"},{"title":"Super Flight","path":"character/powers/psion/super-flight.html","url":"/character/powers/psion/super-flight.html","content":"body is undefined for some reason"},{"title":"Synaethesia","path":"character/powers/psion/synaethesia.html","url":"/character/powers/psion/synaethesia.html","content":"body is undefined for some reason"},{"title":"Telekinesis","path":"character/powers/psion/telekinesis.html","url":"/character/powers/psion/telekinesis.html","content":"At-will, swift, concentration, 0 mana; you gain telekinetic control of a medium or smaller creature or object. Thereafter, you may do the following: As a standard action, you may move the object slowl"},{"title":"Temporal Acceleration","path":"character/powers/psion/temporal-acceleration.html","url":"/character/powers/psion/temporal-acceleration.html","content":"body is undefined for some reason"},{"title":"Thick Skin","path":"character/powers/psion/thick-skin.html","url":"/character/powers/psion/thick-skin.html","content":"body is undefined for some reason"},{"title":"Time Warp","path":"character/powers/psion/time-warp.html","url":"/character/powers/psion/time-warp.html","content":"Time Warp Time hop, etc"},{"title":"Tower Of Iron Will","path":"character/powers/psion/tower-of-iron-will.html","url":"/character/powers/psion/tower-of-iron-will.html","content":"body is undefined for some reason"},{"title":"Ultra Flight","path":"character/powers/psion/ultra-flight.html","url":"/character/powers/psion/ultra-flight.html","content":"body is undefined for some reason"},{"title":"Warp Bubble","path":"character/powers/psion/warp-bubble.html","url":"/character/powers/psion/warp-bubble.html","content":"Warp Bubble Warp Bubble"},{"title":"Wholeness Of Body","path":"character/powers/psion/wholeness-of-body.html","url":"/character/powers/psion/wholeness-of-body.html","content":"At-will, swift; you heal yourself for up to 25% of your Reserve Hit Points . This diminishes your reserve. At-will, std, touch; you heal subject for up to 25% of their Reserve Hit Points . This dimini"},{"title":"Blood Bond","path":"character/powers/thaumaturgist/Blood Bond.html","url":"/character/powers/thaumaturgist/Blood Bond.html","content":"Flavor text. Uses: Blood Boil: at-will, std, touch or ranged (if you are touching their blood); subject suffers heavy internal fire damage. Blood Bending: at-will, std, touch or ranged (if you are tou"},{"title":"Death Touch","path":"character/powers/thaumaturgist/Death Touch.html","url":"/character/powers/thaumaturgist/Death Touch.html","content":"Death Touch is a Thaumaturgist ability which allows you to drain vitality with a touch. Abilities Rank 1 At-will, as a standard action, you can touch a creature, inflicting heavy necrotic damage (Con "},{"title":"Fingers Of Frost","path":"character/powers/thaumaturgist/Fingers of Frost.html","url":"/character/powers/thaumaturgist/Fingers of Frost.html","content":"Flavor text. Uses: Ice Lance: at-will; as a swift action, you absorb energy from the environment, freezing the latent moisture and the air itself into a sharp lance of ice. As a standard action (which"},{"title":"Green Thumb","path":"character/powers/thaumaturgist/Green Thumb.html","url":"/character/powers/thaumaturgist/Green Thumb.html","content":"Green Thumb is a Thaumaturgist ability which allows you to harmonize with and control plant life. Abilities Rank 1 Plant Growth: at-will, swift, circle 5; an area of natural growth becomes overgrown ("},{"title":"Absorb Magic","path":"character/powers/thaumaturgist/absorb-magic.html","url":"/character/powers/thaumaturgist/absorb-magic.html","content":"At-will, std, touch, 1 mana; you attempt to dispel a magical effect by touch. Roll spellcasting skill vs the caster; On success, you dispel the effect. On failure, you do not dispel it, and instead su"},{"title":"Animate Object","path":"character/powers/thaumaturgist/animate-object.html","url":"/character/powers/thaumaturgist/animate-object.html","content":"At-will, std, ranged, concentration, 1 Mana; medium-sized (or smaller) object becomes animated and moves as you direct. If fixed in place, the object can take limited actions, based on its physical co"},{"title":"Antimagic Zone","path":"character/powers/thaumaturgist/antimagic-zone.html","url":"/character/powers/thaumaturgist/antimagic-zone.html","content":"body is undefined for some reason"},{"title":"Blood Bending","path":"character/powers/thaumaturgist/blood-bending.html","url":"/character/powers/thaumaturgist/blood-bending.html","content":"At-will, std, ranged, requires the creature's blood, concentration, 2 Mana; you take control of subject's actions. Their mind retains awareness of this fact, but you simply overpower them, forcing the"},{"title":"Blood Boil","path":"character/powers/thaumaturgist/blood-boil.html","url":"/character/powers/thaumaturgist/blood-boil.html","content":"Flavor text. Uses: Blood Boil: at-will, std, touch or ranged (if you are touching their blood); subject suffers medium internal fire damage, plus same on turn start (Con ends)."},{"title":"Blood Bond","path":"character/powers/thaumaturgist/blood-bond.html","url":"/character/powers/thaumaturgist/blood-bond.html","content":"You link yourself to another creature, allowing you to share strength and vitality with each other. Can be used offensively. At-will, std, touch (either the creature or their blood), concentration; yo"},{"title":"Commandeer Spell","path":"character/powers/thaumaturgist/commandeer-spell.html","url":"/character/powers/thaumaturgist/commandeer-spell.html","content":"At-will, std, ranged, 1 mana; you take command of an active spell. Roll your spellcasting skill vs the spell's DC. On failure, nothing happens. On success, you can redefine the parameters of the spell"},{"title":"Corpse Explosion","path":"character/powers/thaumaturgist/corpse-explosion.html","url":"/character/powers/thaumaturgist/corpse-explosion.html","content":"At-will, std, ranged, 2 Mana; targeted corpse or corporeal undead creature explodes. The creature suffers heavy internal damage (Con half, if not a corpse), and the same damage explodes in a burst 3 o"},{"title":"Curse","path":"character/powers/thaumaturgist/curse.html","url":"/character/powers/thaumaturgist/curse.html","content":"At-will, std, ranged, 1 vitae; you lay a curse upon the subject. Choose one: Curse of Weakness: subject's attacks and powers inflict half damage. Cha or Str ends. Clumsiness: when subject takes a move"},{"title":"Death Pact","path":"character/powers/thaumaturgist/death-pact.html","url":"/character/powers/thaumaturgist/death-pact.html","content":"At-will, swift, ranged, 1 Mana; subject undead creature suffers heavy internal damage (Con half), and you heal the amount suffered. Alternatively, you can direct the healing to someone else by touchin"},{"title":"Defile","path":"character/powers/thaumaturgist/defile.html","url":"/character/powers/thaumaturgist/defile.html","content":"At-will, std, ranged, circle 3, 3 Mana; you drain all of the vital energy from everything in the area. All creatures in the area suffer heavy necrotic damage (Con half). All other life such as plants "},{"title":"Doll","path":"character/powers/thaumaturgist/doll.html","url":"/character/powers/thaumaturgist/doll.html","content":"At-will, std, ranged, concentration, 2 Mana; targeted creature is transmuted into an inanimate doll which has roughly the same shape and appearance. It is composed of natural materials (e.g. wood, clo"},{"title":"Doom","path":"character/powers/thaumaturgist/doom.html","url":"/character/powers/thaumaturgist/doom.html","content":"At-will, std, ranged, 3 vitae; you lay a curse upon the subject. Choose one: Doom of the Body: each round, the subject's max HP lowers by 25%. Doom of the Double-Edged Sword: each time the subject inf"},{"title":"Drain Soul","path":"character/powers/thaumaturgist/drain-soul.html","url":"/character/powers/thaumaturgist/drain-soul.html","content":"At-will, std, touch, 1 mana; you steal a portion of the subject's soul, coalescing it into a tiny crystal called a Soul Shard. The subject suffers Enervation (TBD) The uses of a soul shard are as foll"},{"title":"Exsanguinate","path":"character/powers/thaumaturgist/exsanguinate.html","url":"/character/powers/thaumaturgist/exsanguinate.html","content":"At-will, std, ranged; you attempt to remove all of the subject's blood from their body. On a successful Con save, the subject merely suffers heavy internal damage, plus the Frail condition (Con ends)."},{"title":"Finger Of Death","path":"character/powers/thaumaturgist/finger-of-death.html","url":"/character/powers/thaumaturgist/finger-of-death.html","content":"At-will, std, ranged, 3 Mana; subject's heart stops and they immediately begin to die, entering the Dying state if they fail a Con save (on success, heavy necrotic damage and no further debilitations)"},{"title":"Fingers Of Frost","path":"character/powers/thaumaturgist/fingers-of-frost.html","url":"/character/powers/thaumaturgist/fingers-of-frost.html","content":"Flavor text. Uses: Ice Lance: at-will; as a swift action, you absorb energy from the environment, freezing the latent moisture and the air itself into a sharp lance of ice. As a standard action (which"},{"title":"Frozen Blood","path":"character/powers/thaumaturgist/frozen-blood.html","url":"/character/powers/thaumaturgist/frozen-blood.html","content":"At-will, swift, concentration, 3 Mana. Your heart stops, and your blood flows with all the quickness of tree sap. You are no longer subject to the Dead or Dying states. Even if you take enough damage "},{"title":"Green Thumb","path":"character/powers/thaumaturgist/green-thumb.html","url":"/character/powers/thaumaturgist/green-thumb.html","content":"Green Thumb is a Thaumaturgist ability which allows you to harmonize with and control plant life. Abilities Rank 1 Plant Growth: at-will, swift, circle 5; an area of natural growth becomes overgrown ("},{"title":"Hasten Death","path":"character/powers/thaumaturgist/hasten-death.html","url":"/character/powers/thaumaturgist/hasten-death.html","content":"At-will, std, ranged, 2 Mana; choose an active, ongoing, harmful effect that the creature is suffering. It immediately causes 2 rounds worth of effects. For example, if a creature suffers medium necro"},{"title":"Ironguard","path":"character/powers/thaumaturgist/ironguard.html","url":"/character/powers/thaumaturgist/ironguard.html","content":"At-will, swift, 3 Mana, concentration; you modify your own body, such that, when interacting with metal objects, it is as if your body is made of water. If a metal weapon is thrust into you, it just s"},{"title":"Kiss Of Death","path":"character/powers/thaumaturgist/kiss-of-death.html","url":"/character/powers/thaumaturgist/kiss-of-death.html","content":"Kiss of Death is a Thaumaturgist ability which allows you to drain vitality with a touch. Abilities Rank 1 At-will, as a standard action, you can touch a creature, inflicting heavy necrotic damage (Co"},{"title":"Magic Missile","path":"character/powers/thaumaturgist/magic-missile.html","url":"/character/powers/thaumaturgist/magic-missile.html","content":"At-will, std, touch, 0 Mana; touched tiny object propels suddenly in a direction of your choice. If aimed at a creature, make a ranged attack (Spellcasting skill vs AC), inflicting medium damage (type"},{"title":"Malediction","path":"character/powers/thaumaturgist/malediction.html","url":"/character/powers/thaumaturgist/malediction.html","content":"At-will, std, ranged, 2 vitae; you lay a curse upon the subject. Choose one: Curse of Vulnerability: choose one damage type (e.g. fire, slashing, etc). Subject gains vulnerability to that damage type."},{"title":"Necrosis","path":"character/powers/thaumaturgist/necrosis.html","url":"/character/powers/thaumaturgist/necrosis.html","content":"Necrosis Standard action, ranged, concentration; part of subject's body dies, then grows into a new limb, head, or whatever is needed, which wields the subject's own strength against it and its allies"},{"title":"Negation","path":"character/powers/thaumaturgist/negation.html","url":"/character/powers/thaumaturgist/negation.html","content":"At-will, std, ranged, 2 mana; subject creature loses access to a chosen power, or subject magic item loses all magical traits. Subject is allowed a Charisma save to end the effect."},{"title":"Possession","path":"character/powers/thaumaturgist/possession.html","url":"/character/powers/thaumaturgist/possession.html","content":"body is undefined for some reason"},{"title":"Reanimate","path":"character/powers/thaumaturgist/reanimate.html","url":"/character/powers/thaumaturgist/reanimate.html","content":"Reanimate: Std, ranged, 1 Mana; you animate a recently-dead (within the last hour) corpse of a humanoid or animal. It becomes your Minion . The traits of the animated dead are: '''Undead:''' immune to"},{"title":"Soul Prison","path":"character/powers/thaumaturgist/soul-prison.html","url":"/character/powers/thaumaturgist/soul-prison.html","content":"body is undefined for some reason"},{"title":"Soul Sunder","path":"character/powers/thaumaturgist/soul-sunder.html","url":"/character/powers/thaumaturgist/soul-sunder.html","content":"body is undefined for some reason"},{"title":"Soulgaze","path":"character/powers/thaumaturgist/soulgaze.html","url":"/character/powers/thaumaturgist/soulgaze.html","content":"At-will, swift, ranged; you gaze into subject's eyes. If they are aware of the danger of locking eyes with you, and wish not to, they're allowed a Dex save to negate. Otherwise, your souls connect, an"},{"title":"Touch Of The Grave","path":"character/powers/thaumaturgist/touch-of-the-grave.html","url":"/character/powers/thaumaturgist/touch-of-the-grave.html","content":"At-will, std, touch, 1 Mana; you infuse target with negative energy, harming them in the manner of an undead creature. Choose one effect: '''Shadow's Grasp:''' Medium necrotic damage plus Weakened , C"},{"title":"Transform Object","path":"character/powers/thaumaturgist/transform-object.html","url":"/character/powers/thaumaturgist/transform-object.html","content":"At-will, std, ranged, concentration, 1 Mana; medium-sized (or smaller) object is modified in one way that you choose: You can increase or decrease the size by 1 category per rank. You can increase or "},{"title":"Transfusion","path":"character/powers/thaumaturgist/transfusion.html","url":"/character/powers/thaumaturgist/transfusion.html","content":"Flavor text. At-will, std, touch or ranged (if you are touching their blood), Con half (when harming), 1 mana; transfer HP between yourself and the subject in the direction of your choice. When healin"},{"title":"Index","path":"character/skills/index.html","url":"/character/skills/index.html","content":"How skills work If you're untrained, you can roll the skill check for anything an untrained person would find challenging but possible. For example: Climbing a wall with ample handholds (Athletics) Wa"},{"title":"Index","path":"index.html","url":"/index.html","content":"Use the menu"},{"title":"Intro","path":"intro.html","url":"/intro.html","content":"Tutorial Intro Let's discover Docusaurus in less than 5 minutes . Getting Started Get started by creating a new site . Or try Docusaurus immediately with docusaurus.new . What you'll need Node.js vers"},{"title":"Menu","path":"menu.html","url":"/menu.html","content":"Basics Actions in Combat Reserve Hit Points Classes Arcanist Artificer Elementalist Fighter Invoker Psion Rogue Thaumaturgist Theurgist Equipment Alchemy Armor Blacksmithing Enchanting Weapons Feats F"},{"title":"Class Philosophy","path":"meta/class-philosophy.html","url":"/meta/class-philosophy.html","content":"Overall design philosophy: 5e Classes == good (except wizard) Paths are good, if done right Feats are bad Multiclassing is...a necessary evil? Hopefully not needed, but should be planned for In this s"},{"title":"Heroic Advancement","path":"meta/heroic-advancement.html","url":"/meta/heroic-advancement.html","content":"Alternate Advancement beyond level 10 Paths of talents along these lines: Evolution of Ancestry Higher numbers Magic items Improvement of secondary stats Development of primary stat abilities (not nec"},{"title":"Level 1","path":"meta/level-1.html","url":"/meta/level-1.html","content":"How to balance low level? Easy as ABC. Ancestry, Background, and Class Each grants abilities and at least one item at level 1 In 8.2: Ancestry granted 3 abilities at level 0 and more on the 3/7/11/15/"},{"title":"Magic","path":"meta/magic.html","url":"/meta/magic.html","content":"We're doing magic a little differently. At all costs, we're avoiding the 2 spell/level wizard knowledge approach. Despite keeping the 2 Mana/level mechanic. All magic-using classes, including pure cas"},{"title":"Metamagic","path":"meta/metamagic.html","url":"/meta/metamagic.html","content":"Should all basic metamagic be rolled into basic maneuvers? Especially since there aren't any feats? Basic metamagic: still silent extend enlarge chain widen Things like widen/chain should increase cos"},{"title":"Proficiency","path":"meta/proficiency.html","url":"/meta/proficiency.html","content":"body is undefined for some reason"},{"title":"Chilled","path":"system/conditions/chilled.html","url":"/system/conditions/chilled.html","content":"Chilled A condition wherein extreme cold causes a creature to move slowly. When ''chilled'', subjects movement speed is reduced to half of normal (overlapping any other movement-reducing effects)."},{"title":"Dazed","path":"system/conditions/dazed.html","url":"/system/conditions/dazed.html","content":"Dazed: you can't take actions. You can still take reactions, roll saves, etc. Your AC is unaffected."},{"title":"Feebleminded","path":"system/conditions/feebleminded.html","url":"/system/conditions/feebleminded.html","content":"Feebleminded is a state where a creature's Intelligence is severely weakened. They suffer: Disadvantage to all Intelligence rolls Their power of speech, if present, is reduced to very basic proficienc"},{"title":"Frail","path":"system/conditions/frail.html","url":"/system/conditions/frail.html","content":"In the &quot;Frail&quot; state, a creature's Constitution is severely debilated. Their max HP are reduced to 50% of normal. They suffer disadvantage to all Constitution saving throws. Each round the c"},{"title":"Meek","path":"system/conditions/meek.html","url":"/system/conditions/meek.html","content":"Meek is a state where a creature's Charisma is severely weakened. They suffer: Disadvantage to all Charisma rolls On turn start, if they have suffered any damage, they become demoralized. There is a 5"},{"title":"Paralyzed","path":"system/conditions/paralyzed.html","url":"/system/conditions/paralyzed.html","content":"Paralyzed: you cannot take actions, and automatically fail Str/Dex saves. You collapse into a heap, unable to stand or support yourself. Your AC is reduced from 10 + Dex + armor bonus to 0 + armor bon"},{"title":"Rooted","path":"system/conditions/rooted.html","url":"/system/conditions/rooted.html","content":"Rooted A condition wherein extreme cold causes a creature's feet to freeze to the ground. When ''rooted'', subjects movement speed is reduced to zero. Only works on walking speeds, and only if subject"},{"title":"Stunned","path":"system/conditions/stunned.html","url":"/system/conditions/stunned.html","content":"Stunned: you cannot take actions, including reactions. You lose your Dex bonus to AC. Automatically fail Str and Dex saves."},{"title":"Weakened","path":"system/conditions/weakened.html","url":"/system/conditions/weakened.html","content":"In the Weakened state, creatures suffer: Disadvantage to Strength rolls 50% penalty to damage from Strength attacks Encumbrance TBD (if that's ever implemented)"},{"title":"Minions","path":"system/minions.html","url":"/system/minions.html","content":"A Minion is a creature under the control of another creature. They are assumed to be servile, within reason, depending on the type of control. For instance, a hireling is likely to have limits to the "},{"title":"Kyrin","path":"test/kyrin.html","url":"/test/kyrin.html","content":"Kyrin Lothandrien (early career) Level 5 fighter (eldritch knight) Str 4 Dex 0 Con 3 Int 3 Wis 0 Cha 1 Proficiency +3 HP 50, Str +7 Con +6 Class abilities: Martial weapon proficiency (ftr 1) Fighting "},{"title":"Test","path":"test.html","url":"/test.html","content":"Airships in the Early 20th Century Airships, also known as dirigibles or zeppelins , were lighter-than-air craft that achieved lift through the use of large gas-filled envelopes. They represented a un"}];
+     </script>
+     <script src="/public/search.js"></script>
+     
+</head>
+
+<body data-template-id="default">
+    <nav id="nav-global">
+        <button class="menu-button" aria-label="Menu">☰</button>
+
+        <input id="global-search" type="text" placeholder="Search..." />
+
+        <span class="avatar" aria-hidden="true">👤</span>
+    </nav>
+    <nav id="nav-main">
+        <ul>
+<li data-has-children="true">
+  <a href="/_versions">_versions</a>
+  <ul>
+<li data-has-children="true">
+  <a href="/_versions/8">8</a>
+  <ul>
+<li data-has-children="true">
+  <a href="/_versions/8.0/Gear">Gear</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Gear/Future Tech">Future Tech</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Gear/Starting Equipment">Starting Equipment</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/_versions/8.0/Legacy">Legacy</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Legacy/Legacy (working document)">Legacy (working document)</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Legacy/Legacy">Legacy</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Legacy/index">index</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/_versions/8.0/Powers">Powers</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Powers/Invocation">Invocation</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Powers/Psionics 2">Psionics 2</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Powers/Psionics">Psionics</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Powers/Witchcraft">Witchcraft</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Powers/index">index</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/_versions/8.0/Skills">Skills</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Skills/index">index</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/_versions/8.0/WIP">WIP</a>
+  <ul>
+<li data-has-children="true">
+  <a href="/_versions/8.0/WIP/8">8</a>
+  <ul>
+<li data-has-children="true">
+  <a href="/_versions/8.0/WIP/8.1/Skills">Skills</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Agility">Agility</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Arcana">Arcana</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Concentration">Concentration</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Elementalism">Elementalism</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Fortitude">Fortitude</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Initiative">Initiative</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Investigation">Investigation</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Invocation">Invocation</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Melee">Melee</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Persuasion">Persuasion</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Psionics">Psionics</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Ranged">Ranged</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Spellcraft">Spellcraft</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Stealth">Stealth</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Thaumaturgy">Thaumaturgy</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills/Willpower">Willpower</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Classes">Classes</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Mana and Metamagic">Mana and Metamagic</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1/Skills">Skills</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/WIP/8.1">8.1</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Basics v2">Basics v2</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Basics">Basics</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/CHANGELOG">CHANGELOG</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Feats">Feats</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/Wounds">Wounds</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/index">index</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/legends">legends</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/menu">menu</a>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/8.0/style">style</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="false">
+  <a href="/_versions/.DS_Store">.DS_Store</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/character">character</a>
+  <ul>
+<li data-has-children="true">
+  <a href="/character/basics">basics</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/character/basics/Actions in Combat">Actions in Combat</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/basics/actions-in-combat">actions-in-combat</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/basics/index">index</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/basics/reserve-hit-points">reserve-hit-points</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/character/classes">classes</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/character/classes/Arcanist">Arcanist</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/classes/Artificer">Artificer</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/classes/Elementalist">Elementalist</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/classes/Fighter">Fighter</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/classes/Invoker">Invoker</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/classes/Psion">Psion</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/classes/Rogue">Rogue</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/classes/Thaumaturgist">Thaumaturgist</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/classes/Theurgist">Theurgist</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/classes/index">index</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/classes/monk">monk</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/character/equipment">equipment</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/character/equipment/Weapons">Weapons</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/equipment/alchemy">alchemy</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/equipment/armor">armor</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/equipment/blacksmithing">blacksmithing</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/equipment/enchanting">enchanting</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/equipment/inscription">inscription</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/character/feats">feats</a>
+  <ul>
+<li data-has-children="true">
+  <a href="/character/feats/invoker">invoker</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/armor-of-darkness">armor-of-darkness</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/cloak-of-shadows">cloak-of-shadows</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/devil-trigger">devil-trigger</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/devilsight">devilsight</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/dissolution">dissolution</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/enchanted-voice">enchanted-voice</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/fey-step">fey-step</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/fiendish-endurance">fiendish-endurance</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/flame-spawned">flame-spawned</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/glamour">glamour</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/hellish-rebuke">hellish-rebuke</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/infernal-flight">infernal-flight</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/infernal-wings">infernal-wings</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/revelry">revelry</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/shadow-double">shadow-double</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/shadow-jump">shadow-jump</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/shadow-walk">shadow-walk</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/summon-sprite">summon-sprite</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/invoker/veil">veil</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/character/feats/psion">psion</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/character/feats/psion/adaptation">adaptation</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/blindsense">blindsense</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/blindsight">blindsight</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/camouflage">camouflage</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/combat-precognition">combat-precognition</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/dimension-shift">dimension-shift</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/empathic-feedback">empathic-feedback</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/flight">flight</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/incarnate">incarnate</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/iron-fist">iron-fist</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/levitation">levitation</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/mark-recall">mark-recall</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/metaphysical-weapon">metaphysical-weapon</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/momentum-control">momentum-control</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/phase-shift-incorporeal">phase-shift-incorporeal</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/phase-shift">phase-shift</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/speed-of-thought">speed-of-thought</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/super-flight">super-flight</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/synaethesia">synaethesia</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/temporal-acceleration">temporal-acceleration</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/thick-skin">thick-skin</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/tower-of-iron-will">tower-of-iron-will</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/ultra-flight">ultra-flight</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/feats/psion/x-ray-vision">x-ray-vision</a>
+</li>
+  </ul>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/character/foundation">foundation</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/character/foundation/foundation">foundation</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/foundation/tiefling">tiefling</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/character/paths">paths</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/character/paths/Eldritch Knight">Eldritch Knight</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/paths/Paladin">Paladin</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/paths/eldritch-knight">eldritch-knight</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/character/powers">powers</a>
+  <ul>
+<li data-has-children="true">
+  <a href="/character/powers/artificer">artificer</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/character/powers/artificer/_category_">_category_</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/artificer/lightning-rod">lightning-rod</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/character/powers/invoker">invoker</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/_category_">_category_</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/color">color</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/corruption">corruption</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/darkness">darkness</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/fear">fear</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/hellfire">hellfire</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/jubilation">jubilation</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/madness">madness</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/name-tbd">name-tbd</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/pain">pain</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/shadowstuff">shadowstuff</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/star-of-the-void">star-of-the-void</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/temptation">temptation</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/the-airborne">the-airborne</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/the-host">the-host</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/the-hunter">the-hunter</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/the-master">the-master</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/the-ride">the-ride</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/the-seducer">the-seducer</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/the-trickster">the-trickster</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/the-unknown">the-unknown</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/the-warrior">the-warrior</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/the-wrecking-ball">the-wrecking-ball</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/invoker/wonder">wonder</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/character/powers/psion">psion</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/character/powers/psion/_category_">_category_</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/adaptation">adaptation</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/astral-construct">astral-construct</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/astral-seed">astral-seed</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/camouflage">camouflage</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/catapsi">catapsi</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/cryokinesis">cryokinesis</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/dimension-shift">dimension-shift</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/electrokinesis">electrokinesis</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/empathy">empathy</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/extra-sensory-perception">extra-sensory-perception</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/fission">fission</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/flight">flight</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/gravity">gravity</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/hard-light">hard-light</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/incarnate">incarnate</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/inception">inception</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/iron-body">iron-body</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/iron-fist">iron-fist</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/levitation">levitation</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/mark-recall">mark-recall</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/metamorphosis">metamorphosis</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/metaphysical-weapon">metaphysical-weapon</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/mind-control">mind-control</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/mind-reading-probing-memory-alteration">mind-reading-probing-memory-alteration</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/mind-reading">mind-reading</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/mindlink">mindlink</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/object-reading">object-reading</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/object-repair">object-repair</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/phase-shift-incorporeal">phase-shift-incorporeal</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/phase-shift">phase-shift</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/photokinesis">photokinesis</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/portal">portal</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/precognition">precognition</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/probability-analysis">probability-analysis</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/prognostication">prognostication</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/psychic-assault">psychic-assault</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/pyrokinesis">pyrokinesis</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/schism">schism</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/sensitivity-to-psychic-impressions">sensitivity-to-psychic-impressions</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/speed-of-thought">speed-of-thought</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/super-flight">super-flight</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/synaethesia">synaethesia</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/telekinesis">telekinesis</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/temporal-acceleration">temporal-acceleration</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/thick-skin">thick-skin</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/time-warp">time-warp</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/tower-of-iron-will">tower-of-iron-will</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/ultra-flight">ultra-flight</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/warp-bubble">warp-bubble</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/psion/wholeness-of-body">wholeness-of-body</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/character/powers/thaumaturgist">thaumaturgist</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/Blood Bond">Blood Bond</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/Death Touch">Death Touch</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/Fingers of Frost">Fingers of Frost</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/Green Thumb">Green Thumb</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/_category_">_category_</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/absorb-magic">absorb-magic</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/animate-object">animate-object</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/antimagic-zone">antimagic-zone</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/blood-bending">blood-bending</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/blood-boil">blood-boil</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/blood-bond">blood-bond</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/commandeer-spell">commandeer-spell</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/corpse-explosion">corpse-explosion</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/curse">curse</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/death-pact">death-pact</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/defile">defile</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/doll">doll</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/doom">doom</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/drain-soul">drain-soul</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/exsanguinate">exsanguinate</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/finger-of-death">finger-of-death</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/fingers-of-frost">fingers-of-frost</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/frozen-blood">frozen-blood</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/green-thumb">green-thumb</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/hasten-death">hasten-death</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/ironguard">ironguard</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/kiss-of-death">kiss-of-death</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/magic-missile">magic-missile</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/malediction">malediction</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/necrosis">necrosis</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/negation">negation</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/possession">possession</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/reanimate">reanimate</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/soul-prison">soul-prison</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/soul-sunder">soul-sunder</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/soulgaze">soulgaze</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/touch-of-the-grave">touch-of-the-grave</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/transform-object">transform-object</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/thaumaturgist/transfusion">transfusion</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/_category_">_category_</a>
+</li>
+<li data-has-children="false">
+  <a href="/character/powers/magic-missile">magic-missile</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/character/skills">skills</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/character/skills/index">index</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="false">
+  <a href="/character/index">index</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/img">img</a>
+  <ul>
+<li data-has-children="true">
+  <a href="/img/character">character</a>
+  <ul>
+<li data-has-children="true">
+  <a href="/img/character/classes">classes</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/img/character/classes/artificer">artificer</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/elementalist 2">elementalist 2</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/elementalist">elementalist</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/fighter">fighter</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/invoker">invoker</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/mage">mage</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/monk">monk</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/mystic">mystic</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/psion-b">psion-b</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/psion">psion</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/rogue">rogue</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/thaumaturgist">thaumaturgist</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/warrior">warrior</a>
+</li>
+<li data-has-children="false">
+  <a href="/img/character/classes/witch">witch</a>
+</li>
+  </ul>
+</li>
+  </ul>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/meta">meta</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/meta/class-philosophy">class-philosophy</a>
+</li>
+<li data-has-children="false">
+  <a href="/meta/heroic-advancement">heroic-advancement</a>
+</li>
+<li data-has-children="false">
+  <a href="/meta/level-1">level-1</a>
+</li>
+<li data-has-children="false">
+  <a href="/meta/magic">magic</a>
+</li>
+<li data-has-children="false">
+  <a href="/meta/metamagic">metamagic</a>
+</li>
+<li data-has-children="false">
+  <a href="/meta/proficiency">proficiency</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/system">system</a>
+  <ul>
+<li data-has-children="true">
+  <a href="/system/conditions">conditions</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/system/conditions/chilled">chilled</a>
+</li>
+<li data-has-children="false">
+  <a href="/system/conditions/dazed">dazed</a>
+</li>
+<li data-has-children="false">
+  <a href="/system/conditions/feebleminded">feebleminded</a>
+</li>
+<li data-has-children="false">
+  <a href="/system/conditions/frail">frail</a>
+</li>
+<li data-has-children="false">
+  <a href="/system/conditions/meek">meek</a>
+</li>
+<li data-has-children="false">
+  <a href="/system/conditions/paralyzed">paralyzed</a>
+</li>
+<li data-has-children="false">
+  <a href="/system/conditions/rooted">rooted</a>
+</li>
+<li data-has-children="false">
+  <a href="/system/conditions/stunned">stunned</a>
+</li>
+<li data-has-children="false">
+  <a href="/system/conditions/weakened">weakened</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="false">
+  <a href="/system/minions">minions</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="true">
+  <a href="/test">test</a>
+  <ul>
+<li data-has-children="false">
+  <a href="/test/kyrin">kyrin</a>
+</li>
+  </ul>
+</li>
+<li data-has-children="false">
+  <a href="/.DS_Store">.DS_Store</a>
+</li>
+<li data-has-children="false">
+  <a href="/index">index</a>
+</li>
+<li data-has-children="false">
+  <a href="/intro">intro</a>
+</li>
+<li data-has-children="false">
+  <a href="/menu">menu</a>
+</li>
+<li data-has-children="false">
+  <a href="/style-ursa">style-ursa</a>
+</li>
+<li data-has-children="false">
+  <a href="/style">style</a>
+</li>
+<li data-has-children="false">
+  <a href="/test">test</a>
+</li></ul>
+    </nav>
+    <nav id="nav-toc">
+        <!-- TOC will be generated by JavaScript -->
+    </nav>
+    <article id="main-content">
+        <h1>Combat Precognition</h1>
+<p>Gain +Wis to AC, more Dodge attempts</p>
+
+    </article>
+    <div id="global-nav">
+    </div>
+
+    <script src="/public/toc.js"></script>
+    <script src="/public/toc-generator.js"></script>
+    <script src="/public/menu.js"></script>
+    <script src="/public/sectionify.js"></script>
+    <script src="/public/sticky.js"></script>
+</body>
+
+</html>

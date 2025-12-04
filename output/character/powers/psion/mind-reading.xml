@@ -1,0 +1,69 @@
+<article><name>mind-reading</name>
+<contents>---
+class: Psion
+name: Mind Reading
+title: Mind Reading
+school: Telepathy
+rank: 1
+type: Utility
+brief: Read minds.
+---
+
+# Mind Reading
+
+# Detect Minds
+- Detect Minds: at-will, swift, cone 5, concentration, requires Focus; while you concentrate, you sense the presence of minds in the area, regardless of cover or concealment. You must close your eyes while using this sense, as otherwise the psychic sense is drowned out by your visual stimulus. As soon as you use this ability, you can detect the presence or absensce of thinking minds in the area (besides your own). If you spend a standard action to focus on the area, you can detect the number of minds, and their relative intelligence (animal, human, superhuman). If you spend another standard action on the same area, you can pinpoint the location of each mind.
+
+At rank 2:
+- Can be used in an emanation 5
+- You detect the number of minds immediately, without spending a std action
+
+At rank 3:
+- You don't need to close your eyes
+- Emanation 10
+
+# Read Thoughts
+- Read Thoughts: see [Detect Thoughts](https://roll20.net/compendium/dnd5e/Detect%20Thoughts#content) in 5e.
+
+
+
+
+
+# Feats
+- [Mindsight](#): You can activate or deactivate Detect Minds as a free action, without concentration.</contents>
+<bodyHtml>
+&lt;h1&gt;Mind Reading&lt;/h1&gt;
+&lt;h1&gt;Detect Minds&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Detect Minds: at-will, swift, cone 5, concentration, requires Focus; while you concentrate, you sense the presence of minds in the area, regardless of cover or concealment. You must close your eyes while using this sense, as otherwise the psychic sense is drowned out by your visual stimulus. As soon as you use this ability, you can detect the presence or absensce of thinking minds in the area (besides your own). If you spend a standard action to focus on the area, you can detect the number of minds, and their relative intelligence (animal, human, superhuman). If you spend another standard action on the same area, you can pinpoint the location of each mind.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At rank 2:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Can be used in an emanation 5&lt;/li&gt;
+&lt;li&gt;You detect the number of minds immediately, without spending a std action&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At rank 3:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You don't need to close your eyes&lt;/li&gt;
+&lt;li&gt;Emanation 10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Read Thoughts&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Read Thoughts: see &lt;a href=&#34;https://roll20.net/compendium/dnd5e/Detect%20Thoughts#content&#34;&gt;Detect Thoughts&lt;/a&gt; in 5e.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Feats&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Mindsight&lt;/a&gt;: You can activate or deactivate Detect Minds as a free action, without concentration.&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata>
+  <class>Psion</class>
+  <name>Mind Reading</name>
+  <title>Mind Reading</title>
+  <school>Telepathy</school>
+  <rank>1</rank>
+  <type>Utility</type>
+  <brief>Read minds.</brief>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

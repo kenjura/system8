@@ -1,0 +1,39 @@
+<article><name>index</name>
+<contents>---
+sidebar_label: Character Creation
+sidebar_position: 1
+---
+Welcome to character creation!
+
+How to build a character:
+- In no particular order...
+  - Choose a [Class](./classes/)
+  - Configure your [Foundation](./foundation/)
+  - etc...
+
+
+How to play a character:
+- Become familiar with the [Basics](./basics/).</contents>
+<bodyHtml>
+&lt;p&gt;Welcome to character creation!&lt;/p&gt;
+&lt;p&gt;How to build a character:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In no particular order...
+&lt;ul&gt;
+&lt;li&gt;Choose a &lt;a href=&#34;./classes/&#34;&gt;Class&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Configure your &lt;a href=&#34;./foundation/&#34;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;etc...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;How to play a character:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Become familiar with the &lt;a href=&#34;./basics/&#34;&gt;Basics&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata>
+  <sidebar_label>Character Creation</sidebar_label>
+  <sidebar_position>1</sidebar_position>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

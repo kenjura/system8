@@ -1,0 +1,428 @@
+<article><name>Psionics</name>
+<contents># Psion
+
+Each level, choose one psionic power, or a psionic talent.
+
+You do not have spell slots or Mana. Instead, you have Focus:
+- Min value: 0
+- Max value: 1/2 Psion level + Wis
+- Gain by:
+  - Meditating during short rest
+  - Meditate action: at-will, std; you regain 1d3 points of Focus.
+  - Certain talents
+- Spend by:
+  - Manifesting psychic power (spend 1 Focus when manifested regardless of duration, unless otherwise noted in power description)
+
+# Alt Focus Idea
+You have several levels of Focus (big, medium, small), each having a correspondingly different effect on the slotted power.
+
+
+
+# Powers
+
+# Autokinesis
+- [Absorb Force](): At-will, reaction to incoming kinetic damage; you absorb up to a medium damage roll, suffering the rest (if any). Tally all damage absorbed; it can be added as you choose to your own kinetic attacks.
+- [Rocket Punch](): At-will, 
+
+Min Level | Discipline       | Power                | Description
+----------|------------------|----------------------|------------
+1         | Biometabolism    | Healing Hands        | At-will, std, touch; subject is healed for medium damage, but suffers 2 temporary Con damage.
+1         | Biometabolism    | Camouflage           | At-will, swift, conc; gain advantage to Stealth checks, and your identity cannot be determined.
+3         | Biometabolism    | Invisibility         | At-will, swift, conc; invisible while still, +20 to Stealth otherwise, breaks on attack or damage.
+1         | Psychokinesis    | Telekinesis          | At-will, swift, conc, ranged; grab an item you could lift if your Cha were Str. Thereafter, std action to move, slide 5, or push 5 plus medium damage, the latter ending the effect.
+1         | Psychokinesis    | Absorb Force         | At-will, reaction; absorb up to medium damage from incoming kinetic attack. Tally all damage absorbed; you can add any or all of this damage to a kinetic attack within the encounter.
+1         | Psychoportation  | Blink                | Recharge 33%, move; you instantly move up to your movement speed. Not teleportation; it must be possible to traverse the distance without this effect, although gravity does not apply, and movement does not provoke.
+1         | Psychoportation  | Hex Portal           | At-will, swift, conc; portal in your square is linked to a movable portal within range.
+5         | Psychoportation  | Dimension Door       | Encounter, swift, conc; portal within range leads to another portal within 1 mile/level.
+5         | Psychoportation  | Recall               | Encounter, reaction; you reset your state (all attributes, position, etc) to that of the beginning of the current round, although the effects of your actions are not undone.
+9         | Psychoportation  | Sling Ring           | Encounter, std, conc, 2 Int strain; portal leads to anywhere on the same planet.
+9         | Psychoportation  | Warp Bubble          | Encounter, reaction, centered circle 0-3, concentration; all ranged attacks crossing the bubble are redirected to a random outward direction. Crossing through the bubble requires a Strength check against your DC (fail: cannot cross; success: effect ends).
+
+
+# To Do
+
+## More Biometabolism
+- Ectoplasmic Form
+- metamorphosis
+- fusion/fission
+
+## Astral Constructs
+## Temporal Manipulation
+## Disruption
+
+Mess with chemical and molecular properties (disintegrate, transmutation, etc). Possibly reversible, to repair objects.
+
+## Hypercognition
+
+## Medium
+- Contact Spirits: speak with spirits, gain their knowledge, find allies to summon
+- Vessel: take a spirit into yourself, gaining abilities
+- Awaken Spirits: conjure spiritual creatures to your aid
+
+
+## Telepath
+- Mindlink: psychic communication
+- Suggestion: compel the weak-minded to do as you say
+- Empathy: manipulate and project emotions
+
+### Defenses
+* [Ablative Mind](): waste incomign mental effects on tiny, discarded shards of your intellect. TBD
+* [Mind Trap](): trap invading mind in a prison of your own creation. TBD
+* [Tower of Iron Will](): Reaction, 3 Energy, centered circle 1-3; you and others within radius are immune to incoming mental attack if you defeat its DC with a proficient Charisma check. Sustainable for 3 Energy/rd.
+* [Intellect Fortress](): Psychic defense mode where you construct metaphysical defenses (thick walls, traps, sentries).
+
+
+## Hypercognition
+
+Think REALLY fast. Examples:
+- &#34;Pause&#34; the universe while you figure out a plan (mechanics: maybe &#34;ready an action&#34; without explicitly readying)
+- Days of study in minutes (learn Kung Fu)
+- Many purely mental actions in an instant (probably useful for Astral Constructs)
+
+
+## Psychic Chirurgery
+
+Given a helpless target, you delve into their mind.
+
+- Detect and repair psychic intrusion and damage
+- Restore deleted/suppressed/modified memories (or do the damage yourself)
+- Alter fundamental identity (dangerous)
+- Swap minds (high level)
+
+
+
+
+# Talents
+
+# Psychic Warrior
+Min Level | Talent                | Description
+----------|-----------------------|------------
+1         | Kinetic Armor         | Reserve 1 Focus; gain Armor modifier equal to half Psicraft bonus.
+5         | Greater Kinetic Armor | Reserve 2 Focus; gain Armor modifier equal to Psicraft bonus.
+1         | Fleet of Foot         | Gain +3 movement.
+1         | Iron Fist             | Unarmed strike inflicts medium lethal kinetic damage and counts as &#34;armed&#34;.
+1         | Offensive Precognition | Reserve 1 Focus; gain +2 to attacks and +1 to critical threat range. Stackable.
+1         | Defensive Precognition | Reserve 1 Focus; gain +2 to all defense checks.
+3         | Kinetic Charge        | Reserve 1 Focus; held weapon is charged with psychic power, gaining the Force descriptor and a bonus damage die.
+5         | Astral Weapon         | You can manifest an astral construct of a weapon you're proficient with for free as a swift action.
+
+# Power-Enhancing
+Min Level | Discipline     | Talent               | Description
+----------|----------------|----------------------|------------
+3         | Biometabolism  | Purifying Touch      | Your **Healing Hands** can remove a disease or poison effect. You must beat the DC with your Psicraft check; on failure, the effect is not removed, but the subject does not suffer Con damage.
+1         | Psychokinesis  | Telekinetic Swarm    | Your **Telekinesis** can affect a swarm of objects meeting the same mass requirements.
+1         | Psychokinesis  | Focused Absorption   | Your **Absorb Force** can be used once per round per Int bonus without consuming your reaction.
+1         | Psychokinesis  | Absorb Fall          | You can use **Absorb Force** to absorb falling damage.
+5         | Psychokinesis  | Greater Absorption   | Your **Absorb Force** absorbs heavy damage.
+5         | Psychokinesis  | Kinetic Capacity     | Your **Telekinesis** counts as a creature one size larger.
+9         | Psychokinesis  | Kinetic Capacity II  | Your **Telekinesis** counts as a creature two sizes larger.
+13        | Psychokinesis  | Kinetic Capacity III  | Your **Telekinesis** counts as a creature three sizes larger.
+
+
+
+
+
+
+
+# Scratch Page
+
+
+# Focus Replacement
+Replace Concentration with three slots: Body, Mind, Spirit.
+
+Major external powers should cost something else...
+
+
+Alternate: one slot each for Int, Wis, Cha. Psywars add their physical stats. Example:
+
+Int:
+
+Wis:
+- Blindsense
+- Precognition (used for reactions, improved initiative)
+- Detect Psionics
+
+Cha:
+-  </contents>
+<bodyHtml>&lt;h1&gt;Psion&lt;/h1&gt;
+&lt;p&gt;Each level, choose one psionic power, or a psionic talent.&lt;/p&gt;
+&lt;p&gt;You do not have spell slots or Mana. Instead, you have Focus:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Min value: 0&lt;/li&gt;
+&lt;li&gt;Max value: 1/2 Psion level + Wis&lt;/li&gt;
+&lt;li&gt;Gain by:
+&lt;ul&gt;
+&lt;li&gt;Meditating during short rest&lt;/li&gt;
+&lt;li&gt;Meditate action: at-will, std; you regain 1d3 points of Focus.&lt;/li&gt;
+&lt;li&gt;Certain talents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Spend by:
+&lt;ul&gt;
+&lt;li&gt;Manifesting psychic power (spend 1 Focus when manifested regardless of duration, unless otherwise noted in power description)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Alt Focus Idea&lt;/h1&gt;
+&lt;p&gt;You have several levels of Focus (big, medium, small), each having a correspondingly different effect on the slotted power.&lt;/p&gt;
+&lt;h1&gt;Powers&lt;/h1&gt;
+&lt;h1&gt;Autokinesis&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Absorb Force&lt;/a&gt;: At-will, reaction to incoming kinetic damage; you absorb up to a medium damage roll, suffering the rest (if any). Tally all damage absorbed; it can be added as you choose to your own kinetic attacks.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Rocket Punch&lt;/a&gt;: At-will,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Min Level&lt;/th&gt;
+&lt;th&gt;Discipline&lt;/th&gt;
+&lt;th&gt;Power&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Biometabolism&lt;/td&gt;
+&lt;td&gt;Healing Hands&lt;/td&gt;
+&lt;td&gt;At-will, std, touch; subject is healed for medium damage, but suffers 2 temporary Con damage.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Biometabolism&lt;/td&gt;
+&lt;td&gt;Camouflage&lt;/td&gt;
+&lt;td&gt;At-will, swift, conc; gain advantage to Stealth checks, and your identity cannot be determined.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Biometabolism&lt;/td&gt;
+&lt;td&gt;Invisibility&lt;/td&gt;
+&lt;td&gt;At-will, swift, conc; invisible while still, +20 to Stealth otherwise, breaks on attack or damage.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Psychokinesis&lt;/td&gt;
+&lt;td&gt;Telekinesis&lt;/td&gt;
+&lt;td&gt;At-will, swift, conc, ranged; grab an item you could lift if your Cha were Str. Thereafter, std action to move, slide 5, or push 5 plus medium damage, the latter ending the effect.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Psychokinesis&lt;/td&gt;
+&lt;td&gt;Absorb Force&lt;/td&gt;
+&lt;td&gt;At-will, reaction; absorb up to medium damage from incoming kinetic attack. Tally all damage absorbed; you can add any or all of this damage to a kinetic attack within the encounter.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Psychoportation&lt;/td&gt;
+&lt;td&gt;Blink&lt;/td&gt;
+&lt;td&gt;Recharge 33%, move; you instantly move up to your movement speed. Not teleportation; it must be possible to traverse the distance without this effect, although gravity does not apply, and movement does not provoke.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Psychoportation&lt;/td&gt;
+&lt;td&gt;Hex Portal&lt;/td&gt;
+&lt;td&gt;At-will, swift, conc; portal in your square is linked to a movable portal within range.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Psychoportation&lt;/td&gt;
+&lt;td&gt;Dimension Door&lt;/td&gt;
+&lt;td&gt;Encounter, swift, conc; portal within range leads to another portal within 1 mile/level.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Psychoportation&lt;/td&gt;
+&lt;td&gt;Recall&lt;/td&gt;
+&lt;td&gt;Encounter, reaction; you reset your state (all attributes, position, etc) to that of the beginning of the current round, although the effects of your actions are not undone.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Psychoportation&lt;/td&gt;
+&lt;td&gt;Sling Ring&lt;/td&gt;
+&lt;td&gt;Encounter, std, conc, 2 Int strain; portal leads to anywhere on the same planet.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Psychoportation&lt;/td&gt;
+&lt;td&gt;Warp Bubble&lt;/td&gt;
+&lt;td&gt;Encounter, reaction, centered circle 0-3, concentration; all ranged attacks crossing the bubble are redirected to a random outward direction. Crossing through the bubble requires a Strength check against your DC (fail: cannot cross; success: effect ends).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;To Do&lt;/h1&gt;
+&lt;h2&gt;More Biometabolism&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ectoplasmic Form&lt;/li&gt;
+&lt;li&gt;metamorphosis&lt;/li&gt;
+&lt;li&gt;fusion/fission&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Astral Constructs&lt;/h2&gt;
+&lt;h2&gt;Temporal Manipulation&lt;/h2&gt;
+&lt;h2&gt;Disruption&lt;/h2&gt;
+&lt;p&gt;Mess with chemical and molecular properties (disintegrate, transmutation, etc). Possibly reversible, to repair objects.&lt;/p&gt;
+&lt;h2&gt;Hypercognition&lt;/h2&gt;
+&lt;h2&gt;Medium&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Contact Spirits: speak with spirits, gain their knowledge, find allies to summon&lt;/li&gt;
+&lt;li&gt;Vessel: take a spirit into yourself, gaining abilities&lt;/li&gt;
+&lt;li&gt;Awaken Spirits: conjure spiritual creatures to your aid&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Telepath&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mindlink: psychic communication&lt;/li&gt;
+&lt;li&gt;Suggestion: compel the weak-minded to do as you say&lt;/li&gt;
+&lt;li&gt;Empathy: manipulate and project emotions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Defenses&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Ablative Mind&lt;/a&gt;: waste incomign mental effects on tiny, discarded shards of your intellect. TBD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Mind Trap&lt;/a&gt;: trap invading mind in a prison of your own creation. TBD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Tower of Iron Will&lt;/a&gt;: Reaction, 3 Energy, centered circle 1-3; you and others within radius are immune to incoming mental attack if you defeat its DC with a proficient Charisma check. Sustainable for 3 Energy/rd.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Intellect Fortress&lt;/a&gt;: Psychic defense mode where you construct metaphysical defenses (thick walls, traps, sentries).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hypercognition&lt;/h2&gt;
+&lt;p&gt;Think REALLY fast. Examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;quot;Pause&amp;quot; the universe while you figure out a plan (mechanics: maybe &amp;quot;ready an action&amp;quot; without explicitly readying)&lt;/li&gt;
+&lt;li&gt;Days of study in minutes (learn Kung Fu)&lt;/li&gt;
+&lt;li&gt;Many purely mental actions in an instant (probably useful for Astral Constructs)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Psychic Chirurgery&lt;/h2&gt;
+&lt;p&gt;Given a helpless target, you delve into their mind.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Detect and repair psychic intrusion and damage&lt;/li&gt;
+&lt;li&gt;Restore deleted/suppressed/modified memories (or do the damage yourself)&lt;/li&gt;
+&lt;li&gt;Alter fundamental identity (dangerous)&lt;/li&gt;
+&lt;li&gt;Swap minds (high level)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Talents&lt;/h1&gt;
+&lt;h1&gt;Psychic Warrior&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Min Level&lt;/th&gt;
+&lt;th&gt;Talent&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Kinetic Armor&lt;/td&gt;
+&lt;td&gt;Reserve 1 Focus; gain Armor modifier equal to half Psicraft bonus.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Greater Kinetic Armor&lt;/td&gt;
+&lt;td&gt;Reserve 2 Focus; gain Armor modifier equal to Psicraft bonus.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Fleet of Foot&lt;/td&gt;
+&lt;td&gt;Gain +3 movement.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Iron Fist&lt;/td&gt;
+&lt;td&gt;Unarmed strike inflicts medium lethal kinetic damage and counts as &amp;quot;armed&amp;quot;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Offensive Precognition&lt;/td&gt;
+&lt;td&gt;Reserve 1 Focus; gain +2 to attacks and +1 to critical threat range. Stackable.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Defensive Precognition&lt;/td&gt;
+&lt;td&gt;Reserve 1 Focus; gain +2 to all defense checks.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Kinetic Charge&lt;/td&gt;
+&lt;td&gt;Reserve 1 Focus; held weapon is charged with psychic power, gaining the Force descriptor and a bonus damage die.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Astral Weapon&lt;/td&gt;
+&lt;td&gt;You can manifest an astral construct of a weapon you're proficient with for free as a swift action.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Power-Enhancing&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Min Level&lt;/th&gt;
+&lt;th&gt;Discipline&lt;/th&gt;
+&lt;th&gt;Talent&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Biometabolism&lt;/td&gt;
+&lt;td&gt;Purifying Touch&lt;/td&gt;
+&lt;td&gt;Your &lt;strong&gt;Healing Hands&lt;/strong&gt; can remove a disease or poison effect. You must beat the DC with your Psicraft check; on failure, the effect is not removed, but the subject does not suffer Con damage.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Psychokinesis&lt;/td&gt;
+&lt;td&gt;Telekinetic Swarm&lt;/td&gt;
+&lt;td&gt;Your &lt;strong&gt;Telekinesis&lt;/strong&gt; can affect a swarm of objects meeting the same mass requirements.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Psychokinesis&lt;/td&gt;
+&lt;td&gt;Focused Absorption&lt;/td&gt;
+&lt;td&gt;Your &lt;strong&gt;Absorb Force&lt;/strong&gt; can be used once per round per Int bonus without consuming your reaction.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Psychokinesis&lt;/td&gt;
+&lt;td&gt;Absorb Fall&lt;/td&gt;
+&lt;td&gt;You can use &lt;strong&gt;Absorb Force&lt;/strong&gt; to absorb falling damage.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Psychokinesis&lt;/td&gt;
+&lt;td&gt;Greater Absorption&lt;/td&gt;
+&lt;td&gt;Your &lt;strong&gt;Absorb Force&lt;/strong&gt; absorbs heavy damage.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Psychokinesis&lt;/td&gt;
+&lt;td&gt;Kinetic Capacity&lt;/td&gt;
+&lt;td&gt;Your &lt;strong&gt;Telekinesis&lt;/strong&gt; counts as a creature one size larger.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Psychokinesis&lt;/td&gt;
+&lt;td&gt;Kinetic Capacity II&lt;/td&gt;
+&lt;td&gt;Your &lt;strong&gt;Telekinesis&lt;/strong&gt; counts as a creature two sizes larger.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;Psychokinesis&lt;/td&gt;
+&lt;td&gt;Kinetic Capacity III&lt;/td&gt;
+&lt;td&gt;Your &lt;strong&gt;Telekinesis&lt;/strong&gt; counts as a creature three sizes larger.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Scratch Page&lt;/h1&gt;
+&lt;h1&gt;Focus Replacement&lt;/h1&gt;
+&lt;p&gt;Replace Concentration with three slots: Body, Mind, Spirit.&lt;/p&gt;
+&lt;p&gt;Major external powers should cost something else...&lt;/p&gt;
+&lt;p&gt;Alternate: one slot each for Int, Wis, Cha. Psywars add their physical stats. Example:&lt;/p&gt;
+&lt;p&gt;Int:&lt;/p&gt;
+&lt;p&gt;Wis:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blindsense&lt;/li&gt;
+&lt;li&gt;Precognition (used for reactions, improved initiative)&lt;/li&gt;
+&lt;li&gt;Detect Psionics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Cha:&lt;/h2&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

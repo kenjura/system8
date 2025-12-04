@@ -1,0 +1,22 @@
+<article><name>armor-of-darkness</name>
+<contents>---
+pact: shadow
+name: Armor of Darkness
+description: Gain AC and concealment in darkness
+---
+
+# Armor of Darkness
+
+Gain AC and concealment in darkness
+</contents>
+<bodyHtml>
+&lt;h1&gt;Armor of Darkness&lt;/h1&gt;
+&lt;p&gt;Gain AC and concealment in darkness&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <pact>shadow</pact>
+  <name>Armor of Darkness</name>
+  <description>Gain AC and concealment in darkness</description>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

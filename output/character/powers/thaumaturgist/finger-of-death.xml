@@ -1,0 +1,20 @@
+<article><name>finger-of-death</name>
+<contents>---
+class: Touch of the Grave
+name: Finger of Death
+school: Death
+rank: 3
+---
+
+At-will, std, ranged, 3 Mana; subject's heart stops and they immediately begin to die, entering the Dying state if they fail a Con save (on success, heavy necrotic damage and no further debilitations). Follow normal rules for Dying, except that they do not automatically fail death saves due to damage until their Hit Points have been reduced to zero.</contents>
+<bodyHtml>
+&lt;p&gt;At-will, std, ranged, 3 Mana; subject's heart stops and they immediately begin to die, entering the Dying state if they fail a Con save (on success, heavy necrotic damage and no further debilitations). Follow normal rules for Dying, except that they do not automatically fail death saves due to damage until their Hit Points have been reduced to zero.&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <class>Touch of the Grave</class>
+  <name>Finger of Death</name>
+  <school>Death</school>
+  <rank>3</rank>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

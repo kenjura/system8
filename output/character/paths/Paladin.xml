@@ -1,0 +1,177 @@
+<article><name>Paladin</name>
+<contents>
+Attribute         | Value
+------------------|-----
+Mana              | 1 per level
+
+Level | Special Ability
+----- | ---------------
+1     | Holy Smite, Oathkeeper
+2     | Sin Sight, Lay on Hands
+3     | Aura
+4     | Holy Light
+5     | 
+6     | 
+7     | 
+
+
+
+
+# Holy Smite
+
+* [Holy Smite](#): at-will, std, 1 mana; normal weapon damage plus heavy radiant damage.
+
+Other variants can be learned later, like:
+* Stunning Smite
+* Anti-magic Smite
+* Blazing Smite
+
+etc...
+
+
+# Oathkeeper
+
+Each Oath is optional. You don't have to take any of them. Each of them comes with substantial roleplaying limitations and associated benefits.
+
+Vow      | Limitations | Benefit
+---------|-------------|--------
+Purity | No drugs, no sex, nothing fun. | Resist poison and disease.
+Protection | Must not ever allow innocents to come to harm, even in the face of overwhelming force. | Defensive bonuses
+Courage | Must never flee from battle, turn down a righteous quest, etc | Immune to fear
+
+etc...
+
+
+# Sin Sight
+
+You can detect extraplanar creatures, undead, and other creatures with an inherently magical nature.
+
+When looking at mortals, you can see the weight of their sins upon them.
+
+
+# Aura
+
+* [Aura of Menace](#): evildoers are afraid of you.
+* [Aura of Protection](#): allies gain bonuses to defense.
+* [Aura of Zeal](#): move faster.
+
+etc...
+
+(not at-will; you have to spend mana, but the effects are strong)
+
+
+
+# Holy Light
+
+- At-will, std, ranged, 1 Mana; heavy radiant damage or healing.</contents>
+<bodyHtml>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Attribute&lt;/th&gt;
+&lt;th&gt;Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mana&lt;/td&gt;
+&lt;td&gt;1 per level&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Special Ability&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Holy Smite, Oathkeeper&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Sin Sight, Lay on Hands&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Aura&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Holy Light&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Holy Smite&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Holy Smite&lt;/a&gt;: at-will, std, 1 mana; normal weapon damage plus heavy radiant damage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Other variants can be learned later, like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stunning Smite&lt;/li&gt;
+&lt;li&gt;Anti-magic Smite&lt;/li&gt;
+&lt;li&gt;Blazing Smite&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;etc...&lt;/p&gt;
+&lt;h1&gt;Oathkeeper&lt;/h1&gt;
+&lt;p&gt;Each Oath is optional. You don't have to take any of them. Each of them comes with substantial roleplaying limitations and associated benefits.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Vow&lt;/th&gt;
+&lt;th&gt;Limitations&lt;/th&gt;
+&lt;th&gt;Benefit&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Purity&lt;/td&gt;
+&lt;td&gt;No drugs, no sex, nothing fun.&lt;/td&gt;
+&lt;td&gt;Resist poison and disease.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Protection&lt;/td&gt;
+&lt;td&gt;Must not ever allow innocents to come to harm, even in the face of overwhelming force.&lt;/td&gt;
+&lt;td&gt;Defensive bonuses&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Courage&lt;/td&gt;
+&lt;td&gt;Must never flee from battle, turn down a righteous quest, etc&lt;/td&gt;
+&lt;td&gt;Immune to fear&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;etc...&lt;/p&gt;
+&lt;h1&gt;Sin Sight&lt;/h1&gt;
+&lt;p&gt;You can detect extraplanar creatures, undead, and other creatures with an inherently magical nature.&lt;/p&gt;
+&lt;p&gt;When looking at mortals, you can see the weight of their sins upon them.&lt;/p&gt;
+&lt;h1&gt;Aura&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Aura of Menace&lt;/a&gt;: evildoers are afraid of you.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Aura of Protection&lt;/a&gt;: allies gain bonuses to defense.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Aura of Zeal&lt;/a&gt;: move faster.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;etc...&lt;/p&gt;
+&lt;p&gt;(not at-will; you have to spend mana, but the effects are strong)&lt;/p&gt;
+&lt;h1&gt;Holy Light&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;At-will, std, ranged, 1 Mana; heavy radiant damage or healing.&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

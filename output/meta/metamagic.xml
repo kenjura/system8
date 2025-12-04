@@ -1,0 +1,31 @@
+<article><name>metamagic</name>
+<contents>Should all basic metamagic be rolled into basic maneuvers? Especially since there aren't any feats?
+
+Basic metamagic:
+- still
+- silent
+- extend
+- enlarge
+- chain
+- widen
+
+Things like widen/chain should increase cost (whatever that class uses as cost)
+
+All metamagic requires skill checks and can fail
+</contents>
+<bodyHtml>&lt;p&gt;Should all basic metamagic be rolled into basic maneuvers? Especially since there aren't any feats?&lt;/p&gt;
+&lt;p&gt;Basic metamagic:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;still&lt;/li&gt;
+&lt;li&gt;silent&lt;/li&gt;
+&lt;li&gt;extend&lt;/li&gt;
+&lt;li&gt;enlarge&lt;/li&gt;
+&lt;li&gt;chain&lt;/li&gt;
+&lt;li&gt;widen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Things like widen/chain should increase cost (whatever that class uses as cost)&lt;/p&gt;
+&lt;p&gt;All metamagic requires skill checks and can fail&lt;/p&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

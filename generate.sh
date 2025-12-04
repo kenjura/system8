@@ -1,0 +1,1 @@
+ node bin/ursa.js generate /mnt/d/Dropbox/RPG\ Root/RPG/wiki/system8 

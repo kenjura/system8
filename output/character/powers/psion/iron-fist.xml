@@ -1,0 +1,25 @@
+<article><name>iron-fist</name>
+<contents>---
+class: Psion
+name: Iron Fist
+school: Biometabolism
+rank: 1
+type: Enhancement
+brief: Magnify the force of your unarmed strikes.
+---
+
+While focused, your unarmed attacks inflict heavy lethal bludgeoning damage, and can be used to parry lethal weapons. Additionally, you may apply one [Weapon Enhancement](../../equipments/weapons#weapon-enhancements) of your choice of the same rank as your Psion rank. You may change the enhancement as a swift action.
+</contents>
+<bodyHtml>
+&lt;p&gt;While focused, your unarmed attacks inflict heavy lethal bludgeoning damage, and can be used to parry lethal weapons. Additionally, you may apply one &lt;a href=&#34;../../equipments/weapons#weapon-enhancements&#34;&gt;Weapon Enhancement&lt;/a&gt; of your choice of the same rank as your Psion rank. You may change the enhancement as a swift action.&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <class>Psion</class>
+  <name>Iron Fist</name>
+  <school>Biometabolism</school>
+  <rank>1</rank>
+  <type>Enhancement</type>
+  <brief>Magnify the force of your unarmed strikes.</brief>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

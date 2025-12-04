@@ -3,7 +3,7 @@ sidebar_label: Skills
 sidebar_position: 1
 ---
 
-## How skills work
+# How skills work
 
 If you're untrained, you can roll the skill check for anything an untrained person would find challenging but possible. For example:
 - Climbing a wall with ample handholds (Athletics)
@@ -22,12 +22,12 @@ When you gain expertise, you can "take 10" on the skill, meaning that anything y
 When you gain mastery, you gain advantage to all skill checks.
 
 
-## List of Skills
+# List of Skills
 
 
-### Strength
+## Strength
 
-#### Athletics
+### Athletics
 Proficient:
 - Charge
 - Sprint
@@ -36,9 +36,9 @@ Expertise:
 - Leaping Attack
 
 
-### Dexterity
+## Dexterity
 
-#### Acrobatics
+### Acrobatics
 Proficient:
 - Evasion
 
@@ -49,14 +49,14 @@ Mastery:
 - Extended Reach
 
 
-#### Sleight of Hand
+### Sleight of Hand
 Proficient:
 - Pick pocket
 
 Expertise:
 
 
-#### Stealth
+### Stealth
 Proficient:
 - Sneak Attack
 
@@ -65,21 +65,21 @@ Expertise:
 
 
 
-### Constitution
+## Constitution
 
-#### Fortitude
+### Fortitude
 
 
-### Intelligence
+## Intelligence
 
-#### Security
+### Security
 Proficient:
 - Pick lock
 - Disarm trap
 
 Expertise:
 
-#### Spellcraft
+### Spellcraft
 Proficient:
 - Detect Magic
 - Dispel Magic
@@ -90,9 +90,9 @@ Expertise:
 
 
 
-### Wisdom
+## Wisdom
 
-#### Concentration
+### Concentration
 Untrained:
 - Cast a concentration spell and maintain it
 
@@ -102,7 +102,7 @@ Proficient:
 Expertise:
 - More than once concentration?
 
-#### Perception
+### Perception
 Proficient:
 - Awareness (act in surprise rounds, wake up quickly)
 
@@ -113,7 +113,7 @@ Mastery:
 - Blindsight
 
 
-#### Insight
+### Insight
 Proficient:
 - Detect Lies
 
@@ -121,7 +121,7 @@ Expertise:
 - Detect Alignment
 
 
-#### Medicine
+### Medicine
 Proficient:
 - Stabilize
 - Long-term Care
@@ -130,5 +130,5 @@ Expertise:
 - First Aid (bandage: short-rest cooldown heal)
 - Purge (cure disease/poison)
 
-### Charisma
+## Charisma
 

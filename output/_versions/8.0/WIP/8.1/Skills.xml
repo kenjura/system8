@@ -1,0 +1,54 @@
+<article><name>Skills</name>
+<contents>Profiency levels:
+
+Level      | Proficiency bonus | Additional benefit
+-----------|-------------------|-------------------
+untrained  | no                | take 20
+proficient | yes               | take 10
+expert     | yes               | once/enc, roll with advantage
+master     | yes               | if roll &lt; 10, add 10
+legendary  | yes               | roll 2d20 and add both (doesn't stack with master benefit)
+
+
+</contents>
+<bodyHtml>&lt;p&gt;Profiency levels:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Proficiency bonus&lt;/th&gt;
+&lt;th&gt;Additional benefit&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;untrained&lt;/td&gt;
+&lt;td&gt;no&lt;/td&gt;
+&lt;td&gt;take 20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;proficient&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;td&gt;take 10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;expert&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;td&gt;once/enc, roll with advantage&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;master&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;td&gt;if roll &amp;lt; 10, add 10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;legendary&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;td&gt;roll 2d20 and add both (doesn't stack with master benefit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

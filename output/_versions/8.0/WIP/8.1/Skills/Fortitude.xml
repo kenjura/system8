@@ -1,0 +1,17 @@
+<article><name>Fortitude</name>
+<contents>Uses:
+- increases hit points
+- resist physical effects
+- block attacks with a shield
+- endure physical stress</contents>
+<bodyHtml>&lt;p&gt;Uses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;increases hit points&lt;/li&gt;
+&lt;li&gt;resist physical effects&lt;/li&gt;
+&lt;li&gt;block attacks with a shield&lt;/li&gt;
+&lt;li&gt;endure physical stress&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

@@ -1,0 +1,108 @@
+<article><name>Wounds</name>
+<contents>
+Wounds are cumulative. If you have 0, and you take 12 damage, you have 12 Wounds. If you take another 10, you have 22 Wounds.
+
+Each time you take Wounds, roll Con vs Wounds. If you pass, you are **Bloodied**; you can grit through the pain, suffering no immediate consequences. You are still **Unstable** and need to deal with that. But you can stay in the fight.
+
+If you fail the above check, you are **Disabled** and can no longer take standard actions. You'll need the help of medicine, magic, specific feats, or a really lucky auto-stabilization roll to get back in the fight.
+
+While **Unstable**, you suffer 1 Wound per round automatically. This requires a roll vs being Disabled, as normal. If you pass 3 of these in a row, or roll a single natural 20, you self-stabilize, and are no longer Unstable.
+
+If you fail 3 checks in a row, or roll a single natural 1, you start **Dying**. You are completely unable to act. You still accumulate 1 Wound per round. Failure from here causes permanent death. Success causes stabilization (but still unconscious).
+
+Long rest converts unconscious to disabled, or disabled to bloodied, etc.
+
+## Injuries
+Once it has been determined that you are taking Wounds, and whether or not this will put you in an unfortunate condition (e.g. disabled, dying), there is an alternative. You can exchange the entire attack for an Injury. In this case, you gain a long-lasting (possibly permanent) injury, but the Wounds themselves are stricken from the record.
+
+The PC taking the damage gets to choose the injury, subject to the following caveats:
+- It has to make sense. A sword may cause a severed limb, but a poison gas cloud probably won't.
+- It has to make you worse off than before. If you're already missing your left arm, losing your left hand is not a valid injury.
+- It cannot be mitigated by temporary bodily changes. If you are polymorphed into a squid, and you opt into a severed tentacle, you cannot argue that, upon changing back into a humanoid, your four limbs are intact, because the squid had seven intact ones and 7 &gt; 4.
+
+Every injury has a Max Damage. If you suffer 24 Wounds, you can nullify it by selecting an Injury with a Max Damage of 25, or anything higher. An Injury with a Max Damage of 10 would not be a valid choice.
+
+Examples:
+Injury           | Max Damage | Effect
+---------------- | ---------- | ------
+Arm damaged      | 10         | Disadvantage with checks using that limb. DC 15 Con or medicine to heal with long rest.
+Arm disabled     | 25         | Unable to take actions requiring the use of said limb. Three DC 20 Con or Medicine checks (one long rest each) to reduce to Arm Damage.
+Arm severed      | 50         | As disabled arm, but permanent (barring magical intervention or racial regeneration).
+Leg damaged      | 15         | Speed reduced by 50%. DC 15 Con or Medicine to heal with long rest. Disadvantage to any checks involving legs, such as Athletics, Acrobatics, etc (as adjudicated by DM)
+Leg disabled     | 30         | Speed reduced to 5 ft per move or std action. Cannot perform actions requiring the leg's use (e.g. many uses of Athletics, Acrobatics, etc)
+Leg destroyed    | 75         | As Leg Disabled, but permanent (barring magic/renegeration)
+
+Other ideas:
+- Eyes
+- Ears
+- Scars (cool 5, disfiguring 15, revolting 30)
+- Etc
+</contents>
+<bodyHtml>&lt;p&gt;Wounds are cumulative. If you have 0, and you take 12 damage, you have 12 Wounds. If you take another 10, you have 22 Wounds.&lt;/p&gt;
+&lt;p&gt;Each time you take Wounds, roll Con vs Wounds. If you pass, you are &lt;strong&gt;Bloodied&lt;/strong&gt;; you can grit through the pain, suffering no immediate consequences. You are still &lt;strong&gt;Unstable&lt;/strong&gt; and need to deal with that. But you can stay in the fight.&lt;/p&gt;
+&lt;p&gt;If you fail the above check, you are &lt;strong&gt;Disabled&lt;/strong&gt; and can no longer take standard actions. You'll need the help of medicine, magic, specific feats, or a really lucky auto-stabilization roll to get back in the fight.&lt;/p&gt;
+&lt;p&gt;While &lt;strong&gt;Unstable&lt;/strong&gt;, you suffer 1 Wound per round automatically. This requires a roll vs being Disabled, as normal. If you pass 3 of these in a row, or roll a single natural 20, you self-stabilize, and are no longer Unstable.&lt;/p&gt;
+&lt;p&gt;If you fail 3 checks in a row, or roll a single natural 1, you start &lt;strong&gt;Dying&lt;/strong&gt;. You are completely unable to act. You still accumulate 1 Wound per round. Failure from here causes permanent death. Success causes stabilization (but still unconscious).&lt;/p&gt;
+&lt;p&gt;Long rest converts unconscious to disabled, or disabled to bloodied, etc.&lt;/p&gt;
+&lt;h2&gt;Injuries&lt;/h2&gt;
+&lt;p&gt;Once it has been determined that you are taking Wounds, and whether or not this will put you in an unfortunate condition (e.g. disabled, dying), there is an alternative. You can exchange the entire attack for an Injury. In this case, you gain a long-lasting (possibly permanent) injury, but the Wounds themselves are stricken from the record.&lt;/p&gt;
+&lt;p&gt;The PC taking the damage gets to choose the injury, subject to the following caveats:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It has to make sense. A sword may cause a severed limb, but a poison gas cloud probably won't.&lt;/li&gt;
+&lt;li&gt;It has to make you worse off than before. If you're already missing your left arm, losing your left hand is not a valid injury.&lt;/li&gt;
+&lt;li&gt;It cannot be mitigated by temporary bodily changes. If you are polymorphed into a squid, and you opt into a severed tentacle, you cannot argue that, upon changing back into a humanoid, your four limbs are intact, because the squid had seven intact ones and 7 &amp;gt; 4.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Every injury has a Max Damage. If you suffer 24 Wounds, you can nullify it by selecting an Injury with a Max Damage of 25, or anything higher. An Injury with a Max Damage of 10 would not be a valid choice.&lt;/p&gt;
+&lt;p&gt;Examples:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Injury&lt;/th&gt;
+&lt;th&gt;Max Damage&lt;/th&gt;
+&lt;th&gt;Effect&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Arm damaged&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;Disadvantage with checks using that limb. DC 15 Con or medicine to heal with long rest.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Arm disabled&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;td&gt;Unable to take actions requiring the use of said limb. Three DC 20 Con or Medicine checks (one long rest each) to reduce to Arm Damage.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Arm severed&lt;/td&gt;
+&lt;td&gt;50&lt;/td&gt;
+&lt;td&gt;As disabled arm, but permanent (barring magical intervention or racial regeneration).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Leg damaged&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;Speed reduced by 50%. DC 15 Con or Medicine to heal with long rest. Disadvantage to any checks involving legs, such as Athletics, Acrobatics, etc (as adjudicated by DM)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Leg disabled&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;Speed reduced to 5 ft per move or std action. Cannot perform actions requiring the leg's use (e.g. many uses of Athletics, Acrobatics, etc)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Leg destroyed&lt;/td&gt;
+&lt;td&gt;75&lt;/td&gt;
+&lt;td&gt;As Leg Disabled, but permanent (barring magic/renegeration)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Other ideas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eyes&lt;/li&gt;
+&lt;li&gt;Ears&lt;/li&gt;
+&lt;li&gt;Scars (cool 5, disfiguring 15, revolting 30)&lt;/li&gt;
+&lt;li&gt;Etc&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

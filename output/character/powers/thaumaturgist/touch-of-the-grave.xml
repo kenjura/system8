@@ -1,0 +1,31 @@
+<article><name>touch-of-the-grave</name>
+<contents>---
+class: Touch of the Grave
+name: Kiss of Death
+school: Death
+rank: 1
+---
+
+At-will, std, touch, 1 Mana; you infuse target with negative energy, harming them in the manner of an undead creature. Choose one effect:
+- '''Shadow's Grasp:''' Medium necrotic damage plus [Weakened](../../../system/conditions/weakened.md), Con ends.
+- '''Wraith's Touch:''' Medium necrotic damage plus [Frail](../../../system/conditions/frail.md), Con ends.
+- '''Ghostly Visage:''' Medium necrotic damage plus [Meek](../../../system/conditions/meek.md), Con ends.
+
+TODO: dex, int, wis (allip)</contents>
+<bodyHtml>
+&lt;p&gt;At-will, std, touch, 1 Mana; you infuse target with negative energy, harming them in the manner of an undead creature. Choose one effect:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;'''Shadow's Grasp:''' Medium necrotic damage plus &lt;a href=&#34;../../../system/conditions/weakened.md&#34;&gt;Weakened&lt;/a&gt;, Con ends.&lt;/li&gt;
+&lt;li&gt;'''Wraith's Touch:''' Medium necrotic damage plus &lt;a href=&#34;../../../system/conditions/frail.md&#34;&gt;Frail&lt;/a&gt;, Con ends.&lt;/li&gt;
+&lt;li&gt;'''Ghostly Visage:''' Medium necrotic damage plus &lt;a href=&#34;../../../system/conditions/meek.md&#34;&gt;Meek&lt;/a&gt;, Con ends.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;TODO: dex, int, wis (allip)&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <class>Touch of the Grave</class>
+  <name>Kiss of Death</name>
+  <school>Death</school>
+  <rank>1</rank>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

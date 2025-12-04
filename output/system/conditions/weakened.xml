@@ -1,0 +1,15 @@
+<article><name>weakened</name>
+<contents>In the Weakened state, creatures suffer:
+- Disadvantage to Strength rolls
+- 50% penalty to damage from Strength attacks
+- Encumbrance TBD (if that's ever implemented)</contents>
+<bodyHtml>&lt;p&gt;In the Weakened state, creatures suffer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Disadvantage to Strength rolls&lt;/li&gt;
+&lt;li&gt;50% penalty to damage from Strength attacks&lt;/li&gt;
+&lt;li&gt;Encumbrance TBD (if that's ever implemented)&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

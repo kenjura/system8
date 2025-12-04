@@ -16,7 +16,7 @@ Level | Special Ability
 
 
 
-## Holy Smite
+# Holy Smite
 
 * [Holy Smite](#): at-will, std, 1 mana; normal weapon damage plus heavy radiant damage.
 
@@ -28,7 +28,7 @@ Other variants can be learned later, like:
 etc...
 
 
-## Oathkeeper
+# Oathkeeper
 
 Each Oath is optional. You don't have to take any of them. Each of them comes with substantial roleplaying limitations and associated benefits.
 
@@ -41,14 +41,14 @@ Courage | Must never flee from battle, turn down a righteous quest, etc | Immune
 etc...
 
 
-## Sin Sight
+# Sin Sight
 
 You can detect extraplanar creatures, undead, and other creatures with an inherently magical nature.
 
 When looking at mortals, you can see the weight of their sins upon them.
 
 
-## Aura
+# Aura
 
 * [Aura of Menace](#): evildoers are afraid of you.
 * [Aura of Protection](#): allies gain bonuses to defense.
@@ -60,6 +60,6 @@ etc...
 
 
 
-## Holy Light
+# Holy Light
 
 - At-will, std, ranged, 1 Mana; heavy radiant damage or healing.

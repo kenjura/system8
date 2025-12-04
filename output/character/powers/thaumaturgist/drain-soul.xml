@@ -1,0 +1,43 @@
+<article><name>drain-soul</name>
+<contents>---
+class: Thaumaturgist
+name: Drain Soul
+school: Soul
+rank: 1
+type: Debilitation and Enhancement
+brief: Enervate enemy and gain a soul gem, which can grant you access to their identity and abilities
+---
+
+At-will, std, touch, 1 mana; you steal a portion of the subject's soul, coalescing it into a tiny crystal called a Soul Shard.
+
+The subject suffers Enervation (TBD)
+
+The uses of a soul shard are as follows:
+- Use as the sympathetic component of a phylactery
+- Speak with the subject's voice
+- Attempt to convince a magical effect that distinguishes between targets that you are, in fact, the creature from whom the soul shard was drained
+- As a reaction, you can redirect a targeted magical effect that was about to harm you to the subject instead. This expends the shard.
+
+
+</contents>
+<bodyHtml>
+&lt;p&gt;At-will, std, touch, 1 mana; you steal a portion of the subject's soul, coalescing it into a tiny crystal called a Soul Shard.&lt;/p&gt;
+&lt;p&gt;The subject suffers Enervation (TBD)&lt;/p&gt;
+&lt;p&gt;The uses of a soul shard are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use as the sympathetic component of a phylactery&lt;/li&gt;
+&lt;li&gt;Speak with the subject's voice&lt;/li&gt;
+&lt;li&gt;Attempt to convince a magical effect that distinguishes between targets that you are, in fact, the creature from whom the soul shard was drained&lt;/li&gt;
+&lt;li&gt;As a reaction, you can redirect a targeted magical effect that was about to harm you to the subject instead. This expends the shard.&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata>
+  <class>Thaumaturgist</class>
+  <name>Drain Soul</name>
+  <school>Soul</school>
+  <rank>1</rank>
+  <type>Debilitation and Enhancement</type>
+  <brief>Enervate enemy and gain a soul gem, which can grant you access to their identity and abilities</brief>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

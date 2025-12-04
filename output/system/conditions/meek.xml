@@ -1,0 +1,17 @@
+<article><name>meek</name>
+<contents>Meek is a state where a creature's Charisma is severely weakened. They suffer:
+- Disadvantage to all Charisma rolls
+- On turn start, if they have suffered any damage, they become demoralized. There is a 50% chance they spend their turn attempting to seek safety, rather than continuing to fight.
+- Their maximum Mana is reduced to 50%. Track current Mana as Max Mana - Mana consumed.
+- When using powers, they cannot use abilities or modifiers that require spending any extra Mana above the normal cost.</contents>
+<bodyHtml>&lt;p&gt;Meek is a state where a creature's Charisma is severely weakened. They suffer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Disadvantage to all Charisma rolls&lt;/li&gt;
+&lt;li&gt;On turn start, if they have suffered any damage, they become demoralized. There is a 50% chance they spend their turn attempting to seek safety, rather than continuing to fight.&lt;/li&gt;
+&lt;li&gt;Their maximum Mana is reduced to 50%. Track current Mana as Max Mana - Mana consumed.&lt;/li&gt;
+&lt;li&gt;When using powers, they cannot use abilities or modifiers that require spending any extra Mana above the normal cost.&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

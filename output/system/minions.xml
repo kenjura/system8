@@ -1,0 +1,16 @@
+<article><name>minions</name>
+<contents>A Minion is a creature under the control of another creature. They are assumed to be servile, within reason, depending on the type of control. For instance, a hireling is likely to have limits to the commands they obey, while an undead servitor probably doesn't.
+
+Minions have their own statistics, their own actions (std, swift, and move), and their own Hit Points. By convention, they act in the same initiative as their master, although they can use their own initiative if desired by the DM.
+
+It is a swift action to give orders to a minion. Depending on the method by which they are controlled, this may be verbal, telepathic, or otherwise, but the action is the same. Minions will attempt to fulfill their orders to the best of their ability, using their own Intelligence to interpret them. In the absence of fresh instructions, minions will attempt to continue their previous orders, and will use their Intelligence to adapt as needed. For instance, if told to &#34;attack that creature&#34;, a minion will do so, and if it should die, and more enemies remain, a reasonably Intelligent minion will continue to attack, choosing a new target, understanding the spirit of the request. A low-Intelligence minion may not do so, simply waiting for new orders.
+
+Unless you have some ability specifying otherwise, you can control only one Minion at a time.</contents>
+<bodyHtml>&lt;p&gt;A Minion is a creature under the control of another creature. They are assumed to be servile, within reason, depending on the type of control. For instance, a hireling is likely to have limits to the commands they obey, while an undead servitor probably doesn't.&lt;/p&gt;
+&lt;p&gt;Minions have their own statistics, their own actions (std, swift, and move), and their own Hit Points. By convention, they act in the same initiative as their master, although they can use their own initiative if desired by the DM.&lt;/p&gt;
+&lt;p&gt;It is a swift action to give orders to a minion. Depending on the method by which they are controlled, this may be verbal, telepathic, or otherwise, but the action is the same. Minions will attempt to fulfill their orders to the best of their ability, using their own Intelligence to interpret them. In the absence of fresh instructions, minions will attempt to continue their previous orders, and will use their Intelligence to adapt as needed. For instance, if told to &amp;quot;attack that creature&amp;quot;, a minion will do so, and if it should die, and more enemies remain, a reasonably Intelligent minion will continue to attack, choosing a new target, understanding the spirit of the request. A low-Intelligence minion may not do so, simply waiting for new orders.&lt;/p&gt;
+&lt;p&gt;Unless you have some ability specifying otherwise, you can control only one Minion at a time.&lt;/p&gt;
+</bodyHtml>
+<metadata />
+<transformedMetadata>default transform</transformedMetadata>
+</article>

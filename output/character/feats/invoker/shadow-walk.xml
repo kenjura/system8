@@ -1,0 +1,22 @@
+<article><name>shadow-walk</name>
+<contents>---
+pact: shadow
+name: Shadow Walk
+description: Phase in and out of the Shadow Plane
+---
+
+# Shadow Walk
+
+Phase in and out of the Shadow Plane
+</contents>
+<bodyHtml>
+&lt;h1&gt;Shadow Walk&lt;/h1&gt;
+&lt;p&gt;Phase in and out of the Shadow Plane&lt;/p&gt;
+</bodyHtml>
+<metadata>
+  <pact>shadow</pact>
+  <name>Shadow Walk</name>
+  <description>Phase in and out of the Shadow Plane</description>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

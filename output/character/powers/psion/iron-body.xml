@@ -1,0 +1,47 @@
+<article><name>iron-body</name>
+<contents>---
+class: Psion
+name: Iron Body
+school: Biometabolism
+rank: 1
+type: Enhancement
+brief: Harden your body to empower unarmed attacks, resist damage, repel poison, etc.
+---
+
+At-will, swift, requires Focus; you modify your body, focusing energy into parts of it to increase hardness and momentum.
+
+While active, you gain the following benefits:
+- Your unarmed strikes inflict heavy bludgeoning damage (or you can dual-wield medium damage)
+- You gain a natural armor bonus equal to your proficiency plus Charisma.
+- When rolling a saving throw against a poison, disease, or any effect that attempts to modify the constitution of your body (such as petrification or polymorphing), you may use your Psionics roll in place of the saving throw, if greater.
+
+By expending Focus, you can achieve briefly achieve a state of bodily perfection. For one round per rank, you gain the following benefits:
+- All of the normal benefits listed above
+- Resist 50% to all physical damage
+- Immune to poison and disease; existing effects are purged
+</contents>
+<bodyHtml>
+&lt;p&gt;At-will, swift, requires Focus; you modify your body, focusing energy into parts of it to increase hardness and momentum.&lt;/p&gt;
+&lt;p&gt;While active, you gain the following benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your unarmed strikes inflict heavy bludgeoning damage (or you can dual-wield medium damage)&lt;/li&gt;
+&lt;li&gt;You gain a natural armor bonus equal to your proficiency plus Charisma.&lt;/li&gt;
+&lt;li&gt;When rolling a saving throw against a poison, disease, or any effect that attempts to modify the constitution of your body (such as petrification or polymorphing), you may use your Psionics roll in place of the saving throw, if greater.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By expending Focus, you can achieve briefly achieve a state of bodily perfection. For one round per rank, you gain the following benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All of the normal benefits listed above&lt;/li&gt;
+&lt;li&gt;Resist 50% to all physical damage&lt;/li&gt;
+&lt;li&gt;Immune to poison and disease; existing effects are purged&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata>
+  <class>Psion</class>
+  <name>Iron Body</name>
+  <school>Biometabolism</school>
+  <rank>1</rank>
+  <type>Enhancement</type>
+  <brief>Harden your body to empower unarmed attacks, resist damage, repel poison, etc.</brief>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>

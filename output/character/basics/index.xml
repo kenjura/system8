@@ -1,0 +1,410 @@
+<article><name>index</name>
+<contents>---
+sidebar_label: Basics
+---
+These are the basics.
+
+
+
+
+# Ability Scores
+You begin the game with six values (3, 2, 1, 0, 0, 0) to be assigned to the six ability scores however you desire.
+
+Optionally, you can apply -1 to a score to gain +1 to another score (though you cannot increase the 3 to a 4). You may do this twice if you prefer, applying the -1 to a different stat each time.
+
+Every 4th level (4/8/12/16/20), you gain +1 to two different scores of your choice. You may increase your highest stat with this bonus.
+
+
+# Foundation
+You begin the game with three [Foundation](../foundation/) abilities.
+
+At levels 3, 7, 11, 15, and 19, you gain another one.
+
+
+# Class and Level
+When you gain a level (including 1st), you increase your chosen class by one level.
+
+Yes, multiclassing exists.
+
+Pretend I explained it all here.
+
+
+
+# Rank
+Depending on your current level, you also have a &#34;rank&#34;:
+
+Levels | Rank
+-------|-----
+1-4    | 1
+5-8    | 2
+9-12   | 3
+13-16  | 4
+17+    | 5
+
+Some abilities hae a required rank to use and/or acquire.
+
+
+## Damage
+Any time you encounter the words &#34;light&#34;, &#34;medium&#34;, or &#34;heavy&#34; in concert with &#34;damage&#34; (e.g. medium fire damage, light slashing damage), it refers to a standard amount of damage based on your rank, proficiency, and ability scores:
+
+Rank | Light Damage | Medium Damage | Heavy Damage
+-----|--------------|---------------|-------------
+1    | 1d4 + 0.5x   | 1d8 + x       | 1d12 + 1.5x
+2    | 2d4 + 0.5x   | 2d8 + x       | 2d12 + 1.5x
+3    | 3d4 + 0.5x   | 3d8 + x       | 3d12 + 1.5x
+4    | 4d4 + 0.5x   | 4d8 + x       | 4d12 + 1.5x
+5    | 5d4 + 0.5x   | 5d8 + x       | 5d12 + 1.5x
+
+The value &#34;x&#34; refers to a modifier containing:
+- the ability score used to inflict the damage
+- your proficiency bonus, if proficient in the attack
+
+
+
+# Skills
+
+When you start the game, you gain 4 [Skills](../skills/) of your choice, plus any bonus skills that may be granted by your [Class](../classes/) or [Foundation](../foundation/) abilities.
+
+At level 2, 6, 10, 14, 18, you may choose to:
+- Gain proficiency in a new skill
+- Gain expertise in a proficient skill
+- Gain mastery in an expert skill (level 10+ only)
+
+
+
+# Level Chart
+
+
+Level  | Rank | Skills | Foundation | ASIs | What's New?
+-------|------|--------|-------|------|------------
+1      | 1    | 4      | 0     | 0    | Everything
+2      | 1    | 5      | 0     | 0    | Skill
+3      | 1    | 5      | 0     | 0    | Foundation
+4      | 1    | 5      | 0     | 2    | ASI
+5      | 2    | 5      | 0     | 2    | Rank
+6      | 2    | 6      | 0     | 2    | Skill
+7      | 2    | 6      | 0     | 2    | Foundation
+8      | 2    | 6      | 0     | 4    | ASI
+9      | 3    | 6      | 0     | 4    | Rank
+10     | 3    | 7      | 0     | 4    | Skill
+11     | 3    | 7      | 0     | 4    | Foundation
+12     | 3    | 7      | 0     | 6    | ASI
+13     | 4    | 7      | 0     | 6    | Rank
+14     | 4    | 8      | 0     | 6    | Skill
+15     | 4    | 8      | 0     | 6    | Foundation
+16     | 4    | 8      | 0     | 8    | ASI
+17     | 5    | 8      | 0     | 8    | Rank
+18     | 5    | 9      | 0     | 8    | Skill
+19     | 5    | 9      | 0     | 8    | Foundation
+20     | 5    | 9      | 0     | 10   | ASI
+
+
+
+# Inspiration
+
+Where could it come from?
+- Gods
+- Vows / forbidden magic / crossing moral lines
+- Equipmentqwwwwwwwwwwwwwwwwww
+
+Pick 3
+- Tap 1, make your case
+- Get your reward
+- Pay the price (some sort of meaningful consequence)</contents>
+<bodyHtml>
+&lt;p&gt;These are the basics.&lt;/p&gt;
+&lt;h1&gt;Ability Scores&lt;/h1&gt;
+&lt;p&gt;You begin the game with six values (3, 2, 1, 0, 0, 0) to be assigned to the six ability scores however you desire.&lt;/p&gt;
+&lt;p&gt;Optionally, you can apply -1 to a score to gain +1 to another score (though you cannot increase the 3 to a 4). You may do this twice if you prefer, applying the -1 to a different stat each time.&lt;/p&gt;
+&lt;p&gt;Every 4th level (4/8/12/16/20), you gain +1 to two different scores of your choice. You may increase your highest stat with this bonus.&lt;/p&gt;
+&lt;h1&gt;Foundation&lt;/h1&gt;
+&lt;p&gt;You begin the game with three &lt;a href=&#34;../foundation/&#34;&gt;Foundation&lt;/a&gt; abilities.&lt;/p&gt;
+&lt;p&gt;At levels 3, 7, 11, 15, and 19, you gain another one.&lt;/p&gt;
+&lt;h1&gt;Class and Level&lt;/h1&gt;
+&lt;p&gt;When you gain a level (including 1st), you increase your chosen class by one level.&lt;/p&gt;
+&lt;p&gt;Yes, multiclassing exists.&lt;/p&gt;
+&lt;p&gt;Pretend I explained it all here.&lt;/p&gt;
+&lt;h1&gt;Rank&lt;/h1&gt;
+&lt;p&gt;Depending on your current level, you also have a &amp;quot;rank&amp;quot;:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Levels&lt;/th&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1-4&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5-8&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9-12&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13-16&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17+&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Some abilities hae a required rank to use and/or acquire.&lt;/p&gt;
+&lt;h2&gt;Damage&lt;/h2&gt;
+&lt;p&gt;Any time you encounter the words &amp;quot;light&amp;quot;, &amp;quot;medium&amp;quot;, or &amp;quot;heavy&amp;quot; in concert with &amp;quot;damage&amp;quot; (e.g. medium fire damage, light slashing damage), it refers to a standard amount of damage based on your rank, proficiency, and ability scores:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Light Damage&lt;/th&gt;
+&lt;th&gt;Medium Damage&lt;/th&gt;
+&lt;th&gt;Heavy Damage&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1d4 + 0.5x&lt;/td&gt;
+&lt;td&gt;1d8 + x&lt;/td&gt;
+&lt;td&gt;1d12 + 1.5x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2d4 + 0.5x&lt;/td&gt;
+&lt;td&gt;2d8 + x&lt;/td&gt;
+&lt;td&gt;2d12 + 1.5x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;3d4 + 0.5x&lt;/td&gt;
+&lt;td&gt;3d8 + x&lt;/td&gt;
+&lt;td&gt;3d12 + 1.5x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;4d4 + 0.5x&lt;/td&gt;
+&lt;td&gt;4d8 + x&lt;/td&gt;
+&lt;td&gt;4d12 + 1.5x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;5d4 + 0.5x&lt;/td&gt;
+&lt;td&gt;5d8 + x&lt;/td&gt;
+&lt;td&gt;5d12 + 1.5x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The value &amp;quot;x&amp;quot; refers to a modifier containing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the ability score used to inflict the damage&lt;/li&gt;
+&lt;li&gt;your proficiency bonus, if proficient in the attack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Skills&lt;/h1&gt;
+&lt;p&gt;When you start the game, you gain 4 &lt;a href=&#34;../skills/&#34;&gt;Skills&lt;/a&gt; of your choice, plus any bonus skills that may be granted by your &lt;a href=&#34;../classes/&#34;&gt;Class&lt;/a&gt; or &lt;a href=&#34;../foundation/&#34;&gt;Foundation&lt;/a&gt; abilities.&lt;/p&gt;
+&lt;p&gt;At level 2, 6, 10, 14, 18, you may choose to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gain proficiency in a new skill&lt;/li&gt;
+&lt;li&gt;Gain expertise in a proficient skill&lt;/li&gt;
+&lt;li&gt;Gain mastery in an expert skill (level 10+ only)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Level Chart&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Rank&lt;/th&gt;
+&lt;th&gt;Skills&lt;/th&gt;
+&lt;th&gt;Foundation&lt;/th&gt;
+&lt;th&gt;ASIs&lt;/th&gt;
+&lt;th&gt;What's New?&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;Everything&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;Skill&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;Foundation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;ASI&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Rank&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Skill&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Foundation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;ASI&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Rank&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Skill&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Foundation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;ASI&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Rank&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Skill&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Foundation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;ASI&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;Rank&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;Skill&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;Foundation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;ASI&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Inspiration&lt;/h1&gt;
+&lt;p&gt;Where could it come from?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gods&lt;/li&gt;
+&lt;li&gt;Vows / forbidden magic / crossing moral lines&lt;/li&gt;
+&lt;li&gt;Equipmentqwwwwwwwwwwwwwwwwww&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pick 3&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tap 1, make your case&lt;/li&gt;
+&lt;li&gt;Get your reward&lt;/li&gt;
+&lt;li&gt;Pay the price (some sort of meaningful consequence)&lt;/li&gt;
+&lt;/ul&gt;
+</bodyHtml>
+<metadata>
+  <sidebar_label>Basics</sidebar_label>
+</metadata>
+<transformedMetadata>default transform</transformedMetadata>
+</article>
