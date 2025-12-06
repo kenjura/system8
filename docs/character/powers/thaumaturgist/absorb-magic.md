@@ -7,17 +7,6 @@ type: Defense and Utility
 brief: Absorb energy from a touched spell, weakening or dispelling it
 ---
 
-At-will, std, touch, 1 mana; you attempt to dispel a magical effect by touch.
+At-will, std, touch; you drain 1 Vitae per Witch rank from a spell affecting the target. If the spell was not cast by you or an ally, it resists. Roll a Con save against the spell's DC; on success, you absorb the energy and take no damage. On failure, you still absorb the energy, but you suffer light internal damage per rank of the spell.
 
-Roll spellcasting skill vs the caster;
-- On success, you dispel the effect.
-- On failure, you do not dispel it, and instead suffer any harmful effect the spell normally has on its enemies (if any).
-
-
-# Readied
-If you ready an action to do so, you may use this spell to defend yourself against an incoming targeted spell (must still win the opposed check, etc).
-
-
-# Reversed
-1 action, ranged, 1 mana; you force extra mana into a spell, attempting to overload it. Roll against its DC (+4 bonus per extra Mana spent beyond 1); if you win, targeted spell explodes. This ends the spell, and causes medium arcane damage in a burst 2.
-
+All spells have an energy cost, and if not specified in the spell description, it is 1 energy per rank of the caster. If the cost was equal to or less than what you absorbed, this completely dispels the spell. If the cost was higher, roll a pro-rated chance to dispel it based on the amount that was absorbed.

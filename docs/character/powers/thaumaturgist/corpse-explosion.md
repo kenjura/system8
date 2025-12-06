@@ -2,13 +2,11 @@
 class: Thaumaturgist
 name: Corpse Explosion
 school: Death
-rank: 2
+rank: 3
 type: Assault
 brief: Explode a corpse, possibly triggering other corpses to explode
 ---
 
-At-will, std, ranged, 2 Mana; targeted corpse or corporeal undead creature explodes. The creature suffers heavy internal damage (Con half, if not a corpse), and the same damage explodes in a burst 3 of explosive damage.
+At-will, std, ranged, 2 Vitae; target creature made of flesh explodes (it need not be a corpse). The creature suffers heavy internal damage (Con half, if not a corpse), and this reduces them to 0, or if the target was a corpse, their body is obliterated in a burst 3 of explosive damage.
 
-If the explosion hits another corpse or corporeal undead, it triggers another Corpse Explosion on that target. This secondary explosion inflicts half the damage of the explosion that triggered it, and cannot in turn trigger tertiary explosions.
-
-If the target is an undead minion under your control, you may direct it to fail the saving throw if you desire.
+When this explosive damage strikes a corpse, or inflicts enough damage to reduce the subject to 0, it triggers a Corpse Explosion on that target as well. This can cause a cascade of explosions.

@@ -12,9 +12,30 @@ Weapon Prof.  | None
 Armor Prof.   | None
 Saving Throws | Con, Wis
 
+
 Level | Special Ability
-------|----------------
-1     | Focus
+----- | ---------------
+1     | <span style="color: var(--talent)">1st talent</span>, <span style="color: var(--power)">1st power</span>
+2     | <span style="color: var(--talent)">2nd talent</span>, <span style="color: var(--power)">2nd power</span> 
+3     | <span style="color: var(--talent)">3rd talent</span>, <span style="color: var(--power)">3rd power</span>
+4     | <span style="color: var(--talent)">4th talent</span>
+5     | <span style="color: var(--talent)">5th talent</span>, <span style="color: var(--power)">4th power</span>
+6     | <span style="color: var(--talent)">6th talent</span>
+7     | <span style="color: var(--talent)">7th talent</span>
+8     | <span style="color: var(--talent)">8th talent</span>, <span style="color: var(--power)">5th power</span>
+9     | <span style="color: var(--talent)">9th talent</span>
+10    | <span style="color: var(--talent)">10th talent</span>
+11    | <span style="color: var(--talent)">11th talent</span>
+12    | <span style="color: var(--talent)">12th talent</span>, <span style="color: var(--power)">6th power</span>
+13    | <span style="color: var(--talent)">13th talent</span>
+14    | <span style="color: var(--talent)">14th talent</span>
+15    | <span style="color: var(--talent)">15th talent</span>
+16    | <span style="color: var(--talent)">16th talent</span>
+17    | <span style="color: var(--talent)">17th talent</span>, <span style="color: var(--power)">7th power</span>
+18    | <span style="color: var(--talent)">18th talent</span>
+19    | <span style="color: var(--talent)">19th talent</span>
+20    | <span style="color: var(--talent)">20th talent</span>
+
 
 - 1 Power per odd level
 - 1 Talent per even level

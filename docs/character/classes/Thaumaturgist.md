@@ -20,132 +20,122 @@ Bonus Skills  | Thaumaturgy
 
 Level | Special Ability
 ----- | ---------------
-1     | Spells, Talents, Vitae
-2     |
-3     |
-4     |
-5     |
-6     |
-7     |
-8     |
-9     |
-10    |
-11    |
-12    |
-13    |
-14    |
-15    |
-16    |
-17    |
-18    |
-19    |
-20    |
+1     | <span style="color: var(--talent)">1st talent</span>, <span style="color: var(--power)">1st spell</span>, <span style="color: var(--special)">Vitae</span>
+2     | <span style="color: var(--talent)">2nd talent</span>, <span style="color: var(--power)">2nd spell</span> 
+3     | <span style="color: var(--talent)">3rd talent</span>, <span style="color: var(--power)">3rd spell</span>
+4     | <span style="color: var(--talent)">4th talent</span>
+5     | <span style="color: var(--talent)">5th talent</span>, <span style="color: var(--power)">4th spell</span>
+6     | <span style="color: var(--talent)">6th talent</span>
+7     | <span style="color: var(--talent)">7th talent</span>, <span style="color: var(--power)">5th spell</span>
+8     | <span style="color: var(--talent)">8th talent</span>
+9     | <span style="color: var(--talent)">9th talent</span>, <span style="color: var(--power)">6th spell</span>
+10    | <span style="color: var(--talent)">10th talent</span>
+11    | <span style="color: var(--talent)">11th talent</span>, <span style="color: var(--power)">7th spell</span>
+12    | <span style="color: var(--talent)">12th talent</span>
+13    | <span style="color: var(--talent)">13th talent</span>, <span style="color: var(--power)">8th spell</span>
+14    | <span style="color: var(--talent)">14th talent</span>
+15    | <span style="color: var(--talent)">15th talent</span>, <span style="color: var(--power)">9th spell</span>
+16    | <span style="color: var(--talent)">16th talent</span>
+17    | <span style="color: var(--talent)">17th talent</span>, <span style="color: var(--power)">10th spell</span>
+18    | <span style="color: var(--talent)">18th talent</span>
+19    | <span style="color: var(--talent)">19th talent</span>, <span style="color: var(--power)">11th spell</span>
+20    | <span style="color: var(--talent)">20th talent</span>
 
 
 
 # Vitae
 
-Types:
-- Blood
-- Elemental
-- Soul
+Vitae is the life energy that Thaumaturgists manipulate to fuel their magic. It is drawn from various sources, depending on the type of Thaumaturgy being practiced. Each school of Thaumaturgy has a cantrip which can be used to gain Vitae.
 
-There are ways of gathering each. The more you have of a given type, the more side effects it causes.
+You have zero Vitae by default, and must gain it through your powers. You can spend Vitae to fuel more powerful effects, or to enhance your spells.
 
-## Blood
+Your maximum Vitae is equal to your Thaumaturgist rank + your spellcasting ability modifier.
 
-Vitae of the Blood is the energy of life. It is not that literal blood has energy, but rather blood is sympathetically linked to the life energy of the being to which it belongs. Blood from a dead creature, or blood that has been separated long enough to cool, bears little to no vital energy.
-
-You can gain Blood Vitae by letting blood--either yours or someone else's. The blood of others becomes symbolically yours by the act of either being offered it (in the case of an ally), or taking it unwilling, such as when attacking a creature.
-
-Blood Vitae has the effect of intensifying your most primeval instincts. A modest amount will energize you, readying you to fight or flee, alerting your senses, etc. A large amount will agonize your hunger, intensify your fear, and send your heart racing as life becomes too much.
 
 
 
 
 # Spells
 
-Besides the below schools, you may learn spells from the Air, Frost, and Plants schools of the [Elementalist](./elementalist).
-
 
 ## Blood
 Rank | Power          | Description
 -----|----------------|------------
-0    | [Blood Boil](../powers/thaumaturgist/blood-boil)     |
+0    | [Let Blood](../powers/thaumaturgist/let-blood)        | Let your own blood, then use it for various purposes
 1    | [Transfusion](../powers/thaumaturgist/transfusion)    |
-2    | [Blood Bond](../powers/thaumaturgist/blood-bond)     | Share your strength with allies, or steal strength from enemies
-2    | [Blood Bending](../powers/thaumaturgist/blood-bending) | Control a creature's movements
-3    | [Frozen Blood](../powers/thaumaturgist/frozen-blood)   | Your blood doesn't flow; damage doesn't affect you while active (but still must be healed)
-3    | [Exsanguinate](../powers/thaumaturgist/exsanguinate)   | Drain all the blood from a creature
+2    | [Bloodborne](../powers/thaumaturgist/bloodborne)     | Infect a target with a bloodborne pathogen that hinders them in various ways
+3    | [Grudge](../powers/thaumaturgist/grudge)        | Cause damage to a target based on the harm they have caused
+4    | [Exsanguinate](../powers/thaumaturgist/exsanguinate)   | Drain all the blood from a creature, max out your Vitae
+5    | Bloodline Curse | Affect subject...and everyone related to them
 
 Ideas:
-- Let Blood: take damage, add it to your spells
-- Bloodborne: infect subject with a bloodborne pathogen:
-  - Hemophilia (slashing/piercing causes ongoing damage)
-  - Sickle-cell (debilitating pain)
-  - Anemia (causes exhaustion)
-  - Should Blood Boil be rolled into this?
-- Burning Blood: dripped blood becomes a burning square
-- Ring of Fire
 - Blood Nova (target can be friendly or enemy, but only harms others)
 
-## Illusion
 
-Rank | Power         | Description
------|---------------|------------
-0    | Phantom Sound |
-1    | Figment       | Create an illusory creature or object
-1    | Glamour       | Change your appearance
-1    | Mystic Eyes   | See through others' illusions
-2    | Veil          | Invisibility
-2    | Mirror Image  |
-2    | Hallucination | Total illusory control of an area--create walls, multiple creatures/objects, etc
-3    | Simulacrum    | Create an image of a creature that is real enough to affect the world, cast spells, etc
-3    | Phantom Zone  | Send a creature into an illusory domain you control (similar to 3e Maze spell)
+## Eyes
+Rank | Power          | Description
+-----|----------------|------------
+0    | Evil Eye       | Curse a target, gain Vitae 
+1    | Veil           | Convince the minds of onlookers that you are not there, or are someone else
+2    | Mystic Eyes    | See through illusions, see the unseen, see the future
+3    | Hallucination  | Redefine what everyone in an area sees and perceives
+4    | Foresight      | Gain precognitive awareness of danger, and react accordingly
 
-
-## Hex
+## Voice
+Vitae: you can use Curse to gain 1 Vitae from a creature that can hear you.
 
 Rank | Power          | Description
 -----|----------------|------------
-0    | [Hex](../powers/thaumaturgist/hex)            | Subject has disadvantage to the next attack, skill check, or save they make; you can specify the ability score to hex.
-1    | [Curse](../powers/thaumaturgist/curse)          | Curse an enemy with weakness, clumsiness, or frailty
-2    | [Malediction](../powers/thaumaturgist/malediction)    | Curse an enemy with vulnerability, lethargy, or distraction
-3    | [Doom](../powers/thaumaturgist/doom)           | Curse an enemy to wither away, harm themselves, or fail at all endeavors
+0    | [Curse](../powers/thaumaturgist/curse)          | Curse an enemy with a variety of effects
+1    | [Steal Voice](../powers/thaumaturgist/steal-voice)     | Take control of a creature's voice, or steal it for yourself
+2    | [The Word](../powers/thaumaturgist/the-word)        | Compel a creature to obey your spoken commands
+3    | [Vox Populi](../powers/thaumaturgist/vox-populi)      | Control what creatures may say
+
+
+
+## Winter
+Rank | Power          | Description
+-----|----------------|------------
+0    | [Chill Touch](../powers/thaumaturgist/chill-touch)          | Draw Vitae from the environment or a creature, make constructs of ice
+1    | [Winds of Winter](../powers/thaumaturgist/winds-of-winter)   | Create bitter winds that blow snow, or thin the air to near vacuum
+2    | [Ice Storm](../powers/thaumaturgist/ice-storm) | Summon a storm of ice and sleet that damages and hinders enemies
+3    | [Frost Bomb](../powers/thaumaturgist/frost-bomb) | Orb of energy absorbs all heat in an area, causing cold effects and eventually exploding in a burst of ice
+4    | [Deep Freeze](#) | Freeze a creature solid, ending their life
+
 
 
 ## Antimagic
 
+Vitae: you can use Absorb Magic to absorb 1 Vitae from a spell, which may dispel it.
+
 Rank | Power          | Description
 -----|----------------|------------
-1    | [Absorb Magic](../powers/thaumaturgist/absorb-magic)   | Absorb energy from a touched spell, weakening or dispelling it
-2    | [Negation](../powers/thaumaturgist/negation)       | Disable a single spell or magic item so it can't be used
-2    | [Commandeer Spell](../powers/thaumaturgist/commandeer-spell) | Take control of a spell, changing it as you please
-3    | Antimagic Zone | Area nullifies magic
-
-Todo: merge negation and commadeer spell into Spellsteal
+0    | [Absorb Magic](../powers/thaumaturgist/absorb-magic)   | Absorb energy from a touched spell, weakening or dispelling it
+1   | [Spellsteal](../powers/thaumaturgist/spellsteal)     | Take control of an active spell, or a spell foe can cast
+2   | [Spell Immunity](../powers/thaumaturgist/spell-immunity)   | Subject gains immunity to a single spell, or possibly more
+3    | [Antimagic Zone](../powers/thaumaturgist/antimagic-zone) | Area nullifies all magic
+4    | Spell Reflection              | Subject reflects spells targeted at them back upon their casters
+5    | Disjunction    | All magical effects in area are dispelled; magic items become mundane for a time
 
 
 ## Soul
 
+Vitae: you can use Drain Soul on a creature with a soul to gain 1 Vitae.
+
 Rank | Power          | Description
 -----|----------------|------------
-0    | [Soulgaze](../powers/thaumaturgist/soulgaze)       | Lock eyes with target and learn their secrets--but they learn yours, too
-1    | [Drain Soul](../powers/thaumaturgist/drain-soul)     | Enervate enemy and gain a soul gem, which can grant you access to their identity and abilities
-2    | Magic Jar      | You detach your soul from your body, which becomes helpless. You can possess creatures and objects, perceiving from their point of view, and attempt to control them from within.
+0    | [Drain Soul](../powers/thaumaturgist/drain-soul)     | Enervate enemy and gain a soul gem, which can grant you access to their identity and abilities
+1    | [Soulgaze](../powers/thaumaturgist/soulgaze)       | Lock eyes with target and learn their secrets--but they learn yours, too
+2    | Magic Jar      | You detach your soul from your body, which becomes helpless. You can possess creatures and objects, perceiving from their point of view, and attempt to control them from within. At higher rank, you can force the soul out of a target without leaving your body.
 3    | Demi           | You create an evil clone of the subject.
 
 
-Soul Gem uses:
-- Use as a phylactery
-- Gain one chosen magical ability of the target
-- Speak with subject's voice
-- Attempt to fool magic keyed to the target
-- Reaction, expends the gem; redirects a targeted magical effect onto the creature rather than you.
 
 
 
 ## Death
+
+Vitae: you can use Kiss of Death to gain 1 Vitae from any living creature.
 
 Rank | Power              | Description
 -----|--------------------|------------
@@ -157,35 +147,36 @@ Rank | Power              | Description
 
 ## Undeath
 
+Vitae: you can use Control Undead to take control of a mindless undead creature. Once under your control, you can snuff out its animating force to gain 1 Vitae. More powerful undead yield more Vitae.
+
 Rank | Power              | Description
 -----|--------------------|------------
+0    | [Control Undead](../powers/thaumaturgist/control-undead)   | Control a mindless undead creature
 1    | [Reanimate](../powers/thaumaturgist/reanimate)          | Corpse rises as a simple undead under your control
-1    | [Death Pact](../powers/thaumaturgist/death-pact) |
 2    | [Necrosis](../powers/thaumaturgist/necrosis)           | Undead appendage grows from subject, using its abilities as you direct
-2    | [Corpse Explosion](../powers/thaumaturgist/corpse-explosion)   | Corpse or undead creature explodes, potentially exploding other targets
+3    | [Corpse Explosion](../powers/thaumaturgist/corpse-explosion)   | Corpse or undead creature explodes, potentially exploding other targets
+4    | [Memento Mori](#)          | Subject dies and immediately becomes an undead under your control
 
 Ideas:
-- Rank 3: Create Undead: instantly create a temporary undead minion
 - Walking Dead: you become undead, gaining undead traits and powers, for a while
-- Memento Mori: subject dies and becomes an undead under your control
 
 
 
 
 ## Transmutation
 
+Vitae: you can use Transform Object to destroy a crafted object. It must be something requiring skill to create, and at least one day of work. This grants you 1 Vitae.
+
+At higher ranks, you can use Transform Object to destroy more valuable objects to gain more Vitae.
+
 Rank | Power             | Description
 -----|-------------------|------------
-0    | [Magic Missile](../powers/thaumaturgist/magic-missile)     | Telekinetically control an objet
+0    | [Transform Object](../powers/thaumaturgist/transform-object)     | Change properties of an object: size, hardness, form, etc
 1    | [Animate Object](../powers/thaumaturgist/animate-object)    | Object becomes animated and acts as you direct
-1    | [Transform Object](../powers/thaumaturgist/transform-object)  | Change properties of an object: size, hardness, form, etc
-2    | [Doll]              | Creature becomes an inanimate object (reversible)
-2    | [Wall of Polymorph](#) | Anything that crosses wall gets polymorphed (e.g. incoming missiles become bubbles)
-3    | [Ironguard]         | You become impervious to metal weapons
-3    | [Petrify](#)        | Turn someone to stone (or vice versa)
-
-Ideas:
-- Transubstantiate: change one material into another
+2    | [Polymorph](#)              | Change a creature's physical body
+3    | [Objectify](../powers/thaumaturgist/objectify)              | Creature becomes an inanimate object (reversible)
+4    | [Eidolon](#)                | Create a living construct from inanimate materials, which acts as your servant
+5    | [Transubstantiation](#)        | Change one material into another; turn lead to gold; turn your enemies to liquid
 
 
 
@@ -200,7 +191,12 @@ Ideas:
 
 # Talents
 
-More to come.
+Each level, you may select a talent from the list below. There are also talents specific to Witch spells, noted in their descriptions.
+
+## Covens
+- [Winter Witch](#): You may choose spells from the [Frost](./Elementalist.md#frost) school of the [Elementalist](./Elementalist.md) class. Choose one [Elemental Boon](./Elementalist.md#elemental-boons) of the Frost school now. You may use Witch talents to gain more Frost boons later.
+- [Witch of the Woods](#): You may choose spells from the [Plants](./Elementalist.md#plants) school of the [Elementalist](./Elementalist.md) class. Choose one [Elemental Boon](./Elementalist.md#elemental-boons) of the Plants school now. You may use Witch talents to gain more Plants boons later.
+
 
 ## Felicity
 
@@ -243,6 +239,18 @@ Talent          | Description
 --------------|------------
 [Talisman of Vitality](#) | Whenever you heal for any reason, you may exceed your max HP, gaining the excess as temporary Hit Points, which expire at the end of the encounter.
 [Talisman of Blood](#) | When you are missing Hit Points, you can add your HP debt to the damage of any attack or spell you inflict, to a maximum of 100% of the attack's original damage. This does not change your current HP.
+[Frozen Blood](#) | When you drop to 0 HP, you have the option to immediately begin concentrating on an effect which prevents you from dying. While active, you do not need to roll death saves, and you can act normally. Any damage you suffer should be tracked, because if you stop concentrating while you are in negative HP, you will begin to die as normal. If you heal above 0 HP, the effect ends.
+
+## Winter
+Talent | Description
+-------|------------
+[Icewalker](#) | You can walk on water by freezing it beneath your feet. You can also move across ice and snow without penalty. You may imbue this ability to your mount, or to allies within 5 squares while concentrating.
+
+## Transmutation
+Talent          | Description
+--------------|------------
+[Defensive Transmutation](#) | You gain a reaction to an incoming projectile attack against you or an ally within range. At the cost of 1 Vitae, you can transmute the projectile into a harmless substance (bubbles, dust, etc) just before it hits you.
+[Ironguard](#) | You can use [Objectify](../powers/thaumaturgist/objectify) on yourself as a swift action, turning your flesh into an amorphous, gelatin-like substance that looks and functions the same, but you gain Resist 90% to slashing and piercing damage.
 
 ## Familiar
 Talent          | Description
@@ -253,6 +261,8 @@ Talent          | Description
 Talent          | Description
 --------------|------------
 [Create Undead](#) | Using a corpse and components of non-trivial cost, you can make permanent undead servants.
+[Death Pact](#) | As an immediate action, you can steal HP from an undead that you control.
+[Walking Dead](#) | You gain corporeal undead traits.
 
 ## Hedgecraft
 Tool          | Description

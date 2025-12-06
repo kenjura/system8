@@ -11,9 +11,9 @@ Class      |   | Readiness
 [Fighter](./fighter) | 🟨🟨🟨 | Early Development
 [Invoker](./invoker) | 🟨🟨🟨 | Early Development
 [Psion](./psion) | 🟩🟩🟩🟩 | Fairly Developed (beta ready)
-[Rogue](./rogue) | 🟥 | Not started
+[Rogue](./rogue) | 🟨🟨🟨 | Early Development
 [Thaumaturgist](./thaumaturgist) | 🟩🟩🟩🟩 | Fairly Developed (beta ready)
-[Theurgist](./theurgist) | 🟥 | Not Started
+[Theurgist](./theurgist) | 🟨🟨🟨 | Early Development
 
 <!--
 Not Started: ⚪ or ⬜
