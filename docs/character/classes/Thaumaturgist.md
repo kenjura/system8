@@ -276,8 +276,3 @@ Tool          | Description
 [Reactive Absorb](#) | You can use [Absorb Magic](#) as a reaction against any spell targeting you.
 
 
-# Spells that need porting
-- Grudge
-- Foresight
-- Mystic Eyes
-- Spellsteal

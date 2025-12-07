@@ -6,9 +6,8 @@
     "start": "ursa serve docs"
   },
   "dependencies": {
+    "@kenjura/ursa": "github:kenjura/ursa#0.25.0",
     "ursa": "github:kenjura/ursa"
-  },
-  "devDependencies": {
   },
   "browserslist": {
     "production": [
