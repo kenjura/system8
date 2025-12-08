@@ -1,5 +1,5 @@
-# Theurgist
-![Theurgist](</img/character/classes/theurgist.webp>)
+# Priest
+![Priest](</img/character/classes/priest.webp>)
 
 
 Attribute     | Value
@@ -9,7 +9,7 @@ HP/level      | 4
 Weapon Prof.  | Simple
 Armor Prof.   | None
 Saving Throws | Con, Wis
-Bonus Skills  | Theurgy
+Bonus Skills  | Faith
 
 
 Level | Special Ability
@@ -38,7 +38,7 @@ Level | Special Ability
 
 # Ethos
 
-Theurgists wield divine magic, sourced from the gods themselves. This magic comes with restrictions: it is meant to be used according to the wishes of said gods.
+Priests wield divine magic, sourced from the gods themselves. This magic comes with restrictions: it is meant to be used according to the wishes of said gods.
 
 At level 1, you select 3 Ethoses, representing the most important tenets of your faith. An Ethos is a guideline for how your power should be used. Depending on the specific Ethos, and the subjective judgment of the GM, any given spell your cast can be either Graced, Disgraced, or neutral. This affects the outcome of the spell, as noted in the spell's description.
 
@@ -75,7 +75,7 @@ You must attempt to de-escalate violence when possible. If violence is necessary
 
 # Domain
 
-Every god and faith has its particulars. A spell list covering every spell a priest could ever need would duplicate every other class' list. Instead, the spell list below consists only of the spells available to all Theurgists, and only to them.
+Every god and faith has its particulars. A spell list covering every spell a priest could ever need would duplicate every other class' list. Instead, the spell list below consists only of the spells available to all Priests, and only to them.
 
 For the rest, there are Domains. Effectively, a Domain is any spell school from any other class, for which your god or faith is uniquely suited. For example, if you worship the God of Fire, you can take the Fire school from Elementalism as your Domain. A worshipper of a faith that exalts the creation of undead can take the Undeath school from Thauamturgy as their Domain.
 

@@ -1,3 +1,10 @@
+# 8.3.3
+2025-12-05
+
+- The Great Renaming: renamed "Thaumaturgist" to "Witch", renamed "Invoker" to "Warlock", renamed "Theurgist" to "Priest". Updated all paths, links, and references accordingly. All class documents are now lowercase.
+- Imported ursa 0.27.0 to capitalize leftnav labels.
+- Major updates to Witch spell list, new talents, new schools. Vitae can actually be acquired now.
+
 # 8.3.2 (2025-12-04)
 - rebooted Mana into class-specific mechanics (Focus, Vitae, etc)
 - Added legacy version 8.0 content to output (CHANGELOG, Feats, Gear, Legacy, Powers, Skills, WIP, Wounds)

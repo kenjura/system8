@@ -1,12 +1,12 @@
 {
   "name": "system8",
-  "version": "8.3.2",
+  "version": "8.3.3",
   "private": true,
   "scripts": {
     "start": "ursa serve docs"
   },
   "dependencies": {
-    "@kenjura/ursa": "github:kenjura/ursa#0.26.0",
+    "@kenjura/ursa": "github:kenjura/ursa#0.27.0",
     "ursa": "github:kenjura/ursa"
   },
   "browserslist": {

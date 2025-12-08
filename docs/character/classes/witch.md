@@ -4,8 +4,8 @@ toc_min_heading_level: 2
 toc_max_heading_level: 5
 ---
 
-# Thaumaturgist
-![Thaumaturgist](</img/character/classes/thaumaturgist.jpg>)
+# Witch
+![Witch](</img/character/classes/witch.jpg>)
 
 
 Attribute     | Value
@@ -45,11 +45,11 @@ Level | Special Ability
 
 # Vitae
 
-Vitae is the life energy that Thaumaturgists manipulate to fuel their magic. It is drawn from various sources, depending on the type of Thaumaturgy being practiced. Each school of Thaumaturgy has a cantrip which can be used to gain Vitae.
+Vitae is the life energy that witchs manipulate to fuel their magic. It is drawn from various sources, depending on the type of Thaumaturgy being practiced. Each school of Thaumaturgy has a cantrip which can be used to gain Vitae.
 
 You have zero Vitae by default, and must gain it through your powers. You can spend Vitae to fuel more powerful effects, or to enhance your spells.
 
-Your maximum Vitae is equal to your Thaumaturgist rank + your spellcasting ability modifier.
+Your maximum Vitae is equal to your witch rank + your spellcasting ability modifier.
 
 
 
@@ -64,10 +64,10 @@ Vitae: you can use Absorb Magic to absorb 1 Vitae from a spell, which may dispel
 
 Rank | Power          | Description
 -----|----------------|------------
-0    | [Absorb Magic](../powers/thaumaturgist/absorb-magic)   | Absorb energy from a touched spell, weakening or dispelling it
-1   | [Spellsteal](../powers/thaumaturgist/spellsteal)     | Take control of an active spell, or a spell foe can cast
-2   | [Spell Immunity](../powers/thaumaturgist/spell-immunity)   | Subject gains immunity to a single spell, or possibly more
-3    | [Antimagic Zone](../powers/thaumaturgist/antimagic-zone) | Area nullifies all magic
+0    | [Absorb Magic](../powers/witch/absorb-magic)   | Absorb energy from a touched spell, weakening or dispelling it
+1   | [Spellsteal](../powers/witch/spellsteal)     | Take control of an active spell, or a spell foe can cast
+2   | [Spell Immunity](../powers/witch/spell-immunity)   | Subject gains immunity to a single spell, or possibly more
+3    | [Antimagic Zone](../powers/witch/antimagic-zone) | Area nullifies all magic
 4    | Spell Reflection              | Subject reflects spells targeted at them back upon their casters
 5    | Disjunction    | All magical effects in area are dispelled; magic items become mundane for a time
 
@@ -75,11 +75,11 @@ Rank | Power          | Description
 ## Blood
 Rank | Power          | Description
 -----|----------------|------------
-0    | [Let Blood](../powers/thaumaturgist/let-blood)        | Let your own blood, then use it for various purposes
-1    | [Transfusion](../powers/thaumaturgist/transfusion)    |
-2    | [Bloodborne](../powers/thaumaturgist/bloodborne)     | Infect a target with a bloodborne pathogen that hinders them in various ways
-3    | [Grudge](../powers/thaumaturgist/grudge)        | Cause damage to a target based on the harm they have caused
-4    | [Exsanguinate](../powers/thaumaturgist/exsanguinate)   | Drain all the blood from a creature, max out your Vitae
+0    | [Let Blood](../powers/witch/let-blood)        | Let your own blood, then use it for various purposes
+1    | [Transfusion](../powers/witch/transfusion)    |
+2    | [Bloodborne](../powers/witch/bloodborne)     | Infect a target with a bloodborne pathogen that hinders them in various ways
+3    | [Grudge](../powers/witch/grudge)        | Cause damage to a target based on the harm they have caused
+4    | [Exsanguinate](../powers/witch/exsanguinate)   | Drain all the blood from a creature, max out your Vitae
 5    | Bloodline Curse | Affect subject...and everyone related to them
 
 Ideas:
@@ -92,11 +92,11 @@ Vitae: you can use Kiss of Death to gain 1 Vitae from any living creature.
 
 Rank | Power              | Description
 -----|--------------------|------------
-0    | [Kiss of Death](../powers/thaumaturgist/kiss-of-death)      | Touch delivers necrotic damage which can give you temp HP or enhance your attacks
-1    | [Touch of the Grave](../powers/thaumaturgist/touch-of-the-grave) | Use the touch of various undead creatures to drain strength, constitution, etc
-2    | [Hasten Death](../powers/thaumaturgist/hasten-death)       | Causes any ongoing harmful effect to "tick" multiple times instantly
-3    | [Finger of Death](../powers/thaumaturgist/finger-of-death)    | Instant death
-3    | [Defile](../powers/thaumaturgist/defile) | Drain all vitality from an area; use that vitality for various purposes.
+0    | [Kiss of Death](../powers/witch/kiss-of-death)      | Touch delivers necrotic damage which can give you temp HP or enhance your attacks
+1    | [Touch of the Grave](../powers/witch/touch-of-the-grave) | Use the touch of various undead creatures to drain strength, constitution, etc
+2    | [Hasten Death](../powers/witch/hasten-death)       | Causes any ongoing harmful effect to "tick" multiple times instantly
+3    | [Finger of Death](../powers/witch/finger-of-death)    | Instant death
+3    | [Defile](../powers/witch/defile) | Drain all vitality from an area; use that vitality for various purposes.
 
 
 ## Eyes
@@ -116,8 +116,8 @@ Vitae: you can use Drain Soul on a creature with a soul to gain 1 Vitae.
 
 Rank | Power          | Description
 -----|----------------|------------
-0    | [Drain Soul](../powers/thaumaturgist/drain-soul)     | Enervate enemy and gain a soul gem, which can grant you access to their identity and abilities
-1    | [Soulgaze](../powers/thaumaturgist/soulgaze)       | Lock eyes with target and learn their secrets--but they learn yours, too
+0    | [Drain Soul](../powers/witch/drain-soul)     | Enervate enemy and gain a soul gem, which can grant you access to their identity and abilities
+1    | [Soulgaze](../powers/witch/soulgaze)       | Lock eyes with target and learn their secrets--but they learn yours, too
 2    | Magic Jar      | You detach your soul from your body, which becomes helpless. You can possess creatures and objects, perceiving from their point of view, and attempt to control them from within. At higher rank, you can force the soul out of a target without leaving your body.
 3    | Demi           | You create an evil clone of the subject.
 
@@ -130,10 +130,10 @@ At higher ranks, you can use Transform Object to destroy more valuable objects t
 
 Rank | Power             | Description
 -----|-------------------|------------
-0    | [Transform Object](../powers/thaumaturgist/transform-object)     | Change properties of an object: size, hardness, form, etc
-1    | [Animate Object](../powers/thaumaturgist/animate-object)    | Object becomes animated and acts as you direct
+0    | [Transform Object](../powers/witch/transform-object)     | Change properties of an object: size, hardness, form, etc
+1    | [Animate Object](../powers/witch/animate-object)    | Object becomes animated and acts as you direct
 2    | [Polymorph](#)              | Change a creature's physical body
-3    | [Objectify](../powers/thaumaturgist/objectify)              | Creature becomes an inanimate object (reversible)
+3    | [Objectify](../powers/witch/objectify)              | Creature becomes an inanimate object (reversible)
 4    | [Eidolon](#)                | Create a living construct from inanimate materials, which acts as your servant
 5    | [Transubstantiation](#)        | Change one material into another; turn lead to gold; turn your enemies to liquid
 
@@ -144,10 +144,10 @@ Vitae: you can use Control Undead to take control of a mindless undead creature.
 
 Rank | Power              | Description
 -----|--------------------|------------
-0    | [Control Undead](../powers/thaumaturgist/control-undead)   | Control a mindless undead creature
-1    | [Reanimate](../powers/thaumaturgist/reanimate)          | Corpse rises as a simple undead under your control
-2    | [Necrosis](../powers/thaumaturgist/necrosis)           | Undead appendage grows from subject, using its abilities as you direct
-3    | [Corpse Explosion](../powers/thaumaturgist/corpse-explosion)   | Corpse or undead creature explodes, potentially exploding other targets
+0    | [Control Undead](../powers/witch/control-undead)   | Control a mindless undead creature
+1    | [Reanimate](../powers/witch/reanimate)          | Corpse rises as a simple undead under your control
+2    | [Necrosis](../powers/witch/necrosis)           | Undead appendage grows from subject, using its abilities as you direct
+3    | [Corpse Explosion](../powers/witch/corpse-explosion)   | Corpse or undead creature explodes, potentially exploding other targets
 4    | [Memento Mori](#)          | Subject dies and immediately becomes an undead under your control
 
 Ideas:
@@ -159,19 +159,19 @@ Vitae: you can use Curse to gain 1 Vitae from a creature that can hear you.
 
 Rank | Power          | Description
 -----|----------------|------------
-0    | [Curse](../powers/thaumaturgist/curse)          | Curse an enemy with a variety of effects
-1    | [Steal Voice](../powers/thaumaturgist/steal-voice)     | Take control of a creature's voice, or steal it for yourself
-2    | [The Word](../powers/thaumaturgist/the-word)        | Compel a creature to obey your spoken commands
-3    | [Vox Populi](../powers/thaumaturgist/vox-populi)      | Control what creatures may say
+0    | [Curse](../powers/witch/curse)          | Curse an enemy with a variety of effects
+1    | [Steal Voice](../powers/witch/steal-voice)     | Take control of a creature's voice, or steal it for yourself
+2    | [The Word](../powers/witch/the-word)        | Compel a creature to obey your spoken commands
+3    | [Vox Populi](../powers/witch/vox-populi)      | Control what creatures may say
 
 
 ## Winter
 Rank | Power          | Description
 -----|----------------|------------
-0    | [Chill Touch](../powers/thaumaturgist/chill-touch)          | Draw Vitae from the environment or a creature, make constructs of ice
-1    | [Winds of Winter](../powers/thaumaturgist/winds-of-winter)   | Create bitter winds that blow snow, or thin the air to near vacuum
-2    | [Ice Storm](../powers/thaumaturgist/ice-storm) | Summon a storm of ice and sleet that damages and hinders enemies
-3    | [Frost Bomb](../powers/thaumaturgist/frost-bomb) | Orb of energy absorbs all heat in an area, causing cold effects and eventually exploding in a burst of ice
+0    | [Chill Touch](../powers/witch/chill-touch)          | Draw Vitae from the environment or a creature, make constructs of ice
+1    | [Winds of Winter](../powers/witch/winds-of-winter)   | Create bitter winds that blow snow, or thin the air to near vacuum
+2    | [Ice Storm](../powers/witch/ice-storm) | Summon a storm of ice and sleet that damages and hinders enemies
+3    | [Frost Bomb](../powers/witch/frost-bomb) | Orb of energy absorbs all heat in an area, causing cold effects and eventually exploding in a burst of ice
 4    | [Deep Freeze](#) | Freeze a creature solid, ending their life
 
 
@@ -242,7 +242,7 @@ Talent | Description
 Talent          | Description
 --------------|------------
 [Defensive Transmutation](#) | You gain a reaction to an incoming projectile attack against you or an ally within range. At the cost of 1 Vitae, you can transmute the projectile into a harmless substance (bubbles, dust, etc) just before it hits you.
-[Ironguard](#) | You can use [Objectify](../powers/thaumaturgist/objectify) on yourself as a swift action, turning your flesh into an amorphous, gelatin-like substance that looks and functions the same, but you gain Resist 90% to slashing and piercing damage.
+[Ironguard](#) | You can use [Objectify](../powers/witch/objectify) on yourself as a swift action, turning your flesh into an amorphous, gelatin-like substance that looks and functions the same, but you gain Resist 90% to slashing and piercing damage.
 
 ## Familiar
 Talent          | Description

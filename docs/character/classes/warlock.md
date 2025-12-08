@@ -1,6 +1,6 @@
 
-# Invoker
-![Invoker](</img/character/classes/invoker.jpg>)
+# Warlock
+![Warlock](</img/character/classes/warlock.jpg>)
 
 
 Attribute     | Value
@@ -44,7 +44,7 @@ Soul Shards are a unit of measuring Anima, or the essence contained within souls
 
 You can acquire Soul Shards in several ways:
 - Your own soul is worth (5 + Cha) x level soul shards. You can spend from your own soul freely, but if you ever possess less than half of your own total, you are vulnerable to control by extraplanar entities, and at 0, you are helpless to resist them.
-- You can drain soul shards from other creatures with various Invoker powers.
+- You can drain soul shards from other creatures with various warlock powers.
 - Each time you convince an individual with a soul to sin, you gain an amount of shards commensurate with the intensity of the sin (1 for a minor venial sin, 5 for a clear mortal sin, more possible in extreme cases).
 
 You can spend Soul Shards in several ways:
@@ -79,14 +79,14 @@ Rank | Power                    | Description
 5    | [The Airborne][MA]       | Gain the service of a ?, faerie dragon, or nether drake
 5    | [The Master][MM]         | Gain the service of a Fallen One, Leprechaun, or Great Old One
 
-[MT]: /character/powers/invoker/the-trickster
-[MW]: /character/powers/invoker/the-warrior
-[MS]: /character/powers/invoker/the-seducer
-[MR]: /character/powers/invoker/the-ride
-[MWB]: /character/powers/invoker/the-wrecking-ball
-[MH]: /character/powers/invoker/the-host
-[MA]: /character/powers/invoker/the-airborne
-[MM]: /character/powers/invoker/the-master
+[MT]: /character/powers/warlock/the-trickster
+[MW]: /character/powers/warlock/the-warrior
+[MS]: /character/powers/warlock/the-seducer
+[MR]: /character/powers/warlock/the-ride
+[MWB]: /character/powers/warlock/the-wrecking-ball
+[MH]: /character/powers/warlock/the-host
+[MA]: /character/powers/warlock/the-airborne
+[MM]: /character/powers/warlock/the-master
 
 ## Celestial
 
