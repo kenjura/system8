@@ -9,11 +9,11 @@ Class      |   | Readiness
 [Artificer](./artificer) | 🟨🟨🟨 | Early Development
 [Elementalist](./elementalist) | 🟩🟩🟩🟩 | Fairly Developed (beta ready)
 [Fighter](./fighter) | 🟨🟨🟨 | Early Development
-[Invoker](./invoker) | 🟨🟨🟨 | Early Development
+[Priest](./priest) | 🟨🟨🟨 | Early Development
 [Psion](./psion) | 🟩🟩🟩🟩 | Fairly Developed (beta ready)
 [Rogue](./rogue) | 🟨🟨🟨 | Early Development
-[Thaumaturgist](./thaumaturgist) | 🟩🟩🟩🟩 | Fairly Developed (beta ready)
-[Theurgist](./theurgist) | 🟨🟨🟨 | Early Development
+[Warlock](./warlock) | 🟨🟨🟨 | Early Development
+[Witch](./witch) | 🟩🟩🟩🟩 | Fairly Developed (beta ready)
 
 <!--
 Not Started: ⚪ or ⬜

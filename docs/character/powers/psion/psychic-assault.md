@@ -20,7 +20,7 @@ At-will, std, ranged; heavy psychic damage (Wis half), plus disadvantage to the 
 - By expending Focus and concentrating, you can sustain this effect on a single target, causing the damage to repeat each round and the disadvantage to apply to all rolls to the chosen ability score.
 
 # Overload
-At-will, std, ranged, expends Focus; you fire a targeted blast of neural energy at the subject's mind, pinpointing a specific area of the brain to cause a desired effect. Choose one:
+At-will, std, ranged, expends 1 Focus; you fire a targeted blast of neural energy at the subject's mind, pinpointing a specific area of the brain to cause a desired effect. Choose one:
 - Amygdala: at-will, std, ranged, concentration; subject loses the ability distinguish between threats real and imagined, and cannot filter their emotions from their mind. They suffer the *frightened* condition (Wis ends).
 - Broca: at-will, std, ranged, concentration; subject's language ability is overloaded, leading them to be unable to form meaningful words. They are unable to use verbal components for spells or say anything intelligible, regardless of the language capacity of whoever is listening to them. Wis negates each round.
 - Hippocampus: at-will, std, ranged, concentration, expends 2 Focus; subject's memory system  causing them to suffer extreme confusion and amnesia. Each round, they cannot choose their actions if they fail a Wisdom check, but rather they are determined randomly (see *Confusion*).

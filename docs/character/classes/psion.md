@@ -15,25 +15,25 @@ Saving Throws | Con, Wis
 
 Level | Special Ability
 ----- | ---------------
-1     | <span style="color: var(--talent)">1st talent</span>, <span style="color: var(--power)">1st power</span>
+1     | <span style="color: var(--talent)">1st talent</span>, <span style="color: var(--power)">1st power</span>, <span style="color: var(--special)">Focus</span>
 2     | <span style="color: var(--talent)">2nd talent</span>, <span style="color: var(--power)">2nd power</span> 
 3     | <span style="color: var(--talent)">3rd talent</span>, <span style="color: var(--power)">3rd power</span>
 4     | <span style="color: var(--talent)">4th talent</span>
 5     | <span style="color: var(--talent)">5th talent</span>, <span style="color: var(--power)">4th power</span>
 6     | <span style="color: var(--talent)">6th talent</span>
-7     | <span style="color: var(--talent)">7th talent</span>
-8     | <span style="color: var(--talent)">8th talent</span>, <span style="color: var(--power)">5th power</span>
-9     | <span style="color: var(--talent)">9th talent</span>
+7     | <span style="color: var(--talent)">7th talent</span>, <span style="color: var(--power)">5th power</span>
+8     | <span style="color: var(--talent)">8th talent</span>
+9     | <span style="color: var(--talent)">9th talent</span>, <span style="color: var(--power)">6th power</span>
 10    | <span style="color: var(--talent)">10th talent</span>
-11    | <span style="color: var(--talent)">11th talent</span>
-12    | <span style="color: var(--talent)">12th talent</span>, <span style="color: var(--power)">6th power</span>
-13    | <span style="color: var(--talent)">13th talent</span>
+11    | <span style="color: var(--talent)">11th talent</span>, <span style="color: var(--power)">7th power</span>
+12    | <span style="color: var(--talent)">12th talent</span>
+13    | <span style="color: var(--talent)">13th talent</span>, <span style="color: var(--power)">8th power</span>
 14    | <span style="color: var(--talent)">14th talent</span>
-15    | <span style="color: var(--talent)">15th talent</span>
+15    | <span style="color: var(--talent)">15th talent</span>, <span style="color: var(--power)">9th power</span>
 16    | <span style="color: var(--talent)">16th talent</span>
-17    | <span style="color: var(--talent)">17th talent</span>, <span style="color: var(--power)">7th power</span>
+17    | <span style="color: var(--talent)">17th talent</span>, <span style="color: var(--power)">10th power</span>
 18    | <span style="color: var(--talent)">18th talent</span>
-19    | <span style="color: var(--talent)">19th talent</span>
+19    | <span style="color: var(--talent)">19th talent</span>, <span style="color: var(--power)">11th power</span>
 20    | <span style="color: var(--talent)">20th talent</span>
 
 
@@ -46,13 +46,22 @@ Level | Special Ability
 
 
 ## Focus
-At-will, as a standard action, you can meditate, achieving a state of Focus.
+Focus is an extension of the basic [concentration](./basics.md#concentration) mechanic. Through meditation and self-reflection, you have expanded ability to concentrate your mind beyond normal limits.
 
-Most Psionic abilities require Focus. Some expend Focus, meaning the state ends. If a power "requires Focus", it remains active while your Focus state is active, and ends as soon as you lose or expend Focus (unless otherwise specified).
+At rank 1, you gain 1 Focus, and 1 more each rank thereafter.
 
-If you lose consciousness or enter the Dying state, you lose Focus.
+Think of Focus as extra concentration slots. With 1 Focus, you can concentrate on two powers at a time.
 
-At higher levels, your ability to focus increases beyond normal human capacity. Each time your proficiency bonus or rank increases (level 5, 9, 13, and 17), you gain +1 to your maximum Focus. You are always considered "Focused" if your current Focus is above 0, and "expending Focus" reduces it by 1 instead of automatically ending it.
+Many psionic powers require concentration. Some require multiple slots of concentration, and will be listed as "concentration (2 slots)" or similar.
+
+Some psionic powers have powerful modes of operation that require expending Focus. A power that expends n points of Focus reduces your Focus by that amount. So, if you have 2 Focus, you can expend two 1-Focus powers, or one 2-Focus power. In fact, you can overextend, expending your baseline concentration stat itself, leaving you unable to concentrate on anything.
+
+If a power expends Focus *and* requires concentration, you must have enough unexpended Focus or baseline concentration to maintain the power after expending.
+
+Some psionic powers require you to be in a "Focused" state. This means you have at least one unexpended Focus (not your baseline concentration).
+
+There are rank 0 powers in every school that help you gain Focus. You can also use the Meditate action to enter a Focused state:
+* ''Meditate'': At-will, std; you meditate, gaining 1 Focus, or restoring your baseline concentration if expended.
 
 
 
@@ -62,19 +71,20 @@ At higher levels, your ability to focus increases beyond normal human capacity. 
 ## Psychometabolism
 Rank | Talent             | Description
 -----|--------------------|------------
-1    | [Iron Body][PM1]   | Harden your body to empower unarmed attacks, resist damage, repel poison, etc.
-1    | [Adaptation][PM4]  | Adapt your body to heat, cold, pressure, or other extreme environments.
-1    | [Camouflage][PM5]  | Change your external appearance for camouflage, disguise, or defense.
-1    | [Wholeness of Body][PMWB] | Heal yourself or others
-2    | [Metamorphosis][PM7] | Change your physical form--its capabilities, size, and appearance.
-3    | [Fission][PM8]     | Split into two or more copies of yourself, each with a portion of your power.
+0    | [Ki Strike][PM-KS] | Make a physical, melee attack, and gain Focus when it strikes.
+1    | [Iron Body][PM-IB]   | Harden your body to empower unarmed attacks, resist damage, repel poison, etc.
+1    | [Adaptation][PM-A]  | Adapt your body to heat, cold, pressure, or other extreme environments.
+1    | [Camouflage][PM-C]  | Change your external appearance for camouflage, disguise, or defense.
+1    | [Wholeness of Body][PM-WB] | Heal yourself or others
+2    | [Metamorphosis][PM-M] | Change your physical form--its capabilities, size, and appearance.
+3    | [Fission][PM-F]     | Split into two or more copies of yourself, each with a portion of your power.
 
-[PM1]: /character/powers/psion/iron-body
-[PM2]: /character/powers/psion/thick-skin
-[PM4]: /character/powers/psion/adaptation
-[PM5]: /character/powers/psion/camouflage
-[PMWB]: /characters/powers/psions/wholeness-of-body
-[PM6]: /character/powers/psion/phase-shift
+[PM-KS]: /character/powers/psion/ki-strike
+[PM-IB]: /character/powers/psion/iron-body
+[PM-A]: /character/powers/psion/thick-skin
+[PM-M]: /character/powers/psion/adaptation
+[PM-C]: /character/powers/psion/camouflage
+[PM-WB]: /characters/powers/psions/wholeness-of-body
 [PM7]: #
 [PM8]: #
 
@@ -84,14 +94,11 @@ Ideas:
 ## Psychoportation
 Rank | Talent                                        | Description
 -----|-----------------------------------------------|------------
-1    | [Speed of Thought][SpeedOfThought]            | Move very quickly by compressing space.
-1    | [Phase Shift][PhaseShiftIncorporeal]          | Shift partially (or fully) into the Ethereal or Shadow plane.
-2    | [Levitation][Levitation]                      | Levitate up to (base move), move horizontally at (base move)
-2    | [Mark/Recall][MarkRecall]                     | At-will, swift; you mark your place in space and time. Record your position, HP, conditions, etc. Later, you can use recall: Recharge 33%, swift, you rewind time to the Marked position, affecting only you.
-3    | [Flight][Flight]                              | Fly at (base move), overland is faster
-3    | [Temporal Acceleration][TemporalAcceleration] | Free; you immediately take a single action out of the flow of time. (Time Stop rules). One round per encounter per rank above 2.
-4    | [Super Flight][SuperFlight]                   | Fly at the speed of a plane
-5    | [Ultra Flight][UltraFlight]                   | Fly at the speed of a rocket
+0    | [Speed of Thought][PP-S]                | Move very quickly by compressing space, and gain Focus when you do.
+1    | [Levitation][PP-L]                      | Levitate up to (base move), move horizontally at (base move)
+2    | [Phase Shift][PP-PS]                    | Shift partially (or fully) into the Ethereal or Shadow plane.
+2    | [Mark/Recall][PP-MR]                     | At-will, swift; you mark your place in space and time. Record your position, HP, conditions, etc. Later, you can use recall: Recharge 33%, swift, you rewind time to the Marked position, affecting only you.
+3    | [Temporal Acceleration][PP-TA] | Free; you immediately take a single action out of the flow of time. (Time Stop rules). One round per encounter per rank above 2.
 
 
 - [Portal][Portal]
@@ -105,32 +112,29 @@ Example ([Portal][Portal]):
   - Increase portal size for more focus
   - Talent: use a portal as a shield (uses Parry rules)
 
-[SpeedOfThought]: /character/powers/psion/speed-of-thought
-[PhaseShiftIncorporeal]: /character/powers/psion/phase-shift-incorporeal
-[Levitation]: /character/powers/psion/levitation
-[DimensionShift]: /character/powers/psion/dimension-shift
-[MarkRecall]: /character/powers/psion/mark-recall
-[Flight]: /character/powers/psion/flight
-[TemporalAcceleration]: /character/powers/psion/temporal-acceleration
-[SuperFlight]: /character/powers/psion/super-flight
-[UltraFlight]: /character/powers/psion/ultra-flight
+[PP-S]: /character/powers/psion/speed-of-thought
+[PP-PS]: /character/powers/psion/phase-shift
+[PP-L]: /character/powers/psion/levitation
+[PP-MR]: /character/powers/psion/mark-recall
+[PP-TA]: /character/powers/psion/temporal-acceleration
 
 ## Psychokinesis
 
 Rank | Talent                              | Description
 -----|-------------------------------------|------------
-1    | [Telekinesis][PK2]                  | Spookily move things at a distance.
-1    | [Pyrokinesis][PK3]                  | Manipulate thermal energy.
-1    | [Electrokinesis][PK4]               | Manipulate electromagnetic energy.
-2    | [Gravity][PK5]                      | Manipulate the force of gravity.
+1    | [Telekinesis][PK-TK]                  | Spookily move things at a distance.
+1    | [Pyrokinesis][PK-PK]                  | Manipulate thermal energy.
+1    | [Electrokinesis][PK-EK]               | Manipulate electromagnetic energy.
+2    | [Gravity][PK-G]                      | Manipulate the force of gravity.
 
-- [Cryokinesis][Cryokinesis]
+- [Cryokinesis](./baljdsfjalsd.md)
 - Something involving chemical bonds
 
 
-[PK2]: /character/powers/psion/telekinesis
-[PK2]: /character/powers/psion/pyrokinesis
-[PK3]: /character/powers/psion/electrokinesis
+[PK-TK]: /character/powers/psion/telekinesis
+[PK-PK]: /character/powers/psion/pyrokinesis
+[PK-EK]: /character/powers/psion/electrokinesis
+[PK-G]: #
 
 
 
@@ -180,7 +184,7 @@ Rank | Talent                                    | Description
 
 Rank | Talent                         | Description
 -----|--------------------------------|------------
-0    | [Mindlink][TP1]                | Telepathically communicate with other minds.
+0    | [Mindlink][TP1]                | Telepathically communicate with other minds; can be used to gain Focus.
 1    | [Psychic Assault][TP2]         | Cause psychic damage and debilitation.
 1    | [Empathy][TP3]                 | Sense emotions, cause them in others.
 1    | [Mind Reading][TPM]            | Read people's thoughts
@@ -216,6 +220,7 @@ Talent                  | Description
 
 Talent                  | Description
 ------------------------|------------
+[Camouflage](#)         | Change your external appearance for camouflage, disguise, or defense.
 
 
 ## Psychokinesis

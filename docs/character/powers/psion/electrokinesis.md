@@ -22,10 +22,8 @@ You control the Electromagnetic Force, allowing you to control electricity and m
   - By expending Focus, you can add a stun to this effect. Subject suffers stunned for 1 rd (Con negates).
 - Magnetokinesis: as [Telekinesis](#), but only for ferro-magnetic targets.
 - Lightning Strike: at-will, std, ranged; heavy lightning damage. Or, no damage, but subject is stunned for 1 rd (Con negates).
-  - By expending Focus, you can affect all targets within 2 squares.
-
-# Enhancements
-- By expending 2 Focus, you can cause your Lightning Strike to chain up to 3 times to different targets in range.
+  - By expending 1 Focus, you can affect all targets within 2 squares. 2 Focus -> 4 squares. etc
+  - By expending 2 Focus, you can cause your Lightning Strike to chain up to 3 times to different targets in range. 3 Focus -> 6 jumps. etc
 
 # Talents
 - [Lightning Shield](#): by reserving 1 Focus, you can automatically activate a Static Charge as a free action every round.

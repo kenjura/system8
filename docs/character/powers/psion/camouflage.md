@@ -7,7 +7,7 @@ type: Enhancement
 brief: Change your external appearance for camouflage, disguise, or defense.
 ---
 
-At-will, swift, reserves 1 Focus; you modify your body, modifying the light, sound, and odors emitted by your body.
+At-will, swift, concentration (1 slot); you modify your body, modifying the light, sound, and odors emitted by your body.
 
 You can use this for camouflage, gaining a +10 bonus to Stealth checks, by matching your visible exterior to the prevailing conditions around you, dampening sounds, and suppressing odors. This allows you to hide from Scent as well
 
