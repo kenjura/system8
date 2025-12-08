@@ -58,52 +58,6 @@ Your maximum Vitae is equal to your Thaumaturgist rank + your spellcasting abili
 # Spells
 
 
-## Blood
-Rank | Power          | Description
------|----------------|------------
-0    | [Let Blood](../powers/thaumaturgist/let-blood)        | Let your own blood, then use it for various purposes
-1    | [Transfusion](../powers/thaumaturgist/transfusion)    |
-2    | [Bloodborne](../powers/thaumaturgist/bloodborne)     | Infect a target with a bloodborne pathogen that hinders them in various ways
-3    | [Grudge](../powers/thaumaturgist/grudge)        | Cause damage to a target based on the harm they have caused
-4    | [Exsanguinate](../powers/thaumaturgist/exsanguinate)   | Drain all the blood from a creature, max out your Vitae
-5    | Bloodline Curse | Affect subject...and everyone related to them
-
-Ideas:
-- Blood Nova (target can be friendly or enemy, but only harms others)
-
-
-## Eyes
-Rank | Power          | Description
------|----------------|------------
-0    | Evil Eye       | Curse a target, gain Vitae 
-1    | Veil           | Convince the minds of onlookers that you are not there, or are someone else
-2    | Mystic Eyes    | See through illusions, see the unseen, see the future
-3    | Hallucination  | Redefine what everyone in an area sees and perceives
-4    | Foresight      | Gain precognitive awareness of danger, and react accordingly
-
-## Voice
-Vitae: you can use Curse to gain 1 Vitae from a creature that can hear you.
-
-Rank | Power          | Description
------|----------------|------------
-0    | [Curse](../powers/thaumaturgist/curse)          | Curse an enemy with a variety of effects
-1    | [Steal Voice](../powers/thaumaturgist/steal-voice)     | Take control of a creature's voice, or steal it for yourself
-2    | [The Word](../powers/thaumaturgist/the-word)        | Compel a creature to obey your spoken commands
-3    | [Vox Populi](../powers/thaumaturgist/vox-populi)      | Control what creatures may say
-
-
-
-## Winter
-Rank | Power          | Description
------|----------------|------------
-0    | [Chill Touch](../powers/thaumaturgist/chill-touch)          | Draw Vitae from the environment or a creature, make constructs of ice
-1    | [Winds of Winter](../powers/thaumaturgist/winds-of-winter)   | Create bitter winds that blow snow, or thin the air to near vacuum
-2    | [Ice Storm](../powers/thaumaturgist/ice-storm) | Summon a storm of ice and sleet that damages and hinders enemies
-3    | [Frost Bomb](../powers/thaumaturgist/frost-bomb) | Orb of energy absorbs all heat in an area, causing cold effects and eventually exploding in a burst of ice
-4    | [Deep Freeze](#) | Freeze a creature solid, ending their life
-
-
-
 ## Antimagic
 
 Vitae: you can use Absorb Magic to absorb 1 Vitae from a spell, which may dispel it.
@@ -118,19 +72,18 @@ Rank | Power          | Description
 5    | Disjunction    | All magical effects in area are dispelled; magic items become mundane for a time
 
 
-## Soul
-
-Vitae: you can use Drain Soul on a creature with a soul to gain 1 Vitae.
-
+## Blood
 Rank | Power          | Description
 -----|----------------|------------
-0    | [Drain Soul](../powers/thaumaturgist/drain-soul)     | Enervate enemy and gain a soul gem, which can grant you access to their identity and abilities
-1    | [Soulgaze](../powers/thaumaturgist/soulgaze)       | Lock eyes with target and learn their secrets--but they learn yours, too
-2    | Magic Jar      | You detach your soul from your body, which becomes helpless. You can possess creatures and objects, perceiving from their point of view, and attempt to control them from within. At higher rank, you can force the soul out of a target without leaving your body.
-3    | Demi           | You create an evil clone of the subject.
+0    | [Let Blood](../powers/thaumaturgist/let-blood)        | Let your own blood, then use it for various purposes
+1    | [Transfusion](../powers/thaumaturgist/transfusion)    |
+2    | [Bloodborne](../powers/thaumaturgist/bloodborne)     | Infect a target with a bloodborne pathogen that hinders them in various ways
+3    | [Grudge](../powers/thaumaturgist/grudge)        | Cause damage to a target based on the harm they have caused
+4    | [Exsanguinate](../powers/thaumaturgist/exsanguinate)   | Drain all the blood from a creature, max out your Vitae
+5    | Bloodline Curse | Affect subject...and everyone related to them
 
-
-
+Ideas:
+- Blood Nova (target can be friendly or enemy, but only harms others)
 
 
 ## Death
@@ -145,22 +98,28 @@ Rank | Power              | Description
 3    | [Finger of Death](../powers/thaumaturgist/finger-of-death)    | Instant death
 3    | [Defile](../powers/thaumaturgist/defile) | Drain all vitality from an area; use that vitality for various purposes.
 
-## Undeath
 
-Vitae: you can use Control Undead to take control of a mindless undead creature. Once under your control, you can snuff out its animating force to gain 1 Vitae. More powerful undead yield more Vitae.
-
-Rank | Power              | Description
------|--------------------|------------
-0    | [Control Undead](../powers/thaumaturgist/control-undead)   | Control a mindless undead creature
-1    | [Reanimate](../powers/thaumaturgist/reanimate)          | Corpse rises as a simple undead under your control
-2    | [Necrosis](../powers/thaumaturgist/necrosis)           | Undead appendage grows from subject, using its abilities as you direct
-3    | [Corpse Explosion](../powers/thaumaturgist/corpse-explosion)   | Corpse or undead creature explodes, potentially exploding other targets
-4    | [Memento Mori](#)          | Subject dies and immediately becomes an undead under your control
-
-Ideas:
-- Walking Dead: you become undead, gaining undead traits and powers, for a while
+## Eyes
+Rank | Power          | Description
+-----|----------------|------------
+0    | Evil Eye       | Curse a target, gain Vitae 
+1    | Veil           | Convince the minds of onlookers that you are not there, or are someone else
+2    | Mystic Eyes    | See through illusions, see the unseen, see the future
+3    | Hallucination  | Redefine what everyone in an area sees and perceives
+4    | Foresight      | Gain precognitive awareness of danger, and react accordingly
 
 
+
+## Soul
+
+Vitae: you can use Drain Soul on a creature with a soul to gain 1 Vitae.
+
+Rank | Power          | Description
+-----|----------------|------------
+0    | [Drain Soul](../powers/thaumaturgist/drain-soul)     | Enervate enemy and gain a soul gem, which can grant you access to their identity and abilities
+1    | [Soulgaze](../powers/thaumaturgist/soulgaze)       | Lock eyes with target and learn their secrets--but they learn yours, too
+2    | Magic Jar      | You detach your soul from your body, which becomes helpless. You can possess creatures and objects, perceiving from their point of view, and attempt to control them from within. At higher rank, you can force the soul out of a target without leaving your body.
+3    | Demi           | You create an evil clone of the subject.
 
 
 ## Transmutation
@@ -179,6 +138,42 @@ Rank | Power             | Description
 5    | [Transubstantiation](#)        | Change one material into another; turn lead to gold; turn your enemies to liquid
 
 
+## Undeath
+
+Vitae: you can use Control Undead to take control of a mindless undead creature. Once under your control, you can snuff out its animating force to gain 1 Vitae. More powerful undead yield more Vitae.
+
+Rank | Power              | Description
+-----|--------------------|------------
+0    | [Control Undead](../powers/thaumaturgist/control-undead)   | Control a mindless undead creature
+1    | [Reanimate](../powers/thaumaturgist/reanimate)          | Corpse rises as a simple undead under your control
+2    | [Necrosis](../powers/thaumaturgist/necrosis)           | Undead appendage grows from subject, using its abilities as you direct
+3    | [Corpse Explosion](../powers/thaumaturgist/corpse-explosion)   | Corpse or undead creature explodes, potentially exploding other targets
+4    | [Memento Mori](#)          | Subject dies and immediately becomes an undead under your control
+
+Ideas:
+- Walking Dead: you become undead, gaining undead traits and powers, for a while
+
+
+## Voice
+Vitae: you can use Curse to gain 1 Vitae from a creature that can hear you.
+
+Rank | Power          | Description
+-----|----------------|------------
+0    | [Curse](../powers/thaumaturgist/curse)          | Curse an enemy with a variety of effects
+1    | [Steal Voice](../powers/thaumaturgist/steal-voice)     | Take control of a creature's voice, or steal it for yourself
+2    | [The Word](../powers/thaumaturgist/the-word)        | Compel a creature to obey your spoken commands
+3    | [Vox Populi](../powers/thaumaturgist/vox-populi)      | Control what creatures may say
+
+
+## Winter
+Rank | Power          | Description
+-----|----------------|------------
+0    | [Chill Touch](../powers/thaumaturgist/chill-touch)          | Draw Vitae from the environment or a creature, make constructs of ice
+1    | [Winds of Winter](../powers/thaumaturgist/winds-of-winter)   | Create bitter winds that blow snow, or thin the air to near vacuum
+2    | [Ice Storm](../powers/thaumaturgist/ice-storm) | Summon a storm of ice and sleet that damages and hinders enemies
+3    | [Frost Bomb](../powers/thaumaturgist/frost-bomb) | Orb of energy absorbs all heat in an area, causing cold effects and eventually exploding in a burst of ice
+4    | [Deep Freeze](#) | Freeze a creature solid, ending their life
+
 
 
 ## Ritual
@@ -193,12 +188,9 @@ Rank | Power             | Description
 
 Each level, you may select a talent from the list below. There are also talents specific to Witch spells, noted in their descriptions.
 
-## Covens
-- [Winter Witch](#): You may choose spells from the [Frost](./Elementalist.md#frost) school of the [Elementalist](./Elementalist.md) class. Choose one [Elemental Boon](./Elementalist.md#elemental-boons) of the Frost school now. You may use Witch talents to gain more Frost boons later.
-- [Witch of the Woods](#): You may choose spells from the [Plants](./Elementalist.md#plants) school of the [Elementalist](./Elementalist.md) class. Choose one [Elemental Boon](./Elementalist.md#elemental-boons) of the Plants school now. You may use Witch talents to gain more Plants boons later.
-
-
 ## Felicity
+
+The Seven Wonders of Witchcraft.
 
 ### Clarity
 - [Weavesight](#): You can detect magical auras precisely and accurately on sight, without spending multiple rounds concentration.

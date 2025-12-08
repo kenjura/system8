@@ -1,6 +1,6 @@
 
 # Invoker
-![Invoker](</system8/img/character/classes/invoker.jpg>)
+![Invoker](</img/character/classes/invoker.jpg>)
 
 
 Attribute     | Value
