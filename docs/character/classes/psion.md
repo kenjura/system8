@@ -122,6 +122,7 @@ Example ([Portal][Portal]):
 
 Rank | Talent                              | Description
 -----|-------------------------------------|------------
+0    | [Shove][PK-S]                     | Push or pull a creature or object, and gain Focus.
 1    | [Telekinesis][PK-TK]                  | Spookily move things at a distance.
 1    | [Pyrokinesis][PK-PK]                  | Manipulate thermal energy.
 1    | [Electrokinesis][PK-EK]               | Manipulate electromagnetic energy.
@@ -130,7 +131,7 @@ Rank | Talent                              | Description
 - [Cryokinesis](./baljdsfjalsd.md)
 - Something involving chemical bonds
 
-
+[PK-S]: /character/powers/psion/shove
 [PK-TK]: /character/powers/psion/telekinesis
 [PK-PK]: /character/powers/psion/pyrokinesis
 [PK-EK]: /character/powers/psion/electrokinesis
@@ -167,7 +168,7 @@ Ideas:
 
 Rank | Talent                                    | Description
 -----|-------------------------------------------|------------
-0    | [Probability Analysis][CS0] | Calculate the probability of an event.
+0    | [Probability Analysis][CS0] | Calculate the probability of an event, and gain Focus.
 1    | [Precognition][CS1]       | See things before they happen, gaining defensive advantages
 1    | [Extra-Sensory Perception][CS2] | Perceive things spookily, at a distance
 1    | [Object Reading][CS3]           | Learn facts about an object.
