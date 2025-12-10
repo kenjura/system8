@@ -1,4 +1,13 @@
 ---
+name: Psion
+hit_die: d6
+hp_per_level: 4
+weapon_prof: None
+armor_prof: None
+saving_throws: Con, Wis
+bonus_skills: Psionics
+max_powers_known: (level) => level <= 3 ? level : 3 + Math.floor((level - 3) / 2)
+max_feats_known: (level) => level
 ---
 
 # Psion

@@ -1,3 +1,13 @@
+---
+name: Priest
+hit_die: d6
+hp_per_level: 4
+weapon_prof: Simple
+armor_prof: None
+saving_throws: Con, Wis
+bonus_skills: Faith
+---
+
 # Priest
 ![Priest](</img/character/classes/priest.webp>)
 

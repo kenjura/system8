@@ -1,7 +1,13 @@
 ---
-# Display h2 to h5 headings
-toc_min_heading_level: 2
-toc_max_heading_level: 5
+name: Witch
+hit_die: d6
+hp_per_level: 4
+weapon_prof: Simple
+armor_prof: None
+saving_throws: Con, Wis
+bonus_skills: Thaumaturgy
+max_powers_known: (level) => level <= 3 ? level : 3 + Math.floor((level - 3) / 2)
+max_feats_known: (level) => level
 ---
 
 # Witch

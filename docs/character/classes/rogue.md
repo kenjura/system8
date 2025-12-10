@@ -1,5 +1,10 @@
 ---
-# Display h2 to h5 headings
+name: Rogue
+hit_die: d8
+hp_per_level: 4
+weapon_prof: Dex-based martial weapons
+armor_prof: Light
+saving_throws: Dex, Int
 ---
 
 # Rogue

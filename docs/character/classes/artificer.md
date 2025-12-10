@@ -1,4 +1,10 @@
 ---
+name: Artificer
+hit_die: d8
+hp_per_level: 5
+weapon_prof: Guns, bows, finesse melee weapons, others TBD
+armor_prof: Light, medium
+saving_throws: Dex, Int
 ---
 
 

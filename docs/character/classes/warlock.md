@@ -1,3 +1,13 @@
+---
+name: Warlock
+hit_die: d6
+hp_per_level: 4
+weapon_prof: Simple Weapons, Rod
+armor_prof: None
+saving_throws: Int, Cha
+bonus_skills: Invocation
+---
+
 
 # Warlock
 ![Warlock](</img/character/classes/warlock.jpg>)

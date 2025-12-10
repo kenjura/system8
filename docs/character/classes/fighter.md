@@ -1,5 +1,10 @@
 ---
-# Display h2 to h5 headings
+name: Fighter
+hit_die: d10
+hp_per_level: 7
+weapon_prof: 2 martial (bonus feat grants all)
+armor_prof: Light (bonus feat grants all)
+saving_throws: Str, Con
 ---
 
 # Fighter

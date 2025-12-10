@@ -1,7 +1,10 @@
 ---
-# Display h2 to h5 headings
-toc_min_heading_level: 2
-toc_max_heading_level: 5
+name: Elementalist
+hit_die: d8
+hp_per_level: 5
+weapon_prof: tbd
+armor_prof: Light, Medium (natural materials only)
+saving_throws: Con, Wis
 ---
 
 # Elementalist
