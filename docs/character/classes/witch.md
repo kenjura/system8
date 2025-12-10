@@ -6,7 +6,7 @@ weapon_prof: Simple
 armor_prof: None
 saving_throws: Con, Wis
 bonus_skills: Thaumaturgy
-max_powers_known: (level) => level <= 3 ? level : 3 + Math.floor((level - 3) / 2)
+max_powers_known: "(level) => level <= 3 ? level : 3 + Math.floor((level - 3) / 2)"
 max_feats_known: (level) => level
 ---
 
@@ -199,78 +199,78 @@ Each level, you may select a talent from the list below. There are also talents 
 The Seven Wonders of Witchcraft.
 
 ### Clarity
-- [Weavesight](#): You can detect magical auras precisely and accurately on sight, without spending multiple rounds concentration.
-- [Anti-magic Specialist](#): You have advantage to dispel and counterspell checks.
-- [Scan](#): When using *Sense Magic* or *Weavesight*, you can detect which spells a given creature has available, and how many charges/Mana/etc, as a swift action.
+- [Weavesight](../feats/witch/weavesight): You can detect magical auras precisely and accurately on sight, without spending multiple rounds concentration.
+- [Anti-magic Specialist](../feats/witch/anti-magic-specialist): You have advantage to dispel and counterspell checks.
+- [Scan](../feats/witch/scan): When using *Sense Magic* or *Weavesight*, you can detect which spells a given creature has available, and how many charges/Mana/etc, as a swift action.
 
 ### Rapture
-- [Re-Vitae](#): Whenever you spend Vitae, you heal yourself for medium damage per Vitae expended.
+- [Re-Vitae](../feats/witch/re-vitae): Whenever you spend Vitae, you heal yourself for medium damage per Vitae expended.
 -
 
 ### Sympathy
-- [Sympathetic Magic](#): Whenever you encounter a hostile spell that can distinguish between friend and foe, you can roll a proficient Charisma skill check against the DC to convince the spell you are its friend. The result of this check remains true for the duration of that particular instance of the spell.
-- [Spell Stowaway](#): Whenever an enemy within range casts a beneficial spell, you may, as a reaction, manifest a copy of their spell affecting you or an ally.
-- [Vital Shield](#): Whenever you are harmed by a spell, you can expend 1 Vitae to reduce the damage by half, or to gain advantage to the saving throw.
+- [Sympathetic Magic](../feats/witch/sympathetic-magic): Whenever you encounter a hostile spell that can distinguish between friend and foe, you can roll a proficient Charisma skill check against the DC to convince the spell you are its friend. The result of this check remains true for the duration of that particular instance of the spell.
+- [Spell Stowaway](../feats/witch/spell-stowaway): Whenever an enemy within range casts a beneficial spell, you may, as a reaction, manifest a copy of their spell affecting you or an ally.
+- [Vital Shield](../feats/witch/vital-shield): Whenever you are harmed by a spell, you can expend 1 Vitae to reduce the damage by half, or to gain advantage to the saving throw.
 
 
 ### Revelation
-- [Foresight](#): once/day, react to anything
-- [Prognostication](#): at-will, swift, ranged; you predict the target's next action. When they take it, whatever it is, you may spend a reaction to react to it.
+- [Foresight](../feats/witch/foresight): once/day, react to anything
+- [Prognostication](../feats/witch/prognostication): at-will, swift, ranged; you predict the target's next action. When they take it, whatever it is, you may spend a reaction to react to it.
 -
 
 ### Transference
-- [Manifest Phylactery](#): at-will, swift, requires a sympathetic component; you manifest a temporary phylactery of the target, lasting until a short rest. You can convert this to a permanent phylactery if you conduct the normal ritual immediately after combat.
-- [Spell Channel](#): if you inflict harm with a spell, natural attack, or a weapon you're currently wielding, you can use that as a channel to puncture that opponent's defenses. This can be used to target them with a spell regardless of line of sight or effect at will. If expended, it can grant advantage to one spell or attack roll against them, as well as increasing damage by 50%.
+- [Manifest Phylactery](../feats/witch/manifest-phylactery): at-will, swift, requires a sympathetic component; you manifest a temporary phylactery of the target, lasting until a short rest. You can convert this to a permanent phylactery if you conduct the normal ritual immediately after combat.
+- [Spell Channel](../feats/witch/spell-channel): if you inflict harm with a spell, natural attack, or a weapon you're currently wielding, you can use that as a channel to puncture that opponent's defenses. This can be used to target them with a spell regardless of line of sight or effect at will. If expended, it can grant advantage to one spell or attack roll against them, as well as increasing damage by 50%.
 
 ### Verity
-- [Mystic Eyes](#): at will, you can see through glamours, figments, and invisibility spells.
+- [Mystic Eyes](../feats/witch/mystic-eyes): at will, you can see through glamours, figments, and invisibility spells.
 
 
 ### Entropy
-- [Bad Luck](#): Shit happens. It's a well-known axiom of witchcraft. But with careful study and perception, you can learn not to be in front of the fan when it happens. When you roll a d20, and the result is at or below your Entropy rank, you can "store" the result, rolling again. When you have a stored result, you can impose it upon any other PC or NPC whenever they roll a d20, expending it and forcing them to take your result.
-- [Death and Decay](#): All things decay. This is something you've accepted. But you don't have to dive into the grave on purpose. You gain Resist 50% (necrotic), and advantage to saves against death magic and ability damage/drain.
-- [Death Becomes You](#): The undead are the antithesis of the living, and naturally hate, fear, and long to feed upon them. You understand that, and sympathize with them, and, to an extent, they respect that. Mindless undead become indifferent to you unless actively commanded to attack. Your own undead servants gain inspiration once per encounter.
+- [Bad Luck](../feats/witch/bad-luck): Shit happens. It's a well-known axiom of witchcraft. But with careful study and perception, you can learn not to be in front of the fan when it happens. When you roll a d20, and the result is at or below your Entropy rank, you can "store" the result, rolling again. When you have a stored result, you can impose it upon any other PC or NPC whenever they roll a d20, expending it and forcing them to take your result.
+- [Death and Decay](../feats/witch/death-and-decay): All things decay. This is something you've accepted. But you don't have to dive into the grave on purpose. You gain Resist 50% (necrotic), and advantage to saves against death magic and ability damage/drain.
+- [Death Becomes You](../feats/witch/death-becomes-you): The undead are the antithesis of the living, and naturally hate, fear, and long to feed upon them. You understand that, and sympathize with them, and, to an extent, they respect that. Mindless undead become indifferent to you unless actively commanded to attack. Your own undead servants gain inspiration once per encounter.
 
 
 ## Blood Magic
 Talent          | Description
 --------------|------------
-[Talisman of Vitality](#) | Whenever you heal for any reason, you may exceed your max HP, gaining the excess as temporary Hit Points, which expire at the end of the encounter.
-[Talisman of Blood](#) | When you are missing Hit Points, you can add your HP debt to the damage of any attack or spell you inflict, to a maximum of 100% of the attack's original damage. This does not change your current HP.
-[Frozen Blood](#) | When you drop to 0 HP, you have the option to immediately begin concentrating on an effect which prevents you from dying. While active, you do not need to roll death saves, and you can act normally. Any damage you suffer should be tracked, because if you stop concentrating while you are in negative HP, you will begin to die as normal. If you heal above 0 HP, the effect ends.
+[Talisman of Vitality](../feats/witch/talisman-of-vitality) | Whenever you heal for any reason, you may exceed your max HP, gaining the excess as temporary Hit Points, which expire at the end of the encounter.
+[Talisman of Blood](../feats/witch/talisman-of-blood) | When you are missing Hit Points, you can add your HP debt to the damage of any attack or spell you inflict, to a maximum of 100% of the attack's original damage. This does not change your current HP.
+[Frozen Blood](../feats/witch/frozen-blood) | When you drop to 0 HP, you have the option to immediately begin concentrating on an effect which prevents you from dying. While active, you do not need to roll death saves, and you can act normally. Any damage you suffer should be tracked, because if you stop concentrating while you are in negative HP, you will begin to die as normal. If you heal above 0 HP, the effect ends.
 
 ## Winter
 Talent | Description
 -------|------------
-[Icewalker](#) | You can walk on water by freezing it beneath your feet. You can also move across ice and snow without penalty. You may imbue this ability to your mount, or to allies within 5 squares while concentrating.
+[Icewalker](../feats/witch/icewalker) | You can walk on water by freezing it beneath your feet. You can also move across ice and snow without penalty. You may imbue this ability to your mount, or to allies within 5 squares while concentrating.
 
 ## Transmutation
 Talent          | Description
 --------------|------------
-[Defensive Transmutation](#) | You gain a reaction to an incoming projectile attack against you or an ally within range. At the cost of 1 Vitae, you can transmute the projectile into a harmless substance (bubbles, dust, etc) just before it hits you.
-[Ironguard](#) | You can use [Objectify](../powers/witch/objectify) on yourself as a swift action, turning your flesh into an amorphous, gelatin-like substance that looks and functions the same, but you gain Resist 90% to slashing and piercing damage.
+[Defensive Transmutation](../feats/witch/defensive-transmutation) | You gain a reaction to an incoming projectile attack against you or an ally within range. At the cost of 1 Vitae, you can transmute the projectile into a harmless substance (bubbles, dust, etc) just before it hits you.
+[Ironguard](../feats/witch/ironguard) | You can use [Objectify](../powers/witch/objectify) on yourself as a swift action, turning your flesh into an amorphous, gelatin-like substance that looks and functions the same, but you gain Resist 90% to slashing and piercing damage.
 
 ## Familiar
 Talent          | Description
 --------------|------------
-[Familiar](#) | Construct or minor animal becomes a magical servant.
+[Familiar](../feats/witch/familiar) | Construct or minor animal becomes a magical servant.
 
 ## Necromancy
 Talent          | Description
 --------------|------------
-[Create Undead](#) | Using a corpse and components of non-trivial cost, you can make permanent undead servants.
-[Death Pact](#) | As an immediate action, you can steal HP from an undead that you control.
-[Walking Dead](#) | You gain corporeal undead traits.
+[Create Undead](../feats/witch/create-undead) | Using a corpse and components of non-trivial cost, you can make permanent undead servants.
+[Death Pact](../feats/witch/death-pact) | As an immediate action, you can steal HP from an undead that you control.
+[Walking Dead](../feats/witch/walking-dead) | You gain corporeal undead traits.
 
 ## Hedgecraft
 Tool          | Description
 --------------|------------
-[Deathball](#) | Craftable vessel allowing you to store an undead minion in stasis until needed.
-[Soul Prison](#) | You can create special Soul Gems to house the soul shards of Drain Soul. If a creature dies while you possess their soul shard in such a gem, you trap their soul in the gem.
+[Deathball](../feats/witch/deathball) | Craftable vessel allowing you to store an undead minion in stasis until needed.
+[Soul Prison](../feats/witch/soul-prison) | You can create special Soul Gems to house the soul shards of Drain Soul. If a creature dies while you possess their soul shard in such a gem, you trap their soul in the gem.
 
 ## Soul
 Tool          | Description
 --------------|------------
-[Reactive Absorb](#) | You can use [Absorb Magic](#) as a reaction against any spell targeting you.
+[Reactive Absorb](../feats/witch/reactive-absorb) | You can use [Absorb Magic](../powers/witch/absorb-magic) as a reaction against any spell targeting you.
 
 

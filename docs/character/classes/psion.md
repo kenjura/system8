@@ -6,7 +6,7 @@ weapon_prof: None
 armor_prof: None
 saving_throws: Con, Wis
 bonus_skills: Psionics
-max_powers_known: (level) => level <= 3 ? level : 3 + Math.floor((level - 3) / 2)
+max_powers_known: "(level) => level <= 3 ? level : 3 + Math.floor((level - 3) / 2)"
 max_feats_known: (level) => level
 ---
 
@@ -223,53 +223,53 @@ Rank | Talent                         | Description
 
 Talent                  | Description
 ------------------------|------------
-[Skill Focus](#)        | You can expend Focus to gain advantage to any one skill check.
+[Skill Focus](../feats/psion/skill-focus)        | You can expend Focus to gain advantage to any one skill check.
 
 
 ## Biometabolism
 
 Talent                  | Description
 ------------------------|------------
-[Camouflage](#)         | Change your external appearance for camouflage, disguise, or defense.
+[Camouflage](../feats/psion/camouflage)         | Change your external appearance for camouflage, disguise, or defense.
 
 
 ## Psychokinesis
 
 Talent                  | Description
 ------------------------|------------
-[Inertial Armor](#)     | Gain DR equal to your proficiency bonus to all physical attacks, while focused.
-[Momentum Control](#)   | Absorb falling damage and the momentum of incoming enemy attacks, gaining kinetic charge.
-[Phase Evasion](#)      | As a reaction, you can use Phase Shift to avoid an attack, if you beat the attack's DC with a Dex save. Shift lasts until the start of your next turn.
+[Inertial Armor](../feats/psion/inertial-armor)     | Gain DR equal to your proficiency bonus to all physical attacks, while focused.
+[Momentum Control](../feats/psion/momentum-control)   | Absorb falling damage and the momentum of incoming enemy attacks, gaining kinetic charge.
+[Phase Evasion](../feats/psion/phase-evasion)      | As a reaction, you can use Phase Shift to avoid an attack, if you beat the attack's DC with a Dex save. Shift lasts until the start of your next turn.
 
 
 ## Clairsentience
 
 Talent                  | Description
 ------------------------|------------
-[Blindsense](#)         | Gain Blindsense in a radius of 10 ft per Wisdom bonus.
-[Combat Precognition](#) | Gain your Wisdom bonus to AC while focused.
+[Blindsense](../feats/psion/blindsense)         | Gain Blindsense in a radius of 10 ft per Wisdom bonus.
+[Combat Precognition](../feats/psion/combat-precognition) | Gain your Wisdom bonus to AC while focused.
 
 
 ## Telepath
 
 Talent                 | Description
 -----------------------|------------
-[Empathic Feedback](#) | When enemies strike you for damage, they feel your pain, suffering equal psychic damage to what you suffered.
+[Empathic Feedback](../feats/psion/empathic-feedback) | When enemies strike you for damage, they feel your pain, suffering equal psychic damage to what you suffered.
 
 
 ## Psychic Warrior
 
 Talent                      | Description
 ----------------------------|------------
-[Fistweaving](#)            | When you land a successful melee attack, you gain 1 Focus (max 1 per std action).
-[Strength of Will](#)       | While focused, your Strength is increased by your Charisma bonus (capped by your current psion rank)
-[Speed of Thought](#)       | While focused, your Dexterity is increased by your Intelligence bonus (capped by your current psion rank)
-[Mind Over Body](#)         | While focused, your Constitution is increased by your Wisdom bonus (capped by your current psion rank)
+[Fistweaving](../feats/psion/fistweaving)            | When you land a successful melee attack, you gain 1 Focus (max 1 per std action).
+[Strength of Will](../feats/psion/strength-of-will)       | While focused, your Strength is increased by your Charisma bonus (capped by your current psion rank)
+[Speed of Thought](../feats/psion/speed-of-thought)       | While focused, your Dexterity is increased by your Intelligence bonus (capped by your current psion rank)
+[Mind Over Body](../feats/psion/mind-over-body)         | While focused, your Constitution is increased by your Wisdom bonus (capped by your current psion rank)
 
 ## Assorted
 
 Talent                     | Description
 ---------------------------|------------
-[Mental Chain](#)          | When using a single-target psionic power, you can affect an addition target for each available Focus. If expending, you must also expend Focus for each additional target.
-[Psionic Accuracy](#)      | Gain an increase to critical threat range based on your Int bonus (capped by psionic rank)
-[Perfect Manifestation](#) | When you achieve critical success on a power that requires a roll, it does not expend Focus.
+[Mental Chain](../feats/psion/mental-chain)          | When using a single-target psionic power, you can affect an addition target for each available Focus. If expending, you must also expend Focus for each additional target.
+[Psionic Accuracy](../feats/psion/psionic-accuracy)      | Gain an increase to critical threat range based on your Int bonus (capped by psionic rank)
+[Perfect Manifestation](../feats/psion/perfect-manifestation) | When you achieve critical success on a power that requires a roll, it does not expend Focus.
