@@ -9,7 +9,7 @@ crit-range: 20 - crit
 crit-multiplier: 2 + critPower
 max-hp: "level * (class.hpPerLevel + conMod)"
 attack-roll: "d20 + abilityMod + prof + hit"
-damage-roll: "(base damage for light/medium/heavy) + rank * hpow
+damage-roll: "(base damage for light/medium/heavy) + rank * hpow"
 ---
 
   - [ ] **9.6.1** Proficiency bonus formula: `1 + ceil(level / 4)` (shared/types/character.ts)

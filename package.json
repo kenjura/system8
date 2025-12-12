@@ -3,11 +3,11 @@
   "version": "8.3.3",
   "private": true,
   "scripts": {
+    "generate": "ursa generate docs",
     "start": "ursa serve docs"
   },
   "dependencies": {
-    "@kenjura/ursa": "github:kenjura/ursa#0.31.0",
-    "ursa": "github:kenjura/ursa"
+    "@kenjura/ursa": "^0.34.0"
   },
   "browserslist": {
     "production": [

@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Spellsteal
 school: Anti-Magic
 rank: 2

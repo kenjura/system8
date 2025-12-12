@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Polymorph
 school: Transmutation
 rank: 2

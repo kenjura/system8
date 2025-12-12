@@ -41,6 +41,10 @@ nav#nav-main {
     a {
         color: var(--text-color);
     }
+
+    img svg {
+        color: white;
+    }
 }
 
 

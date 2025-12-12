@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Frozen Blood
 school: Blood
 ---

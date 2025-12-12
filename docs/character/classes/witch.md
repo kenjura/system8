@@ -74,7 +74,7 @@ Rank | Power          | Description
 1   | [Spellsteal](../powers/witch/spellsteal)     | Take control of an active spell, or a spell foe can cast
 2   | [Spell Immunity](../powers/witch/spell-immunity)   | Subject gains immunity to a single spell, or possibly more
 3    | [Antimagic Zone](../powers/witch/antimagic-zone) | Area nullifies all magic
-4    | Spell Reflection              | Subject reflects spells targeted at them back upon their casters
+4    | [Arointment](../powers/witch/arointment)    | Create an area where certain magic cannot function
 5    | Disjunction    | All magical effects in area are dispelled; magic items become mundane for a time
 
 
@@ -113,6 +113,19 @@ Rank | Power          | Description
 2    | Mystic Eyes    | See through illusions, see the unseen, see the future
 3    | Hallucination  | Redefine what everyone in an area sees and perceives
 4    | Foresight      | Gain precognitive awareness of danger, and react accordingly
+
+
+
+## Mirror
+Vitae: you can use Magic Mirror to gain Vitae by trapping a portion of a creature's soul when they look into it.
+
+Rank | Power          | Description
+-----|----------------|------------
+0    | [Magic Mirror](../powers/witch/magic-mirror)     | Make mundane mirrors magical, to various effects
+1    | [Mirror Image](../powers/witch/mirror-image)   | Create illusory duplicates of yourself or others
+2    | [Reflection](../powers/witch/reflection)     | Create a shield that reflects attacks and spells onto their originators
+3    | [Mirrorwalk](../powers/witch/mirrorwalk)      | Step through a mirror to travel to the mirror dimension
+4    | [Phantom Zone](../powers/witch/phantom-zone)     | Banish a target to the mirror dimension
 
 
 
