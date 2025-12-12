@@ -97,6 +97,14 @@ While every character is a unique expression of all of these traits and more, fo
 etc...
 
 
+# Class
+
+## Bard
+- [Bardic Inspiration](#): At-will, swift, close burst 10, short rest; you inspire your allies. Each of them gains the ability to add 1d6 to any d20 roll of their choice. This lasts until used, or until a short rest. The die increases by rank (d8 at rank 2, d10 at rank 3, d12 at rank 4, d20 at rank 5).
+- [Fascinating Performance](#): At-will, swift, concentration, emanation 10, short rest; you captivate your audience with a performance. Roll a Perform check; subjects in the area are fascinated (unable to take actions other than to watch and listen to you) while you concentrate and continue to perform (Wis ends). Subjects who are aware of a possible threat cannot be affected. Affected subjects are instantly freed of the effect if they take damage or suffer a debilitation.
+  - [Power of Suggestion](#): Requires [Fascinating Performance](#). While Fascinating Performance is active, you can spend a standard action to make a suggestion to the fascinated subjects. It must be reasonable harmless, such as "follow me", or "everybody clap". Anything that a normal, not-fascinated person who was otherwise interested in your performance would consider dangerous or repugnant automatically fails (e.g. "give me all your money" or "punch yourself in the face"). Subjects follow reasonable suggestions until they pass a Wis save to end; on success, they are still fascinated. You can't have two suggestions active at once; making a new one ends the previous one.
+
+
 
 # Disposition
 
