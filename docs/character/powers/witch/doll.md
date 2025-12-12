@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Doll
 school: Transmutation
 rank: 2

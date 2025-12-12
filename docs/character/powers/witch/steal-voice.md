@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Steal Voice
 school: Voice
 rank: 1

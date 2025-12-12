@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Magic Mirror
 school: Mirror
 rank: 0

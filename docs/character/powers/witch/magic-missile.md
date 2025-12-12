@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Magic Missile
 school: Transmutation
 rank: 0

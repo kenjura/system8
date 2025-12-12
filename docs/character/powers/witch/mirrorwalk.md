@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Mirrorwalk
 school: Mirror
 rank: 3

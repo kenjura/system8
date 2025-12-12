@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Grudge
 school: Blood
 rank: 3

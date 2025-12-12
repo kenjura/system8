@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Winds of Winter
 school: Winter
 rank: 1

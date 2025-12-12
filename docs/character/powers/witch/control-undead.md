@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Control Undead
 school: Undeath
 rank: 0

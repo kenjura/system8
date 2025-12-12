@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Let Blood
 school: Blood
 rank: 0

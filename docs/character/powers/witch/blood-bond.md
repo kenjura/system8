@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Blood Bond
 school: Blood
 ---

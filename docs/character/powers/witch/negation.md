@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Negation
 school: Soul
 rank: 2

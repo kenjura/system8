@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Fingers of Frost
 type: Felicity
 ---

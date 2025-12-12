@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Curse
 school: Voice
 rank: 1

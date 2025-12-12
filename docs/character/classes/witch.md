@@ -75,7 +75,7 @@ Rank | Power          | Description
 2   | [Spell Immunity](../powers/witch/spell-immunity)   | Subject gains immunity to a single spell, or possibly more
 3    | [Antimagic Zone](../powers/witch/antimagic-zone) | Area nullifies all magic
 4    | [Arointment](../powers/witch/arointment)    | Create an area where certain magic cannot function
-5    | Disjunction    | All magical effects in area are dispelled; magic items become mundane for a time
+5    | [Disjunction](../powers/witch/disjunction)    | All magical effects in area are dispelled; magic items become mundane for a time
 
 
 ## Blood

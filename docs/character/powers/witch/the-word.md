@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: The Word
 school: Voice
 rank: 2

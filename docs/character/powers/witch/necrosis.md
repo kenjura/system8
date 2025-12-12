@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Necrosis
 school: Death
 rank: 2

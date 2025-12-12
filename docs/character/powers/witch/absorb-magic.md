@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Absorb Magic
 school: Soul
 rank: 1

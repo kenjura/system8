@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Defile
 school: Death
 rank: 3

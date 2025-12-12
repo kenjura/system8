@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Frost Bomb
 school: Winter
 rank: 3

@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Vox Populi
 school: Voice
 rank: 3

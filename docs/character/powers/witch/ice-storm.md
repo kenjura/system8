@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Ice Storm
 school: Winter
 rank: 2

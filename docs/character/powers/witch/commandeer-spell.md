@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Commandeer Spell
 school: Soul
 rank: 2

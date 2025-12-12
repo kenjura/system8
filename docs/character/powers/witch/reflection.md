@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Reflection
 school: Mirror
 rank: 2

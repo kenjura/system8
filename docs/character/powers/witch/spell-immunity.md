@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Spell Immunity
 school: Antimagic
 rank: 2

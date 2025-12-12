@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Phantom Zone
 school: Mirror
 rank: 4

@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Corpse Explosion
 school: Death
 rank: 3

@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Kiss of Death
 school: Death
 rank: 0

@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Mirror Image
 school: Mirror
 rank: 1

@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Soulgaze
 school: Soul
 rank: 1

@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Chill Touch
 school: Winter
 rank: 0

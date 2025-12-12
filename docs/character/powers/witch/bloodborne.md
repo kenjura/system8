@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Bloodborne
 school: Blood
 rank: 2

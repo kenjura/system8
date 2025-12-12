@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Drain Soul
 school: Soul
 rank: 1

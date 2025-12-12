@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Transform Object
 school: Transmutation
 rank: 1

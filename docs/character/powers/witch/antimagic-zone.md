@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Antimagic Zone
 school: Anti-Magic
 rank: 3

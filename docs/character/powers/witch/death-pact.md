@@ -1,5 +1,5 @@
 ---
-class: Thaumaturgist
+class: Witch
 name: Death Pact
 school: Death
 rank: 1
