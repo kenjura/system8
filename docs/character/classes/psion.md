@@ -184,7 +184,7 @@ Rank | Talent                                    | Description
 1    | [Sensitivity to Psychic Impressions][CS4] | Perceive the most recent important event in your vicinity.
 
 
-[C01]: /character/powers/psion/probability-analysis
+[CS0]: /character/powers/psion/probability-analysis
 [CS1]: /character/powers/psion/precognition
 [CS2]: /character/powers/psion/extra-sensory-perception
 [CS3]: /character/powers/psion/object-reading
