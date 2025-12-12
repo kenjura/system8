@@ -108,12 +108,12 @@ Rank | Power              | Description
 ## Eyes
 Rank | Power          | Description
 -----|----------------|------------
-0    | Evil Eye       | Curse a target, gain Vitae 
-1    | Veil           | Convince the minds of onlookers that you are not there, or are someone else
-2    | Mystic Eyes    | See through illusions, see the unseen, see the future
-3    | Hallucination  | Redefine what everyone in an area sees and perceives
-4    | Foresight      | Gain precognitive awareness of danger, and react accordingly
-
+0    | [Evil Eye](../powers/witch/evil-eye)       | Curse a target, gain Vitae 
+1    | [Veil](../powers/witch/veil)           | Convince the minds of onlookers that you are not there, or are someone else
+2    | [Mystic Eyes](../powers/witch/mystic-eyes)    | See through illusions, see the unseen, see the future
+3    | [All-Seeing Eye](../powers/witch/hallucination)  | Manifest a floating eye that you can see and cast spells through
+4    | [Seven Eyes](../powers/witch/seven-eyes)     | You are surrounded by seven floating eyes that can see in all directions and manifest various powers
+5    | Total Perspective | Subjects gain a momentary glimpse of the entire universe and the nature of divinity; most do not survive
 
 
 ## Mirror
