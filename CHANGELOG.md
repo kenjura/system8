@@ -2,8 +2,22 @@
 2025-12-05
 
 - The Great Renaming: renamed "Thaumaturgist" to "Witch", renamed "Invoker" to "Warlock", renamed "Theurgist" to "Priest". Updated all paths, links, and references accordingly. All class documents are now lowercase.
-- Imported ursa 0.27.0 to capitalize leftnav labels.
 - Major updates to Witch spell list, new talents, new schools. Vitae can actually be acquired now.
+- Removed Monk class.
+- All classes now have proper metadata for validation and character builders.
+- All skills now have detail pages with full descriptions.
+- Cleaned up feats: every class talent has a corresponding feat page, orphaned feats reconciled.
+- Added attribute detail pages (Strength, Armor Class, Initiative, Hit Points, etc.).
+- Added menu icons for navigation.
+- Removed mention of "mana" from Psion powers; clarified Focus mechanics.
+- Styled inactive links (href="#") to look visually distinct.
+- Updated ursa with mobile styles improvements.
+- Added leatherworking magic items (bags, boots, cloaks, gloves) with full writeups.
+- Added jewelcrafting magic items (rings and gems by color) with full writeups.
+- Added character attributes documentation with validation rules for character builders.
+- Added maneuvers documentation (Aim, Charge, Counterspell, Disarm, Dispel, Grapple, Hide, Move Silently, Shove, Trip).
+- Added advancement table for universal character progression (skills, feats, ASIs by level).
+
 
 # 8.3.2 (2025-12-04)
 - rebooted Mana into class-specific mechanics (Focus, Vitae, etc)
