@@ -2,15 +2,17 @@ Enchanting is the skill used to create magic items out of ordinary objects.
 
 
 # Casting Implements
+Without Enchanting, a wand is just a stick.
 
-## Wizard's Implement
-**Effect:** The wizard's implement rewards careful preparation and a keen mind.
-- Gain +20% spell haste per rank. This is a chance to gain an immediate free spellcasting action. When the roll fails, the chance carries over into the next round.
-- You have 1 "prepared slot" per rank. Once per short rest, you can choose any spell you can cast, and prepare it into this slot. Thereafter, with the normal action cost, you can cast the spell, but it doesn't require an energy source.
-- At rank 2, you can instantly complete a recharge cooldown once per short rest.
-- At rank 3, you can instantly complete an encounter cooldown once per long rest.
-- At rank 4, your recharge rolls double in chance (33->66), and all encounter spells become recharge 10% (doubling to 20).
-- At rank 5, blee.
+
+## Erudite Implement
+**Effect:** The erudite implement rewards careful preparation and a keen mind.
+- Gain +20% spell haste per rank. This is a chance to gain an immediate free spellcasting action whenever you spend a standard action to cast a spell. When the roll fails, the chance carries over into the next round.
+- You have 1 "prepared slot" per rank. Once per long rest, you can choose a spell from your class's spell list, even if it not one of your known spells. You can cast the spell once using this implement, after which you lose the prepared slot until you finish a long rest. Once per short rest, you can change the prepared spell.
+- At rank 2, once per long rest, you can refresh all of your expended preparation slots.
+- At rank 3, you work with an ally to prepare spells from their list into your implement.
+- At rank 4, tbd
+- At rank 5, tbd
 
 **Market Value:** 1 gp / 4 gp / 16 gp / 24 gp / 50 gp
 
@@ -52,6 +54,8 @@ Enchanting is the skill used to create magic items out of ordinary objects.
 
 
 # Todo
+
+| Rank | Name                       | Description                                                                                                                                                |
 | ---- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Augur's Bones              | Bones that help you determine the near future (i.e. Augury)                                                                                                |
 | 1    | Hand of Glory              | Mummified hand allows the delivery of touch spells at range via a ghostly hand                                                                             |

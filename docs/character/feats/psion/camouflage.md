@@ -1,3 +1,9 @@
+---
+name: Camouflage
+class: psion
+brief: Change your external appearance for camouflage, disguise, or defense
+---
+
 # Camouflage
 
-1 Focus; gain partial concealment. TBD
+Change your external appearance for camouflage, disguise, or defense.

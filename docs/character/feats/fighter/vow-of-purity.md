@@ -1,0 +1,11 @@
+---
+name: Vow of Purity
+class: fighter
+brief: Gain immunity to poison and disease
+---
+
+# Vow of Purity
+
+You are immune to poison and disease. To maintain this ability, you must vow to treat your body as a temple and consume no poisons, such as alcohol or drugs.
+
+At rank 2, you gain advantage to saves against hostile transmutations (any magical effect that modifies your body).

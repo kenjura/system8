@@ -7,7 +7,7 @@ type: Enhancement
 brief: Harden your body to empower unarmed attacks, resist damage, repel poison, etc.
 ---
 
-At-will, swift, requires Focus; you modify your body, focusing energy into parts of it to increase hardness and momentum.
+At-will, swift, concentration; you modify your body, focusing energy into parts of it to increase hardness and momentum.
 
 While active, you gain the following benefits:
 - Your unarmed strikes inflict heavy bludgeoning damage (or you can dual-wield medium damage)

@@ -8,4 +8,4 @@ type: Enhancement
 brief: Create an astral construct in the form of a minion.
 ---
 
-At-will, swift, reserves 1 Focus; create a Medium astral construct (rules TBD). For more mana, make a bigger one.
+At-will, swift, concentration (1 slot); create a Medium astral construct (rules TBD). For more slots, make a bigger one.

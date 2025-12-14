@@ -1,3 +1,9 @@
+---
+name: Momentum Control
+class: psion
+brief: Absorb falling damage and incoming attacks to gain kinetic charge
+---
+
 # Momentum Control
 
-Arrest a charge or cancel falling damage, gain a kinetic charge.
+Absorb falling damage and the momentum of incoming enemy attacks, gaining kinetic charge.
