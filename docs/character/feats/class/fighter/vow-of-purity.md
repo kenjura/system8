@@ -1,8 +1,11 @@
 ---
+type: class
 name: Vow of Purity
 class: fighter
 brief: Gain immunity to poison and disease
 ---
+
+*Class Feat*
 
 # Vow of Purity
 

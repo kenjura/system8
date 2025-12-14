@@ -1,8 +1,11 @@
 ---
+type: class
 name: Defensive Transmutation
 class: witch
 brief: Transmute projectiles into harmless substances
 ---
+
+*Class Feat*
 
 # Defensive Transmutation
 

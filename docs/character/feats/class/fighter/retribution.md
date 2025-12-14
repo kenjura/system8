@@ -1,9 +1,12 @@
 ---
+type: class
 name: Retribution
 class: fighter
 min_rank: 2
 brief: Reflect radiant damage when struck by undead/fiends
 ---
+
+*Class Feat*
 
 # Retribution
 

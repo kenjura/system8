@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Athletic
 class: skill
 brief: Enhanced jumping, swimming, climbing, and sprinting capabilities
 ---
+
+*Skill Feat*
 
 # Athletic
 

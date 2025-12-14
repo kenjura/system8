@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Cloaked in Shadow
 ancestry: shadow
 brief: Gain AC bonus when attackers have concealment against you
 ---
+
+*Ancestry Feat*
 
 # Cloaked in Shadow
 

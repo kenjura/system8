@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Religious Lore
 class: skill
 brief: Identify holy symbols, religious rites, and recall undead weaknesses
 ---
+
+*Skill Feat*
 
 # Religious Lore
 

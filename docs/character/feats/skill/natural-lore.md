@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Natural Lore
 class: skill
 brief: Identify flora, fauna, terrain, and predict natural phenomena
 ---
+
+*Skill Feat*
 
 # Natural Lore
 

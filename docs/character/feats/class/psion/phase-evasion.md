@@ -1,8 +1,11 @@
 ---
+type: class
 name: Phase Evasion
 class: psion
 brief: Use Phase Shift as a reaction to avoid attacks
 ---
+
+*Class Feat*
 
 # Phase Evasion
 

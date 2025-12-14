@@ -1,8 +1,11 @@
 ---
+type: class
 name: Sympathetic Magic
 class: witch
 brief: Convince hostile spells you are a friend
 ---
+
+*Class Feat*
 
 # Sympathetic Magic
 

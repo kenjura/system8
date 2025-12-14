@@ -1,9 +1,12 @@
 ---
+type: ancestry
 name: Improved Kiss of Death
 ancestry: netherkin
 brief: Enhanced Kiss deals heavy damage plus Cha damage
 requires: Kiss of Death
 ---
+
+*Ancestry Feat*
 
 # Improved Kiss of Death
 

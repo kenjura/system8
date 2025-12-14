@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Withering Touch
 ancestry: shadow
 brief: Touch attack drains life, dealing necrotic and Con damage
 ---
+
+*Ancestry Feat*
 
 # Withering Touch
 

@@ -1,8 +1,11 @@
 ---
+type: class
 name: Cloak of Shadows
 class: rogue
 brief: Gain AC and save bonuses in dimness or darkness
 ---
+
+*Class Feat*
 
 # Cloak of Shadows
 

@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Intimidating
 class: skill
 brief: Demoralize enemies as a swift action, penalizing their attacks
 ---
+
+*Skill Feat*
 
 # Intimidating
 

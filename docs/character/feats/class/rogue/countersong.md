@@ -1,9 +1,12 @@
 ---
+type: class
 name: Countersong
 class: rogue
 subclass: bard
 brief: Counter hostile sound-based effects with your performance
 ---
+
+*Class Feat*
 
 # Countersong
 

@@ -1,8 +1,11 @@
 ---
+type: background
 name: Cast-Iron Stomach
 category: culture
 brief: Resistance to disease and poison from Earthen heritage
 ---
+
+*Background Feat*
 
 # Cast-Iron Stomach
 

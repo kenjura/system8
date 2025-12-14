@@ -1,9 +1,12 @@
 ---
+type: class
 name: Army of the Dead
 class: fighter
 min_rank: 2
 brief: Cast Raise Dead on all corpses within range
 ---
+
+*Class Feat*
 
 # Army of the Dead
 

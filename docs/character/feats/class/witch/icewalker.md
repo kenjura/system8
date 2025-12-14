@@ -1,8 +1,11 @@
 ---
+type: class
 name: Icewalker
 class: witch
 brief: Walk on water and move freely across ice and snow
 ---
+
+*Class Feat*
 
 # Icewalker
 

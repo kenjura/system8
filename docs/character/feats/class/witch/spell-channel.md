@@ -1,8 +1,11 @@
 ---
+type: class
 name: Spell Channel
 class: witch
 brief: Use harm dealt to bypass a target's defenses
 ---
+
+*Class Feat*
 
 # Spell Channel
 

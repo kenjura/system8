@@ -1,8 +1,11 @@
 ---
+type: class
 name: Poisoner
 class: rogue
 brief: Craft and apply poisons to weapons
 ---
+
+*Class Feat*
 
 # Poisoner
 

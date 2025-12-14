@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Glamour
 ancestry: sylvan
 brief: Magically enhance your appearance for advantage on Charisma checks
 ---
+
+*Ancestry Feat*
 
 # Glamour
 

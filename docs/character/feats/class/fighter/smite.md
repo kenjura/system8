@@ -1,8 +1,11 @@
 ---
+type: class
 name: Smite
 class: fighter
 brief: Deal bonus radiant damage against undead and fiends
 ---
+
+*Class Feat*
 
 # Smite
 

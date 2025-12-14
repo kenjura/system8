@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Deceptive
 class: skill
 brief: Lie convincingly, maintain false identities, and feint in combat
 ---
+
+*Skill Feat*
 
 # Deceptive
 

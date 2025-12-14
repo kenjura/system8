@@ -1,8 +1,11 @@
 ---
+type: class
 name: Soul Prison
 class: witch
 brief: Trap souls in special Soul Gems
 ---
+
+*Class Feat*
 
 # Soul Prison
 

@@ -1,8 +1,11 @@
 ---
+type: class
 name: Detect Evil
 class: fighter
 brief: See the auras of evil and infernal creatures
 ---
+
+*Class Feat*
 
 # Detect Evil
 

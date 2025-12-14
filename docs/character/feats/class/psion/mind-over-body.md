@@ -1,8 +1,11 @@
 ---
+type: class
 name: Mind Over Body
 class: psion
 brief: While focused, increase Constitution by Wisdom bonus
 ---
+
+*Class Feat*
 
 # Mind Over Body
 

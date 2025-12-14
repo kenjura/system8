@@ -1,8 +1,11 @@
 ---
+type: class
 name: Weavesight
 class: witch
 brief: Detect magical auras instantly on sight
 ---
+
+*Class Feat*
 
 # Weavesight
 

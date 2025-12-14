@@ -1,8 +1,11 @@
 ---
+type: class
 name: Preparation
 class: rogue
 brief: Enter Stealth and move before combat begins
 ---
+
+*Class Feat*
 
 # Preparation
 

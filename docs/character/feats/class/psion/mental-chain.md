@@ -1,8 +1,11 @@
 ---
+type: class
 name: Mental Chain
 class: psion
 brief: Affect additional targets with single-target powers using Focus
 ---
+
+*Class Feat*
 
 # Mental Chain
 

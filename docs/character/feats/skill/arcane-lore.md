@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Arcane Lore
 class: skill
 brief: Identify spells, magical creatures, and arcane phenomena
 ---
+
+*Skill Feat*
 
 # Arcane Lore
 

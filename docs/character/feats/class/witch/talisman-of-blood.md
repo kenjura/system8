@@ -1,8 +1,11 @@
 ---
+type: class
 name: Talisman of Blood
 class: witch
 brief: Add missing HP as bonus damage to attacks
 ---
+
+*Class Feat*
 
 # Talisman of Blood
 

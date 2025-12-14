@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Aquatic Nature
 ancestry: sylvan
 brief: Transform into a water creature with swim speed and water breathing
 ---
+
+*Ancestry Feat*
 
 # Aquatic Nature
 

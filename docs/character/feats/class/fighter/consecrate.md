@@ -1,9 +1,12 @@
 ---
+type: class
 name: Consecrate
 class: fighter
 min_rank: 2
 brief: Create a zone of hallowed ground that repels undead and fiends
 ---
+
+*Class Feat*
 
 # Consecrate
 

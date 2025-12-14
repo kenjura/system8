@@ -1,8 +1,11 @@
 ---
+type: class
 name: Death Grip
 class: fighter
 brief: Pull an enemy to you from range
 ---
+
+*Class Feat*
 
 # Death Grip
 

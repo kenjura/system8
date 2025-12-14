@@ -1,8 +1,11 @@
 ---
+type: class
 name: Death Becomes You
 class: witch
 brief: Mindless undead become indifferent to you
 ---
+
+*Class Feat*
 
 # Death Becomes You
 

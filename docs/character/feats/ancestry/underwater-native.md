@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Underwater Native
 ancestry: sylvan
 brief: Breathe underwater with swim speed, but require daily water time
 ---
+
+*Ancestry Feat*
 
 # Underwater Native
 

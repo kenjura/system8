@@ -1,8 +1,11 @@
 ---
+type: background
 name: Gift of the Eldar
 category: culture
 brief: Call upon nature for minor environmental favors
 ---
+
+*Background Feat*
 
 # Gift of the Eldar
 

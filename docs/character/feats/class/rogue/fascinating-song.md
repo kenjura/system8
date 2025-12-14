@@ -1,9 +1,12 @@
 ---
+type: class
 name: Fascinating Song
 class: rogue
 subclass: bard
 brief: Captivate non-combatants with your mesmerizing performance
 ---
+
+*Class Feat*
 
 # Fascinating Song
 

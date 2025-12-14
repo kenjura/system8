@@ -1,8 +1,11 @@
 ---
+type: class
 name: Fistweaving
 class: psion
 brief: Gain 1 Focus when you land a successful melee attack
 ---
+
+*Class Feat*
 
 # Fistweaving
 

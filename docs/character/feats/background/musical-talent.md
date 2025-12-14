@@ -1,8 +1,11 @@
 ---
+type: background
 name: Musical Talent
 category: talent
 brief: Proficiency in Perform and access to Bardic Inspiration
 ---
+
+*Background Feat*
 
 # Musical Talent
 

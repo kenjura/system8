@@ -1,8 +1,11 @@
 ---
+type: class
 name: Runeforge
 class: fighter
 brief: Imbue weapons with runes of Blood, Frost, or Death
 ---
+
+*Class Feat*
 
 # Runeforge
 

@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Survival Training
 class: skill
 brief: Track creatures, forage for food, and navigate any terrain
 ---
+
+*Skill Feat*
 
 # Survival Training
 

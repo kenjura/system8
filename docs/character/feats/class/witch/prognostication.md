@@ -1,8 +1,11 @@
 ---
+type: class
 name: Prognostication
 class: witch
 brief: Predict a target's next action and react to it
 ---
+
+*Class Feat*
 
 # Prognostication
 

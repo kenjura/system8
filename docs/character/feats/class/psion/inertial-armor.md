@@ -1,8 +1,11 @@
 ---
+type: class
 name: Inertial Armor
 class: psion
 brief: Gain DR equal to proficiency bonus while focused
 ---
+
+*Class Feat*
 
 # Inertial Armor
 

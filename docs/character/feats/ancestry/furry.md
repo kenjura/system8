@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Furry
 ancestry: sylvan
 brief: Stable human-animal hybrid form with bestial traits
 ---
+
+*Ancestry Feat*
 
 # Furry
 

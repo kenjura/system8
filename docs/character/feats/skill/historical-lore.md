@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Historical Lore
 class: skill
 brief: Recall historical events, identify artifacts, and appraise antiques
 ---
+
+*Skill Feat*
 
 # Historical Lore
 

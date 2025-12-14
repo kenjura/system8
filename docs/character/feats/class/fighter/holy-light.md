@@ -1,9 +1,12 @@
 ---
+type: class
 name: Holy Light
 class: fighter
 min_rank: 2
 brief: Gain charges of Holy Light from striking undead/fiends
 ---
+
+*Class Feat*
 
 # Holy Light
 

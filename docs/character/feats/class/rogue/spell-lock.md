@@ -1,8 +1,11 @@
 ---
+type: class
 name: Spell Lock
 class: rogue
 brief: Use Steal Spell as a reaction to lock out a spell school
 ---
+
+*Class Feat*
 
 # Spell Lock
 

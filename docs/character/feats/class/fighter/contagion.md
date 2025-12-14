@@ -1,8 +1,11 @@
 ---
+type: class
 name: Contagion
 class: fighter
 brief: Carry and inflict diseases with melee attacks
 ---
+
+*Class Feat*
 
 # Contagion
 

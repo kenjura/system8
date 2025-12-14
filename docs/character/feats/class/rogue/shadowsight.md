@@ -1,8 +1,11 @@
 ---
+type: class
 name: Shadowsight
 class: rogue
 brief: Move freely and pinpoint enemies in darkness
 ---
+
+*Class Feat*
 
 # Shadowsight
 

@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Infernal Chains
 ancestry: tiefling
 brief: Sprout spiked chains usable as reach weapons
 ---
+
+*Ancestry Feat*
 
 # Infernal Chains
 

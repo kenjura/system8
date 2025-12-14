@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Psychic Symbiote
 ancestry: aberration
 brief: Host an alien mind that shares concentration and negates mental saves
 ---
+
+*Ancestry Feat*
 
 # Psychic Symbiote
 

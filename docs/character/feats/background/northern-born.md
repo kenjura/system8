@@ -1,8 +1,11 @@
 ---
+type: background
 name: Northern Born
 category: culture
 brief: Resist cold 50% and ignore natural cold penalties
 ---
+
+*Background Feat*
 
 # Northern Born
 

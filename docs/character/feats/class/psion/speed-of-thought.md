@@ -1,8 +1,11 @@
 ---
+type: class
 name: Speed of Thought
 class: psion
 brief: While focused, increase Dexterity by Intelligence bonus
 ---
+
+*Class Feat*
 
 # Speed of Thought
 

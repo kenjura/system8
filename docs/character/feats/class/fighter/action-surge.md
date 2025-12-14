@@ -1,8 +1,11 @@
 ---
+type: class
 name: Action Surge
 class: fighter
 brief: Take an extra round's worth of actions once per short rest
 ---
+
+*Class Feat*
 
 # Action Surge
 

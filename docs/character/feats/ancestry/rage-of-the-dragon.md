@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Rage of the Dragon
 ancestry: dragon
 brief: Channel draconic fury through rage, breath weapons, and transformation
 ---
+
+*Ancestry Feat*
 
 # Rage of the Dragon
 

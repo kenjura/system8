@@ -1,9 +1,12 @@
 ---
+type: class
 name: Outbreak
 class: fighter
 min_rank: 2
 brief: Instantly inflict all diseases on a target
 ---
+
+*Class Feat*
 
 # Outbreak
 

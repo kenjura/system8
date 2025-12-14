@@ -1,10 +1,13 @@
 ---
+type: ancestry
 name: Wings of the Fallen
 ancestry: tiefling
 rank: 3
 brief: Gain fly speed equal to walking speed
 requires: Demon Wings
 ---
+
+*Ancestry Feat*
 
 # Wings of the Fallen
 

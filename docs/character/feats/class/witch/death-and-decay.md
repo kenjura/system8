@@ -1,8 +1,11 @@
 ---
+type: class
 name: Death and Decay
 class: witch
 brief: Resist necrotic damage and death magic
 ---
+
+*Class Feat*
 
 # Death and Decay
 

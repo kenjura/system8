@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Firestarter
 ancestry: tiefling
 brief: Shed flames at will, adding fire damage to unarmed attacks
 ---
+
+*Ancestry Feat*
 
 # Firestarter
 

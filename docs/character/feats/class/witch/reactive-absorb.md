@@ -1,8 +1,11 @@
 ---
+type: class
 name: Reactive Absorb
 class: witch
 brief: Use Absorb Magic as a reaction
 ---
+
+*Class Feat*
 
 # Reactive Absorb
 

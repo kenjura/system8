@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Persuasive
 class: skill
 brief: Negotiate favorable terms and shift NPC attitudes through diplomacy
 ---
+
+*Skill Feat*
 
 # Persuasive
 

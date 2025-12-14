@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Perceptive
 class: skill
 brief: Cannot be surprised, notice hidden things, and lip-read conversations
 ---
+
+*Skill Feat*
 
 # Perceptive
 

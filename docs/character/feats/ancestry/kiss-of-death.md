@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Kiss of Death
 ancestry: netherkin
 brief: Necrotic touch attack that can heal you or boost rolls
 ---
+
+*Ancestry Feat*
 
 # Kiss of Death
 

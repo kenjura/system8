@@ -1,8 +1,11 @@
 ---
+type: class
 name: Aura
 class: fighter
 brief: Emanate an aura granting allies +1 AC and saves
 ---
+
+*Class Feat*
 
 # Aura
 

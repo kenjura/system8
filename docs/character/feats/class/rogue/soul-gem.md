@@ -1,8 +1,11 @@
 ---
+type: class
 name: Soul Gem
 class: rogue
 brief: Trap souls to prevent resurrection or use their power
 ---
+
+*Class Feat*
 
 # Soul Gem
 

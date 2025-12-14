@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Insightful
 class: skill
 brief: Detect lies, read emotions, and discern NPC motivations
 ---
+
+*Skill Feat*
 
 # Insightful
 

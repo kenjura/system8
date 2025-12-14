@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Medical Training
 class: skill
 brief: Stabilize dying creatures quickly and enhance healing effects
 ---
+
+*Skill Feat*
 
 # Medical Training
 

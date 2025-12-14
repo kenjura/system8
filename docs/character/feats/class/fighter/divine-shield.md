@@ -1,8 +1,11 @@
 ---
+type: class
 name: Divine Shield
 class: fighter
 brief: Grant immunity to damage and harmful effects as a reaction
 ---
+
+*Class Feat*
 
 # Divine Shield
 

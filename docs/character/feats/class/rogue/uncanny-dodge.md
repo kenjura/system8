@@ -1,8 +1,11 @@
 ---
+type: class
 name: Uncanny Dodge
 class: rogue
 brief: Dodge without spending reactions, even against unseen attacks
 ---
+
+*Class Feat*
 
 # Uncanny Dodge
 

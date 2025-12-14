@@ -1,8 +1,11 @@
 ---
+type: class
 name: Second Wind
 class: fighter
 brief: Heal yourself for medium damage once per short rest
 ---
+
+*Class Feat*
 
 # Second Wind
 

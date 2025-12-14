@@ -1,9 +1,12 @@
 ---
+type: ancestry
 name: Demon Wings
 ancestry: tiefling
 rank: 2
 brief: Gain slowfall and glide at will with batlike wings
 ---
+
+*Ancestry Feat*
 
 # Demon Wings
 

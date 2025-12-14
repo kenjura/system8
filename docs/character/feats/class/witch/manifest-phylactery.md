@@ -1,8 +1,11 @@
 ---
+type: class
 name: Manifest Phylactery
 class: witch
 brief: Create temporary phylacteries of targets
 ---
+
+*Class Feat*
 
 # Manifest Phylactery
 

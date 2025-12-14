@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Acrobatic
 class: skill
 brief: Tumble through enemies, evade area effects, and reduce falling damage
 ---
+
+*Skill Feat*
 
 # Acrobatic
 

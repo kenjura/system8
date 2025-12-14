@@ -1,8 +1,11 @@
 ---
+type: class
 name: Scan
 class: witch
 brief: Detect a creature's available spells and resources
 ---
+
+*Class Feat*
 
 # Scan
 

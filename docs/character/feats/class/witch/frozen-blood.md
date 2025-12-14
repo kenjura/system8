@@ -1,8 +1,11 @@
 ---
+type: class
 name: Frozen Blood
 class: witch
 brief: Concentrate to prevent death at 0 HP
 ---
+
+*Class Feat*
 
 # Frozen Blood
 

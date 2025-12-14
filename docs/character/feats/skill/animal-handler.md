@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Animal Handler
 class: skill
 brief: Calm beasts, train animals quickly, and excel at mounted combat
 ---
+
+*Skill Feat*
 
 # Animal Handler
 

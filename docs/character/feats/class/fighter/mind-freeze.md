@@ -1,8 +1,11 @@
 ---
+type: class
 name: Mind Freeze
 class: fighter
 brief: Counterspell enemies casting within melee range
 ---
+
+*Class Feat*
 
 # Mind Freeze
 

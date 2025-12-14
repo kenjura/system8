@@ -1,8 +1,11 @@
 ---
+type: class
 name: Lay on Hands
 class: fighter
 brief: Heal subjects with a pool equal to your max HP
 ---
+
+*Class Feat*
 
 # Lay on Hands
 

@@ -1,8 +1,11 @@
 ---
+type: class
 name: Bone Shield
 class: fighter
 brief: Gain charges of damage ablation each encounter
 ---
+
+*Class Feat*
 
 # Bone Shield
 

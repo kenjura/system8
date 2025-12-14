@@ -1,8 +1,11 @@
 ---
+type: class
 name: Death's Advance
 class: fighter
 brief: Resist movement reduction and forced movement
 ---
+
+*Class Feat*
 
 # Death's Advance
 

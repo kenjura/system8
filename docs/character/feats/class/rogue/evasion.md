@@ -1,8 +1,11 @@
 ---
+type: class
 name: Evasion
 class: rogue
 brief: Dodge area effects by leaping to safety
 ---
+
+*Class Feat*
 
 # Evasion
 

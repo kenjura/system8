@@ -1,8 +1,11 @@
 ---
+type: class
 name: Re-Vitae
 class: witch
 brief: Heal yourself when spending Vitae
 ---
+
+*Class Feat*
 
 # Re-Vitae
 

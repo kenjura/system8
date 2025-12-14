@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Investigative
 class: skill
 brief: Search quickly, find hidden clues, and deduce events from evidence
 ---
+
+*Skill Feat*
 
 # Investigative
 

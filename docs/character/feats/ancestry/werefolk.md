@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Werefolk
 ancestry: sylvan
 brief: Shift between human and animal forms with Call of the Wild
 ---
+
+*Ancestry Feat*
 
 # Werefolk
 

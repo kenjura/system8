@@ -1,8 +1,11 @@
 ---
+type: class
 name: Spell Mastery
 class: rogue
 brief: Permanently learn spells you steal
 ---
+
+*Class Feat*
 
 # Spell Mastery
 

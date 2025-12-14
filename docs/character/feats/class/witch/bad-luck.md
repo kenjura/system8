@@ -1,8 +1,11 @@
 ---
+type: class
 name: Bad Luck
 class: witch
 brief: Store low rolls and impose them on others
 ---
+
+*Class Feat*
 
 # Bad Luck
 

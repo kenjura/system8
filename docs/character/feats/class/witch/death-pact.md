@@ -1,8 +1,11 @@
 ---
+type: class
 name: Death Pact
 class: witch
 brief: Steal HP from an undead you control
 ---
+
+*Class Feat*
 
 # Death Pact
 

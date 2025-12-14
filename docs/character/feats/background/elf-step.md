@@ -1,8 +1,11 @@
 ---
+type: background
 name: Elf Step
 category: culture
 brief: Move silently without tracks and ignore natural difficult terrain
 ---
+
+*Background Feat*
 
 # Elf Step
 

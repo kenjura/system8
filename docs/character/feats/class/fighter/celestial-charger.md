@@ -1,9 +1,12 @@
 ---
+type: class
 name: Celestial Charger
 class: fighter
 min_rank: 2
 brief: Summon a celestial warhorse to serve you
 ---
+
+*Class Feat*
 
 # Celestial Charger
 

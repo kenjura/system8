@@ -1,8 +1,11 @@
 ---
+type: class
 name: Soul Blade
 class: rogue
 brief: Gain soul shards from successful Sneak Attacks
 ---
+
+*Class Feat*
 
 # Soul Blade
 

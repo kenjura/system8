@@ -1,8 +1,11 @@
 ---
+type: class
 name: Vow of Chastity
 class: fighter
 brief: Gain immunity to charm effects
 ---
+
+*Class Feat*
 
 # Vow of Chastity
 

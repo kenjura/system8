@@ -1,8 +1,11 @@
 ---
+type: class
 name: Talisman of Vitality
 class: witch
 brief: Exceed max HP with healing as temporary HP
 ---
+
+*Class Feat*
 
 # Talisman of Vitality
 

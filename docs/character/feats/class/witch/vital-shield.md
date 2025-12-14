@@ -1,8 +1,11 @@
 ---
+type: class
 name: Vital Shield
 class: witch
 brief: Spend Vitae to reduce spell damage or gain save advantage
 ---
+
+*Class Feat*
 
 # Vital Shield
 

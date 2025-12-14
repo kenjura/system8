@@ -1,8 +1,11 @@
 ---
+type: class
 name: Lifesense
 class: rogue
 brief: See living creatures in darkness and gain critical range
 ---
+
+*Class Feat*
 
 # Lifesense
 

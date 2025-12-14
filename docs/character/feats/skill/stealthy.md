@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Stealthy
 class: skill
 brief: Hide while observed and move at full speed without breaking stealth
 ---
+
+*Skill Feat*
 
 # Stealthy
 

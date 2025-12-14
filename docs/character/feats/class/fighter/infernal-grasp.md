@@ -1,9 +1,12 @@
 ---
+type: class
 name: Infernal Grasp
 class: fighter
 min_rank: 2
 brief: Pull all enemies in range and prevent escape
 ---
+
+*Class Feat*
 
 # Infernal Grasp
 

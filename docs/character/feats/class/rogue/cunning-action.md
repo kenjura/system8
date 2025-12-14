@@ -1,8 +1,11 @@
 ---
+type: class
 name: Cunning Action
 class: rogue
 brief: Use Dash, Disengage, or Hide as a swift action
 ---
+
+*Class Feat*
 
 # Cunning Action
 

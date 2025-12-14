@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Sleight of Hand
 class: skill
 brief: Quick hands for drawing weapons, picking pockets, and disabling traps
 ---
+
+*Skill Feat*
 
 # Sleight of Hand
 

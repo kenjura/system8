@@ -1,8 +1,11 @@
 ---
+type: class
 name: Blindsense
 class: psion
 brief: Gain Blindsense in a radius based on Wisdom bonus
 ---
+
+*Class Feat*
 
 # Blindsense
 

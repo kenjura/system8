@@ -1,8 +1,11 @@
 ---
+type: skill
 name: Performer
 class: skill
 brief: Captivate audiences, create distractions, and impersonate voices
 ---
+
+*Skill Feat*
 
 # Performer
 

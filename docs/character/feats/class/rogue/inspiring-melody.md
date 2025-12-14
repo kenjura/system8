@@ -1,9 +1,12 @@
 ---
+type: class
 name: Inspiring Melody
 class: rogue
 subclass: bard
 brief: Grant allies inspiration dice to boost their rolls
 ---
+
+*Class Feat*
 
 # Inspiring Melody
 

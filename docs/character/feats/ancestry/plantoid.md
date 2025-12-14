@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Plantoid
 ancestry: sylvan
 brief: Photosynthetic being that gains sustenance from sunlight
 ---
+
+*Ancestry Feat*
 
 # Plantoid
 

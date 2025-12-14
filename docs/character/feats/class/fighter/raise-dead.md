@@ -1,8 +1,11 @@
 ---
+type: class
 name: Raise Dead
 class: fighter
 brief: Raise a corpse as an undead minion
 ---
+
+*Class Feat*
 
 # Raise Dead
 

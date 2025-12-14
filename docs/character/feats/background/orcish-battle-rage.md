@@ -1,8 +1,11 @@
 ---
+type: background
 name: Orcish Battle-rage
 category: culture
 brief: Encounter ability granting bonus melee damage and DR
 ---
+
+*Background Feat*
 
 # Orcish Battle-rage
 

@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Siren Song
 ancestry: sylvan
 brief: Enchanting voice grants Perform advantage and one Bardic Music feat
 ---
+
+*Ancestry Feat*
 
 # Siren Song
 

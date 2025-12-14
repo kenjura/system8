@@ -1,8 +1,11 @@
 ---
+type: class
 name: Spell Stowaway
 class: witch
 brief: Copy beneficial enemy spells onto yourself or allies
 ---
+
+*Class Feat*
 
 # Spell Stowaway
 

@@ -1,8 +1,11 @@
 ---
+type: ancestry
 name: Fey
 ancestry: sylvan
 brief: Gain fey nature with iron vulnerability and binding by words or gifts
 ---
+
+*Ancestry Feat*
 
 # Fey
 

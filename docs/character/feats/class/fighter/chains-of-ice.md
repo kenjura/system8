@@ -1,8 +1,11 @@
 ---
+type: class
 name: Chains of Ice
 class: fighter
 brief: Root an enemy with chains of ice
 ---
+
+*Class Feat*
 
 # Chains of Ice
 

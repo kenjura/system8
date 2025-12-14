@@ -1,8 +1,11 @@
 ---
+type: class
 name: Empathic Feedback
 class: psion
 brief: Enemies who strike you suffer equal psychic damage
 ---
+
+*Class Feat*
 
 # Empathic Feedback
 

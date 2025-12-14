@@ -1,8 +1,11 @@
 ---
+type: class
 name: Ironguard
 class: witch
 brief: Gain 90% resistance to slashing and piercing
 ---
+
+*Class Feat*
 
 # Ironguard
 

@@ -1,10 +1,13 @@
 ---
+type: ancestry
 name: Blood Like Fire
 ancestry: tiefling
 rank: 3
 brief: Gain Immunity to Fire
 requires: Born in Flames
 ---
+
+*Ancestry Feat*
 
 # Blood Like Fire
 

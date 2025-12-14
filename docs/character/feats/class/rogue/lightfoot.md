@@ -1,8 +1,11 @@
 ---
+type: class
 name: Lightfoot
 class: rogue
 brief: Gain +3 movement and resist falling damage
 ---
+
+*Class Feat*
 
 # Lightfoot
 
