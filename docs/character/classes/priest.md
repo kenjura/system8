@@ -24,26 +24,26 @@ Bonus Skills  | Faith
 
 Level | Special Ability
 ----- | ---------------
-1     | <span style="color: var(--talent)">1st talent</span>, <span style="color: var(--power)">1st spell</span>, 3 ethos, <span style="color: var(--special)">1st domain</span>
-2     | <span style="color: var(--talent)">2nd talent</span>, <span style="color: var(--power)">2nd spell</span> 
-3     | <span style="color: var(--talent)">3rd talent</span>, <span style="color: var(--power)">3rd spell</span>
-4     | <span style="color: var(--talent)">4th talent</span>
-5     | <span style="color: var(--talent)">5th talent</span>, <span style="color: var(--power)">4th spell</span>, <span style="color: var(--special)">2nd domain</span>
-6     | <span style="color: var(--talent)">6th talent</span>
-7     | <span style="color: var(--talent)">7th talent</span>
-8     | <span style="color: var(--talent)">8th talent</span>, <span style="color: var(--power)">5th spell</span>
-9     | <span style="color: var(--talent)">9th talent</span>
-10    | <span style="color: var(--talent)">10th talent</span>
-11    | <span style="color: var(--talent)">11th talent</span>
-12    | <span style="color: var(--talent)">12th talent</span>, <span style="color: var(--power)">6th spell</span>
-13    | <span style="color: var(--talent)">13th talent</span>
-14    | <span style="color: var(--talent)">14th talent</span>
-15    | <span style="color: var(--talent)">15th talent</span>
-16    | <span style="color: var(--talent)">16th talent</span>
-17    | <span style="color: var(--talent)">17th talent</span>, <span style="color: var(--power)">7th spell</span>
-18    | <span style="color: var(--talent)">18th talent</span>
-19    | <span style="color: var(--talent)">19th talent</span>
-20    | <span style="color: var(--talent)">20th talent</span>
+1     | <span style="color: var(--feat)">1st feat</span>, <span style="color: var(--power)">1st spell</span>, 3 ethos, <span style="color: var(--special)">1st domain</span>
+2     | <span style="color: var(--feat)">2nd feat</span>, <span style="color: var(--power)">2nd spell</span> 
+3     | <span style="color: var(--feat)">3rd feat</span>, <span style="color: var(--power)">3rd spell</span>
+4     | <span style="color: var(--feat)">4th feat</span>
+5     | <span style="color: var(--feat)">5th feat</span>, <span style="color: var(--power)">4th spell</span>, <span style="color: var(--special)">2nd domain</span>
+6     | <span style="color: var(--feat)">6th feat</span>
+7     | <span style="color: var(--feat)">7th feat</span>
+8     | <span style="color: var(--feat)">8th feat</span>, <span style="color: var(--power)">5th spell</span>
+9     | <span style="color: var(--feat)">9th feat</span>
+10    | <span style="color: var(--feat)">10th feat</span>
+11    | <span style="color: var(--feat)">11th feat</span>
+12    | <span style="color: var(--feat)">12th feat</span>, <span style="color: var(--power)">6th spell</span>
+13    | <span style="color: var(--feat)">13th feat</span>
+14    | <span style="color: var(--feat)">14th feat</span>
+15    | <span style="color: var(--feat)">15th feat</span>
+16    | <span style="color: var(--feat)">16th feat</span>
+17    | <span style="color: var(--feat)">17th feat</span>, <span style="color: var(--power)">7th spell</span>
+18    | <span style="color: var(--feat)">18th feat</span>
+19    | <span style="color: var(--feat)">19th feat</span>
+20    | <span style="color: var(--feat)">20th feat</span>
 
 
 # Ethos
@@ -154,7 +154,7 @@ Pally aura?
 ## Holy Light
 At-will, standard, ranged; a ray of divine light shines down on the target. Allies are healed for medium/heavy/double heavy damage; enemies suffer medium/double heavy radiant damage.
 
-Talents:
+Feats:
 - Holy Fire: effect also causes 50% of the original healing/damage ongoing for 3 rds.
 - Daybreak: you can change the area to a cone 3/4/5, healing/harming for light/medium/heavy.
 - Blinding Light: enemies also suffer blinded (Con ends).
@@ -168,7 +168,7 @@ At-will, swift, ranged; subject gains Absorb 100%, limit based on grace:
 - 2: heavy damage
 - 3: double heavy damage
 
-Talents:
+Feats:
 - Regenerating Shield: each round, on subject's turn start, if their shield hasn't been completely destroyed, it regains half its maximum strength.
 - Reflective Shield: when the shield absorbs damage, it causes retributive radiant damage to the attacker equal to the amount absorbed.
 - Spell Shield (requires rank 2): the shield can absorb non-damaging effects, such as debilitations, of a rank equal to or less than your rank. When targeted by such a spell, if a medium damage roll by the effect's caster does not exceed the current limit, reduce it by that amount, and the spell is nullified (or reflected, if you have Reflective Shield).
