@@ -24,30 +24,30 @@ Saving Throws | Con, Wis
 
 Level | Special Ability
 ----- | ---------------
-1     | <span style="color: var(--talent)">1st talent</span>, <span style="color: var(--power)">1st power</span>, <span style="color: var(--special)">Focus</span>
-2     | <span style="color: var(--talent)">2nd talent</span>, <span style="color: var(--power)">2nd power</span> 
-3     | <span style="color: var(--talent)">3rd talent</span>, <span style="color: var(--power)">3rd power</span>
-4     | <span style="color: var(--talent)">4th talent</span>
-5     | <span style="color: var(--talent)">5th talent</span>, <span style="color: var(--power)">4th power</span>
-6     | <span style="color: var(--talent)">6th talent</span>
-7     | <span style="color: var(--talent)">7th talent</span>, <span style="color: var(--power)">5th power</span>
-8     | <span style="color: var(--talent)">8th talent</span>
-9     | <span style="color: var(--talent)">9th talent</span>, <span style="color: var(--power)">6th power</span>
-10    | <span style="color: var(--talent)">10th talent</span>
-11    | <span style="color: var(--talent)">11th talent</span>, <span style="color: var(--power)">7th power</span>
-12    | <span style="color: var(--talent)">12th talent</span>
-13    | <span style="color: var(--talent)">13th talent</span>, <span style="color: var(--power)">8th power</span>
-14    | <span style="color: var(--talent)">14th talent</span>
-15    | <span style="color: var(--talent)">15th talent</span>, <span style="color: var(--power)">9th power</span>
-16    | <span style="color: var(--talent)">16th talent</span>
-17    | <span style="color: var(--talent)">17th talent</span>, <span style="color: var(--power)">10th power</span>
-18    | <span style="color: var(--talent)">18th talent</span>
-19    | <span style="color: var(--talent)">19th talent</span>, <span style="color: var(--power)">11th power</span>
-20    | <span style="color: var(--talent)">20th talent</span>
+1     | <span style="color: var(--feat)">1st feat</span>, <span style="color: var(--power)">1st power</span>, <span style="color: var(--special)">Focus</span>
+2     | <span style="color: var(--feat)">2nd feat</span>, <span style="color: var(--power)">2nd power</span> 
+3     | <span style="color: var(--feat)">3rd feat</span>, <span style="color: var(--power)">3rd power</span>
+4     | <span style="color: var(--feat)">4th feat</span>
+5     | <span style="color: var(--feat)">5th feat</span>, <span style="color: var(--power)">4th power</span>
+6     | <span style="color: var(--feat)">6th feat</span>
+7     | <span style="color: var(--feat)">7th feat</span>, <span style="color: var(--power)">5th power</span>
+8     | <span style="color: var(--feat)">8th feat</span>
+9     | <span style="color: var(--feat)">9th feat</span>, <span style="color: var(--power)">6th power</span>
+10    | <span style="color: var(--feat)">10th feat</span>
+11    | <span style="color: var(--feat)">11th feat</span>, <span style="color: var(--power)">7th power</span>
+12    | <span style="color: var(--feat)">12th feat</span>
+13    | <span style="color: var(--feat)">13th feat</span>, <span style="color: var(--power)">8th power</span>
+14    | <span style="color: var(--feat)">14th feat</span>
+15    | <span style="color: var(--feat)">15th feat</span>, <span style="color: var(--power)">9th power</span>
+16    | <span style="color: var(--feat)">16th feat</span>
+17    | <span style="color: var(--feat)">17th feat</span>, <span style="color: var(--power)">10th power</span>
+18    | <span style="color: var(--feat)">18th feat</span>
+19    | <span style="color: var(--feat)">19th feat</span>, <span style="color: var(--power)">11th power</span>
+20    | <span style="color: var(--feat)">20th feat</span>
 
 
 - 1 Power per odd level
-- 1 Talent per even level
+- 1 Feat per even level
 
 
 
@@ -78,7 +78,7 @@ There are rank 0 powers in every school that help you gain Focus. You can also u
 # Powers
 
 ## Psychometabolism
-Rank | Talent             | Description
+Rank | Power              | Description
 -----|--------------------|------------
 0    | [Ki Strike][PM-KS] | Make a physical, melee attack, and gain Focus when it strikes.
 1    | [Iron Body][PM-IB]   | Harden your body to empower unarmed attacks, resist damage, repel poison, etc.
@@ -101,7 +101,7 @@ Ideas:
 - Synaethesia
 
 ## Psychoportation
-Rank | Talent                                        | Description
+Rank | Power                                         | Description
 -----|-----------------------------------------------|------------
 0    | [Speed of Thought][PP-S]                | Move very quickly by compressing space, and gain Focus when you do.
 1    | [Levitation][PP-L]                      | Levitate up to (base move), move horizontally at (base move)
@@ -119,7 +119,7 @@ Example ([Portal][Portal]):
 - At-will, swift, concentration; you create two portals, both within line of sight and effect. Each is linked to the other. Whatever passes through one comes out the other, with momentum intact (relative to the portal). The portals are large enough for a projectile, a Tiny creature, or a Small creature using Acrobatics.
   - Increase range for more focus
   - Increase portal size for more focus
-  - Talent: use a portal as a shield (uses Parry rules)
+  - Feat: use a portal as a shield (uses Parry rules)
 
 [PP-S]: /character/powers/psion/speed-of-thought
 [PP-PS]: /character/powers/psion/phase-shift
@@ -129,7 +129,7 @@ Example ([Portal][Portal]):
 
 ## Psychokinesis
 
-Rank | Talent                              | Description
+Rank | Power                               | Description
 -----|-------------------------------------|------------
 0    | [Shove][PK-S]                     | Push or pull a creature or object, and gain Focus.
 1    | [Telekinesis][PK-TK]                  | Spookily move things at a distance.
@@ -150,7 +150,7 @@ Rank | Talent                              | Description
 
 ## Metacreativity
 
-Rank | Talent                                    | Description
+Rank | Power                                     | Description
 -----|-------------------------------------------|------------
 1    | [Astral Construct][MC1]    | Create an astral construct in the form a minion.
 1    | [Metaphysical Weapon][MC2] | Create an astral construct in the form of a weapon with which you are proficient.
@@ -175,7 +175,7 @@ Ideas:
 
 ## Clairsentience
 
-Rank | Talent                                    | Description
+Rank | Power                                     | Description
 -----|-------------------------------------------|------------
 0    | [Probability Analysis][CS0] | Calculate the probability of an event, and gain Focus.
 1    | [Precognition][CS1]       | See things before they happen, gaining defensive advantages
@@ -192,7 +192,7 @@ Rank | Talent                                    | Description
 
 ## Telepathy
 
-Rank | Talent                         | Description
+Rank | Power                          | Description
 -----|--------------------------------|------------
 0    | [Mindlink][TP1]                | Telepathically communicate with other minds; can be used to gain Focus.
 1    | [Psychic Assault][TP2]         | Cause psychic damage and debilitation.
@@ -215,61 +215,61 @@ Rank | Talent                         | Description
 
 
 
-# Talents
+# Feats
 
 
 
 ## Focus
 
-Talent                  | Description
+Feat                    | Description
 ------------------------|------------
-[Skill Focus](../feats/psion/skill-focus)        | You can expend Focus to gain advantage to any one skill check.
+[Skill Focus](../feats/class/psion/skill-focus)        | You can expend Focus to gain advantage to any one skill check.
 
 
 ## Biometabolism
 
-Talent                  | Description
+Feat                    | Description
 ------------------------|------------
-[Camouflage](../feats/psion/camouflage)         | Change your external appearance for camouflage, disguise, or defense.
+[Camouflage](../feats/class/psion/camouflage)         | Change your external appearance for camouflage, disguise, or defense.
 
 
 ## Psychokinesis
 
-Talent                  | Description
+Feat                    | Description
 ------------------------|------------
-[Inertial Armor](../feats/psion/inertial-armor)     | Gain DR equal to your proficiency bonus to all physical attacks, while focused.
-[Momentum Control](../feats/psion/momentum-control)   | Absorb falling damage and the momentum of incoming enemy attacks, gaining kinetic charge.
-[Phase Evasion](../feats/psion/phase-evasion)      | As a reaction, you can use Phase Shift to avoid an attack, if you beat the attack's DC with a Dex save. Shift lasts until the start of your next turn.
+[Inertial Armor](../feats/class/psion/inertial-armor)     | Gain DR equal to your proficiency bonus to all physical attacks, while focused.
+[Momentum Control](../feats/class/psion/momentum-control)   | Absorb falling damage and the momentum of incoming enemy attacks, gaining kinetic charge.
+[Phase Evasion](../feats/class/psion/phase-evasion)      | As a reaction, you can use Phase Shift to avoid an attack, if you beat the attack's DC with a Dex save. Shift lasts until the start of your next turn.
 
 
 ## Clairsentience
 
-Talent                  | Description
+Feat                    | Description
 ------------------------|------------
-[Blindsense](../feats/psion/blindsense)         | Gain Blindsense in a radius of 10 ft per Wisdom bonus.
-[Combat Precognition](../feats/psion/combat-precognition) | Gain your Wisdom bonus to AC while focused.
+[Blindsense](../feats/class/psion/blindsense)         | Gain Blindsense in a radius of 10 ft per Wisdom bonus.
+[Combat Precognition](../feats/class/psion/combat-precognition) | Gain your Wisdom bonus to AC while focused.
 
 
 ## Telepath
 
-Talent                 | Description
+Feat                   | Description
 -----------------------|------------
-[Empathic Feedback](../feats/psion/empathic-feedback) | When enemies strike you for damage, they feel your pain, suffering equal psychic damage to what you suffered.
+[Empathic Feedback](../feats/class/psion/empathic-feedback) | When enemies strike you for damage, they feel your pain, suffering equal psychic damage to what you suffered.
 
 
 ## Psychic Warrior
 
-Talent                      | Description
+Feat                        | Description
 ----------------------------|------------
-[Fistweaving](../feats/psion/fistweaving)            | When you land a successful melee attack, you gain 1 Focus (max 1 per std action).
-[Strength of Will](../feats/psion/strength-of-will)       | While focused, your Strength is increased by your Charisma bonus (capped by your current psion rank)
-[Speed of Thought](../feats/psion/speed-of-thought)       | While focused, your Dexterity is increased by your Intelligence bonus (capped by your current psion rank)
-[Mind Over Body](../feats/psion/mind-over-body)         | While focused, your Constitution is increased by your Wisdom bonus (capped by your current psion rank)
+[Fistweaving](../feats/class/psion/fistweaving)            | When you land a successful melee attack, you gain 1 Focus (max 1 per std action).
+[Strength of Will](../feats/class/psion/strength-of-will)       | While focused, your Strength is increased by your Charisma bonus (capped by your current psion rank)
+[Speed of Thought](../feats/class/psion/speed-of-thought)       | While focused, your Dexterity is increased by your Intelligence bonus (capped by your current psion rank)
+[Mind Over Body](../feats/class/psion/mind-over-body)         | While focused, your Constitution is increased by your Wisdom bonus (capped by your current psion rank)
 
 ## Assorted
 
-Talent                     | Description
+Feat                       | Description
 ---------------------------|------------
-[Mental Chain](../feats/psion/mental-chain)          | When using a single-target psionic power, you can affect an addition target for each available Focus. If expending, you must also expend Focus for each additional target.
-[Psionic Accuracy](../feats/psion/psionic-accuracy)      | Gain an increase to critical threat range based on your Int bonus (capped by psionic rank)
-[Perfect Manifestation](../feats/psion/perfect-manifestation) | When you achieve critical success on a power that requires a roll, it does not expend Focus.
+[Mental Chain](../feats/class/psion/mental-chain)          | When using a single-target psionic power, you can affect an addition target for each available Focus. If expending, you must also expend Focus for each additional target.
+[Psionic Accuracy](../feats/class/psion/psionic-accuracy)      | Gain an increase to critical threat range based on your Int bonus (capped by psionic rank)
+[Perfect Manifestation](../feats/class/psion/perfect-manifestation) | When you achieve critical success on a power that requires a roll, it does not expend Focus.
