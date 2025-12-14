@@ -11,13 +11,11 @@ You begin the game with six values (3, 2, 1, 0, 0, 0) to be assigned to the six 
 
 Optionally, you can apply -1 to a score to gain +1 to another score (though you cannot increase the 3 to a 4). You may do this twice if you prefer, applying the -1 to a different stat each time.
 
-Every 4th level (4/8/12/16/20), you gain +1 to two different scores of your choice. You may increase your highest stat with this bonus.
-
+Every level, you gain two +1 proficiency bonuses to two different ability scores of your choice.
 
 # Foundation
-You begin the game with three [Foundation](../foundation/) abilities.
+You begin the game with three [Foundation](../foundation/) feats.
 
-At levels 3, 7, 11, 15, and 19, you gain another one.
 
 
 # Class and Level
@@ -59,54 +57,3 @@ The value "x" refers to a modifier containing:
 - your proficiency bonus, if proficient in the attack
 
 
-
-# Skills
-
-When you start the game, you gain 4 [Skills](../skills/) of your choice, plus any bonus skills that may be granted by your [Class](../classes/) or [Foundation](../foundation/) abilities.
-
-At level 2, 6, 10, 14, 18, you may choose to:
-- Gain proficiency in a new skill
-- Gain expertise in a proficient skill
-- Gain mastery in an expert skill (level 10+ only)
-
-
-
-# Level Chart
-
-
-Level  | Rank | Skills | Foundation | ASIs | What's New?
--------|------|--------|-------|------|------------
-1      | 1    | 4      | 0     | 0    | Everything
-2      | 1    | 5      | 0     | 0    | Skill
-3      | 1    | 5      | 0     | 0    | Foundation
-4      | 1    | 5      | 0     | 2    | ASI
-5      | 2    | 5      | 0     | 2    | Rank
-6      | 2    | 6      | 0     | 2    | Skill
-7      | 2    | 6      | 0     | 2    | Foundation
-8      | 2    | 6      | 0     | 4    | ASI
-9      | 3    | 6      | 0     | 4    | Rank
-10     | 3    | 7      | 0     | 4    | Skill
-11     | 3    | 7      | 0     | 4    | Foundation
-12     | 3    | 7      | 0     | 6    | ASI
-13     | 4    | 7      | 0     | 6    | Rank
-14     | 4    | 8      | 0     | 6    | Skill
-15     | 4    | 8      | 0     | 6    | Foundation
-16     | 4    | 8      | 0     | 8    | ASI
-17     | 5    | 8      | 0     | 8    | Rank
-18     | 5    | 9      | 0     | 8    | Skill
-19     | 5    | 9      | 0     | 8    | Foundation
-20     | 5    | 9      | 0     | 10   | ASI
-
-
-
-# Inspiration
-
-Where could it come from?
-- Gods
-- Vows / forbidden magic / crossing moral lines
-- Equipmentqwwwwwwwwwwwwwwwwww
-
-Pick 3
-- Tap 1, make your case
-- Get your reward
-- Pay the price (some sort of meaningful consequence)
