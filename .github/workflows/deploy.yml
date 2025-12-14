@@ -4,10 +4,42 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  build-and-deploy:
-    name: Build and Deploy
+  test:
+    name: Test Build
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Test site generation
+        run: |
+          OUTPUT=$(npx ursa generate docs 2>&1)
+          echo "$OUTPUT"
+          if echo "$OUTPUT" | grep -q "✅ Generation complete with no errors." && echo "$OUTPUT" | grep -q "Site generation completed successfully!"; then
+            echo "Build test passed!"
+            exit 0
+          else
+            echo "Build test failed - expected success messages not found"
+            exit 1
+          fi
+
+  deploy:
+    name: Deploy to S3
+    needs: test
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     runs-on: ubuntu-latest
     
     steps:
