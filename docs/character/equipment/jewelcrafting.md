@@ -28,263 +28,156 @@ This bold ring is forged from red gold and set with a brilliant crimson garnet t
 
 # Gems
 
-Gems are magical stones that can be socketed into weapons, armor, or implements to grant various effects. Each gem type comes in multiple grades, with higher-grade gems providing more powerful effects. Gems are organized by color, which indicates their general category of effects.
+Gems are magical stones that can be socketed into amulets, rings, or other jewels. Each color corresponds to an ability score (for example, Strength is represented by red). There are 5 ranks of gems; rarer gems are more powerful and cost more.
 
-## Red Gems (Offensive)
+Color | Ability Score | Descriptor
+------|---------------|--------------
+Red    | Strength    | Bold
+Green  | Dexterity   | Deft
+Blue   | Constitution| Stout
+Azure  | Intelligence| Witty
+Amber  | Wisdom      | Staid
+Violet | Charisma     | Renowned
 
-Red gems enhance offensive capabilities, adding elemental damage and special attack effects.
 
-### Fiery Gems
+## Red Gems (Strength)
 
-Fiery gems channel the destructive power of flame, adding fire damage and burning effects to attacks.
+Rank | Gem       | Level / Cost | Effect
+-----|-----------|--------------|--------
+1    | Garnet    | 3 / 2 gp     | 
+2    | Beryl     | 7 / 11 gp    |
+3    | Ruby      | 11 / 34 gp   | 
+4    | Spinel    | 15 / 105 gp  |
+5    | Star Ruby | 19 / 330 gp  |
 
-#### Fiery Garnet
+### Bold Garnet
 Level 3, 2 gp
 
-This deep red garnet flickers with inner flame. **Weapon**: Half of all damage dealt becomes ongoing fire damage (Dexterity save ends). **Armor**: Grants resist fire 50%. **Implement**: Grants advantage on fire damage rolls.
+This small, polished red garnet resonates with the power of Strength, making you feel stronger as soon as you don it.
+- Your unarmed attacks inflict medium lethal bludgeoning damage.
+- All of your melee attacks that inflict damage optionally cause a push 1 (Str negates).
+- Your carrying capacity doubles.
+- Once per short rest, you can add +10 to a strength check used for non-combat tasks such as lifting, climbing, bending bars, etc.
+- Once per short rest, you can maximize the damage of any Strength-based attack.
 
-#### Fiery Beryl
+### Bold Beryl
 Level 7, 11 gp
 
-This orange-red beryl radiates visible heat. **Weapon**: The weapon gains +1 reach as flames extend from the blade. **Armor**: Half of all damage you take is reflected back as ongoing fire damage to the attacker (Dexterity save ends). **Implement**: Fire spells deal half their damage as additional ongoing fire damage (Dexterity save ends).
+This large, polished green beryl resonates with the power of Strength, making you feel as strong as a horse.
+- Your unarmed attacks inflict heavy lethal bludgeoning damage.
+- All of your melee attacks that inflict damage optionally cause a push 2 (Str negates) or knockdown (Str negates).
+- Your carrying capacity triples.
+- All non-combat strength checks gain double your proficiency bonus.
+- Once per short rest, you can double the damage of any Strength-based attack.
+- You wield or throw a small object/creature as a weapon.
 
-#### Fiery Ruby
+
+### Bold Ruby
 Level 11, 34 gp
 
-This brilliant ruby burns with an inner fire that never dims. **Weapon**: Critical hits cause a burst 3 explosion of fire damage equal to your bonus critical damage, affecting enemies only. **Armor**: You are immune to fire damage. **Implement**: Fire spells cost 1 less Mana to cast.
+This large, polished red ruby resonates with the power of Strength, making you feel as strong as a bull.
 
-#### Fiery Crimson Spinel
+- All Strength-based attacks gain your Strength proficiency bonus per die as bonus damage.
+- All of your melee attacks that inflict damage optionally cause a push 5 (Str negates), knockdown (Str negates), or stun (Str ends).
+- You can turn any Strength-based melee attack into a sweeping arc attack, affecting all enemies within reach, constrained to a 180-degree arc. This area attack does not cause push/knockdown/stun effects.
+- Your carrying capacity is 5x normal.
+- When rolling non-combat strength checks, any roll less than 10 gains +10.
+
+### Bold Spinel
 Level 15, 105 gp
 
-This rare spinel blazes like a captured star. **Weapon**: Melee attacks chain to up to 3 additional targets within reach, each taking the fire damage portion. **Armor**: All attackers within 30 feet are automatically blasted with a fire bolt dealing damage equal to what they dealt to you (same attack roll vs their AC). **Implement**: All ongoing fire damage rolls are maximized.
+This large, polished red spinel resonates with the power of Strength, making you feel as strong as a giant.
 
-#### Fiery Star Ruby
+- All Strength-based attacks cause a burst 1 at the point of impact, inflicting half the damage dealt to enemies within the area other than the original target.
+- All of your melee attacks that inflict damage optionally cause two of: push 10 (Str negates), knockdown (Str negates), or stun (Str ends).
+- Your carrying capacity is 10x normal.
+- You wield or throw a medium object/creature as a weapon.
+- Your ability to double the damage of a Strength-based attack becomes a recharge 33% ability.
+
+### Bold Star Ruby
 Level 19, 330 gp
 
-This legendary star ruby contains what appears to be a miniature sun. **Weapon**: All hits (not just critical hits) cause a burst 3 explosion of fire damage. **Armor**: Fire damage heals you instead of harming you. **Implement**: Fire spells cost half their normal Mana.
+This large, polished red star ruby resonates with the power of Strength, making you feel as strong as a titan.
 
-### Scintillating Gems
+- All Strength-based attacks cause a burst 2 at the point of impact, inflicting half the damage dealt to enemies within the area other than the original target.
+- Your sweeping attack affects a 360 degree arc, affecting all enemies within reach. You may add one push, knockdown, or stun effect to your sweeping attack.
+- You can throw or wield a large object/creature as a weapon.
+- Your non-sweeping attacks gain an additional option: pounding an enemy into the ground, such that they are restrained (Str ends).
 
-Scintillating gems crackle with electrical energy, adding lightning damage and static effects.
 
-#### Scintillating Garnet
+## Green Gems (Dexterity)
+
+Rank | Gem        | Level / Cost | Effect
+-----|------------|--------------|--------
+1    | Peridot    | 3 / 2 gp     | 
+2    | Talasite   | 7 / 11 gp    |
+3    | Emerald    | 11 / 34 gp   | 
+4    | Chrysoprase| 15 / 105 gp  |
+5    | Star Emerald| 19 / 330 gp |
+
+### Deft Peridot
 Level 3, 2 gp
 
-This pale red garnet sparks with static electricity. **Weapon**: Half of damage dealt becomes a static charge on the target; if they move within the next round, the charge detonates for that damage. **Armor**: Grants resist lightning 50%. **Implement**: Grants advantage on lightning damage rolls.
+This small, polished green peridot resonates with the power of Dexterity, making your movements feel lighter and quicker.
 
-#### Scintillating Beryl
+- You gain +2 to Initiative and +2 squares to your movement speed.
+- You can draw or stow a weapon, or retrieve a stored item (such as a potion) as a free action.
+- Once per round, you can Dodge without spending your reaction.
+- When you successfully Dodge, you can take an immediate Aim action against the attacker, gaining advantage to your next Dexterity-based attack against them.
+- Once per short rest, you can take an additional move action on your turn.
+- Once per short rest, you can add +10 to a dexterity check used for non-combat tasks such as balancing, acrobatics, or lockpicking.
+
+### Deft Talasite
 Level 7, 11 gp
 
-This golden beryl arcs with visible electricity. **Weapon**: Attacks build ionization on the target, causing vulnerability 50% to the next lightning damage they suffer. **Armor**: Half of damage you take is reflected as lightning damage to the attacker, plus stunned for 1 round (Constitution negates). **Implement**: Lightning spells add a static charge for half damage, triggered if the target moves within 1 round.
+This large, polished green talasite resonates with the power of Dexterity, making you feel as nimble as a cat.
 
-#### Scintillating Ruby
+- You gain +4 to Initiative and +4 squares to your movement speed.
+- You can draw, stow, or swap weapons as a free action, even mid-attack.
+- You can Dodge twice per round without spending your reaction.
+- When you have unused movement, you can add +1 per 2 squares to the attack roll of a Dexterity-based attack.
+- You ignore difficult terrain.
+- Once per short rest, you can take an additional swift action on your turn.
+- All non-combat Dexterity checks gain double your proficiency bonus.
+
+### Deft Emerald
 Level 11, 34 gp
 
-This ruby flashes with captured lightning. **Weapon**: Critical hits release a burst 3 of lightning damage equal to your bonus critical damage, enemies only. **Armor**: You are immune to lightning damage. **Implement**: Lightning spells cost 1 less Mana.
+This large, polished green emerald resonates with the power of Dexterity, making you feel as agile as a summer wind.
 
-#### Scintillating Crimson Spinel
+- You gain +6 to Initiative and +6 squares to your movement speed.
+- When you successfully Dodge, you can immediately move up to half your movement speed.
+- Dodge attempts no longer consume reactions.
+- When attacking after movement, gain +1 per 2 squares moved to the damage roll of a Dexterity-based attack.
+- Recharge 33%, move; you take a normal move action, but with a Fly speed equal to your normal Walk speed.
+- Once per short rest, you can take an additional std action on your turn, in order to make a Dexterity-based attack.
+- When rolling non-combat Dexterity checks, any roll less than 10 gains +10.
+
+### Deft Chrysoprase
 Level 15, 105 gp
 
-This spinel constantly discharges tiny arcs of electricity. **Weapon**: Melee attacks chain lightning to up to 3 additional targets within 30 feet. **Armor**: All attackers within 30 feet are struck by lightning bolts dealing damage equal to what they dealt to you. **Implement**: All static charge damage is maximized.
+This large, polished green chrysoprase resonates with the power of Dexterity, making you feel as swift as the wind.
 
-#### Scintillating Star Ruby
+- You gain +8 to Initiative and +8 squares to your movement speed.
+- When you successfully Dodge, you can immediately make a Dexterity-based attack against the attacker.
+- You gain an additional move action in all rounds.
+
+
+
+### Deft Star Emerald
 Level 19, 330 gp
 
-This star ruby holds a perpetual storm within its facets. **Weapon**: All hits release a burst 3 of chain lightning. **Armor**: Lightning damage heals you. **Implement**: Lightning spells cost half Mana.
+This large, polished green star emerald resonates with the power of Dexterity, making you feel as elusive as a shadow.
 
+- You gain +5 to Initiative and +5 squares to your movement speed. You always act first in Initiative ties.
+- You cannot be surprised, and attacks against you never have advantage due to being unseen or hidden.
+- Ranged and finesse attacks gain +5 to hit. Critical hits with ranged and finesse weapons deal triple damage instead of double.
+- You gain a Fly speed equal to your movement speed (perfect maneuverability).
+- Once per round, when you are hit by an attack, you can choose to take no damage and instead teleport up to your movement speed to any unoccupied space you can see.
+- Your movement never provokes opportunity attacks.
 
-## Blue Gems (Defensive)
 
-Blue gems enhance defensive capabilities, providing damage absorption, healing, and protective effects.
 
-### Earthen Gems
-
-Earthen gems channel the endurance of stone, providing ablative protection against damage.
-
-#### Earthen Zircon
-Level 3, 2 gp
-
-This rough blue zircon feels heavy and solid in the hand. Grants 1 charge per encounter. Each charge can be spent as an immediate action to ablate 10% of incoming damage from a single attack.
-
-#### Earthen Lapis Lazuli
-Level 7, 11 gp
-
-This deep blue lapis is veined with gold. Grants 2 charges per encounter. Charges can be spent for ablation as above, or to grant advantage on a single saving throw.
-
-#### Earthen Sapphire
-Level 11, 34 gp
-
-This flawless sapphire is as unyielding as bedrock. Grants 3 charges per encounter. Can spend 2 charges to become invulnerable to all damage for 1 round.
-
-#### Earthen Spinel
-Level 15, 105 gp
-
-This rare blue spinel radiates stability. Grants 4 charges per encounter. Can also spend 1 charge to negate a single mental effect, death effect, or hostile transmutation targeting you.
-
-#### Earthen Star Sapphire
-Level 19, 330 gp
-
-This magnificent star sapphire contains an unbreakable core. Grants 5 charges per encounter. Can spend 2 charges to fully heal to maximum HP.
-
-### Living Gems
-
-Living gems pulse with vital energy, providing regenerative healing that responds to damage.
-
-#### Living Zircon
-Level 3, 2 gp
-
-This pale blue zircon pulses with a faint heartbeat. Each time you take damage, you gain Fast Healing 1 for a number of rounds equal to your proficiency bonus. Multiple instances stack, increasing the healing per round.
-
-#### Living Lapis Lazuli
-Level 7, 11 gp
-
-This lapis lazuli glows with inner vitality. Fast Healing increases to 2 per round. Additionally, each Fast Healing tick grants a bonus saving throw against one poison or disease effect affecting you.
-
-#### Living Sapphire
-Level 11, 34 gp
-
-This sapphire thrums with life force. Fast Healing increases to 5 per round. Each time you take damage and gain a new Fast Healing stack, you also cause a burst 2 of healing (allies only) equal to half the damage you received.
-
-#### Living Spinel
-Level 15, 105 gp
-
-This spinel radiates waves of healing energy. Fast Healing increases to 10 per round. You also gain Regeneration equal to 10% of your Fast Healing value, which heals you even if you have no active Fast Healing stacks.
-
-#### Living Star Sapphire
-Level 19, 330 gp
-
-This star sapphire contains an ocean of life. Fast Healing increases to 20 per round. Each Fast Healing tick also causes a burst 2 of healing to all allies (not yourself) for 10 HP.
-
-
-## Green Gems (Mobility)
-
-Green gems enhance speed and agility, providing movement bonuses and evasive abilities.
-
-### Windy Gems
-
-Windy gems contain captured air elementals, granting enhanced movement and evasion.
-
-#### Windy Peridot
-Level 3, 2 gp
-
-This light green peridot feels almost weightless. Grants +1 to movement speed and Initiative. Recharge 33%, as a move action, you can instantly teleport your normal movement speed, ignoring difficult terrain, gravity, and without provoking opportunity attacks.
-
-#### Windy Talasite
-Level 7, 11 gp
-
-This vibrant talasite shimmers like sunlight through leaves. Grants +2 to movement speed and Initiative. You gain one free Dodge per proficiency bonus each round without spending a reaction. Spend an additional charge of the instant move ability to gain advantage on a Dodge check.
-
-#### Windy Emerald
-Level 11, 34 gp
-
-This deep emerald swirls with captured winds. Grants +3 to movement speed and Initiative. Your successful Dodge attempts can trigger your instant movement ability if charged. You may Dodge any effect that could theoretically be avoided through movement. Instant move recharge improves to 50%.
-
-#### Windy Chrysoprase
-Level 15, 105 gp
-
-This rare chrysoprase howls faintly in silence. Grants +4 to movement speed and Initiative. On successful Dodge attempts, you can create a burst 1 wind blast, pushing all enemies 2 squares away (Strength save for half distance).
-
-#### Windy Star Emerald
-Level 19, 330 gp
-
-This star emerald contains a perpetual hurricane. Grants +5 to movement speed and Initiative. Your instant movement ability becomes at-will (no longer requires recharge).
-
-### Spirited Gems
-
-Spirited gems are haunted by helpful spirits that manifest to aid you in combat.
-
-#### Spirited Peridot
-Level 3, 2 gp
-
-This cloudy peridot contains a flickering presence. When you inflict or suffer damage, you summon a Spirit of Curiosity—a small, wispy apparition that hovers near an enemy of your choice. The spirit distracts the target, imposing disadvantage on their ability checks (Wisdom negates each round). The spirit lasts 3 rounds.
-
-#### Spirited Talasite
-Level 7, 11 gp
-
-This talasite glows with warm inner light. Instead of a Spirit of Curiosity, you may choose to summon a Spirit of Healing. This benevolent spirit hovers over a chosen ally, healing them for light damage at the start of each of their turns. Lasts 3 rounds.
-
-#### Spirited Emerald
-Level 11, 34 gp
-
-This emerald flickers with vengeful shadows. You may instead summon a Spirit of Vengeance, which hovers over your attacker (if you took damage) or your target (if you dealt damage). The spirit inflicts medium necrotic damage to that creature at the start of each of their turns. Lasts 3 rounds.
-
-#### Spirited Chrysoprase
-Level 15, 105 gp
-
-This chrysoprase radiates protective warmth. You may instead summon a Spirit of Protection, which creates a shimmering barrier over all allies within a circle 5. The barrier grants absorb 50% against all damage, with a total absorption pool equal to a heavy damage roll. Lasts 3 rounds or until depleted.
-
-#### Spirited Star Emerald
-Level 19, 330 gp
-
-This star emerald contains your own echo. You may instead summon a Spirit of Reflection—an incorporeal copy of yourself that can take all the same actions you can. You share a Mana pool with the reflection. The reflection's physical damage is converted to necrotic and deals half damage. Lasts 3 rounds.
-
-
-## Violet Gems (Force)
-
-Violet gems channel telekinetic force, pushing enemies and adding force damage to attacks.
-
-### Thrumming Gems
-
-Thrumming gems vibrate with contained telekinetic energy, adding push effects and force damage.
-
-#### Thrumming Nightseye
-Level 5, 5.5 gp
-
-This deep violet gem hums with psychic energy. **Weapon/Implement**: On a successful strike, push the target 1 square per proficiency bonus. Attacks also gain the ghost touch property (can hit incorporeal creatures). **Armor**: Attackers are pushed 1 square per proficiency bonus after hitting you.
-
-#### Thrumming Tanzanite
-Level 9, 19 gp
-
-This blue-violet tanzanite pulses with telekinetic force. After being pushed by this gem's effects, enemies are rooted in place (Strength save ends).
-
-#### Thrumming Amethyst
-Level 13, 60 gp
-
-This royal purple amethyst crackles with force. When enemies break free from the root effect, they suffer medium force damage. You can choose to automatically break an enemy's root with your push, triggering the damage.
-
-#### Thrumming Violet Tourmaline
-Level 17, 190 gp
-
-This rare tourmaline ripples with visible force waves. The push effect becomes a burst 2 centered on the target, pushing all enemies in the area.
-
-#### Thrumming Shadow Amethyst
-Level 21, 580 gp
-
-This legendary gem seems to bend space around it. Push distance is doubled. Force damage on root-break increases to heavy damage.
-
-
-## White Gems (Prismatic)
-
-White gems contain the full spectrum of elemental power, providing versatile chromatic effects.
-
-### Prismatic Gems
-
-Prismatic gems refract magical energy into its component colors, each with different effects.
-
-#### Prismatic Quartz
-Level 7, 11 gp
-
-This clear quartz refracts light into rainbows. **Weapon/Implement**: On a successful strike, you cause a Color Spray effect, choosing one color: Red (fire damage), Orange (ongoing fire), Yellow (blinded 1 round), Green (poisoned), Blue (slowed), or Violet (stunned 1 round). Each color can only be used once per encounter. **Armor**: Once per round, you can invoke a Color Veil, granting resistance to one element based on color chosen. Cannot reuse the same color per encounter.
-
-#### Prismatic Pearl
-Level 11, 34 gp
-
-This iridescent pearl shimmers with every color. **Weapon/Implement**: On a successful strike, you can invoke any primary color effect (Red, Yellow, or Blue), applying its full Color Spray effect for 1 round. Cannot reuse the same color per encounter. **Armor**: You are surrounded by a chromatic shield that cycles colors, granting resist 25% to all elemental damage.
-
-#### Prismatic Diamond
-Level 15, 105 gp
-
-This flawless diamond splits light into perfect spectra. **Weapon/Implement**: On a successful strike, you cause a full Prismatic effect—you may apply any color effect, but each color can only be used once per encounter. **Armor**: You can manifest prismatic wall defenses, creating a 10-foot barrier of one color's effect as a reaction. Each color usable once per encounter.
-
-#### Prismatic Moonstone
-Level 19, 330 gp
-
-This moonstone contains captured starlight. **Weapon/Implement**: On a successful strike, you cause a Color Spray area effect (burst 2), applying one chosen color to all enemies in the area. **Armor**: As a reaction, you can create a prismatic sphere around yourself for 1 round, granting immunity to all elemental damage and reflecting spells back at their casters.
-
-#### Prismatic Astral Diamond
-Level 23, 770 gp
-
-This legendary diamond contains a fragment of pure creation. **Weapon/Implement**: On a successful strike, you can apply ALL primary color effects simultaneously for 1 round. **Armor**: Your chromatic shield is fully active at all times, granting resist 50% to all elemental damage and reflecting 25% of elemental damage back to attackers.
 
 
 # Reference
