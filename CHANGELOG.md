@@ -9,7 +9,7 @@ Started 2025-12-13
 - Major feature: Feats
   - Every character and foundation level grants 1 feat. Can be a class feat, ancestry feat, background feat, or skill feat.
   - Every "talent" from a class is now a feat.
-- Upgraded ursa to 0.39.0
+- Upgraded ursa to 0.41.0 (footers)
 - Moved all class feats to feats/class/className
 - Added Skill Feats
 
