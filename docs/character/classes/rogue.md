@@ -119,39 +119,34 @@ Examples:
 
 
 ## Assassin
-- [Poisoner](../feats/class/rogue/poisoner): You can craft and apply poisons to your weapons. You also gain Resist 50% (poison).
-  - Deadly Poison: basic poison that causes medium ongoing poison damage (Con ends).
-  - Numbing Poison: deadens the reflexes, causing disadvantage to reaction-based defenses (parry, dodge, etc), Con ends.
-  - Magekiller Poison: subject must pass a Con save against the poison's DC when casting a spell, or else lose it. Con ends.
-  - Slowing Poison: -50% movement speed, Con ends.
-  - Wound Poison: subject cannot heal, Con ends.
-  - Hallucinogenic Poison: subject is confused, acting randomly (25% do nothing, 25% attack nearest target, 25% move randomly, 25% act normally). Con ends.
-- [Soul Blade](../feats/class/rogue/soul-blade): You prepare your melee weapon to enable it to steal soul energy from targets. On successful Sneak Attacks, you gain 1 soul shard. Various Assassin abilities use soul shards (as well as the [Invoker](./invoker.md) class).
-- [Soul Gem](../feats/class/rogue/soul-gem): You can prepare a soul gem (at a cost of TBD gold per HD of capacity). If you slay a creature, you can trap their soul in the gem, preventing any form of resurrection, and allowing uses of their trapped soul, such as:
-  - Soul Sacrifice: upon suffering death, you can sacrifice the trapped soul, expending it, and negating the death effect.
-  - Death Eater: as a swift action, you can absorb a trapped soul, healing yourself equal to the soul's original max HP, expending it.
-  - Shadow Identity: at-will, swift, concentration; you take on the appearance of the soul's owner, as they appeared in life.
-- [Lifesense](../feats/class/rogue/lifesense): While you possess at least one soul shard, you gain the ability to see the flowing blood and warmth of living creatures, even in total darkness. This also grants a +1 bonus to critical range.
+- [Poisoner](../feats/class/rogue/poisoner): Craft and apply poisons to weapons.
+- [Soul Blade](../feats/class/rogue/soul-blade): Gain soul shards from successful Sneak Attacks.
+- [Soul Gem](../feats/class/rogue/soul-gem): Trap souls to prevent resurrection or use their power.
+- [Lifesense](../feats/class/rogue/lifesense): See living creatures in darkness and gain critical range.
+
+## Bard
+- [Inspiring Melody](../feats/class/rogue/inspiring-melody): Grant allies inspiration dice to boost their rolls.
+- [Fascinating Song](../feats/class/rogue/fascinating-song): Captivate non-combatants with your mesmerizing performance.
+- [Countersong](../feats/class/rogue/countersong): Counter hostile sound-based effects with your performance.
 
 
 ## Cool Rogue
-- [Cunning Action](../feats/class/rogue/cunning-action): You may use the Dash, Disengage, or Hide action as a swift action instead of standard.
-- [Evasion](../feats/class/rogue/evasion): You can use the Dodge reaction against area effects. Instead of the attack's DC (if it had one), you must roll against DC 10 + 5 per square, where the number of squares is the number you must move to escape the effect (maximum: your normal movement rate). If you succeed, you leap to the nearest safe square and avoid the effect. Otherwise, you do not move, and suffer the effect normally.
-- [Preparation](../feats/class/rogue/preparation): When you begin combat, if you are not surprised, you may automatically enter Stealth, and move up to half your movement speed before anyone else takes a turn.
-- [Uncanny Dodge](../feats/class/rogue/uncanny-dodge): You may use the Dodge action without spending a reaction, a number of times per encounter equal to your Dex bonus. Also, you may Dodge attacks of which you were unaware.
-- [Lightfoot](../feats/class/rogue/lightfoot): Gain +3 base movement, and Resist 50% (falling damage).
+- [Cunning Action](../feats/class/rogue/cunning-action): Use Dash, Disengage, or Hide as a swift action.
+- [Evasion](../feats/class/rogue/evasion): Dodge area effects by leaping to safety.
+- [Preparation](../feats/class/rogue/preparation): Enter Stealth and move before combat begins.
+- [Uncanny Dodge](../feats/class/rogue/uncanny-dodge): Dodge without spending reactions, even against unseen attacks.
+- [Lightfoot](../feats/class/rogue/lightfoot): Gain +3 movement and resist falling damage.
 - Tactical Insertion
 - Trap Sense
 
 
 ## Shadowdancer
-- [Cloak of Shadows](../feats/class/rogue/cloak-of-shadows): While in dimness or darkness, you gain +2 per rank to AC and saving throws.
-- [Shadowsight](../feats/class/rogue/shadowsight): You suffer no movement penalty in darkness, nor does dimness count as concealment in your sight. You can pinpoint the location of enemies in total darkness, identifying their occupied squares (although your attacks still suffer disadvantage).
+- [Cloak of Shadows](../feats/class/rogue/cloak-of-shadows): Gain AC and save bonuses in dimness or darkness.
+- [Shadowsight](../feats/class/rogue/shadowsight): Move freely and pinpoint enemies in darkness.
 
 ## Spellthief
-- [Spell Lock](../feats/class/rogue/spell-lock): You can use Steal Spell as a reaction. If you successfully steal a spell in this manner, it not only interrupts the spell, but locks the caster out of that spell's school until they pass an Int save.
-- [Spell Mastery](../feats/class/rogue/spell-mastery): Each time you steal a spell, you have a chance to master it by passing the appropriate spellcasting skill check (e.g. [Arcana](#) for Arcanist spells, [Thaumaturgy](#) for Thaumaturgist spells, etc), with a DC of 10 + 5 per rank. Failure has no ill effect. On success, if the spell is appropriate for your rank, you add it to your known repertoire.
-  - This ability does not grant Mana or other resources. Spells that require such still require it, so you'd have to provide Mana somehow.
+- [Spell Lock](../feats/class/rogue/spell-lock): Use Steal Spell as a reaction to lock out a spell school.
+- [Spell Mastery](../feats/class/rogue/spell-mastery): Permanently learn spells you steal.
 
 ## Also...
 - Shadowdancer
