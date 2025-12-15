@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "generate": "ursa generate docs",
-    "start": "ursa serve docs"
+    "start": "ursa serve docs",
+    "prepare": "husky"
   },
   "dependencies": {
     "@kenjura/ursa": "^0.43.0"
@@ -25,5 +26,8 @@
   },
   "engines": {
     "node": ">=18.0"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7"
   }
 }

@@ -1,0 +1,22 @@
+#!/bin/sh
+
+# Increment buildId in .ursa.json before each commit
+URSA_FILE="docs/.ursa.json"
+
+if [ -f "$URSA_FILE" ]; then
+  # Get current buildId and increment it
+  CURRENT_ID=$(grep -o '"buildId": [0-9]*' "$URSA_FILE" | grep -o '[0-9]*')
+  NEW_ID=$((CURRENT_ID + 1))
+  
+  # Update the file (cross-platform sed)
+  if [ "$(uname)" = "Darwin" ]; then
+    sed -i '' "s/\"buildId\": $CURRENT_ID/\"buildId\": $NEW_ID/" "$URSA_FILE"
+  else
+    sed -i "s/\"buildId\": $CURRENT_ID/\"buildId\": $NEW_ID/" "$URSA_FILE"
+  fi
+  
+  # Stage the updated file
+  git add "$URSA_FILE"
+  
+  echo "BuildId incremented to $NEW_ID"
+fi
