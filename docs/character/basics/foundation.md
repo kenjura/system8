@@ -1,6 +1,3 @@
----
-sidebar_label: Foundation
----
 
 Foundation is everything that contributed to your character before they started adventuring. It includes a broad array of things, such as:
 - Genetic heritage from birth

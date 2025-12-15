@@ -7,8 +7,9 @@ Welcome to character creation!
 How to build a character:
 - In no particular order...
   - Choose a [Class](./classes/)
-  - Configure your [Foundation](./foundation/)
-  - etc...
+  - Configure your [Foundation](./basics/foundation/)
+  - Choose your [Feats](./feats/)
+  - Choose your [Powers](./powers/) if granted by class
 
 
 How to play a character:

@@ -1,6 +1,6 @@
 # Feats
 
-Feats are traits a character can choose to enhance their abilities. Every PC gains 1 feat each level, plus 3 [Foundation](../foundation/index.md) feats at character creation.
+Feats are traits a character can choose to enhance their abilities. Every PC gains 1 feat each level, plus 3 [Foundation](../basics/foundation) feats at character creation.
 
 Feats are categorized into the following types:
 - [Skill Feats](./skill/index.md): Expertise in a specific skill.

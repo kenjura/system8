@@ -14,7 +14,7 @@ Optionally, you can apply -1 to a score to gain +1 to another score (though you 
 Every level, you gain two +1 proficiency bonuses to two different ability scores of your choice.
 
 # Foundation
-You begin the game with three [Foundation](../foundation/) feats.
+You begin the game with three [Foundation](../basics/foundation) levels which grant three [Feats](../feats/) from the Ancestry or Background types.
 
 
 
