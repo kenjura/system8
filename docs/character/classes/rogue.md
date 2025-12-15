@@ -66,27 +66,27 @@ Examples:
 1 per level.
 
 ## Regular Rogue Stuff
-- [Feint](#): at-will, swift, melee range; roll Deception vs Perception. On success, the enemy uses their reaction to avoid the fictitious attack. (Against a PC, roll both rolls secretly, and tell the PC if they are hit; they can still decide if they want to use their reaction).
-- [Fan of Knives](#): recharge 33%, std, cone 3; light piercing damage to all targets (can apply poison).
-- [Pocket Sand](#): recharge 33%, swift, melee range; subject is blinded (Con ends).
-- [Sap](#): alternate option for Sneak Attack, causes unconsciousness (Con negates), which ends if subject suffers any damage or is vigourously awakened by another creature's Help action.
-- [Smokescreen](#): recharge 33%, swift, close burst 1; area is obscured by smoke, granting concealment to all within. Useful for Stealth.
-- [Kick](#): reaction to enemy casting a spell, melee range; roll an attack. Caster must pass a Con save against your attack (if it hits), or else lose the spell.
+- [Feint](../maneuvers/rogue/feint): Trick an enemy into wasting their reaction.
+- [Fan of Knives](../maneuvers/rogue/fan-of-knives): Throw knives at all enemies in a cone.
+- [Pocket Sand](../maneuvers/rogue/pocket-sand): Blind an enemy with thrown sand.
+- [Sap](../maneuvers/rogue/sap): Knock out an enemy instead of dealing sneak attack damage.
+- [Smokescreen](../maneuvers/rogue/smokescreen): Create an obscuring cloud for concealment.
+- [Kick](../maneuvers/rogue/kick): Interrupt an enemy's spell with a melee attack.
 
 
 ## Assassin
-- [Death Attack](#): at-will, std; you prepare a death attack against the subject, granting +100% damage to your next Sneak Attack against them. This can stack up to +300%. All bonus damage must be used within the encounter, or it is lost.
-- [Phantom Foe](#): recharge 33%, swift, concentration; subject is haunted by a phantasmal attacker. They cannot see them (nobody can, it's an illusion), but they remain alert to the foe's attacks. As such, you and allies gain the Flanking bonus against subject, even if only one is threatening the subject.
-- [Pain Absorption](#): at-will, 1 soul shard, reaction to suffering damage; exercising an ancient technique passed from assassin to assassin, you harness the pain of a strike, and convert it into deadly power. Half of the damage of the attack is negated. Furthermore, record the amount that was negated; you can add that amount to a weapon attack within the next 3 rounds.
-- Oath of Murder
-- [Void Strike](#): 1 soul shard, swift; you whisper words of Shadow magic, imbuing your melee weapon with the power of the Void. Your next successful melee attack also dispels one magical effect on the subject, if the attack roll exceeds that effect's DC.
+- [Death Attack](../maneuvers/rogue/death-attack): Prepare to deal massively increased sneak attack damage.
+- [Phantom Foe](../maneuvers/rogue/phantom-foe): Create an illusory attacker to grant flanking.
+- [Pain Absorption](../maneuvers/rogue/pain-absorption): Convert damage taken into bonus attack damage.
+- [Oath of Murder](../maneuvers/rogue/oath-of-murder): Swear an oath to slay a specific target.
+- [Void Strike](../maneuvers/rogue/void-strike): Imbue your weapon with dispelling shadow magic.
 
 
 ## Shadowdancer
-- [Shadowstep](#): Recharge 33%, move, you must be in dimness or darkness; you teleport to a square within range that you can see, that is itself in dimness or darkness.
-- [Shadow Pin](#): Recharge 33%, swift, ranged; you pin subject's shadow in place, thereby preventing subject from moving from their current position. They can attempt to free themselves with a Strength save once/rd, but on success, they must also suffer medium slashing damage to escape. Only works if subject casts a shadow.
-- [Shadow Play](#): Recharge 33%, swift, concentration; while in dimness or darkness, you can create shadowy silhouttes of creatures and objects within a circle 2. They are insubstantial, but they may fool onlookers, who assume they are real unless they physical interact with them, in which case they are allowed a Wisdom save to disbelieve the illusion. PCs are allowed to declare that they disbelieve at any time, but they must still succeed at the saving throw.
-- [Shadow Form](#): Recharge 33%, reaction, you must be in dimness or darkness; you become an incorporeal shadow. On your next turn, at some point, you must return to corporealness.
+- [Shadowstep](../maneuvers/rogue/shadowstep): Teleport between areas of darkness.
+- [Shadow Pin](../maneuvers/rogue/shadow-pin): Pin an enemy's shadow to immobilize them.
+- [Shadow Play](../maneuvers/rogue/shadow-play): Create illusory shadow silhouettes.
+- [Shadow Form](../maneuvers/rogue/shadow-form): Become an incorporeal shadow temporarily.
 
 
 ## Bard
@@ -98,15 +98,8 @@ Examples:
 
 
 ## Spellthief
-- [Scan](#): At-will, swift, ranged; you analyze a subject's magical signature, learning if it possess magical abilities. Roll an Investigation check; you learn which spells subject has available to cast based on their rank (DC 10 + 5 per rank).
-- [Steal Spell](#): At-will, std, melee range, requires advantage; you attempt to steal a spell or magical power from the subject. Subject must either be a creature with the ability to cast spells, or a magic item that produces spell-like effects. Roll a Sleight of Hand check; the subject may resist with Perception check.
-  - On success, you steal a random spell that the subject possesses. (see below)
-  - On failure, nothing happens. 
-  - When you steal a spell, the gain a single, consumable use of that spell, exactly as described. You may use it any time before the next long rest; if not used by then, it fades away. The subject "loses" the spell, which varies in meaning:
-    - If they have spell slots or Mana, they lose an amount equal to what they would spend casting that spell normally.
-    - If the ability has a cooldown, it goes on cooldown as if it was used by the subject.
-  - Normally, the spell you steal is determined randomly (equal chance for each known spell). However, if you have knowledge of what spells the subject has, you can target a specific spell with your attempt.
-  - If your spell theft decreased spell slots or Mana in the subject, you have the option of gaining said slots or Mana yourself instead of casting the spell.
+- [Scan](../maneuvers/rogue/scan): Analyze a target's magical abilities.
+- [Steal Spell](../maneuvers/rogue/steal-spell): Steal a spell or magical power from a target.
 
 
 

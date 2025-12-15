@@ -50,58 +50,54 @@ Level | Feats   | Special Ability
 
 ## Assault
 
-- [Charge](#): at-will, std; move up to twice base movement in a straight line, minimum 2 squares; gain advantage to attack or damage roll.
-- [Slam](#): at-will, std, provokes an attack of opportunity; make a melee attack that inflicts +50% damage.
-- [Rend](#): recharge 33%, augments a melee attack; attack inflicts half damage on turn start for 3 rounds.
-- [Overpower](#): recharge 33%, std; normal melee attack, but the enemy is not allowed to use parry or block.
-- [Execute](#): recharge 33%, std, enemy must be below 50% health; normal attack +100% damage.
+- [Charge](../maneuvers/fighter/charge): Move in a straight line and attack with advantage.
+- [Slam](../maneuvers/fighter/slam): Make a powerful attack that deals bonus damage.
+- [Rend](../maneuvers/fighter/rend): Inflict a bleeding wound that deals ongoing damage.
+- [Overpower](../maneuvers/fighter/overpower): Attack that cannot be parried or blocked.
+- [Execute](../maneuvers/fighter/execute): Devastating attack against wounded enemies.
 
 ### Rank 2
-- [Great Slam](#): As [Slam](#), but inflicts +100% extra damage.
-- [Power Charge](#): As [Charge](#), but inflicts 50% bonus damage.
+- [Great Slam](../maneuvers/fighter/great-slam): Enhanced Slam that deals double bonus damage.
+- [Power Charge](../maneuvers/fighter/power-charge): Enhanced Charge that deals bonus damage.
 
 
 ## Protection
 
-- [Defensive Stance](#): when enemies make attacks against allies who are within your melee reach, you can use your own Parry or Block against them. You gain an additional reaction each round to be used for any Parry or Block attempt.
-- [Taunt](#): taunt
-- [Revenge](#): when you or an ally within melee range takes damage, keep track of it. At any time within one round, you may add this damage to a successful attack you make against the instigator of that damage. You may only have one such "token" active at a time. If another opportunity arrives before you use your token, you can keep the one you have, or accept the new one in its place.
-- [Intervene](#): recharge 33%, reaction to an ally being attacked; you move up to your base movement speed, interposing yourself to suffer an attack in place of an ally.
-- [I Am Your Shield](#): allies within your melee reach can use you as cover. When doing so, 50% of damage they take from area effects is suffered by you instead of them, and there is a 50% chance any attack targeted directly at them hits you instead.
+- [Defensive Stance](../maneuvers/fighter/defensive-stance): Protect allies within reach with extra reactions.
+- [Taunt](../maneuvers/fighter/taunt): Force enemies to focus their attacks on you.
+- [Revenge](../maneuvers/fighter/revenge): Store damage taken to add to your next attack.
+- [Intervene](../maneuvers/fighter/intervene): Rush to intercept an attack meant for an ally.
+- [I Am Your Shield](../maneuvers/fighter/i-am-your-shield): Let allies use you as cover against attacks.
 
 
 ## Ranged
 
-- [Swift Aim](#): you can *Aim* as a swift action instead of standard.
-- [Quick Hands](#): you can draw, sheathe, or reload a ranged weapon as a swift action.
-- [Multi Shot](#): recharge 33%, std; fire one shot at each of three targets within a cone.
-- [Precise Shot](#): you can use your Aim "token" for other purposes besides advantage to attack rolls, such as:
-  - Deadly Shot: instead of advantage to attack, gain advantage to damage roll
-  - Wing Clip: your attack causes 50% movement reduction (Con ends)
-  - Concussive Shot: your attack caused *dazed* (lose move and swift actions) (Con ends)
-  - Hand Shot: your attack causes disadvantage to attacks made with a certain hand (Con ends)
+- [Swift Aim](../maneuvers/fighter/swift-aim): Aim as a swift action instead of standard.
+- [Quick Hands](../maneuvers/fighter/quick-hands): Handle ranged weapons faster.
+- [Multi Shot](../maneuvers/fighter/multi-shot): Fire at multiple targets in a cone.
+- [Precise Shot](../maneuvers/fighter/precise-shot): Use Aim for special shot effects.
 
 
 ## Warlord
 
-- [Battle Shout](#): swift, close burst 10; allies gain a bonus damage die to next weapon attack (two dice at rank 2, etc).
-- [Coordinated Strike](#): swift, ranged; ally gains an immediate action on your next attack, whereby they can also attack the same target, if possible.
-- [Rallying Cry](#): recharge 33%, close burst 10; allies gain temporary HP equal to a medium damage roll.
-- [Focused Fire](#): Coordinated Strike but a burst affecting up to 5 allies.
+- [Battle Shout](../maneuvers/fighter/battle-shout): Grant allies bonus damage on their next attack.
+- [Coordinated Strike](../maneuvers/fighter/coordinated-strike): Grant an ally an immediate attack on your target.
+- [Rallying Cry](../maneuvers/fighter/rallying-cry): Grant allies temporary hit points.
+- [Focused Fire](../maneuvers/fighter/focused-fire): Coordinate multiple allies to attack the same target.
 
 
 ## Skirmisher
 
-- [Spring Attack](#): at-will std; move up to half your movement toward an enemy, attack, then move the remaining half, all without provoking attacks of opportunity.
+- [Spring Attack](../maneuvers/fighter/spring-attack): Move, attack, and move again without provoking.
 
 
 
 ## Group Fighting
 
-- [Cleave](#): at-will, std; normal melee attack. If it hits, you can attack another target within reach that is also within 1 square of the original target.
+- [Cleave](../maneuvers/fighter/cleave): Attack a second enemy after hitting the first.
 
 ### Rank 2
-- [Great Cleave](#): As [Cleave](#), but you can keep chaining attacks against new targets in range until you miss.
+- [Great Cleave](../maneuvers/fighter/great-cleave): Chain attacks through multiple enemies until you miss.
 
 
 

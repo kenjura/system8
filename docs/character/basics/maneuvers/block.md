@@ -1,3 +1,0 @@
-The Block maneuver is a defensive technique that allows a character to use a shield (or some weapons) to absorb and reduce damage from an incoming attack.
-
-At-will, reaction to an attack, spell, or area effect coming from your front 180-degree arc; you use your shield (or other) to block some of the damage. The shield (or item) description will specify how much damage it can absorb when used to block. For example, if you have a shield that absorbs medium damage, roll a medium damage roll, and subtract that amount from the incoming damage. If the incoming damage exceeds what the shield can absorb, you take the remaining damage as normal. If the shield absorbs all the damage, you take no damage from the attack.
