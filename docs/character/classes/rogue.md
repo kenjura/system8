@@ -90,9 +90,10 @@ Examples:
 
 
 ## Bard
-- [Inspiring Melody](#): Encounter, swift, close burst 10; allies hear your song and are inspired to greatness. Each ally gains one token, which can be applied as they please to any single d20 roll during the encounter. Applying the token improves the roll by 1d6 (increasing to 1d8 at rank 2, 1d10 at rank 3, etc). This not only increases the result, but can also create critical success (for example, rolling a 16 naturally, then rolling 4 or higher on the inspiration, would count as a natural 20).
-- [Fascinating Song](#): Encounter, std, emanation 10, concentration; subjects who are not in combat are fascinated, fully paying attention to your song. You must spend a standard action each round performing in order to maintain this effect (in addition to normal concentration rules). Those subjects who have reason to attempt not to pay attention to you, such as perceiving hostile action, suspecting your motives, or, if a PC, no reason necessary, are allowed a Wisdom save against your Perform check once per round to end the effect. In general, NPCs must have a valid reason to attempt this. Any obvious hostile action, such as an attack on subject or an ally that they are able to perceive while paying attention to you, automatically ends the effect.
-- [Countersong](#): Recharge 33%, reaction to any hostile effect that relies on sound; you attempt to counter the effect. Roll Perform; if your results meets or exceeds the hostile effect, you negate it. If the effect is ongoing, you must continually perform to continue to negate it, which requires Concentration; as soon as your Countersong ends, it stops negating the effect (if it was still going).
+- [Inspiring Melody](../feats/class/rogue/inspiring-melody): Grant allies inspiration dice to boost their rolls.
+- [Fascinating Performance](../feats/class/rogue/fascinating-performance): Captivate non-combatants with your mesmerizing performance.
+- [Power of Suggestion](../feats/class/rogue/power-of-suggestion): Compel fascinated subjects to follow your suggestions.
+- [Countersong](../feats/class/rogue/countersong): Counter hostile sound-based effects with your performance.
 
 
 
@@ -127,6 +128,7 @@ Examples:
 ## Bard
 - [Inspiring Melody](../feats/class/rogue/inspiring-melody): Grant allies inspiration dice to boost their rolls.
 - [Fascinating Song](../feats/class/rogue/fascinating-song): Captivate non-combatants with your mesmerizing performance.
+- [Power of Suggestion](../feats/class/rogue/power-of-suggestion): Compel fascinated subjects to follow your suggestions.
 - [Countersong](../feats/class/rogue/countersong): Counter hostile sound-based effects with your performance.
 
 
@@ -136,8 +138,8 @@ Examples:
 - [Preparation](../feats/class/rogue/preparation): Enter Stealth and move before combat begins.
 - [Uncanny Dodge](../feats/class/rogue/uncanny-dodge): Dodge without spending reactions, even against unseen attacks.
 - [Lightfoot](../feats/class/rogue/lightfoot): Gain +3 movement and resist falling damage.
-- Tactical Insertion
-- Trap Sense
+- [Tactical Insertion](../feats/class/rogue/tactical-insertion): Deploy to an advantageous position at the start of combat.
+- [Trap Sense](../feats/class/rogue/trap-sense): Detect and avoid traps with enhanced awareness.
 
 
 ## Shadowdancer
