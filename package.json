@@ -9,7 +9,7 @@
     "start": "ursa serve docs"
   },
   "dependencies": {
-    "@kenjura/ursa": "^0.41.0"
+    "@kenjura/ursa": "^0.43.0"
   },
   "browserslist": {
     "production": [
