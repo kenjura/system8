@@ -66,6 +66,28 @@ jobs:
       - name: Deploy to S3
         run: aws s3 sync output/ s3://${{ vars.S3_BUCKET }}/ --delete
 
+      - name: Ensure CloudFront CORS configuration
+        if: vars.CLOUDFRONT_DISTRIBUTION_ID != ''
+        run: |
+          # Get current distribution config
+          aws cloudfront get-distribution-config --id ${{ vars.CLOUDFRONT_DISTRIBUTION_ID }} --output json > /tmp/dist-config.json
+          
+          # Extract ETag for update
+          ETAG=$(jq -r '.ETag' /tmp/dist-config.json)
+          
+          # Extract just the DistributionConfig
+          jq '.DistributionConfig' /tmp/dist-config.json > /tmp/dist-config-only.json
+          
+          # Update the default cache behavior's ResponseHeadersPolicyId to Managed-CORS-With-Preflight
+          # Policy ID: 5cc3b908-e619-4b99-88e5-2cf7f45965bd
+          jq '.DefaultCacheBehavior.ResponseHeadersPolicyId = "5cc3b908-e619-4b99-88e5-2cf7f45965bd"' /tmp/dist-config-only.json > /tmp/updated-dist-config.json
+          
+          # Apply the update
+          aws cloudfront update-distribution \
+            --id ${{ vars.CLOUDFRONT_DISTRIBUTION_ID }} \
+            --if-match "$ETAG" \
+            --distribution-config file:///tmp/updated-dist-config.json
+
       - name: Invalidate CloudFront cache
         if: vars.CLOUDFRONT_DISTRIBUTION_ID != ''
         run: aws cloudfront create-invalidation --distribution-id ${{ vars.CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
