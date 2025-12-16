@@ -20,28 +20,29 @@ Weapon Prof.  | Dex-based martial weapons
 Armor Prof.   | Light
 Saving Throws | Dex, Int
 
+
 Level | Special Ability
 ----- | ---------------
-1     | Sneak Attack, Maneuvers, Feats
-2     | 
-3     | 
+1     | <span style="color: var(--power)">1st spell</span>, <span style="color: var(--special)">Sneak Attack</span>
+2     | <span style="color: var(--power)">2nd spell</span> 
+3     | <span style="color: var(--power)">3rd spell</span>
 4     | 
-5     | 
+5     | <span style="color: var(--power)">4th spell</span>
 6     | 
-7     | 
+7     | <span style="color: var(--power)">5th spell</span>
 8     | 
-9     | 
+9     | <span style="color: var(--power)">6th spell</span>
 10    | 
-11    | 
+11    | <span style="color: var(--power)">7th spell</span>
 12    | 
-13    | 
+13    | <span style="color: var(--power)">8th spell</span>
 14    | 
-15    | 
+15    | <span style="color: var(--power)">9th spell</span>
 16    | 
-17    | 
+17    | <span style="color: var(--power)">10th spell</span>
 18    | 
-19    | 
-20    | 
+19    | <span style="color: var(--power)">11th spell</span>
+20    |
 
 
 # Sneak Attack
@@ -108,8 +109,7 @@ Examples:
 
 
 
-# Feats
-1 per level
+# Powers
 
 
 ## Assassin

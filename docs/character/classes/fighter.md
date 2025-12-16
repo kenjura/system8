@@ -45,7 +45,7 @@ Level | Feats   | Special Ability
 
 
 
-# Maneuvers
+# Feats
 1 per level.
 
 ## Assault
@@ -99,19 +99,20 @@ Level | Feats   | Special Ability
 ### Rank 2
 - [Great Cleave](../maneuvers/fighter/great-cleave): Chain attacks through multiple enemies until you miss.
 
-
-
-
-# Feats
-
-
 ## Champion
 - [Action Surge](../feats/class/fighter/action-surge): Once per short rest, you can take an extra round's worth of actions on your turn.
 - [Second Wind](../feats/class/fighter/second-wind): Once per short rest, you can spend a swift action to heal yourself for medium damage.
 
+## Death Knight
+- [Death's Advance](../feats/class/fighter/deaths-advance): your movement speed cannot be reduced below 50% by any means, and you resist half of any forced movement effect (such as push, pull, and slide). Once per encounter, as a swift action, you can remove any and all movement-impairing effects from yourself, and remain immune to them until the beginning of your next turn.
+
+
+
+
+
+# Powers
 
 ## Death Knight
-- [Death Grip](../feats/class/fighter/death-grip): recharge 33%, swift, ranged; enemy (up to Large size) is pulled to the closest available space to you.
 - [Runeforge](../feats/class/fighter/runeforge): you can imbue your weapon or weapons with up to 3 runes (3 on a two-hander, or 1-2 on each one-handed weapon or shield). The runes available are:
   - Rune of Blood: can be expended to cause a melee attack to heal you for the damage done.
   - Rune of Frost: can be expended to add 50% frost damage to an attack, which also gains bonus critical chance equal to the movement reduction the subject is suffering (e.g. 50% from chilled and 100% from rooted).
@@ -120,11 +121,14 @@ Level | Feats   | Special Ability
   - Blood Boil: inflicts light fire damage on turn start, plus each instance of slashing or piercing damage suffered by subject causes a burst 1 of fire damage, affecting subject and anyone else in range. Con ends.
   - Frost Fever: inflicts light frost damage on turn start, plus chilled (50% movement penalty), Con ends.
   - Shadow Plague: inflicts light necrotic damage on turn start, plus weakened (50% penalty to Str-based damage), Con ends.
-- [Chains of Ice](../feats/class/fighter/chains-of-ice): recharge 33%, swift, ranged; subject is rooted (100% movement penalty), Str ends. When the effect ends, it is replaced by chilled (50% movement penalty), Str ends.
-- [Death's Advance](../feats/class/fighter/deaths-advance): your movement speed cannot be reduced below 50% by any means, and you resist half of any forced movement effect (such as push, pull, and slide). Once per encounter, as a swift action, you can remove any and all movement-impairing effects from yourself, and remain immune to them until the beginning of your next turn.
 - [Bone Shield](../feats/class/fighter/bone-shield): each encounter, you gain 1 charge per rank of Ablation 10%, each of which can be applied at your option to any damaging effect you suffer.
 - [Raise Dead](../feats/class/fighter/raise-dead): encounter, swift, ranged; corpse rises as an undead minion under your control, with the same physical abilities it had in life, but corporeal undead traits. Minion expires after 3 rounds if not destroyed earlier.
+
+### Underpowered
+- [Death Grip](../feats/class/fighter/death-grip): recharge 33%, swift, ranged; enemy (up to Large size) is pulled to the closest available space to you.
+- [Chains of Ice](../feats/class/fighter/chains-of-ice): recharge 33%, swift, ranged; subject is rooted (100% movement penalty), Str ends. When the effect ends, it is replaced by chilled (50% movement penalty), Str ends.
 - [Mind Freeze](../feats/class/fighter/mind-freeze): recharge 33%, reaction, melee range; if an enemy casts a spell within range, you can use this reaction to counterspell, rolling an attack roll against the spell's DC.
+
 
 ### Rank 2
 - [Army of the Dead](../feats/class/fighter/army-of-the-dead): Your [Raise Dead](../feats/class/fighter/raise-dead) can be cast on all corpses within 5 squares (max 3 minions per rank).

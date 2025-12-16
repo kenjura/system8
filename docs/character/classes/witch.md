@@ -26,26 +26,26 @@ Bonus Skills  | Thaumaturgy
 
 Level | Special Ability
 ----- | ---------------
-1     | <span style="color: var(--feat)">1st feat</span>, <span style="color: var(--power)">1st spell</span>, <span style="color: var(--special)">Vitae</span>
-2     | <span style="color: var(--feat)">2nd feat</span>, <span style="color: var(--power)">2nd spell</span> 
-3     | <span style="color: var(--feat)">3rd feat</span>, <span style="color: var(--power)">3rd spell</span>
-4     | <span style="color: var(--feat)">4th feat</span>
-5     | <span style="color: var(--feat)">5th feat</span>, <span style="color: var(--power)">4th spell</span>
-6     | <span style="color: var(--feat)">6th feat</span>
-7     | <span style="color: var(--feat)">7th feat</span>, <span style="color: var(--power)">5th spell</span>
-8     | <span style="color: var(--feat)">8th feat</span>
-9     | <span style="color: var(--feat)">9th feat</span>, <span style="color: var(--power)">6th spell</span>
-10    | <span style="color: var(--feat)">10th feat</span>
-11    | <span style="color: var(--feat)">11th feat</span>, <span style="color: var(--power)">7th spell</span>
-12    | <span style="color: var(--feat)">12th feat</span>
-13    | <span style="color: var(--feat)">13th feat</span>, <span style="color: var(--power)">8th spell</span>
-14    | <span style="color: var(--feat)">14th feat</span>
-15    | <span style="color: var(--feat)">15th feat</span>, <span style="color: var(--power)">9th spell</span>
-16    | <span style="color: var(--feat)">16th feat</span>
-17    | <span style="color: var(--feat)">17th feat</span>, <span style="color: var(--power)">10th spell</span>
-18    | <span style="color: var(--feat)">18th feat</span>
-19    | <span style="color: var(--feat)">19th feat</span>, <span style="color: var(--power)">11th spell</span>
-20    | <span style="color: var(--feat)">20th feat</span>
+1     | <span style="color: var(--power)">1st spell</span>, <span style="color: var(--special)">Vitae</span>
+2     | <span style="color: var(--power)">2nd spell</span> 
+3     | <span style="color: var(--power)">3rd spell</span>
+4     | 
+5     | <span style="color: var(--power)">4th spell</span>
+6     | 
+7     | <span style="color: var(--power)">5th spell</span>
+8     | 
+9     | <span style="color: var(--power)">6th spell</span>
+10    | 
+11    | <span style="color: var(--power)">7th spell</span>
+12    | 
+13    | <span style="color: var(--power)">8th spell</span>
+14    | 
+15    | <span style="color: var(--power)">9th spell</span>
+16    | 
+17    | <span style="color: var(--power)">10th spell</span>
+18    | 
+19    | <span style="color: var(--power)">11th spell</span>
+20    |
 
 
 
