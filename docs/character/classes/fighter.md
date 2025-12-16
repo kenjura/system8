@@ -50,54 +50,54 @@ Level | Feats   | Special Ability
 
 ## Assault
 
-- [Charge](../maneuvers/fighter/charge): Move in a straight line and attack with advantage.
-- [Slam](../maneuvers/fighter/slam): Make a powerful attack that deals bonus damage.
-- [Rend](../maneuvers/fighter/rend): Inflict a bleeding wound that deals ongoing damage.
-- [Overpower](../maneuvers/fighter/overpower): Attack that cannot be parried or blocked.
-- [Execute](../maneuvers/fighter/execute): Devastating attack against wounded enemies.
+- [Charge](../feats/class/fighter/charge): Move in a straight line and attack with advantage.
+- [Slam](../feats/class/fighter/slam): Make a powerful attack that deals bonus damage.
+- [Rend](../feats/class/fighter/rend): Inflict a bleeding wound that deals ongoing damage.
+- [Overpower](../feats/class/fighter/overpower): Attack that cannot be parried or blocked.
+- [Execute](../feats/class/fighter/execute): Devastating attack against wounded enemies.
 
 ### Rank 2
-- [Great Slam](../maneuvers/fighter/great-slam): Enhanced Slam that deals double bonus damage.
-- [Power Charge](../maneuvers/fighter/power-charge): Enhanced Charge that deals bonus damage.
+- [Great Slam](../feats/class/fighter/great-slam): Enhanced Slam that deals double bonus damage.
+- [Power Charge](../feats/class/fighter/power-charge): Enhanced Charge that deals bonus damage.
 
 
 ## Protection
 
-- [Defensive Stance](../maneuvers/fighter/defensive-stance): Protect allies within reach with extra reactions.
-- [Taunt](../maneuvers/fighter/taunt): Force enemies to focus their attacks on you.
-- [Revenge](../maneuvers/fighter/revenge): Store damage taken to add to your next attack.
-- [Intervene](../maneuvers/fighter/intervene): Rush to intercept an attack meant for an ally.
-- [I Am Your Shield](../maneuvers/fighter/i-am-your-shield): Let allies use you as cover against attacks.
+- [Defensive Stance](../feats/class/fighter/defensive-stance): Protect allies within reach with extra reactions.
+- [Taunt](../feats/class/fighter/taunt): Force enemies to focus their attacks on you.
+- [Revenge](../feats/class/fighter/revenge): Store damage taken to add to your next attack.
+- [Intervene](../feats/class/fighter/intervene): Rush to intercept an attack meant for an ally.
+- [I Am Your Shield](../feats/class/fighter/i-am-your-shield): Let allies use you as cover against attacks.
 
 
 ## Ranged
 
-- [Swift Aim](../maneuvers/fighter/swift-aim): Aim as a swift action instead of standard.
-- [Quick Hands](../maneuvers/fighter/quick-hands): Handle ranged weapons faster.
-- [Multi Shot](../maneuvers/fighter/multi-shot): Fire at multiple targets in a cone.
-- [Precise Shot](../maneuvers/fighter/precise-shot): Use Aim for special shot effects.
+- [Swift Aim](../feats/class/fighter/swift-aim): Aim as a swift action instead of standard.
+- [Quick Hands](../feats/class/fighter/quick-hands): Handle ranged weapons faster.
+- [Multi Shot](../feats/class/fighter/multi-shot): Fire at multiple targets in a cone.
+- [Precise Shot](../feats/class/fighter/precise-shot): Use Aim for special shot effects.
 
 
 ## Warlord
 
-- [Battle Shout](../maneuvers/fighter/battle-shout): Grant allies bonus damage on their next attack.
-- [Coordinated Strike](../maneuvers/fighter/coordinated-strike): Grant an ally an immediate attack on your target.
-- [Rallying Cry](../maneuvers/fighter/rallying-cry): Grant allies temporary hit points.
-- [Focused Fire](../maneuvers/fighter/focused-fire): Coordinate multiple allies to attack the same target.
+- [Battle Shout](../feats/class/fighter/battle-shout): Grant allies bonus damage on their next attack.
+- [Coordinated Strike](../feats/class/fighter/coordinated-strike): Grant an ally an immediate attack on your target.
+- [Rallying Cry](../feats/class/fighter/rallying-cry): Grant allies temporary hit points.
+- [Focused Fire](../feats/class/fighter/focused-fire): Coordinate multiple allies to attack the same target.
 
 
 ## Skirmisher
 
-- [Spring Attack](../maneuvers/fighter/spring-attack): Move, attack, and move again without provoking.
+- [Spring Attack](../feats/class/fighter/spring-attack): Move, attack, and move again without provoking.
 
 
 
 ## Group Fighting
 
-- [Cleave](../maneuvers/fighter/cleave): Attack a second enemy after hitting the first.
+- [Cleave](../feats/class/fighter/cleave): Attack a second enemy after hitting the first.
 
 ### Rank 2
-- [Great Cleave](../maneuvers/fighter/great-cleave): Chain attacks through multiple enemies until you miss.
+- [Great Cleave](../feats/class/fighter/great-cleave): Chain attacks through multiple enemies until you miss.
 
 ## Champion
 - [Action Surge](../feats/class/fighter/action-surge): Once per short rest, you can take an extra round's worth of actions on your turn.
@@ -113,53 +113,53 @@ Level | Feats   | Special Ability
 # Powers
 
 ## Death Knight
-- [Runeforge](../feats/class/fighter/runeforge): you can imbue your weapon or weapons with up to 3 runes (3 on a two-hander, or 1-2 on each one-handed weapon or shield). The runes available are:
+- [Runeforge](../powers/fighter/runeforge): you can imbue your weapon or weapons with up to 3 runes (3 on a two-hander, or 1-2 on each one-handed weapon or shield). The runes available are:
   - Rune of Blood: can be expended to cause a melee attack to heal you for the damage done.
   - Rune of Frost: can be expended to add 50% frost damage to an attack, which also gains bonus critical chance equal to the movement reduction the subject is suffering (e.g. 50% from chilled and 100% from rooted).
   - Rune of Death: can be expended to add 50% necrotic damage plus each disease on subject causes one round's worth of damage instantly.
-- [Contagion](../feats/class/fighter/contagion): you are a carrier of (and immune to) all of the following diseases. With each successful melee attack, you can cause the subject to suffer one chosen disease. Enemies who strike you with natural weapons also suffer a disease of your choice per damaging strike.
+- [Contagion](../powers/fighter/contagion): you are a carrier of (and immune to) all of the following diseases. With each successful melee attack, you can cause the subject to suffer one chosen disease. Enemies who strike you with natural weapons also suffer a disease of your choice per damaging strike.
   - Blood Boil: inflicts light fire damage on turn start, plus each instance of slashing or piercing damage suffered by subject causes a burst 1 of fire damage, affecting subject and anyone else in range. Con ends.
   - Frost Fever: inflicts light frost damage on turn start, plus chilled (50% movement penalty), Con ends.
   - Shadow Plague: inflicts light necrotic damage on turn start, plus weakened (50% penalty to Str-based damage), Con ends.
-- [Bone Shield](../feats/class/fighter/bone-shield): each encounter, you gain 1 charge per rank of Ablation 10%, each of which can be applied at your option to any damaging effect you suffer.
-- [Raise Dead](../feats/class/fighter/raise-dead): encounter, swift, ranged; corpse rises as an undead minion under your control, with the same physical abilities it had in life, but corporeal undead traits. Minion expires after 3 rounds if not destroyed earlier.
+- [Bone Shield](../powers/fighter/bone-shield): each encounter, you gain 1 charge per rank of Ablation 10%, each of which can be applied at your option to any damaging effect you suffer.
+- [Raise Dead](../powers/fighter/raise-dead): encounter, swift, ranged; corpse rises as an undead minion under your control, with the same physical abilities it had in life, but corporeal undead traits. Minion expires after 3 rounds if not destroyed earlier.
 
 ### Underpowered
-- [Death Grip](../feats/class/fighter/death-grip): recharge 33%, swift, ranged; enemy (up to Large size) is pulled to the closest available space to you.
-- [Chains of Ice](../feats/class/fighter/chains-of-ice): recharge 33%, swift, ranged; subject is rooted (100% movement penalty), Str ends. When the effect ends, it is replaced by chilled (50% movement penalty), Str ends.
-- [Mind Freeze](../feats/class/fighter/mind-freeze): recharge 33%, reaction, melee range; if an enemy casts a spell within range, you can use this reaction to counterspell, rolling an attack roll against the spell's DC.
+- [Death Grip](../powers/fighter/death-grip): recharge 33%, swift, ranged; enemy (up to Large size) is pulled to the closest available space to you.
+- [Chains of Ice](../powers/fighter/chains-of-ice): recharge 33%, swift, ranged; subject is rooted (100% movement penalty), Str ends. When the effect ends, it is replaced by chilled (50% movement penalty), Str ends.
+- [Mind Freeze](../powers/fighter/mind-freeze): recharge 33%, reaction, melee range; if an enemy casts a spell within range, you can use this reaction to counterspell, rolling an attack roll against the spell's DC.
 
 
 ### Rank 2
-- [Army of the Dead](../feats/class/fighter/army-of-the-dead): Your [Raise Dead](../feats/class/fighter/raise-dead) can be cast on all corpses within 5 squares (max 3 minions per rank).
-- [Pestilence](../feats/class/fighter/pestilence): recharge 33%, swift, ranged; all diseases currently affecting subject instantly spread to all enemies within 3 squares of subject.
-- [Infernal Grasp](../feats/class/fighter/infernal-grasp): encounter, swift, emanation 5, concentration; all enemies are pulled as in [Death Grip](../feats/class/fighter/death-grip) when cast. Each round, this effect automatically uses [Death Grip](../feats/class/fighter/death-grip) against the first creature to attempt to exit the radius.
-- [Outbreak](../feats/class/fighter/outbreak): encounter, swift, ranged; target instantly gains all diseases you can inflict with [Contagion](../feats/class/fighter/contagion).
+- [Army of the Dead](../powers/fighter/army-of-the-dead): Your [Raise Dead](../powers/fighter/raise-dead) can be cast on all corpses within 5 squares (max 3 minions per rank).
+- [Pestilence](../powers/fighter/pestilence): recharge 33%, swift, ranged; all diseases currently affecting subject instantly spread to all enemies within 3 squares of subject.
+- [Infernal Grasp](../powers/fighter/infernal-grasp): encounter, swift, emanation 5, concentration; all enemies are pulled as in [Death Grip](../powers/fighter/death-grip) when cast. Each round, this effect automatically uses [Death Grip](../powers/fighter/death-grip) against the first creature to attempt to exit the radius.
+- [Outbreak](../powers/fighter/outbreak): encounter, swift, ranged; target instantly gains all diseases you can inflict with [Contagion](../powers/fighter/contagion).
 - Relentless
 
 
 
 ## Paladin
-- [Smite](../feats/class/fighter/smite): at-will, swift; you invoke your divine oath to oppose evil and wickedness. The next melee attack you land on a target who is an undead, fiend, or practitioner of necromancy or infernal magic, inflicts 50% base weapon damage as bonus radiant damage.
-- [Aura](../feats/class/fighter/aura): at-will, swift, emanation 5, concentration; you emanate an aura of courage and protection. Allies gain +1 to AC and saving throws, as well as advantage to any save against fear. Improves by +1 per rank.
-- [Detect Evil](../feats/class/fighter/detect-evil): at-will, swift, concentration; you gain the ability to see the auras of evil creatures. Any creature or magical effect that is necrotic or infernal in nature appears as an aura within your vision. These auras can be obscured by cover or concealment, but cannot be hidden by illusions (such as a demon disguising as an innocent person, or an undead creature using invisibility), because the illusion itself is a detectable aura.
-- [Divine Shield](../feats/class/fighter/divine-shield): encounter, reaction; you or an ally within range is protected by a divine shield which grants immunity to all damage and harmful effects. The effect lasts until the beginning of your next turn, but it can be dispelled, subjected to antimagic, etc.
-- [Lay on Hands](../feats/class/fighter/lay-on-hands): at-will, swift, touch; you heal the subject. Your healing limit is equal to your maximum Hit Points; you can use it all at once, or divide it as you please between multiple uses of this ability. You refresh your healing capacity with a short rest.
-- [Vow of Purity](../feats/class/fighter/vow-of-purity): you are immune to poison and disease. To maintain this ability, you must vow to treat your body as a temple and consume no poisons, such as alcohol or drugs.
+- [Smite](../powers/fighter/smite): at-will, swift; you invoke your divine oath to oppose evil and wickedness. The next melee attack you land on a target who is an undead, fiend, or practitioner of necromancy or infernal magic, inflicts 50% base weapon damage as bonus radiant damage.
+- [Aura](../powers/fighter/aura): at-will, swift, emanation 5, concentration; you emanate an aura of courage and protection. Allies gain +1 to AC and saving throws, as well as advantage to any save against fear. Improves by +1 per rank.
+- [Detect Evil](../powers/fighter/detect-evil): at-will, swift, concentration; you gain the ability to see the auras of evil creatures. Any creature or magical effect that is necrotic or infernal in nature appears as an aura within your vision. These auras can be obscured by cover or concealment, but cannot be hidden by illusions (such as a demon disguising as an innocent person, or an undead creature using invisibility), because the illusion itself is a detectable aura.
+- [Divine Shield](../powers/fighter/divine-shield): encounter, reaction; you or an ally within range is protected by a divine shield which grants immunity to all damage and harmful effects. The effect lasts until the beginning of your next turn, but it can be dispelled, subjected to antimagic, etc.
+- [Lay on Hands](../powers/fighter/lay-on-hands): at-will, swift, touch; you heal the subject. Your healing limit is equal to your maximum Hit Points; you can use it all at once, or divide it as you please between multiple uses of this ability. You refresh your healing capacity with a short rest.
+- [Vow of Purity](../powers/fighter/vow-of-purity): you are immune to poison and disease. To maintain this ability, you must vow to treat your body as a temple and consume no poisons, such as alcohol or drugs.
   - At rank 2, you gain advantage to saves against hostile transmutations (any magical effect that modifies your body).
-- [Vow of Chastity](../feats/class/fighter/vow-of-chastity): you are immune to charm effects. Your attitude toward a creature cannot be magically modified, nor can you be forced to be attracted to a creature through magic or persuasion. To maintain this ability, you must vow to refrain from the temptations of the flesh, including sexual activity.
+- [Vow of Chastity](../powers/fighter/vow-of-chastity): you are immune to charm effects. Your attitude toward a creature cannot be magically modified, nor can you be forced to be attracted to a creature through magic or persuasion. To maintain this ability, you must vow to refrain from the temptations of the flesh, including sexual activity.
   - At rank 2, you gain advantage to saves against compulsions or emotion effects of any kind.
 
 ### Rank 2
-- [Aura of Zeal](../feats/class/fighter/aura-of-zeal): your [Aura](../feats/class/fighter/aura) also grants +3 movement speed.
-- [Celestial Charger](../feats/class/fighter/celestial-charger): at-will, std; you summon a celestial warhorse, a steed that serves you faithfully. It is stronger and smarter than a regular horse (TBD).
-- [Consecrate](../feats/class/fighter/consecrate): recharge 33%, swift, centered circle 2; you create a zone of hallowed ground. Infernal or undead creatures within the area are compelled to leave; to stay, they must pass a Charisma save, which allows them to remain for one round (at which point they must save again), and they suffer medium radiant damage for remaining in the area. If they fail the save, or forego it, they must spend all available actions to vacate the area, until such time as they are no longer inside it, at which point they may act normally. Any such enemy who attempts to enter the area, including making melee attacks against creatures inside while standing outside, must pass the same save to take such action, and suffer the same penalty for doing so; failing the save causes the action to fail and be lost. If an enemy cannot possibly exit the area, they are not forced to leave; instead, they are offered a Charisma save to negate the radiant damage each round.
+- [Aura of Zeal](../powers/fighter/aura-of-zeal): your [Aura](../powers/fighter/aura) also grants +3 movement speed.
+- [Celestial Charger](../powers/fighter/celestial-charger): at-will, std; you summon a celestial warhorse, a steed that serves you faithfully. It is stronger and smarter than a regular horse (TBD).
+- [Consecrate](../powers/fighter/consecrate): recharge 33%, swift, centered circle 2; you create a zone of hallowed ground. Infernal or undead creatures within the area are compelled to leave; to stay, they must pass a Charisma save, which allows them to remain for one round (at which point they must save again), and they suffer medium radiant damage for remaining in the area. If they fail the save, or forego it, they must spend all available actions to vacate the area, until such time as they are no longer inside it, at which point they may act normally. Any such enemy who attempts to enter the area, including making melee attacks against creatures inside while standing outside, must pass the same save to take such action, and suffer the same penalty for doing so; failing the save causes the action to fail and be lost. If an enemy cannot possibly exit the area, they are not forced to leave; instead, they are offered a Charisma save to negate the radiant damage each round.
   - At rank 3, all attacks by infernal/undead creatures within the area, as well as attacks made by such creatures outside it against those inside it, suffer disadvantage.
-- [Holy Light](../feats/class/fighter/holy-light): each time you strike an infernal or undead foe with a weapon or suffer damage from a foe of the same sort, you gain 1 charge of Holy Light (max 5). You may expend this light using the following maneuvers:
+- [Holy Light](../powers/fighter/holy-light): each time you strike an infernal or undead foe with a weapon or suffer damage from a foe of the same sort, you gain 1 charge of Holy Light (max 5). You may expend this light using the following maneuvers:
   - Templar's Verdict: at-will, std, melee attack; normal damage plus 50% base damage as radiant damage per charge of Holy Light expended.
   - Divine Storm: at-will, std, close burst; inflicts the damage of your melee weapon as radiant damage to all enemies within the radius.
   - Word of Glory: at-will, swift, ranged; target is healed for 50% of weapon damage per charge expended.
-- [Retribution](../feats/class/fighter/retribution): when you are struck for damage by an infernal or undead foe, they are in turn struck for half the damage they inflicted as retributive radiant damage.
+- [Retribution](../powers/fighter/retribution): when you are struck for damage by an infernal or undead foe, they are in turn struck for half the damage they inflicted as retributive radiant damage.
 
 
 ## Ranger

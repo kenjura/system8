@@ -63,69 +63,78 @@ Examples:
   - On a critical sneak attack hit, they inflict 3d8+4 + 300%, or 3d8+4 times 4
 
 
-# Maneuvers
-1 per level.
 
-## Regular Rogue Stuff
-- [Feint](../maneuvers/rogue/feint): Trick an enemy into wasting their reaction.
-- [Fan of Knives](../maneuvers/rogue/fan-of-knives): Throw knives at all enemies in a cone.
-- [Pocket Sand](../maneuvers/rogue/pocket-sand): Blind an enemy with thrown sand.
-- [Sap](../maneuvers/rogue/sap): Knock out an enemy instead of dealing sneak attack damage.
-- [Smokescreen](../maneuvers/rogue/smokescreen): Create an obscuring cloud for concealment.
-- [Kick](../maneuvers/rogue/kick): Interrupt an enemy's spell with a melee attack.
+# Archetypes
 
-
-## Assassin
-- [Death Attack](../maneuvers/rogue/death-attack): Prepare to deal massively increased sneak attack damage.
-- [Phantom Foe](../maneuvers/rogue/phantom-foe): Create an illusory attacker to grant flanking.
-- [Pain Absorption](../maneuvers/rogue/pain-absorption): Convert damage taken into bonus attack damage.
-- [Oath of Murder](../maneuvers/rogue/oath-of-murder): Swear an oath to slay a specific target.
-- [Void Strike](../maneuvers/rogue/void-strike): Imbue your weapon with dispelling shadow magic.
-
-
-## Shadowdancer
-- [Shadowstep](../maneuvers/rogue/shadowstep): Teleport between areas of darkness.
-- [Shadow Pin](../maneuvers/rogue/shadow-pin): Pin an enemy's shadow to immobilize them.
-- [Shadow Play](../maneuvers/rogue/shadow-play): Create illusory shadow silhouettes.
-- [Shadow Form](../maneuvers/rogue/shadow-form): Become an incorporeal shadow temporarily.
-
-
-## Bard
-- [Inspiring Melody](../feats/class/rogue/inspiring-melody): Grant allies inspiration dice to boost their rolls.
-- [Fascinating Performance](../feats/class/rogue/fascinating-performance): Captivate non-combatants with your mesmerizing performance.
-- [Power of Suggestion](../feats/class/rogue/power-of-suggestion): Compel fascinated subjects to follow your suggestions.
-- [Countersong](../feats/class/rogue/countersong): Counter hostile sound-based effects with your performance.
-
-
-
-## Spellthief
-- [Scan](../maneuvers/rogue/scan): Analyze a target's magical abilities.
-- [Steal Spell](../maneuvers/rogue/steal-spell): Steal a spell or magical power from a target.
-
-
-
-## TBD
+- Arcane Trickster
+  - Legerdemain: do roguish things at a distance, gain access to Arcanist powers
+- Assassin
+  - Soul Blade: blade steals Vitae, generates soul shards, which can be used for Death Attacks. Gain access to Necromancy powers
+- Bard
+  - Bardic Music: use music to inspire allies and disorient enemies.
+- Shadowdancer
+  - Cloak of Shadows: darkness grants you defense, mobility, etc
+- Soulknife
+  - Psiblade: gain 1 Focus and use it to make psychic blades. Can take Psion powers.
+- Spellthief
+  - Steal Spell: steal spells from enemies. Can master stolen spells to gain powers.
+- Swashbuckler
 
 
 
 
 # Powers
 
+## Arcane Trickster
+It begins with a simple trick: a magic word, an arcane gesture, maybe a secret symbol. It proves useful to pick pockets, or escape binds, or even to charm innocents out of their gold (or pants). But the Arcane Trickster has stumbled upon (or stolen) arcane secrets, and one is rarely enough to satisfy their curiosity.
+
+- [Legerdemain](#): at-will, swift, concentration; you manifest an invisible hand of force that can perform Dexterity feats at a distance with whatever skill you have. For example, it can pick locks, disarm traps, tie an enemy's shoelaces together, etc. Once you've learned this power, you can take future powers from the [Arcanist](./arcanist.md) list.
 
 ## Assassin
-- [Poisoner](../feats/class/rogue/poisoner): Craft and apply poisons to weapons.
-- [Soul Blade](../feats/class/rogue/soul-blade): Gain soul shards from successful Sneak Attacks.
-- [Soul Gem](../feats/class/rogue/soul-gem): Trap souls to prevent resurrection or use their power.
-- [Lifesense](../feats/class/rogue/lifesense): See living creatures in darkness and gain critical range.
+With an intricate knowledge the forces of life and death, the assassin is a master of the dark arts, capable of draining the life force from enemies and using it to their advantage. They never forget that the magical forces they wield are as dangerous to them as to their enemies. In such practice, they learn the ways of the [Witch](./witch.md), and the use of Vitae.
+
+- [Soul Blade](../powers/rogue/soul-blade): at-will, 1 minute; you perform a ritual of blood, binding your soul to a weapon. Thereafter, the weapon has the ability to drain Vitae from enemies. You can spend this Vitae to perform Death Attacks, which inflict necrotic damage and can debilitate enemies. Once you've learned this power, you can take future powers from the [Witch](./witch.md) list.
 
 ## Bard
-- [Inspiring Melody](../feats/class/rogue/inspiring-melody): Grant allies inspiration dice to boost their rolls.
-- [Fascinating Song](../feats/class/rogue/fascinating-song): Captivate non-combatants with your mesmerizing performance.
-- [Power of Suggestion](../feats/class/rogue/power-of-suggestion): Compel fascinated subjects to follow your suggestions.
-- [Countersong](../feats/class/rogue/countersong): Counter hostile sound-based effects with your performance.
+You see, there's magic in a song, in the dance that binds people together, in a story that moves people to tears or laughter. You are a bard, and you use your art to inspire others and disorient enemies. It began with a talent, or maybe an insatiable desire for attention. But you discovered something special, something supernatural. Your music moves the soul, and can do so much more.
+
+- [Bardic Music](../powers/rogue/bardic-music.md): at-will, swift; you can make a musical performance that can inspire allies or fascinate onlookers.
+
+## Divine Agent
+Some gods favor rogue followers, as they fit their Ethos nicely. Many do not, but still have need of spies, and even assassins, who do their dark work with the secret sanction of the faith. Still other gods find an interesting opportunity when a rogue steals the wrong holy relic, and so binds themself to their service, should they desire absolution. Many such paths exist to guide the rogue to the path of the Divine Agent.
+
+- [Mandate](#): you invoke your divine Ethos, either rendering an enemy vulnerable, or granting boons to an ally. Adopting an Ethos grants you access to the [Priest](./priest.md) power list.
+
+## Hexblade
+The outer planes promise infinite power, for a price. Perhaps you made a deal, perhaps you thought you could steal it, perhaps you were just curious. But now you are a Hexblade, bound to planar forces you barely understand, but able to exploit them to exceed any mundane rogue.
+
+- [Hex](#): you place a curse on an enemy, which can grant you a soul shard or other boons, leading to taking [Warlock](./warlock.md) powers.
+
+## Shadowdancer
+The power of the void is unlike any earthly magic. Life, death, hellfire, gods...everything is devoured by void in the end. Shadows are awfully useful for those who skulk in the dark, those who wish to pierce through magic, or phase through physical barries. But what fate awaits those who dare to embrace the void?
+
+- [Cloak of Shadows](../powers/rogue/cloak-of-shadows): shadow jump, cloak of shadows, veil, etc. Energy? Powers?
 
 
-## Cool Rogue
+## Spellthief
+- [Steal Spell](../powers/rogue/steal-spell): at-will, swift; you can steal a spell or magical power from an enemy, and use it yourself. It is possible to master stolen powers, permanently adding them to your repertoire.
+
+
+## Soulknife
+- [Psiblade](../powers/rogue/psiblade): at-will, swift, concentration; you manifest a psychic blade that can inflict psychic damage and debilitation to enemies. You gain 1 Focus, which can be used to concentrate on your psiblade. Once you've learned this power, you can take future powers from the [Psion](./psion.md) list.
+
+
+
+# Feats
+
+
+## Regular Rogue Stuff
+- [Feint](../feats/class/rogue/feint): Trick an enemy into wasting their reaction.
+- [Fan of Knives](../feats/class/rogue/fan-of-knives): Throw knives at all enemies in a cone.
+- [Pocket Sand](../feats/class/rogue/pocket-sand): Blind an enemy with thrown sand.
+- [Sap](../feats/class/rogue/sap): Knock out an enemy instead of dealing sneak attack damage.
+- [Smokescreen](../feats/class/rogue/smokescreen): Create an obscuring cloud for concealment.
+- [Kick](../feats/class/rogue/kick): Interrupt an enemy's spell with a melee attack.
 - [Cunning Action](../feats/class/rogue/cunning-action): Use Dash, Disengage, or Hide as a swift action.
 - [Evasion](../feats/class/rogue/evasion): Dodge area effects by leaping to safety.
 - [Preparation](../feats/class/rogue/preparation): Enter Stealth and move before combat begins.
@@ -135,17 +144,29 @@ Examples:
 - [Trap Sense](../feats/class/rogue/trap-sense): Detect and avoid traps with enhanced awareness.
 
 
+## Assassin
+- [Death Attack](../feats/class/rogue/death-attack): Prepare to deal massively increased sneak attack damage.
+- [Phantom Foe](../feats/class/rogue/phantom-foe): Create an illusory attacker to grant flanking.
+- [Pain Absorption](../feats/class/rogue/pain-absorption): Convert damage taken into bonus attack damage.
+- [Oath of Murder](../feats/class/rogue/oath-of-murder): Swear an oath to slay a specific target.
+- [Poisoner](../feats/class/rogue/poisoner): Craft and apply poisons to weapons.
+- [Soul Gem](../feats/class/rogue/soul-gem): Trap souls to prevent resurrection or use their power.
+- [Lifesense](../feats/class/rogue/lifesense): See living creatures in darkness and gain critical range.
+
+
 ## Shadowdancer
-- [Cloak of Shadows](../feats/class/rogue/cloak-of-shadows): Gain AC and save bonuses in dimness or darkness.
+- [Shadow Pin](../feats/class/rogue/shadow-pin): Pin an enemy's shadow to immobilize them.
+- [Shadow Play](../feats/class/rogue/shadow-play): Create illusory shadow silhouettes.
+- [Shadow Form](../feats/class/rogue/shadow-form): Become an incorporeal shadow temporarily.
 - [Shadowsight](../feats/class/rogue/shadowsight): Move freely and pinpoint enemies in darkness.
 
-## Spellthief
-- [Spell Lock](../feats/class/rogue/spell-lock): Use Steal Spell as a reaction to lock out a spell school.
-- [Spell Mastery](../feats/class/rogue/spell-mastery): Permanently learn spells you steal.
 
-## Also...
-- Shadowdancer
-- Assassin
-- Bard
-- Spellthief
-- Roguelock?
+## Bard
+- [Countersong](../feats/class/rogue/countersong): Counter hostile sound-based effects with your performance.
+
+
+
+## Spellthief
+- [Scan](../feats/class/rogue/scan): Analyze a target's magical abilities.
+- [Spell Lock](../feats/class/rogue/spell-lock): when you steal a spell, the target cannot cast it again for a time.
+
