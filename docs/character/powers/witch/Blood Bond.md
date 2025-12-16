@@ -1,6 +1,7 @@
 ---
 class: Witch
 name: Blood Bond
+school: Blood
 type: Felicity
 ---
 

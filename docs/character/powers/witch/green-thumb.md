@@ -1,3 +1,9 @@
+---
+class: Witch
+name: Green Thumb
+school: Transmutation
+---
+
 Green Thumb is a [Thaumaturgist](/character/classes/thaumaturgist.md) ability which allows you to harmonize with and control plant life.
 
 # Abilities

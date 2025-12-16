@@ -2,6 +2,7 @@
 type: class
 name: Outbreak
 class: fighter
+subclass: Death Knight
 min_rank: 2
 brief: Instantly inflict all diseases on a target
 ---

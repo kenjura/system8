@@ -2,6 +2,7 @@
 type: class
 name: Consecrate
 class: fighter
+subclass: Paladin
 min_rank: 2
 brief: Create a zone of hallowed ground that repels undead and fiends
 ---

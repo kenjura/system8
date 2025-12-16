@@ -2,6 +2,7 @@
 type: class
 name: Contagion
 class: fighter
+subclass: Death Knight
 brief: Carry and inflict diseases with melee attacks
 ---
 

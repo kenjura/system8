@@ -2,6 +2,7 @@
 type: class
 name: Pestilence
 class: fighter
+subclass: Death Knight
 min_rank: 2
 brief: Spread diseases from one target to nearby enemies
 ---

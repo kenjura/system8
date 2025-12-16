@@ -2,6 +2,7 @@
 type: class
 name: Raise Dead
 class: fighter
+subclass: Death Knight
 brief: Raise a corpse as an undead minion
 ---
 

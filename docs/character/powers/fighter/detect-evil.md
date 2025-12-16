@@ -2,6 +2,7 @@
 type: class
 name: Detect Evil
 class: fighter
+subclass: Paladin
 brief: See the auras of evil and infernal creatures
 ---
 

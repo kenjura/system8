@@ -2,6 +2,7 @@
 type: class
 name: Retribution
 class: fighter
+subclass: Paladin
 min_rank: 2
 brief: Reflect radiant damage when struck by undead/fiends
 ---

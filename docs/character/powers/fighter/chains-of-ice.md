@@ -2,6 +2,7 @@
 type: class
 name: Chains of Ice
 class: fighter
+subclass: Death Knight
 brief: Root an enemy with chains of ice
 ---
 

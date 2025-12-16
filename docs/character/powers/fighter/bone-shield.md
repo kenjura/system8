@@ -2,6 +2,7 @@
 type: class
 name: Bone Shield
 class: fighter
+subclass: Death Knight
 brief: Gain charges of damage ablation each encounter
 ---
 

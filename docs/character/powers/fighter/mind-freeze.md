@@ -2,6 +2,7 @@
 type: class
 name: Mind Freeze
 class: fighter
+subclass: Death Knight
 brief: Counterspell enemies casting within melee range
 ---
 

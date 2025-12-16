@@ -2,6 +2,7 @@
 type: class
 name: Vow of Chastity
 class: fighter
+subclass: Paladin
 brief: Gain immunity to charm effects
 ---
 

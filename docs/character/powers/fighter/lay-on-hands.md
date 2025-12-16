@@ -2,6 +2,7 @@
 type: class
 name: Lay on Hands
 class: fighter
+subclass: Paladin
 brief: Heal subjects with a pool equal to your max HP
 ---
 

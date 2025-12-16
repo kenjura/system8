@@ -2,6 +2,7 @@
 type: class
 name: Aura
 class: fighter
+subclass: Paladin
 brief: Emanate an aura granting allies +1 AC and saves
 ---
 

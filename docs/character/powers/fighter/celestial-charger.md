@@ -2,6 +2,7 @@
 type: class
 name: Celestial Charger
 class: fighter
+subclass: Paladin
 min_rank: 2
 brief: Summon a celestial warhorse to serve you
 ---

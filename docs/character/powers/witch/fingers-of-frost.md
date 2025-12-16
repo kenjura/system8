@@ -1,6 +1,7 @@
 ---
 class: Witch
 name: Fingers of Frost
+school: Winter
 type: Felicity
 ---
 

@@ -2,6 +2,7 @@
 type: class
 name: Army of the Dead
 class: fighter
+subclass: Death Knight
 min_rank: 2
 brief: Cast Raise Dead on all corpses within range
 ---

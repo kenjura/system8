@@ -2,6 +2,7 @@
 type: class
 name: Vow of Purity
 class: fighter
+subclass: Paladin
 brief: Gain immunity to poison and disease
 ---
 

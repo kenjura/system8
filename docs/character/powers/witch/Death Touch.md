@@ -1,3 +1,9 @@
+---
+class: Witch
+name: Death Touch
+school: Death
+---
+
 Death Touch is a [Thaumaturgist](/character/classes/Thaumaturgist.md) ability which allows you to drain vitality with a touch.
 
 ## Abilities

@@ -2,6 +2,7 @@
 type: class
 name: Holy Light
 class: fighter
+subclass: Paladin
 min_rank: 2
 brief: Gain charges of Holy Light from striking undead/fiends
 ---

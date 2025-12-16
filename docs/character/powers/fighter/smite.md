@@ -2,6 +2,7 @@
 type: class
 name: Smite
 class: fighter
+subclass: Paladin
 brief: Deal bonus radiant damage against undead and fiends
 ---
 

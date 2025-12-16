@@ -2,6 +2,7 @@
 type: class
 name: Divine Shield
 class: fighter
+subclass: Paladin
 brief: Grant immunity to damage and harmful effects as a reaction
 ---
 

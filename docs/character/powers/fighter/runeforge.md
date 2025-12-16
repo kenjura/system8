@@ -2,6 +2,7 @@
 type: class
 name: Runeforge
 class: fighter
+subclass: Death Knight
 brief: Imbue weapons with runes of Blood, Frost, or Death
 ---
 

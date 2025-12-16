@@ -2,6 +2,7 @@
 type: class
 name: Death Grip
 class: fighter
+subclass: Death Knight
 brief: Pull an enemy to you from range
 ---
 
