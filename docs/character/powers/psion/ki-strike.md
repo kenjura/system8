@@ -2,7 +2,7 @@
 class: Psion
 name: Ki Strike
 title: Ki Strike
-school: Biometabolism
+school: Psychometabolism
 rank: 0
 type: Assault
 brief: Make a physical, melee attack, and gain Focus when it strikes.

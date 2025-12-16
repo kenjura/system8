@@ -1,7 +1,7 @@
 ---
 class: Psion
 name: Wholeness of Body
-school: Biometabolism
+school: Psychometabolism
 rank: 1
 type: Enhancement
 brief: Heal yourself or another

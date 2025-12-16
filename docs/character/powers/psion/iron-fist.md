@@ -1,7 +1,7 @@
 ---
 class: Psion
 name: Iron Fist
-school: Biometabolism
+school: Psychometabolism
 rank: 1
 type: Enhancement
 brief: Magnify the force of your unarmed strikes.

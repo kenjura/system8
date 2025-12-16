@@ -1,7 +1,7 @@
 ---
 class: Psion
 name: Camouflage
-school: Biometabolism
+school: Psychometabolism
 rank: 1
 type: Enhancement
 brief: Change your external appearance for camouflage, disguise, or defense.

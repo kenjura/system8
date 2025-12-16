@@ -1,7 +1,7 @@
 ---
 class: Psion
 name: Iron Body
-school: Biometabolism
+school: Psychometabolism
 rank: 1
 type: Enhancement
 brief: Harden your body to empower unarmed attacks, resist damage, repel poison, etc.

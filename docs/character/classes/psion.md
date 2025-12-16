@@ -226,7 +226,7 @@ Feat                    | Description
 [Skill Focus](../feats/class/psion/skill-focus)        | You can expend Focus to gain advantage to any one skill check.
 
 
-## Biometabolism
+## Psychometabolism
 
 Feat                    | Description
 ------------------------|------------

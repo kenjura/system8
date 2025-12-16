@@ -2,7 +2,7 @@
 class: Psion
 name: Adaptation
 title: Adaptation
-school: Biometabolism
+school: Psychometabolism
 rank: 1
 type: Enhancement
 brief: Adapt your body to heat, cold, pressure, or other extreme environments.
