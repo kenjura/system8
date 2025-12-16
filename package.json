@@ -10,7 +10,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@kenjura/ursa": "^0.43.0"
+    "@kenjura/ursa": "^0.44.0"
   },
   "browserslist": {
     "production": [
